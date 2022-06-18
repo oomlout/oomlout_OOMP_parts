@@ -10,6 +10,9 @@ Contents
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
@@ -46,6 +49,12 @@ Contents
 | :---: | :---: | :---: |
 |[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
+## EDA
+
+### Footprints
+
+### Symbols
+
 ## Tags
 
 - index: 8962
@@ -63,8 +72,8 @@ Contents
 - ooNumPins: 3
 - ooFootprint: OOMP-HEAD-I01-X-PI03-RA
 - ooDesignator: J1
-- manufacturer: {'', 'P125-1103A0BR138A1', 'YXCON', 'C-YXCO'}
-- opl: {'', 'DIP Black Male Header R/A', 'C-SEEE', '320020061', 'https://www.seeedstudio.com/opl.html', 'SEEED OPL'}
+- manufacturer: {'', 'C-YXCO', 'YXCON', 'P125-1103A0BR138A1'}
+- opl: {'', '320020061', 'C-SEEE', 'SEEED OPL', 'DIP Black Male Header R/A', 'https://www.seeedstudio.com/opl.html'}
 - kicadSymbol: Connector:Conn_01x03_Male
 - kicadFootprint: Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal
 

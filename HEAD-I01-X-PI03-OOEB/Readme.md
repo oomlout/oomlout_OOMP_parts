@@ -9,6 +9,9 @@ Contents
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
 	* [Tags](#tags)
 
 # HEAD-I01-X-PI03-OOEB>2.54 mm 3 Pin Header (OOEB)
@@ -35,6 +38,12 @@ Contents
 |Front|Inventory|Specifications|
 | :---: | :---: | :---: |
 |[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
+
+### Footprints
+
+### Symbols
 
 ## Tags
 

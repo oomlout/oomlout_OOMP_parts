@@ -11,6 +11,9 @@ Contents
 	* [Datasheets](#datasheets)
 	* [3D Models](#3d-models)
 	* [Labels](#labels)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
@@ -54,6 +57,12 @@ Contents
 |Front|Inventory|Specifications|
 | :---: | :---: | :---: |
 |[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
+
+### Footprints
+
+### Symbols
 
 ## Tags
 

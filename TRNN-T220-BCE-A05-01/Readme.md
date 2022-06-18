@@ -9,6 +9,9 @@ Contents
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
 	* [Tags](#tags)
 
 # TRNN-T220-BCE-A05-01>TO-220 5 Amp NPN Transistor
@@ -35,6 +38,12 @@ Contents
 |Front|Inventory|Specifications|
 | :---: | :---: | :---: |
 |[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
+
+### Footprints
+
+### Symbols
 
 ## Tags
 

@@ -12,9 +12,7 @@ Contents
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
-	* [Footprints](#footprints)
 		* [Symbols](#symbols)
-	* [Footprints](#footprints)
 	* [Tags](#tags)
   
 ![][im]
@@ -54,24 +52,10 @@ Contents
 ## EDA
 
 ### Footprints
-
-## Footprints
   
-  
-
-|kicadFootprint Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical|sparkfunFootprint Sparkfun-Connectors/1X03_LOCK|sparkfunFootprint Sparkfun-Connectors/1X03_LOCK_LONGPADS|sparkfunFootprint Sparkfun-Connectors/1X03_NO_SILK|sparkfunFootprint Sparkfun-Connectors/1X03_PP_HOLES_ONLY|
-| :---: | :---: | :---: | :---: | :---: |
-|[![kicadFootprint Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical](/eda/footprints/kicad/kicad/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical.png)](/eda/footprints/kicad/kicad/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical.png)|[![sparkfunFootprint Sparkfun-Connectors/1X03_LOCK](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_LOCK.png)](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_LOCK.png)|[![sparkfunFootprint Sparkfun-Connectors/1X03_LOCK_LONGPADS](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_LOCK_LONGPADS.png)](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_LOCK_LONGPADS.png)|[![sparkfunFootprint Sparkfun-Connectors/1X03_NO_SILK](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_NO_SILK.png)](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_NO_SILK.png)|[![sparkfunFootprint Sparkfun-Connectors/1X03_PP_HOLES_ONLY](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_PP_HOLES_ONLY.png)](/eda/footprints/eagle/sparkfun/Sparkfun-Connectors/1X03_PP_HOLES_ONLY.png)|
-
+[kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical/image.png)  
+![kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical/image.png)
 ### Symbols
-
-## Footprints
-  
-  
-
-|kicadSymbol Connector/Conn_01x03_Male|
-| :---: |
-|[![kicadSymbol Connector/Conn_01x03_Male](/eda/symbols/kicad/Connector/Conn_01x03_Male.png)](/eda/symbols/kicad/Connector/Conn_01x03_Male.png)|
 
 ## Tags
 
@@ -105,11 +89,7 @@ Contents
 - schematicSymbol: HEAD-XX-X-PI03-XX
 - pcbFootprint: HEAD-I01-X-PI03-01
 - kicadSymbol: Connector/Conn_01x03_Male
-- kicadFootprint: Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical
-- sparkfunFootprint: Sparkfun-Connectors/1X03_LOCK
-- sparkfunFootprint: Sparkfun-Connectors/1X03_LOCK_LONGPADS
-- sparkfunFootprint: Sparkfun-Connectors/1X03_NO_SILK
-- sparkfunFootprint: Sparkfun-Connectors/1X03_PP_HOLES_ONLY
+- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical
 
 
 
