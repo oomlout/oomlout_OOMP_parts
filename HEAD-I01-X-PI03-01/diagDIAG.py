@@ -19,9 +19,9 @@ rect(((x1+shiftX/2)*mm,(y1+shiftY/2)*mm), ((x2+shiftX/2)*mm,(y2+shiftY/2)*mm),0.
 pins = 3    #  variable;pins;3
 # MISSING TEMPLATE # TEMPLATE  template;HEAD-I01-X-XX-01-diag
 
-os.chdir("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/")
+os.chdir("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/")
 try:
-    os.remove("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/diagDIAG.svg")
+    os.remove("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/diagDIAG.svg")
 except:
     f=0
 inkex.command.write_svg(svg_root, 'diagDIAG.svg')

@@ -36,9 +36,9 @@ fontShift = (4)* 0.3527 * .5
 text('"J1"',(x+shiftX/2*mm,(y+shiftY/2+fontShift/2)*mm),stroke='#000000',font_size='4pt',font_family='Relief Single Line Outline',text_anchor='middle',stroke_width=0.25)
 
 
-os.chdir("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/")
+os.chdir("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/")
 try:
-    os.remove("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/diagIDEN.svg")
+    os.remove("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/diagIDEN.svg")
 except:
     f=0
 inkex.command.write_svg(svg_root, 'diagIDEN.svg')

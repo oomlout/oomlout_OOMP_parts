@@ -75,9 +75,9 @@ fontShift = (3)* 0.3527 * .5
 shape = text('http://oom.lt/H03',(x+shiftX/2*mm,(y+shiftY/2+fontShift/2)*mm),stroke_width=0.1,stroke='black',font_size='3pt',font_family='Relief Single Line Outline',text_align='center',shape_inside=shape)
 
 
-os.chdir("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/")
+os.chdir("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/")
 try:
-    os.remove("C:/GH/oomlout-OOMP/parts/HEAD-I01-X-PI03-01/diagBBLS.svg")
+    os.remove("C:/GH/oomlout_OOMP/oomlout_OOMP_parts/HEAD-I01-X-PI03-01/diagBBLS.svg")
 except:
     f=0
 inkex.command.write_svg(svg_root, 'diagBBLS.svg')
