@@ -72,8 +72,8 @@ Contents
 - ooNumPins: 3
 - ooFootprint: OOMP-HEAD-I01-X-PI03-RA
 - ooDesignator: J1
-- manufacturer: {'', 'C-YXCO', 'YXCON', 'P125-1103A0BR138A1'}
-- opl: {'', 'C-SEEE', '320020061', 'https://www.seeedstudio.com/opl.html', 'DIP Black Male Header R/A', 'SEEED OPL'}
+- manufacturer: {'', 'YXCON', 'C-YXCO', 'P125-1103A0BR138A1'}
+- opl: {'', 'DIP Black Male Header R/A', 'SEEED OPL', '320020061', 'C-SEEE', 'https://www.seeedstudio.com/opl.html'}
 - kicadSymbol: Connector:Conn_01x03_Male
 - kicadFootprint: Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal
 
