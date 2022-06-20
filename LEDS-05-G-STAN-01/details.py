@@ -1,0 +1,35 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+pitch = 2.54 
+newPart.addTag('index','3983')
+newPart.addTag('oompID','LEDS-05-G-STAN-01')
+newPart.addTag('name','5 mm Green LED')
+newPart.addTag('hexID','L5G')
+newPart.addTag('oompSort','0505G')
+newPart.addTag('oompType','LEDS')
+newPart.addTag('oompSize','05')
+newPart.addTag('oompColor','G')
+newPart.addTag('oompDesc','STAN')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','99')
+newPart.addTag('ooPitch','2.54 mm')
+newPart.addTag('ooLensColor','Green')
+newPart.addTag('ooForwardVoltage','3.1 V')
+newPart.addTag('ooForwardCurrent','15 mA')
+newPart.addTag('ooIntensity','6,500 mcd')
+newPart.addTag('ooPowerAngle','25 deg')
+newPart.addTag('ooWavelength','523 nm')
+newPart.addTag('oompClass','Through Hole Component')
+newPart.addTag('oompClassCode','THTH')
+newPart.addTag('oompBbls','template;LEDS-05-X-XXXX-01-bbls')
+newPart.addTag('oompDiag','template;LEDS-05-X-XXXX-01-diag')
+newPart.addTag('oompIden','template;LEDS-05-X-XXXX-01-iden')
+newPart.addTag('oompSchem','template;LEDS-XXXX-X-XXXX-XX-schem')
+newPart.addTag('oompSimp','template;LEDS-05-X-XXXX-01-simp')
+newPart.addTag('ooDesignator','D1')
+newPart = OOMPtags.addTags(newPart,"LEDS-05-G-STAN-01",pitch = 2.54 )
+OOMP.parts.append(newPart)

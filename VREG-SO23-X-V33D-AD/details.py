@@ -1,0 +1,30 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+newPart.addTag('index','9876')
+newPart.addTag('oompID','VREG-SO23-X-V33D-AD')
+newPart.addTag('name','SMD (SOT-23) 3.3v Voltage Regulator 250 mA')
+newPart.addTag('hexID','VS332')
+newPart.addTag('oompSort','SO233.300.250')
+newPart.addTag('oompType','VREG')
+newPart.addTag('oompSize','SO23')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','V33D')
+newPart.addTag('oompIndex','AD')
+newPart.addTag('oompVersion','99')
+newPart.addTag('oompClass','Surface Mount')
+newPart.addTag('oompClassCode','SMDS')
+newPart.addTag('ooPin1','VSS')
+newPart.addTag('ooPin2','VOUT')
+newPart.addTag('ooPin3','VIN')
+newPart.addTag('oompBbls','template;XXXX-SO23-X-XXXX-01-bbls')
+newPart.addTag('oompDiag','template;XXXX-SO23-X-XXXX-01-diag')
+newPart.addTag('oompIden','template;XXXX-SO23-X-XXXX-01-iden')
+newPart.addTag('oompSimp','template;XXXX-SO23-X-XXXX-01-simp')
+newPart.addTag('ooPackageMarking','662S')
+newPart.addTag('ooDesignator','U1')
+newPart = OOMPtags.addTags(newPart,"VREG-SO23-X-V33D-AD")
+OOMP.parts.append(newPart)

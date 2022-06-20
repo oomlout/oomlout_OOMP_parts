@@ -1,0 +1,38 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+pins = 3
+newPart.addTag('index','9876')
+newPart.addTag('oompID','MOSP-SO23-X-A02-01')
+newPart.addTag('name','SMD (SOT-23) 2 Amp P-Ch. MOSFET')
+newPart.addTag('hexID','MPSS202')
+newPart.addTag('oompSort','SO2302.000')
+newPart.addTag('oompType','MOSP')
+newPart.addTag('oompSize','SO23')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','A02')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','99')
+newPart.addTag('oompSkip','true')
+newPart.addTag('ooWidth','3 mm')
+newPart.addTag('ooHeight','1 mm')
+newPart.addTag('ooLength','2.3 mm')
+newPart.addTag('com','SMD')
+newPart.addTag('ooPackageMarking','340')
+newPart.addTag('ooPackageMarking','340')
+newPart.addTag('ooNumPins','3')
+newPart.addTag('oompClass','Surface Mount')
+newPart.addTag('oompClassCode','SMDS')
+newPart.addTag('ooPin1','G')
+newPart.addTag('ooPin2','S')
+newPart.addTag('ooPin3','D')
+newPart.addTag('oompBbls','template;XXXX-SO23-X-XXXX-01-bbls')
+newPart.addTag('oompDiag','template;XXXX-SO23-X-XXXX-01-diag')
+newPart.addTag('oompIden','template;XXXX-SO23-X-XXXX-01-iden')
+newPart.addTag('oompSimp','template;XXXX-SO23-X-XXXX-01-simp')
+newPart.addTag('ooDesignator','Q1')
+newPart = OOMPtags.addTags(newPart,"MOSP-SO23-X-A02-01",pins = 3)
+OOMP.parts.append(newPart)

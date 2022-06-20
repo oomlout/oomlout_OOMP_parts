@@ -1,22 +1,21 @@
-import OOMP
+import OOMP 
+import OOMPtags 
 
-newPart = OOMP.oompItem(9183)
-newPart.addTag("oompType", "PHTR")
-newPart.addTag("oompSize", "05")
-newPart.addTag("oompColor", "I9")
-newPart.addTag("oompDesc", "STAN")
-newPart.addTag("oompIndex", "01")
+######  Auto translated oomp file
 
-newPart.addTag("hexID","PT5I9")
-
-newPart.addTag("oompClass","Through Hole")
-newPart.addTag("oompClassCode","THTH")
-
-newPart.addTag("ooDesignator","Q1")
-
-
-###### KICAD DETAILS
-newPart.addTag("kicadSymbol","Device>R_Photo")
-newPart.addTag("kicadFootprint","OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical")
-
+newPart = OOMP.oompItem()
+newPart.addTag('oompID','PHTR-05-I9-STAN-01')
+newPart.addTag('name','5 mm IR (940 nm) Phototransistor')
+newPart.addTag('hexID','PT5I9')
+newPart.addTag('oompSort','')
+newPart.addTag('oompClass','Through Hole')
+newPart.addTag('oompClassCode','THTH')
+newPart.addTag('oompType','PHTR')
+newPart.addTag('oompSize','05')
+newPart.addTag('oompColor','I9')
+newPart.addTag('oompDesc','STAN')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','40')
+newPart.addTag('ooDesignator','Q1')
+newPart = OOMPtags.addTags(newPart,"PHTR-05-I9-STAN-01")
 OOMP.parts.append(newPart)

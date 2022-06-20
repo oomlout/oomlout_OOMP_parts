@@ -1,0 +1,42 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+pitch = 2.54
+pins = 6
+newPart.addTag('oompID','HEAD-I01-X-PI06-RA')
+newPart.addTag('name','2.54 mm 6 Pin Header Right Angle')
+newPart.addTag('hexID','HR06')
+newPart.addTag('oompSort','HEADI0106PI')
+newPart.addTag('oompType','HEAD')
+newPart.addTag('oompSize','I01')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','PI06')
+newPart.addTag('oompIndex','RA')
+newPart.addTag('oompVersion','98')
+newPart.addTag('ooPitch','2.54')
+newPart.addTag('ooPinHeight','11.60')
+newPart.addTag('ooPinWidth','0.64')
+newPart.addTag('ooPinOffset','1.53')
+newPart.addTag('ooNumPins','6')
+newPart.addTag('ooFootprint','OOMP-HEAD-I01-X-PI06-01')
+newPart.addTag('oompBbls','variable;clear')
+newPart.addTag('oompBbls','variable;pins;6')
+newPart.addTag('oompBbls','template;XXXX-I01-X-XX-RA-bbls')
+newPart.addTag('oompDiag','variable;clear')
+newPart.addTag('oompDiag','variable;pins;6')
+newPart.addTag('oompDiag','template;HEAD-I01-X-XX-RA-diag')
+newPart.addTag('oompIden','variable;clear')
+newPart.addTag('oompIden','variable;pins;6')
+newPart.addTag('oompIden','template;XXXX-I01-X-XX-RA-iden')
+newPart.addTag('oompSchem','variable;clear')
+newPart.addTag('oompSchem','variable;pins;6')
+newPart.addTag('oompSchem','template;XXXX-XX-X-XX-01-PINS-EVEN-schem')
+newPart.addTag('oompSimp','variable;clear')
+newPart.addTag('oompSimp','variable;pins;6')
+newPart.addTag('oompSimp','template;XXXX-I01-X-XX-RA-simp')
+newPart.addTag('ooDesignator','J1')
+newPart = OOMPtags.addTags(newPart,"HEAD-I01-X-PI06-RA",pitch = 2.54,pins = 6)
+OOMP.parts.append(newPart)

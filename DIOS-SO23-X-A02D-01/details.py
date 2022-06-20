@@ -1,0 +1,30 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+newPart.addTag('oompID','DIOS-SO23-X-A02D-01')
+newPart.addTag('name','SMD (SOT-23) 200 mA Diode (Schottky)')
+newPart.addTag('hexID','DS22D')
+newPart.addTag('oompSort','')
+newPart.addTag('oompClass','Surface Mount')
+newPart.addTag('oompClassCode','SMDS')
+newPart.addTag('oompType','DIOS')
+newPart.addTag('oompSize','SO23')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','A02D')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','40')
+newPart.addTag('ooPin1','A')
+newPart.addTag('ooPin2','NC')
+newPart.addTag('ooPin3','C')
+newPart.addTag('oompBbls','template;XXXX-SO23-X-XXXX-01-bbls')
+newPart.addTag('oompDiag','template;XXXX-SO23-X-XXXX-01-diag')
+newPart.addTag('oompIden','template;XXXX-SO23-X-XXXX-01-iden')
+newPart.addTag('oompSchem','template;DIOS-XXXX-X-XXXX-XX-schem')
+newPart.addTag('oompSimp','template;XXXX-SO23-X-XXXX-01-simp')
+newPart.addTag('ooPackageMarking','2TY')
+newPart.addTag('ooDesignator','Q1')
+newPart = OOMPtags.addTags(newPart,"DIOS-SO23-X-A02D-01")
+OOMP.parts.append(newPart)

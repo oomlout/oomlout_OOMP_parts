@@ -1,27 +1,27 @@
-import OOMP
+import OOMP 
+import OOMPtags 
 
-newPart = OOMP.oompItem(8962)
-newPart.addTag("hexID", "H03R")
-newPart.addTag("oompType", "HEAD")
-newPart.addTag("oompSize", "I01")
-newPart.addTag("oompColor", "X")
-newPart.addTag("oompDesc", "PI03")
-newPart.addTag("oompIndex", "RA")
-newPart.addTag("oompSort", "HEADI0103PI")
-newPart.addTag("ooPitch", 2.54)
-newPart.addTag("ooPinHeight", 11.60)
-newPart.addTag("ooPinWidth", 0.64)
-newPart.addTag("ooPinOffset", 1.53)
-newPart.addTag("ooNumPins", 3)
-newPart.addTag("ooFootprint", "OOMP-HEAD-I01-X-PI03-RA")
-newPart.addTag("ooDesignator", "J1")
+######  Auto translated oomp file
 
-#####  Sourcing
-newPart.addTag("manufacturer", {"YXCON","C-YXCO","","P125-1103A0BR138A1","",""})
-newPart.addTag("opl", {"SEEED OPL","C-SEEE","DIP Black Male Header R/A","320020061","","https://www.seeedstudio.com/opl.html"})
-
-###### KICAD DETAILS
-newPart.addTag("kicadSymbol","Connector:Conn_01x03_Male")
-newPart.addTag("kicadFootprint","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal")
-
+newPart = OOMP.oompItem()
+pitch = 2.54
+pins = 3
+newPart.addTag('oompID','HEAD-I01-X-PI03-RA')
+newPart.addTag('name','2.54 mm 3 Pin Header Right Angle')
+newPart.addTag('hexID','HR03')
+newPart.addTag('oompSort','HEADI0103PI')
+newPart.addTag('oompType','HEAD')
+newPart.addTag('oompSize','I01')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','PI03')
+newPart.addTag('oompIndex','RA')
+newPart.addTag('oompVersion','98')
+newPart.addTag('ooPitch','2.54')
+newPart.addTag('ooPinHeight','11.60')
+newPart.addTag('ooPinWidth','0.64')
+newPart.addTag('ooPinOffset','1.53')
+newPart.addTag('ooNumPins','3')
+newPart.addTag('ooFootprint','OOMP-HEAD-I01-X-PI03-RA')
+newPart.addTag('ooDesignator','J1')
+newPart = OOMPtags.addTags(newPart,"HEAD-I01-X-PI03-RA",pitch = 2.54,pins = 3)
 OOMP.parts.append(newPart)

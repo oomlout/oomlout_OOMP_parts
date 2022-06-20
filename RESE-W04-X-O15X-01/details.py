@@ -1,0 +1,30 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+newPart.addTag('index','4164')
+newPart.addTag('oompID','RESE-W04-X-O15X-01')
+newPart.addTag('name','1/4 Watt 1.5 Ohm Resistor')
+newPart.addTag('hexID','R415A')
+newPart.addTag('oompSort','0W040000001')
+newPart.addTag('oompType','RESE')
+newPart.addTag('oompSize','W04')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','O15X')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','99')
+newPart.addTag('oompClass','Through Hole Component')
+newPart.addTag('oompClassCode','THTH')
+newPart.addTag('colorBand1','BROWN')
+newPart.addTag('colorBand2','GREEN')
+newPart.addTag('colorBand3','GOLD')
+newPart.addTag('oompBbls','template;RESE-W04-X-XXXX-XX-bbls')
+newPart.addTag('oompDiag','template;RESE-W04-X-XXXX-XX-diag')
+newPart.addTag('oompIden','template;RESE-W04-X-XXXX-XX-iden')
+newPart.addTag('oompSchem','template;RESE-XXXX-X-XXXX-XX-schem')
+newPart.addTag('oompSimp','template;RESE-W04-X-XXXX-XX-simp')
+newPart.addTag('ooDesignator','R1')
+newPart = OOMPtags.addTags(newPart,"RESE-W04-X-O15X-01")
+OOMP.parts.append(newPart)

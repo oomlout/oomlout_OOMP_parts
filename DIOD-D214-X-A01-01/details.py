@@ -1,0 +1,36 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+pins = 2
+newPart.addTag('index','9876')
+newPart.addTag('oompID','DIOD-D214-X-A01-01')
+newPart.addTag('name','SMD (DO-214) 1 Amp Diode')
+newPart.addTag('hexID','DS201')
+newPart.addTag('oompSort','D21401.000')
+newPart.addTag('oompType','DIOD')
+newPart.addTag('oompSize','D214')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','A01')
+newPart.addTag('oompIndex','01')
+newPart.addTag('oompVersion','99')
+newPart.addTag('oompSkip','true')
+newPart.addTag('ooWidth','5.6 mm')
+newPart.addTag('ooHeight','2 mm')
+newPart.addTag('ooLength','2.75 mm')
+newPart.addTag('com','SMD')
+newPart.addTag('ooPackageMarking','M7, S1M')
+newPart.addTag('ooNumPins','2')
+newPart.addTag('oompAbout','This is a commonly used general purpose high current (1A) surface mount diode. ')
+newPart.addTag('useID','1')
+newPart.addTag('importance','1')
+newPart.addTag('useTitle','Arduino Power protection')
+newPart.addTag('useDescription','Used on the Arduino UNO board to protect agaionst inserting the DC power supply backwards.')
+newPart.addTag('oompClass','Surface Mount')
+newPart.addTag('oompClassCode','SMDS')
+newPart.addTag('oompSchem','template;DIOD-XXXX-X-XXXX-XX-schem')
+newPart.addTag('ooDesignator','D1')
+newPart = OOMPtags.addTags(newPart,"DIOD-D214-X-A01-01",pins = 2)
+OOMP.parts.append(newPart)

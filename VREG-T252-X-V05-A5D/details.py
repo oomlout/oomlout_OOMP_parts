@@ -1,0 +1,31 @@
+import OOMP 
+import OOMPtags 
+
+######  Auto translated oomp file
+
+newPart = OOMP.oompItem()
+newPart.addTag('index','4324')
+newPart.addTag('oompID','VREG-T252-X-V05-A5D')
+newPart.addTag('name','TO-252 5v Voltage Regulator 500 mA')
+newPart.addTag('hexID','VT555')
+newPart.addTag('oompSort','T2525.000.500')
+newPart.addTag('oompType','VREG')
+newPart.addTag('oompSize','T252')
+newPart.addTag('oompColor','X')
+newPart.addTag('oompDesc','V05')
+newPart.addTag('oompIndex','A5D')
+newPart.addTag('oompVersion','99')
+newPart.addTag('ooManufacturer','C-JCST')
+newPart.addTag('ooManufacturerPartNumber','CJ78M05')
+newPart.addTag('useID','1')
+newPart.addTag('importance','1')
+newPart.addTag('useTitle','')
+newPart.addTag('useDescription','')
+newPart.addTag('ooSEEEDsku','1300040P1')
+newPart.addTag('ooSEEEDdesc','Three-terminal positive voltage regulator 0.5A 5V')
+newPart.addTag('ooSEEED3dModel','http://www.seeedstudio.com/wiki/File:TO252.zip')
+newPart.addTag('oompClass','Surface Mount')
+newPart.addTag('oompClassCode','SMDS')
+newPart.addTag('ooDesignator','U1')
+newPart = OOMPtags.addTags(newPart,"VREG-T252-X-V05-A5D")
+OOMP.parts.append(newPart)
