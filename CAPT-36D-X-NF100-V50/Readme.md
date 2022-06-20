@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-36D-X-NF100-V50>3.6 mm 100 nF Capacitor (Tantalum) 50v
 
 - ID: CAPT-36D-X-NF100-V50
@@ -65,3 +66,7 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

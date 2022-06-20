@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPC-0603-X-UF22D-V10>SMD (0603) 2.2 uF Capacitor (Ceramic) 10v
 
 - ID: CAPC-0603-X-UF22D-V10
@@ -59,3 +60,7 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

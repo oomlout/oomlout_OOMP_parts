@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-1206-X-UF10-V10>SMD (1206) 10 uF Capacitor (Tantalum) 10v
 
 - ID: CAPT-1206-X-UF10-V10
@@ -70,3 +71,7 @@ Contents
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

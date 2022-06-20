@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BUTA-06-X-PI02-01>6 mm 2 Pin Pushbutton (Tactile)
 
 - ID: BUTA-06-X-PI02-01
@@ -66,3 +67,7 @@ Contents
 - oompSymbol: twoSidedPackage;##ooNumPins@@/2
 - ooPin1: .
 - ooPin2: .
+
+
+
+[im]: image_600.jpg

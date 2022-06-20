@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DISP-7SEL-R-4DIG-01>7 Segment LED 4 Digit Red Display
 
 - ID: DISP-7SEL-R-4DIG-01
@@ -54,3 +55,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 98
 - ooDesignator: DS1
+
+
+
+[im]: image_600.jpg

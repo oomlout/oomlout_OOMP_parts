@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HELF-I01-X-PI10-01>2.54 mm 10 Pin Female Header (Long)
 
 - ID: HELF-I01-X-PI10-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

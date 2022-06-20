@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOD-MMA-X-A03D-01>SMD (Mini MELF) 300 mA Diode
 
 - ID: DIOD-MMA-X-A03D-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

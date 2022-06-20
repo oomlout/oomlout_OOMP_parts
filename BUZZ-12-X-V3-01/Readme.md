@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BUZZ-12-X-V3-01>12 mm 3v Buzzer
 
 - ID: BUZZ-12-X-V3-01
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - oompSchem: template;BUZZ-XXXX-X-XXXX-XX-schem
 - ooDesignator: LS1
+
+
+
+[im]: image_600.jpg

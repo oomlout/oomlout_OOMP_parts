@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-1206-X-UF47D-V63D>SMD (1206) 4.7 uF Capacitor (Tantalum) 6.3v
 
 - ID: CAPT-1206-X-UF47D-V63D
@@ -61,3 +62,7 @@ Contents
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

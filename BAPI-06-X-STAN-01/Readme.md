@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BAPI-06-X-STAN-01>6 mm Badge Pin
 
 - ID: BAPI-06-X-STAN-01
@@ -53,3 +54,7 @@ Contents
 - oompDesc: STAN
 - oompIndex: 01
 - oompVersion: 98
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) 
 
 - ID: DISP-16X2-G-LCD-I2
@@ -58,3 +59,7 @@ Contents
 - ooPin3: VCC
 - ooPin4: GND
 - oompBbls: template;DISP-16X2-X-LCD-I2-bbls
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CERE-1263-X-MZ12-01>SMD (1206-3) 12 MHz Ceramic Resonator
 
 - ID: CERE-1263-X-MZ12-01
@@ -60,3 +61,7 @@ Contents
 - ooLength: 1.3 mm
 - oompSchem: template;CERE-XXXX-X-XXXX-XX-schem
 - ooDesignator: X1
+
+
+
+[im]: image_600.jpg

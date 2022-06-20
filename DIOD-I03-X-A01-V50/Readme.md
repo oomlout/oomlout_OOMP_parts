@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOD-I03-X-A01-V50>7.62 mm 1 Amp Diode 50v
 
 - ID: DIOD-I03-X-A01-V50
@@ -58,3 +59,7 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

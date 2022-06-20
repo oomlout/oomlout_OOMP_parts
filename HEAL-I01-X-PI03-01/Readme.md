@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAL-I01-X-PI03-01>2.54 mm 3 Pin Header (Long)
 
 - ID: HEAL-I01-X-PI03-01
@@ -74,3 +75,7 @@ Contents
 - oompSimp: variable;pins;3
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

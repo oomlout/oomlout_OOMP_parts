@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAF-I01-X-PI02-RO>2.54 mm 2 Pin Female Header (Round)
 
 - ID: HEAF-I01-X-PI02-RO
@@ -54,3 +55,7 @@ Contents
 - oompIndex: RO
 - oompVersion: 98
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

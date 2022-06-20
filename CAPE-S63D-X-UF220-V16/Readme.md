@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPE-S63D-X-UF220-V16>SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v
 
 - ID: CAPE-S63D-X-UF220-V16
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPC-0603-X-PF82D-V50>SMD (0603) 8.2 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF82D-V50
@@ -64,3 +65,7 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

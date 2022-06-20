@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # FERB-0603-X-O252-01>SMD (0603) 2.5k Ohm Ferrite Bead
 
 - ID: FERB-0603-X-O252-01
@@ -57,3 +58,7 @@ Contents
 - ooLength: 1.6 mm
 - ooNumPins: 2
 - ooDesignator: L1
+
+
+
+[im]: image_600.jpg

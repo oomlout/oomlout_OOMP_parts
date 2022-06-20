@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HELF-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 
 - ID: HELF-I01-L-2X03PI-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

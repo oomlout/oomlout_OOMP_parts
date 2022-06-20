@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-2312-X-UF100-V10>SMD (2312) 100 uF Capacitor (Tantalum) 10v
 
 - ID: CAPT-2312-X-UF100-V10
@@ -66,3 +67,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

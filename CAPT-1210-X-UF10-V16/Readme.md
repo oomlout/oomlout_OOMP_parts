@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-1210-X-UF10-V16>SMD (1210) 10 uF Capacitor (Tantalum) 16v
 
 - ID: CAPT-1210-X-UF10-V16
@@ -60,3 +61,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

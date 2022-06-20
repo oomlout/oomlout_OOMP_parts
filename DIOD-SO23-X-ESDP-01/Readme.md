@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOD-SO23-X-ESDP-01>SMD (SOT-23) ESD Protection Diode
 
 - ID: DIOD-SO23-X-ESDP-01
@@ -65,3 +66,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: 5M
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

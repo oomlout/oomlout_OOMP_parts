@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAD-I01-X-PI06-RA>2.54 mm 6 Pin Header Right Angle
 
 - ID: HEAD-I01-X-PI06-RA
@@ -75,3 +76,7 @@ Contents
 - oompSimp: variable;pins;6
 - oompSimp: template;XXXX-I01-X-XX-RA-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

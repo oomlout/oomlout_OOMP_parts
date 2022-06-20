@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAF-I01-Y-PI08-01>2.54 mm 8 Pin Yellow Female Header
 
 - ID: HEAF-I01-Y-PI08-01
@@ -77,3 +78,7 @@ Contents
 - oompSimp: variable;pins;8
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

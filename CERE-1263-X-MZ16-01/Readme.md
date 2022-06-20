@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CERE-1263-X-MZ16-01>SMD (1206-3) 16 MHz Ceramic Resonator
 
 - ID: CERE-1263-X-MZ16-01
@@ -63,3 +64,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;CERE-XXXX-X-XXXX-XX-schem
 - ooDesignator: X1
+
+
+
+[im]: image_600.jpg

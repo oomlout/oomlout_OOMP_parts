@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HESH-03-N-STAN-01>3 mm Brown Heat Shrink
 
 - ID: HESH-03-N-STAN-01
@@ -57,3 +58,7 @@ Contents
 - ooShrinkRatio: 2:1
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

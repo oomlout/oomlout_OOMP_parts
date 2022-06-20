@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEDS-35D-T-SMDS-4P>3.5 mm SMD Headphone Socket (4 Pin)
 
 - ID: HEDS-35D-T-SMDS-4P
@@ -54,3 +55,7 @@ Contents
 - oompIndex: 4P
 - oompVersion: 98
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

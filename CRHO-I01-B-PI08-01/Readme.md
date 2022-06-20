@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CRHO-I01-B-PI08-01>2.54 mm 8 Pin Black Crimp Housing
 
 - ID: CRHO-I01-B-PI08-01
@@ -81,3 +82,7 @@ Contents
 - oompSimp: variable;pins;8
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

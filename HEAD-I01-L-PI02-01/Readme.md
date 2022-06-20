@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAD-I01-L-PI02-01>2.54 mm 2 Pin Blue Header
 
 - ID: HEAD-I01-L-PI02-01
@@ -79,3 +80,7 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI02-XX
 - pcbFootprint: HEAD-I01-X-PI02-01
+
+
+
+[im]: image_600.jpg

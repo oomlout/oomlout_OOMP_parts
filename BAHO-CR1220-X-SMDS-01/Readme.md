@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BAHO-CR1220-X-SMDS-01>CR1220 SMD Battery Holder
 
 - ID: BAHO-CR1220-X-SMDS-01
@@ -62,3 +63,7 @@ Contents
 - oompAbout: A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks.
 - oompSchem: template;BAHO-XXXX-X-XXXX-XX-schem
 - ooDesignator: BT1
+
+
+
+[im]: image_600.jpg

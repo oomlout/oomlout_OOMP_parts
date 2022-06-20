@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPC-55D-X-PF22-V50>5.5 mm 22 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-55D-X-PF22-V50
@@ -64,3 +65,7 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

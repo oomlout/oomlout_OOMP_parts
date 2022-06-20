@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPE-S63D-X-UF47-V25>SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
 
 - ID: CAPE-S63D-X-UF47-V25
@@ -65,3 +66,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

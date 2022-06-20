@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BAHO-CR1220-M-SMDS-01>CR1220 SMD Metal Battery Holder
 
 - ID: BAHO-CR1220-M-SMDS-01
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - oompSchem: template;BAHO-XXXX-X-XXXX-XX-schem
 - ooDesignator: BT1
+
+
+
+[im]: image_600.jpg

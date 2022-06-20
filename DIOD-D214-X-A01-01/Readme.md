@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOD-D214-X-A01-01>SMD (DO-214) 1 Amp Diode
 
 - ID: DIOD-D214-X-A01-01
@@ -70,3 +71,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

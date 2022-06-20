@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOS-S123-X-A05D-V40>SMD (SOD-123) 500 mA Diode (Schottky) 40v
 
 - ID: DIOS-S123-X-A05D-V40
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - oompSchem: template;DIOS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPE-05-X-UF100-V16>5 mm 100 uF Capacitor (Electrolytic) 16v
 
 - ID: CAPE-05-X-UF100-V16
@@ -59,3 +60,7 @@ Contents
 - ooNumPins: 2
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

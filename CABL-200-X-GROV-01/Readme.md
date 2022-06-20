@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CABL-200-X-GROV-01>200 mm Grove Cable
 
 - ID: CABL-200-X-GROV-01
@@ -53,3 +54,7 @@ Contents
 - oompDesc: GROV
 - oompIndex: 01
 - oompVersion: 98
+
+
+
+[im]: image_600.jpg

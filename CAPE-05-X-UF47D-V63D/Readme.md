@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPE-05-X-UF47D-V63D>5 mm 4.7 uF Capacitor (Electrolytic) 63v
 
 - ID: CAPE-05-X-UF47D-V63D
@@ -61,3 +62,7 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

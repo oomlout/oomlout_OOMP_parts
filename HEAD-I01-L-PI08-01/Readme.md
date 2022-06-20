@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAD-I01-L-PI08-01>2.54 mm 8 Pin Blue Header
 
 - ID: HEAD-I01-L-PI08-01
@@ -79,3 +80,7 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI08-XX
 - pcbFootprint: HEAD-I01-X-PI08-01
+
+
+
+[im]: image_600.jpg

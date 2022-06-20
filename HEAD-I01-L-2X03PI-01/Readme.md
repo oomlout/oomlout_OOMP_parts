@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAD-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Header
 
 - ID: HEAD-I01-L-2X03PI-01
@@ -63,3 +64,7 @@ Contents
 - ooNumPins: 6
 - ooFootprint: OOMP-HEAD-I01-X-2X03PI-01
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

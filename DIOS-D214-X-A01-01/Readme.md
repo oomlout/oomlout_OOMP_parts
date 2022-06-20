@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOS-D214-X-A01-01>SMD (DO-214) 1 Amp Diode (Schottky)
 
 - ID: DIOS-D214-X-A01-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;DIOS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

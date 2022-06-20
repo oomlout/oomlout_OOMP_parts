@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CRHO-I01-B-PI06-01>2.54 mm 6 Pin Black Crimp Housing
 
 - ID: CRHO-I01-B-PI06-01
@@ -65,3 +66,7 @@ Contents
 - oompAbout: These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project.
 - oompClass: Through Hole Component
 - oompClassCode: THTH
+
+
+
+[im]: image_600.jpg

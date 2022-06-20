@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPT-2312-X-UF22-V25>SMD (2312) 22 uF Capacitor (Tantalum) 25v
 
 - ID: CAPT-2312-X-UF22-V25
@@ -66,3 +67,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

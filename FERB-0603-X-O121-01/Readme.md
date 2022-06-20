@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # FERB-0603-X-O121-01>SMD (0603) 120 Ohm Ferrite Bead
 
 - ID: FERB-0603-X-O121-01
@@ -61,3 +62,7 @@ Contents
 - oompSchem: template;FERB-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: FB1
+
+
+
+[im]: image_600.jpg

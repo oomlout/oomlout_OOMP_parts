@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEDS-35D-X-SMDS-01>3.5 mm SMD Headphone Socket
 
 - ID: HEDS-35D-X-SMDS-01
@@ -60,3 +61,7 @@ Contents
 - ooSEEEDdesc: AUDIO-Connector
 - ooSEEED3dModel: http://www.seeedstudio.com/wiki/File:6P-SMD-3.5.zip
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAF-I01-X-2X04PI-01>2.54 mm 8 Pin (2x4) Female Header
 
 - ID: HEAF-I01-X-2X04PI-01
@@ -56,3 +57,7 @@ Contents
 - ooNumPins: 2X04
 - ooFootprint: OOMP-HEAD-I01-X-2X04PI-01
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

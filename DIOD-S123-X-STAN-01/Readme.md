@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DIOD-S123-X-STAN-01>SMD (SOD-123) Diode
 
 - ID: DIOD-S123-X-STAN-01
@@ -58,3 +59,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

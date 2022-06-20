@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAL-I01-X-PI36-01>2.54 mm 36 Pin Header (Long)
 
 - ID: HEAL-I01-X-PI36-01
@@ -81,3 +82,7 @@ Contents
 - oompSimp: variable;pins;36
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

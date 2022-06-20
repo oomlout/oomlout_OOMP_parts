@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # BUTA-06-X-SMDS-01>6 mm SMD Pushbutton (Tactile)
 
 - ID: BUTA-06-X-SMDS-01
@@ -86,3 +87,7 @@ Contents
 - oompSymbol: twoSidedPackage;##ooNumPins@@/2
 - ooPin1: .
 - ooPin2: .
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HESH-06-V-STAN-01>6 mm Purple Heat Shrink
 
 - ID: HESH-06-V-STAN-01
@@ -57,3 +58,7 @@ Contents
 - ooShrinkRatio: 2:1
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

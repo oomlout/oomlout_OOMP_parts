@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # CAPE-63D-X-UF100-V25>6.3 mm 100 uF Capacitor (Electrolytic) 25v
 
 - ID: CAPE-63D-X-UF100-V25
@@ -61,3 +62,7 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DISP-16X2-G-LCD-01> 16 x 2 Character LCD Green Display 
 
 - ID: DISP-16X2-G-LCD-01
@@ -71,3 +72,7 @@ Contents
 - ooPin16: BL-
 - oompBbls: template;DISP-16X2-X-LCD-01-bbls
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

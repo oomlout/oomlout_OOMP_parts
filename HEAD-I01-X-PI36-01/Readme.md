@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAD-I01-X-PI36-01>2.54 mm 36 Pin Header
 
 - ID: HEAD-I01-X-PI36-01
@@ -83,3 +84,7 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI36-XX
 - pcbFootprint: HEAD-I01-X-PI36-01
+
+
+
+[im]: image_600.jpg

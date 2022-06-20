@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HESH-15D-B-STAN-01>1.5 mm Black Heat Shrink
 
 - ID: HESH-15D-B-STAN-01
@@ -57,3 +58,7 @@ Contents
 - ooShrinkRatio: 2:1
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

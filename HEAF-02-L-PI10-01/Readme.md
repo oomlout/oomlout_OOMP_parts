@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAF-02-L-PI10-01>2 mm 10 Pin Blue Female Header
 
 - ID: HEAF-02-L-PI10-01
@@ -58,3 +59,7 @@ Contents
 - ooNumPins: 10
 - ooFootprint: OOMP-HEAD-02-X-PI10-01
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

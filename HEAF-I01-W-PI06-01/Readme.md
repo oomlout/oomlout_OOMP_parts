@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # HEAF-I01-W-PI06-01>2.54 mm 6 Pin White Female Header
 
 - ID: HEAF-I01-W-PI06-01
@@ -73,3 +74,7 @@ Contents
 - oompSimp: variable;pins;6
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

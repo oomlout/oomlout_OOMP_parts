@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # DCJP-21D-X-THTH-01>2.1 mm Through Hole DC Jack
 
 - ID: DCJP-21D-X-THTH-01
@@ -76,3 +77,7 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

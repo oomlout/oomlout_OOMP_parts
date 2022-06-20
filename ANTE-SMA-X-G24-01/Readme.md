@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ANTE-SMA-X-G24-01>SMA 2.4 Ghz Antenna
 
 - ID: ANTE-SMA-X-G24-01
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - oompSchem: template;ANTE-XXXX-X-XXXX-XX-schem
 - ooDesignator: AE1
+
+
+
+[im]: image_600.jpg
