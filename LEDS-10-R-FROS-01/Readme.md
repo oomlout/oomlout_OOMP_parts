@@ -61,6 +61,10 @@ Contents
 ## EDA
 
 ### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

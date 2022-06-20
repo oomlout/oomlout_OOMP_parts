@@ -53,17 +53,15 @@ Contents
 
 ### Footprints
   
-[kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/)  
-![kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/image_140.png)
+
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/)|||
+| :---: | :---: | :---: | :---: |
+
 ### Symbols
 
 ## Tags
 
-- index: 12413
+- index: 18
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X

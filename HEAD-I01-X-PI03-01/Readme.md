@@ -53,23 +53,16 @@ Contents
 
 ### Footprints
   
-[kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical/)  
-![kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x03_P2.54mm_Vertical/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK/image_140.png)  
-[SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY/image_140.png)
+
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_NO_SILK/)|
+| :---: | :---: | :---: | :---: |
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X03_PP_HOLES_ONLY/)||||
+
 ### Symbols
 
 ## Tags
 
-- index: 12400
+- index: 5
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
