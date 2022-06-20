@@ -34,9 +34,9 @@ Contents
   
   
 
-|Identifier|Simple|
-| :---: | :---: |
-|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+| :---: | :---: | :---: | :---: | :---: |
+|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
 
 ## Datasheets
 

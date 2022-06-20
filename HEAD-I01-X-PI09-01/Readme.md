@@ -6,7 +6,9 @@ Contents
 ========
 
 * [HEAD-I01-X-PI09-01>2.54 mm 9 Pin Header](#head-i01-x-pi09-01254-mm-9-pin-header)
+	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
@@ -17,29 +19,45 @@ Contents
 - ID: HEAD-I01-X-PI09-01
 - Name: HEAD-I01-X-PI09-01
 
+## Diagrams
+  
+  
+
+|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+| :---: | :---: | :---: | :---: | :---: |
+|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 
 ### Footprints
   
 [kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical/)  
-![kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical/image.png)  
+![kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical/image_140.png)  
 [SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09/image.png)  
+![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09/image_140.png)  
 [SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK/image.png)  
+![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK/image_140.png)  
 [SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS/image.png)  
+![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS/image_140.png)  
 [SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK/)  
-![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK/image.png)
+![SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK/image_140.png)
 ### Symbols
 
 ## Tags
 
-- index: 13
+- index: 12426
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
