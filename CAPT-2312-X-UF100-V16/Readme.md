@@ -8,7 +8,6 @@ Contents
 * [CAPT-2312-X-UF100-V16>SMD (2312) 100 uF Capacitor (Tantalum) 16v](#capt-2312-x-uf100-v16smd-2312-100-uf-capacitor-tantalum-16v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

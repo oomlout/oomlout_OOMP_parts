@@ -8,7 +8,6 @@ Contents
 * [LEDS-0805-L-STAN-01>SMD (0805) Blue LED](#leds-0805-l-stan-01smd-0805-blue-led)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

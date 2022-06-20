@@ -7,8 +7,8 @@ Contents
 
 * [BUTA-6035-X-STAN-01>SMD (6035) Pushbutton (Tactile)](#buta-6035-x-stan-01smd-6035-pushbutton-tactile)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -21,13 +21,15 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## EDA
-
-### Footprints
+## Labels
+  
   
 
-|||||
-| :---: | :---: | :---: | :---: |
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
 
 ### Symbols
 

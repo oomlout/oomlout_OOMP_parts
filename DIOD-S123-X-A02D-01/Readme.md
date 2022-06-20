@@ -8,7 +8,6 @@ Contents
 * [DIOD-S123-X-A02D-01>SMD (SOD-123) 200 mA Diode](#diod-s123-x-a02d-01smd-sod-123-200-ma-diode)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

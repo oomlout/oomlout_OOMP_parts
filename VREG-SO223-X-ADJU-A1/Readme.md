@@ -8,7 +8,6 @@ Contents
 * [VREG-SO223-X-ADJU-A1>SMD (SOT-223) Adjustable Voltage Regulator 1 A](#vreg-so223-x-adju-a1smd-sot-223-adjustable-voltage-regulator-1-a)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

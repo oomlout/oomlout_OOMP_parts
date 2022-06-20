@@ -8,7 +8,6 @@ Contents
 * [ICIC-DI08-X-K555-01>8 Pin DIP 555 Timer](#icic-di08-x-k555-018-pin-dip-555-timer)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

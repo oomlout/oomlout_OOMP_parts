@@ -8,7 +8,6 @@ Contents
 * [VREG-SO235-X-BOS5-A5D>SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA](#vreg-so235-x-bos5-a5dsmd-sot-23-5-5v-boost-voltage-regulator-500-ma)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

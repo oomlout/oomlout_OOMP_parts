@@ -8,7 +8,6 @@ Contents
 * [TERS-35D-L-PI08-01>3.5 mm 8 Pin Blue Screw Terminal](#ters-35d-l-pi08-0135-mm-8-pin-blue-screw-terminal)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

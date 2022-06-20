@@ -8,7 +8,6 @@ Contents
 * [ICIC-QFP64-X-KLPC11-01>64 Pin SMD (TQFP) LPC11U24 (Cortex M0)](#icic-qfp64-x-klpc11-0164-pin-smd-tqfp-lpc11u24-cortex-m0)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

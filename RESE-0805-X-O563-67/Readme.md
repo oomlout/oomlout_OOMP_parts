@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O563-67>SMD (0805) 56k Ohm Resistor 1%](#rese-0805-x-o563-67smd-0805-56k-ohm-resistor-1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

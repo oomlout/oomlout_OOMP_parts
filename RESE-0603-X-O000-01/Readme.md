@@ -36,7 +36,7 @@ Contents
 ### Footprints
   
 
-|||||
+|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
@@ -67,6 +67,9 @@ Contents
 - oompIden: template;XXXX-0603-X-XXXX-XX-iden
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
+- footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
+- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
 
 
 

@@ -8,7 +8,6 @@ Contents
 * [HEAF-02-W-PI10-01>2 mm 10 Pin White Female Header](#heaf-02-w-pi10-012-mm-10-pin-white-female-header)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

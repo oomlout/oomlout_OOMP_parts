@@ -8,7 +8,6 @@ Contents
 * [SENS-3528-X-UVUV-01>SMD (3528) Ultraviolet Sensor](#sens-3528-x-uvuv-01smd-3528-ultraviolet-sensor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

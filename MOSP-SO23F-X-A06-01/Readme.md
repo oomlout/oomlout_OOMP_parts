@@ -8,7 +8,6 @@ Contents
 * [MOSP-SO23F-X-A06-01>SMD (SOT-23F) 6 Amp P-Ch. MOSFET](#mosp-so23f-x-a06-01smd-sot-23f-6-amp-p-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

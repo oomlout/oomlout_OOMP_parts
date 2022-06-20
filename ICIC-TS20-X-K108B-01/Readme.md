@@ -8,7 +8,6 @@ Contents
 * [ICIC-TS20-X-K108B-01>20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)](#icic-ts20-x-k108b-0120-pin-smd-tssop-8-bit-level-shifter-txb0108pw)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

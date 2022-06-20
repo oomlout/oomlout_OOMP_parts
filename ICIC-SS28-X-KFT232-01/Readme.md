@@ -8,7 +8,6 @@ Contents
 * [ICIC-SS28-X-KFT232-01>28 Pin SMD (SSOP) USB-Serial (FT232RL)](#icic-ss28-x-kft232-0128-pin-smd-ssop-usb-serial-ft232rl)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

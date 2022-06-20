@@ -8,7 +8,6 @@ Contents
 * [MOSN-T220-X-A23-01>TO-220 23 Amp N-Ch. MOSFET](#mosn-t220-x-a23-01to-220-23-amp-n-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

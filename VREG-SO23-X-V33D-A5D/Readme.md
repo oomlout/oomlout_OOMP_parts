@@ -8,7 +8,6 @@ Contents
 * [VREG-SO23-X-V33D-A5D>SMD (SOT-23) 3.3v Voltage Regulator 500 mA](#vreg-so23-x-v33d-a5dsmd-sot-23-33v-voltage-regulator-500-ma)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [XTAL-5032-X-MZ8-01>SMD (5032) 8 MHz Crystal](#xtal-5032-x-mz8-01smd-5032-8-mhz-crystal)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [REFU-1206-X-A075D-V16>SMD (1206) 750 mA Resetable Fuse 16v](#refu-1206-x-a075d-v16smd-1206-750-ma-resetable-fuse-16v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

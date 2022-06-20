@@ -8,7 +8,6 @@ Contents
 * [INDU-0402-X-NH33D-01>SMD (0402) 3.3 NH Inductor](#indu-0402-x-nh33d-01smd-0402-33-nh-inductor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

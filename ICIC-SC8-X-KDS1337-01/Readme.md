@@ -8,7 +8,6 @@ Contents
 * [ICIC-SC8-X-KDS1337-01>8 Pin SMD (SOIC) Real Time Clock (DS1337)](#icic-sc8-x-kds1337-018-pin-smd-soic-real-time-clock-ds1337)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

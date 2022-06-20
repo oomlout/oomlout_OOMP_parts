@@ -8,8 +8,8 @@ Contents
 * [CAPC-0402-X-NF100-V10>SMD (0402) 100 nF Capacitor (Ceramic) 10v](#capc-0402-x-nf100-v10smd-0402-100-nf-capacitor-ceramic-10v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
   
@@ -31,13 +31,15 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## EDA
-
-### Footprints
+## Labels
+  
   
 
-|||||
-| :---: | :---: | :---: | :---: |
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-2X11PI-RS>2.54 mm 22 Pin (2x11) Header Right Angle (SMD)](#head-i01-x-2x11pi-rs254-mm-22-pin-2x11-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

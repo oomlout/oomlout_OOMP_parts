@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O331-01>SMD (0805) 330 Ohm Resistor](#rese-0805-x-o331-01smd-0805-330-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

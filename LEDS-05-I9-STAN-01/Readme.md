@@ -8,7 +8,6 @@ Contents
 * [LEDS-05-I9-STAN-01>5 mm IR (940 nm) LED](#leds-05-i9-stan-015-mm-ir-940-nm-led)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

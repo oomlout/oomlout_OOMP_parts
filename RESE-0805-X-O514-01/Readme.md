@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O514-01>SMD (0805) 510k Ohm Resistor](#rese-0805-x-o514-01smd-0805-510k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

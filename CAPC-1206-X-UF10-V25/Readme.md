@@ -8,7 +8,6 @@ Contents
 * [CAPC-1206-X-UF10-V25>SMD (1206) 10 uF Capacitor (Ceramic) 25v](#capc-1206-x-uf10-v25smd-1206-10-uf-capacitor-ceramic-25v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

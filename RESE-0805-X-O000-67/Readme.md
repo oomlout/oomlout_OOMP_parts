@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O000-67>SMD (0805) 0 Ohm Resistor 1%](#rese-0805-x-o000-67smd-0805-0-ohm-resistor-1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -23,12 +22,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
-
 ### Symbols
 
 ## Tags
@@ -41,6 +34,7 @@ Contents
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O000
 - oompIndex: 67
 - oompVersion: 999
 - ooWidth: 1.25mm

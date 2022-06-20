@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O121-67>SMD (0805) 120 Ohm Resistor 1%](#rese-0805-x-o121-67smd-0805-120-ohm-resistor-1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

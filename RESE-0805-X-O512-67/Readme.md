@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O512-67>SMD (0805) 5.1k Ohm Resistor 1%](#rese-0805-x-o512-67smd-0805-51k-ohm-resistor-1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

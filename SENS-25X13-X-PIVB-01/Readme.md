@@ -8,7 +8,6 @@ Contents
 * [SENS-25X13-X-PIVB-01>25 x 13 mm Piezo Vibration Sensor](#sens-25x13-x-pivb-0125-x-13-mm-piezo-vibration-sensor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

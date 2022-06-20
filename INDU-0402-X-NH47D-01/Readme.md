@@ -8,7 +8,6 @@ Contents
 * [INDU-0402-X-NH47D-01>SMD (0402) 4.7 nH Inductor](#indu-0402-x-nh47d-01smd-0402-47-nh-inductor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

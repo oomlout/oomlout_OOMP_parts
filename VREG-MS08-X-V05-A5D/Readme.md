@@ -8,7 +8,6 @@ Contents
 * [VREG-MS08-X-V05-A5D>8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA](#vreg-ms08-x-v05-a5d8-pin-smd-msop-5v-voltage-regulator-500-ma)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

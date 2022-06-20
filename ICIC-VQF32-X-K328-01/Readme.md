@@ -8,7 +8,6 @@ Contents
 * [ICIC-VQF32-X-K328-01>32 Pin SMD (VQFN) AtMega328P](#icic-vqf32-x-k328-0132-pin-smd-vqfn-atmega328p)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-2X13PI-RS>2.54 mm 26 Pin (2x13) Header Right Angle (SMD)](#head-i01-x-2x13pi-rs254-mm-26-pin-2x13-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

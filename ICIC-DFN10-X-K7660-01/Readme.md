@@ -8,7 +8,6 @@ Contents
 * [ICIC-DFN10-X-K7660-01>SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)](#icic-dfn10-x-k7660-01smd-dfn-10-3-axis-accelerometer-mma7660fcr1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [VREG-SO235-X-ADJU-AB>SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A](#vreg-so235-x-adju-absmd-sot-23-5-adjustable-voltage-regulator-12-a)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

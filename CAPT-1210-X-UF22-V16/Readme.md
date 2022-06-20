@@ -8,7 +8,6 @@ Contents
 * [CAPT-1210-X-UF22-V16>SMD (1210) 22 uF Capacitor (Tantalum) 16v](#capt-1210-x-uf22-v16smd-1210-22-uf-capacitor-tantalum-16v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

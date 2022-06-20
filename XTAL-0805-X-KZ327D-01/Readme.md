@@ -8,7 +8,6 @@ Contents
 * [XTAL-0805-X-KZ327D-01>SMD (0805) 32.768 kHz Crystal](#xtal-0805-x-kz327d-01smd-0805-32768-khz-crystal)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

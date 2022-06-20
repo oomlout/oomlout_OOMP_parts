@@ -8,7 +8,6 @@ Contents
 * [LEDS-5050-RGB-K2812-01>SMD (5050) Smart Controller (WS2812B) RGB LED](#leds-5050-rgb-k2812-01smd-5050-smart-controller-ws2812b-rgb-led)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

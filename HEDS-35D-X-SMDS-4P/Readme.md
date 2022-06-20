@@ -8,7 +8,6 @@ Contents
 * [HEDS-35D-X-SMDS-4P>3.5 mm SMD Headphone Socket (4 Pin)](#heds-35d-x-smds-4p35-mm-smd-headphone-socket-4-pin)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

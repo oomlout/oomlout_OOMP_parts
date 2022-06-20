@@ -8,7 +8,6 @@ Contents
 * [POAD-ACUS-X-V05U-A1>American Style (120v) 5v (USB) Power Adapter 1 A](#poad-acus-x-v05u-a1american-style-120v-5v-usb-power-adapter-1-a)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

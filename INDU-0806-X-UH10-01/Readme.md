@@ -8,7 +8,6 @@ Contents
 * [INDU-0806-X-UH10-01>SMD (0806) 10 uH Inductor](#indu-0806-x-uh10-01smd-0806-10-uh-inductor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

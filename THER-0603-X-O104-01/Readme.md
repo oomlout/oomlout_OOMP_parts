@@ -8,7 +8,6 @@ Contents
 * [THER-0603-X-O104-01>SMD (0603) 100k Ohm Thermistor](#ther-0603-x-o104-01smd-0603-100k-ohm-thermistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

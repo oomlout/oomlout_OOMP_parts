@@ -8,7 +8,6 @@ Contents
 * [PRIV-M2-X-05-01>M2 x 5 mm Plastic Rivet](#priv-m2-x-05-01m2-x-5-mm-plastic-rivet)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

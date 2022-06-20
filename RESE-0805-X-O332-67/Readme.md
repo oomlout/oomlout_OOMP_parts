@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O332-67>SMD (0805) 3.3k Ohm Resistor 1%](#rese-0805-x-o332-67smd-0805-33k-ohm-resistor-1)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

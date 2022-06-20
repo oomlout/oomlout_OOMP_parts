@@ -8,7 +8,6 @@ Contents
 * [ICIC-TS24-X-K9221-01>24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)](#icic-ts24-x-k9221-0124-pin-smd-tssop-12-channel-constant-current-led-driver-my9221)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

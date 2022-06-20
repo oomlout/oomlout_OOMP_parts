@@ -8,7 +8,6 @@ Contents
 * [XTAL-3215-X-MZ8-01>SMD (3215) 8 MHz Crystal](#xtal-3215-x-mz8-01smd-3215-8-mhz-crystal)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

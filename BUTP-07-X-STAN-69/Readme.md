@@ -7,8 +7,8 @@ Contents
 
 * [BUTP-07-X-STAN-69> 7 mm Pushbutton Panel Mount ](#butp-07-x-stan-69-7-mm-pushbutton-panel-mount-)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -21,13 +21,15 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## EDA
-
-### Footprints
+## Labels
+  
   
 
-|||||
-| :---: | :---: | :---: | :---: |
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
 
 ### Symbols
 

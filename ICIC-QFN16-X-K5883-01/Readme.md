@@ -8,7 +8,6 @@ Contents
 * [ICIC-QFN16-X-K5883-01>16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)](#icic-qfn16-x-k5883-0116-pin-smd-qfn-3-axis-digital-compass-hmc5883l)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

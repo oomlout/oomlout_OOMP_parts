@@ -8,7 +8,6 @@ Contents
 * [MOSP-T220-X-A19-01>TO-220 19 Amp P-Ch. MOSFET](#mosp-t220-x-a19-01to-220-19-amp-p-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

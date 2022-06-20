@@ -8,7 +8,6 @@ Contents
 * [DISP-10SEL-GYR-STAN-01>10 Segment LED Bargraph Green, Yellow, Red Display](#disp-10sel-gyr-stan-0110-segment-led-bargraph-green-yellow-red-display)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

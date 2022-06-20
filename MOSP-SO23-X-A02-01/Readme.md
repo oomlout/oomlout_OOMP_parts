@@ -8,7 +8,6 @@ Contents
 * [MOSP-SO23-X-A02-01>SMD (SOT-23) 2 Amp P-Ch. MOSFET](#mosp-so23-x-a02-01smd-sot-23-2-amp-p-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

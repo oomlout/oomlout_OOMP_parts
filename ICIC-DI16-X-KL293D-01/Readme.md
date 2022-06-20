@@ -8,7 +8,6 @@ Contents
 * [ICIC-DI16-X-KL293D-01>16 Pin DIP Dual H-Bridge (L293D)](#icic-di16-x-kl293d-0116-pin-dip-dual-h-bridge-l293d)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [HEAF-I01-X-PI10-01>2.54 mm 10 Pin Female Header](#heaf-i01-x-pi10-01254-mm-10-pin-female-header)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

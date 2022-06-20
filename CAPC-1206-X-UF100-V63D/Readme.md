@@ -8,7 +8,6 @@ Contents
 * [CAPC-1206-X-UF100-V63D>SMD (1206) 100 uF Capacitor (Ceramic) 6.3v](#capc-1206-x-uf100-v63dsmd-1206-100-uf-capacitor-ceramic-63v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

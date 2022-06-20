@@ -8,8 +8,8 @@ Contents
 * [BAHO-CR1220-M-SMDS-01>CR1220 SMD Metal Battery Holder](#baho-cr1220-m-smds-01cr1220-smd-metal-battery-holder)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
   
@@ -31,13 +31,15 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## EDA
-
-### Footprints
+## Labels
+  
   
 
-|||||
-| :---: | :---: | :---: | :---: |
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
 
 ### Symbols
 

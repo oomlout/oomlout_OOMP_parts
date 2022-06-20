@@ -8,7 +8,6 @@ Contents
 * [TRNN-T220-X-A05-01>TO-220 5 Amp NPN Transistor](#trnn-t220-x-a05-01to-220-5-amp-npn-transistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

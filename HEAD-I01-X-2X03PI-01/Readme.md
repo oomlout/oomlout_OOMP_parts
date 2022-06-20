@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-2X03PI-01>2.54 mm 6 Pin (2x3) Header](#head-i01-x-2x03pi-01254-mm-6-pin-2x3-header)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

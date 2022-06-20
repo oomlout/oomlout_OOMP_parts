@@ -8,7 +8,6 @@ Contents
 * [ICIC-UDF6-X-K2659-01>SMD (UDFN-6) GPS Amplifier (MAX2659)](#icic-udf6-x-k2659-01smd-udfn-6-gps-amplifier-max2659)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

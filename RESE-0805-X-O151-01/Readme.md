@@ -8,7 +8,6 @@ Contents
 * [RESE-0805-X-O151-01>SMD (0805) 150 Ohm Resistor](#rese-0805-x-o151-01smd-0805-150-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

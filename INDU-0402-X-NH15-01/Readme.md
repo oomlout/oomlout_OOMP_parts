@@ -8,7 +8,6 @@ Contents
 * [INDU-0402-X-NH15-01>SMD (0402) 15 nH Inductor](#indu-0402-x-nh15-01smd-0402-15-nh-inductor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

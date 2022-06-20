@@ -8,7 +8,6 @@ Contents
 * [INDU-39D-X-UH47D-01>3.9 mm 4.7 uH Inductor](#indu-39d-x-uh47d-0139-mm-47-uh-inductor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

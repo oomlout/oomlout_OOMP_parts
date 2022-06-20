@@ -8,7 +8,6 @@ Contents
 * [CAPT-2917-X-UF470-V63D>SMD (2917) 470 uF Capacitor (Tantalum) 6.3v](#capt-2917-x-uf470-v63dsmd-2917-470-uf-capacitor-tantalum-63v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

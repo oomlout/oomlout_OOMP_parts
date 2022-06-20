@@ -8,7 +8,6 @@ Contents
 * [POTE-07-X-O102-01>7 mm 1k Ohm Potentiometer](#pote-07-x-o102-017-mm-1k-ohm-potentiometer)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

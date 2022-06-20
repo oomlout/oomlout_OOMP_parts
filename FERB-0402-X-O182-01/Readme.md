@@ -8,7 +8,6 @@ Contents
 * [FERB-0402-X-O182-01>SMD (0402) 1.8k Ohm Ferrite Bead](#ferb-0402-x-o182-01smd-0402-18k-ohm-ferrite-bead)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

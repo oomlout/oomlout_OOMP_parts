@@ -8,7 +8,6 @@ Contents
 * [ICIC-SP20-X-K1620-01> 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) ](#icic-sp20-x-k1620-01-20-pin-smd-sop-7-segment-8-digit-led-driver-tm1620-)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

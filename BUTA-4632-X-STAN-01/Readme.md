@@ -7,8 +7,8 @@ Contents
 
 * [BUTA-4632-X-STAN-01>SMD (4632) Pushbutton (Tactile)](#buta-4632-x-stan-01smd-4632-pushbutton-tactile)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -21,13 +21,15 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## EDA
-
-### Footprints
+## Labels
+  
   
 
-|||||
-| :---: | :---: | :---: | :---: |
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+
+## EDA
 
 ### Symbols
 

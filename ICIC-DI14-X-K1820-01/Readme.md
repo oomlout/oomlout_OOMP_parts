@@ -8,7 +8,6 @@ Contents
 * [ICIC-DI14-X-K1820-01>14 Pin DIP Voice Recorder (ISD1820P)](#icic-di14-x-k1820-0114-pin-dip-voice-recorder-isd1820p)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

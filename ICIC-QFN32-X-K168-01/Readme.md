@@ -8,7 +8,6 @@ Contents
 * [ICIC-QFN32-X-K168-01>32 Pin SMD (QFN) AtMega168P](#icic-qfn32-x-k168-0132-pin-smd-qfn-atmega168p)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

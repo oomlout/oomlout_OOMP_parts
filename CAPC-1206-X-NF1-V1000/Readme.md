@@ -8,7 +8,6 @@ Contents
 * [CAPC-1206-X-NF1-V1000>SMD (1206) 1 nF Capacitor (Ceramic) 1000v](#capc-1206-x-nf1-v1000smd-1206-1-nf-capacitor-ceramic-1000v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

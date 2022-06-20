@@ -8,7 +8,6 @@ Contents
 * [FERB-0805-X-O221-01>SMD (0805) 220 Ohm Ferrite Bead](#ferb-0805-x-o221-01smd-0805-220-ohm-ferrite-bead)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

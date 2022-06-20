@@ -8,7 +8,6 @@ Contents
 * [CAPT-1210-X-UF100-V10>SMD (1210) 100 uF Capacitor (Tantalum) 10v](#capt-1210-x-uf100-v10smd-1210-100-uf-capacitor-tantalum-10v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

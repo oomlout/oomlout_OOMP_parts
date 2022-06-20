@@ -8,7 +8,6 @@ Contents
 * [VREG-SO23-X-V3-AD>SMD (SOT-23) 3v Voltage Regulator 250 mA](#vreg-so23-x-v3-adsmd-sot-23-3v-voltage-regulator-250-ma)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

@@ -8,7 +8,6 @@ Contents
 * [HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header (SMD)](#heaf-02-x-pi10-sm2-mm-10-pin-female-header-smd)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

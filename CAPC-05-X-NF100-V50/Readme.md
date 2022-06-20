@@ -8,7 +8,6 @@ Contents
 * [CAPC-05-X-NF100-V50>5 mm 100 nF Capacitor (Ceramic) 50v](#capc-05-x-nf100-v505-mm-100-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

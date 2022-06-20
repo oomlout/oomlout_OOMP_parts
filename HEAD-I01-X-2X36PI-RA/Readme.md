@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-2X36PI-RA> 2.54 mm 72 Pin (2x36) Header Right Angle ](#head-i01-x-2x36pi-ra-254-mm-72-pin-2x36-header-right-angle-)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

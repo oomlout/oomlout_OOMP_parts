@@ -8,7 +8,6 @@ Contents
 * [ICIC-VQF44-X-K32U4-01>44 Pin SMD (VQFN) AtMega32U4](#icic-vqf44-x-k32u4-0144-pin-smd-vqfn-atmega32u4)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

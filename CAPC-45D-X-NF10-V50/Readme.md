@@ -8,7 +8,6 @@ Contents
 * [CAPC-45D-X-NF10-V50>4.5 mm 10 nF Capacitor (Ceramic) 50v](#capc-45d-x-nf10-v5045-mm-10-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

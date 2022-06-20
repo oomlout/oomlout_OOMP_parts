@@ -8,7 +8,6 @@ Contents
 * [DCJP-21D-X-MHI03-69> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount ](#dcjp-21d-x-mhi03-69-21-mm-7-mm-mounting-hole-dc-jack-panel-mount-)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

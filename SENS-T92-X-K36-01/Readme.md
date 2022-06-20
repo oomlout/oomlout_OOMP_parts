@@ -8,7 +8,6 @@ Contents
 * [SENS-T92-X-K36-01>TO-92 Temperature (TMP36) Sensor](#sens-t92-x-k36-01to-92-temperature-tmp36-sensor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

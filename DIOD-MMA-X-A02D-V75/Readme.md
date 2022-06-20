@@ -8,7 +8,6 @@ Contents
 * [DIOD-MMA-X-A02D-V75>SMD (Mini MELF) 200 mA Diode 75v](#diod-mma-x-a02d-v75smd-mini-melf-200-ma-diode-75v)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

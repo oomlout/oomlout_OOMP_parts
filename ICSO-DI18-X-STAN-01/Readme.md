@@ -8,7 +8,6 @@ Contents
 * [ICSO-DI18-X-STAN-01>18 Pin DIP IC Socket](#icso-di18-x-stan-0118-pin-dip-ic-socket)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

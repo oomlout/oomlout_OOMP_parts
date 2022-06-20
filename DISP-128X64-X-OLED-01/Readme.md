@@ -8,7 +8,6 @@ Contents
 * [DISP-128X64-X-OLED-01>128 x 64 Pixels OLED Display](#disp-128x64-x-oled-01128-x-64-pixels-oled-display)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

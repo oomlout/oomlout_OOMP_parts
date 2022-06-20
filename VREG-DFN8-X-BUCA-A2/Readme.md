@@ -8,7 +8,6 @@ Contents
 * [VREG-DFN8-X-BUCA-A2>SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A](#vreg-dfn8-x-buca-a2smd-dfn-8-adjustable-buck-voltage-regulator-2-a)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

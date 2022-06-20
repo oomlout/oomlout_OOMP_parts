@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-PI10-RS>2.54 mm 10 Pin Header Right Angle (SMD)](#head-i01-x-pi10-rs254-mm-10-pin-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

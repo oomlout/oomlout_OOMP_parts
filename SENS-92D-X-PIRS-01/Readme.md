@@ -8,7 +8,6 @@ Contents
 * [SENS-92D-X-PIRS-01>9.2 mm PIRS Sensor](#sens-92d-x-pirs-0192-mm-pirs-sensor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

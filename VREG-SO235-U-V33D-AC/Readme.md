@@ -8,7 +8,6 @@ Contents
 * [VREG-SO235-U-V33D-AC> SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA ](#vreg-so235-u-v33d-ac-smd-sot-23-5-33v-voltage-regulator-150-ma-)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

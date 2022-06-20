@@ -8,7 +8,6 @@ Contents
 * [TRNP-SO23-X-A02D-01>SMD (SOT-23) 200 mA PNP Transistor](#trnp-so23-x-a02d-01smd-sot-23-200-ma-pnp-transistor)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

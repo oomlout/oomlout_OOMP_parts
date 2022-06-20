@@ -8,7 +8,6 @@ Contents
 * [HEAD-I01-X-2X04PI-RA> 2.54 mm 8 Pin (2x4) Header Right Angle ](#head-i01-x-2x04pi-ra-254-mm-8-pin-2x4-header-right-angle-)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

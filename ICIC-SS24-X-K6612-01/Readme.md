@@ -8,7 +8,6 @@ Contents
 * [ICIC-SS24-X-K6612-01>24 Pin SMD (SSOP) Dual H-Bridge (TB6612)](#icic-ss24-x-k6612-0124-pin-smd-ssop-dual-h-bridge-tb6612)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 

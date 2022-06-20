@@ -8,7 +8,6 @@ Contents
 * [USBS-TB-X-THTH-01>Type B Through Hole USB Socket](#usbs-tb-x-thth-01type-b-through-hole-usb-socket)
 	* [Datasheets](#datasheets)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
@@ -22,12 +21,6 @@ Contents
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 
