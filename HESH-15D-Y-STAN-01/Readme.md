@@ -1,0 +1,59 @@
+
+
+
+
+Contents
+========
+
+* [HESH-15D-Y-STAN-01>1.5 mm Yellow Heat Shrink](#hesh-15d-y-stan-0115-mm-yellow-heat-shrink)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# HESH-15D-Y-STAN-01>1.5 mm Yellow Heat Shrink
+
+- ID: HESH-15D-Y-STAN-01
+- Name: HESH-15D-Y-STAN-01
+
+## Images
+  
+  
+
+|Main|Reference|
+| :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 287
+- index: 4013
+- oompID: HESH-15D-Y-STAN-01
+- name: 1.5 mm Yellow Heat Shrink
+- hexID: HS1Y
+- oompSort: 0101Y
+- oompType: HESH
+- oompSize: 15D
+- oompColor: Y
+- oompDesc: STAN
+- oompIndex: 01
+- oompVersion: 27
+- ooShrinkRatio: 2:1
+- oompClass: Wiring
+- oompClassCode: WIRE

@@ -1,0 +1,58 @@
+
+
+
+
+Contents
+========
+
+* [OPAM-SC14-X-KLMV324-01>SMD (SOIC-14) LMV324 Op Amp](#opam-sc14-x-klmv324-01smd-soic-14-lmv324-op-amp)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# OPAM-SC14-X-KLMV324-01>SMD (SOIC-14) LMV324 Op Amp
+
+- ID: OPAM-SC14-X-KLMV324-01
+- Name: OPAM-SC14-X-KLMV324-01
+
+## Images
+  
+  
+
+|Main|Reference|Bottom|
+| :---: | :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 421
+- oompID: OPAM-SC14-X-KLMV324-01
+- name: SMD (SOIC-14) LMV324 Op Amp
+- hexID: OAS324
+- oompSort: 
+- oompClass: Surface Mount
+- oompClassCode: SMDS
+- oompType: OPAM
+- oompSize: SC14
+- oompColor: X
+- oompDesc: KLMV324
+- oompIndex: 01
+- oompVersion: 40
+- ooDesignator: U1

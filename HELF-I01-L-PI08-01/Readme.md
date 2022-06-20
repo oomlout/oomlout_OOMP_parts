@@ -1,0 +1,58 @@
+
+
+
+
+Contents
+========
+
+* [HELF-I01-L-PI08-01>2.54 mm 8 Pin Blue Female Header (Long)](#helf-i01-l-pi08-01254-mm-8-pin-blue-female-header-long)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# HELF-I01-L-PI08-01>2.54 mm 8 Pin Blue Female Header (Long)
+
+- ID: HELF-I01-L-PI08-01
+- Name: HELF-I01-L-PI08-01
+
+## Images
+  
+  
+
+|Main|
+| :---: |
+|[![Main](image.jpg)](image.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 253
+- oompID: HELF-I01-L-PI08-01
+- name: 2.54 mm 8 Pin Blue Female Header (Long)
+- hexID: HFL08L
+- oompSort: 
+- oompClass: Through Hole
+- oompClassCode: THTH
+- oompType: HELF
+- oompSize: I01
+- oompColor: L
+- oompDesc: PI08
+- oompIndex: 01
+- oompVersion: 40
+- ooDesignator: J1

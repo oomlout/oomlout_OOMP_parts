@@ -1,0 +1,52 @@
+
+
+
+
+Contents
+========
+
+* [CAPT-1206-X-UF22-V10>SMD (1206) 22 uF Capacitor (Tantalum) 10v](#capt-1206-x-uf22-v10smd-1206-22-uf-capacitor-tantalum-10v)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# CAPT-1206-X-UF22-V10>SMD (1206) 22 uF Capacitor (Tantalum) 10v
+
+- ID: CAPT-1206-X-UF22-V10
+- Name: CAPT-1206-X-UF22-V10
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 111
+- oompID: CAPT-1206-X-UF22-V10
+- name: SMD (1206) 22 uF Capacitor (Tantalum) 10v
+- hexID: C1U022
+- oompSort: CAPT1206UF22
+- oompType: CAPT
+- oompSize: 1206
+- oompColor: X
+- oompDesc: UF22
+- oompIndex: V10
+- oompVersion: 98
+- oompBbls: template;XXXX-1206-X-XXXX-XX-bbls
+- oompDiag: template;XXXX-1206-X-XXXX-XX-diag
+- oompIden: template;XXXX-1206-X-XXXX-XX-iden
+- oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
+- oompSimp: template;XXXX-1206-X-XXXX-XX-simp
+- ooDesignator: C1

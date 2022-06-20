@@ -1,0 +1,57 @@
+
+
+
+
+Contents
+========
+
+* [VREG-MS08-X-ADJU-A1>8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A](#vreg-ms08-x-adju-a18-pin-smd-msop-adjustable-voltage-regulator-1-a)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# VREG-MS08-X-ADJU-A1>8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A
+
+- ID: VREG-MS08-X-ADJU-A1
+- Name: VREG-MS08-X-ADJU-A1
+
+## Images
+  
+  
+
+|Main|Reference|Bottom|
+| :---: | :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 805
+- oompID: VREG-MS08-X-ADJU-A1
+- name: 8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A
+- hexID: VS8A1
+- oompSort: VREGMS08ADJU
+- oompType: VREG
+- oompSize: MS08
+- oompColor: X
+- oompDesc: ADJU
+- oompIndex: A1
+- oompVersion: 98
+- ooNumPins: 8
+- ooDesignator: U

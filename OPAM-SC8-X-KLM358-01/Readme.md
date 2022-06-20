@@ -1,0 +1,58 @@
+
+
+
+
+Contents
+========
+
+* [OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp](#opam-sc8-x-klm358-01smd-soic-8-lm358-op-amp)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp
+
+- ID: OPAM-SC8-X-KLM358-01
+- Name: OPAM-SC8-X-KLM358-01
+
+## Images
+  
+  
+
+|Main|Reference|Bottom|
+| :---: | :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 423
+- oompID: OPAM-SC8-X-KLM358-01
+- name: SMD (SOIC-8) LM358 Op Amp
+- hexID: OAS358
+- oompSort: 
+- oompClass: Surface Mount
+- oompClassCode: SMDS
+- oompType: OPAM
+- oompSize: SC8
+- oompColor: X
+- oompDesc: KLM358
+- oompIndex: 01
+- oompVersion: 40
+- ooDesignator: U1

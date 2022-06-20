@@ -1,0 +1,48 @@
+
+
+
+
+Contents
+========
+
+* [USBS-MC-X-SMDS-04>Micro SMD USB Socket](#usbs-mc-x-smds-04micro-smd-usb-socket)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# USBS-MC-X-SMDS-04>Micro SMD USB Socket
+
+- ID: USBS-MC-X-SMDS-04
+- Name: USBS-MC-X-SMDS-04
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 799
+- oompID: USBS-MC-X-SMDS-04
+- name: Micro SMD USB Socket
+- hexID: USM4
+- oompSort: USBSMCSMDS
+- oompType: USBS
+- oompSize: MC
+- oompColor: X
+- oompDesc: SMDS
+- oompIndex: 04
+- oompVersion: 98
+- oompSchem: template;USBS-XXXX-X-XXXX-XX-schem
+- ooDesignator: J1

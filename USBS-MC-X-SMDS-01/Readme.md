@@ -1,0 +1,65 @@
+
+
+
+
+Contents
+========
+
+* [USBS-MC-X-SMDS-01>Micro SMD USB Socket](#usbs-mc-x-smds-01micro-smd-usb-socket)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# USBS-MC-X-SMDS-01>Micro SMD USB Socket
+
+- ID: USBS-MC-X-SMDS-01
+- Name: USBS-MC-X-SMDS-01
+
+## Images
+  
+  
+
+|Main|Bottom|
+| :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 796
+- index: 4317
+- oompID: USBS-MC-X-SMDS-01
+- name: Micro SMD USB Socket
+- hexID: USM
+- oompSort: MCMC
+- oompType: USBS
+- oompSize: MC
+- oompColor: X
+- oompDesc: SMDS
+- oompIndex: 01
+- oompVersion: 99
+- ooManufacturer: C-SUNT
+- ooManufacturerPartNumber: ST-USB-001E
+- ooSEEEDsku: 3400150P1
+- ooSEEEDdesc: MICRO USB B SMD R/A
+- ooSEEED3dModel: http://www.seeedstudio.com/wiki/File:B-SMD-5P.zip
+- oompClass: Surface Mount
+- oompClassCode: SMDS
+- oompSchem: template;USBS-XXXX-X-XXXX-XX-schem
+- ooDesignator: J1

@@ -54,49 +54,51 @@ Contents
 ### Footprints
   
 
-|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK_LONGPADS/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_NO_SILK/image_140.png) [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_NO_SILK/)|
-| :---: | :---: | :---: | :---: |
 |||||
+| :---: | :---: | :---: | :---: |
 
 ### Symbols
 
 ## Tags
 
-- index: 9
+- index: 206
+- index: 9876
+- oompID: HEAD-I01-X-PI05-01
+- name: 2.54 mm 5 Pin Header
+- hexID: H05
+- oompSort: 010105
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI05
 - oompIndex: 01
-- hexID: H05
-- oompSort: 
-- oompClass: Through Hole
-- oompClassCode: THTH
+- oompVersion: 99
 - ooPitch: 2.54
 - ooPinHeight: 11.60
 - ooPinWidth: 0.64
 - ooPinOffset: 1.53
-- oompBbls: variable;pins;5
-- oompBbls: template;XXXX-I01-X-XX-01-bbls
-- oompDiag: variable;pins;5
-- oompDiag: template;HEAD-I01-X-XX-01-diag
-- oompIden: variable;pins;5
-- oompIden: template;XXXX-I01-X-XX-01-iden
-- oompSchem: variable;pins;5
-- oompSchem: template;XXXX-XX-X-XX-01-PINS-ODD-schem
-- oompSimp: variable;pins;5
-- oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooNumPins: 5
 - ooFootprint: OOMP-HEAD-I01-X-PI05-01
+- oompClass: Through Hole Component
+- oompClassCode: THTH
+- oompBbls: variable;clear
+- oompBbls: variable;pins;5
+- oompBbls: template;XXXX-I01-X-XX-01-bbls
+- oompDiag: variable;clear
+- oompDiag: variable;pins;5
+- oompDiag: template;HEAD-I01-X-XX-01-diag
+- oompIden: variable;clear
+- oompIden: variable;pins;5
+- oompIden: template;XXXX-I01-X-XX-01-iden
+- oompSchem: variable;clear
+- oompSchem: variable;pins;5
+- oompSchem: template;XXXX-XX-X-XX-01-PINS-ODD-schem
+- oompSimp: variable;clear
+- oompSimp: variable;pins;5
+- oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI05-XX
 - pcbFootprint: HEAD-I01-X-PI05-01
-- kicadSymbol: Connector/Conn_01x05_Male
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X05_NO_SILK
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x05_P2.54mm_Vertical
 
 
 

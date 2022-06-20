@@ -61,18 +61,20 @@ Contents
 
 ## Tags
 
-- index: 9183
+- index: 425
+- oompID: PHTR-05-I9-STAN-01
+- name: 5 mm IR (940 nm) Phototransistor
+- hexID: PT5I9
+- oompSort: 
+- oompClass: Through Hole
+- oompClassCode: THTH
 - oompType: PHTR
 - oompSize: 05
 - oompColor: I9
 - oompDesc: STAN
 - oompIndex: 01
-- hexID: PT5I9
-- oompClass: Through Hole
-- oompClassCode: THTH
+- oompVersion: 40
 - ooDesignator: Q1
-- kicadSymbol: Device>R_Photo
-- kicadFootprint: OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical
 
 
 

@@ -1,0 +1,58 @@
+
+
+
+
+Contents
+========
+
+* [NSCR-M3-X-25-70>M3 x 25 mm Nylon Screw Cross Head](#nscr-m3-x-25-70m3-x-25-mm-nylon-screw-cross-head)
+	* [Images](#images)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# NSCR-M3-X-25-70>M3 x 25 mm Nylon Screw Cross Head
+
+- ID: NSCR-M3-X-25-70
+- Name: NSCR-M3-X-25-70
+
+## Images
+  
+  
+
+|Main|Reference|
+| :---: | :---: |
+|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 418
+- index: 4210
+- oompID: NSCR-M3-X-25-70
+- name: M3 x 25 mm Nylon Screw Cross Head
+- hexID: NN25
+- oompSort: M3M325
+- oompType: NSCR
+- oompSize: M3
+- oompColor: X
+- oompDesc: 25
+- oompIndex: 70
+- oompVersion: 31
+- oompClass: Hardware
+- oompClassCode: HARD

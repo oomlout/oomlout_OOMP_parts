@@ -1,0 +1,53 @@
+
+
+
+
+Contents
+========
+
+* [HEAD-I01-X-2X10PI-RS>2.54 mm 20 Pin (2x10) Header Right Angle (SMD)](#head-i01-x-2x10pi-rs254-mm-20-pin-2x10-header-right-angle-smd)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# HEAD-I01-X-2X10PI-RS>2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
+
+- ID: HEAD-I01-X-2X10PI-RS
+- Name: HEAD-I01-X-2X10PI-RS
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 191
+- oompID: HEAD-I01-X-PI2x10-RS
+- name: 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
+- oompSort: 
+- oompType: HEAD
+- oompSize: I01
+- oompColor: X
+- oompDesc: 2X10PI
+- oompIndex: RS
+- oompVersion: 999
+- hexID: HRS2X10
+- ooPitch: 2.54 mm
+- ooWidth: 25.4 mm
+- ooHeight: 5.08 mm
+- ooLength: 17.66 mm
+- numPins: 20
+- numRows: 2
+- oompFootprint: HEAD-I01-X-PI2x10-RS

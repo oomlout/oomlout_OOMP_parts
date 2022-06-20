@@ -70,12 +70,10 @@ Contents
 
 ## Tags
 
-- index: 9507
-- oompType: RESE
-- oompSize: W04
-- oompColor: X
-- oompDesc: O561
-- oompIndex: 01
+- index: 750
+- index: 3981
+- oompID: RESE-W04-X-O561-01
+- name: 1/4 Watt 560 Ohm Resistor
 - hexID: R4561
 - oompSort: 0W040000560
 - oompType: RESE
@@ -90,7 +88,6 @@ Contents
 - ooMaterial: Carbon
 - ooMaxVoltage: 500 V
 - ooTolerance: 5%
-- ooDesignator: R1
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - colorBand1: GREEN
@@ -101,8 +98,7 @@ Contents
 - oompIden: template;RESE-W04-X-XXXX-XX-iden
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;RESE-W04-X-XXXX-XX-simp
-- kicadSymbol: Device>R
-- kicadFootprint: Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+- ooDesignator: R1
 
 
 

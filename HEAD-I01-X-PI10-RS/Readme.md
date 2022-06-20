@@ -1,0 +1,63 @@
+
+
+
+
+Contents
+========
+
+* [HEAD-I01-X-PI10-RS>2.54 mm 10 Pin Header Right Angle (SMD)](#head-i01-x-pi10-rs254-mm-10-pin-header-right-angle-smd)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# HEAD-I01-X-PI10-RS>2.54 mm 10 Pin Header Right Angle (SMD)
+
+- ID: HEAD-I01-X-PI10-RS
+- Name: HEAD-I01-X-PI10-RS
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 219
+- oompID: HEAD-I01-X-PI10-RS
+- name: 2.54 mm 10 Pin Header Right Angle (SMD)
+- oompType: HEAD
+- oompSize: I01
+- oompColor: X
+- oompDesc: PI10
+- oompIndex: RS
+- oompVersion: 999
+- ooNumPins: 2
+- oompBbls: variable;clear
+- oompBbls: variable;pins;10
+- oompBbls: template;HEAD-I01-X-XX-RS-bbls
+- oompDiag: variable;clear
+- oompDiag: variable;pins;10
+- oompDiag: template;HEAD-I01-X-XX-RS-diag
+- oompIden: variable;clear
+- oompIden: variable;pins;10
+- oompIden: template;HEAD-I01-X-XX-RS-iden
+- oompSimp: variable;clear
+- oompSimp: variable;pins;10
+- oompSimp: template;HEAD-I01-X-XX-RS-simp
+- oompSchem: variable;clear
+- oompSchem: variable;pins;10
+- oompSchem: template;XXXX-XX-X-XX-01-PINS-EVEN-schem
+- ooDesignator: J1
+- schematicSymbol: HEAD-XX-X-PI10-XX
+- pcbFootprint: HEAD-I01-X-PI10-RS

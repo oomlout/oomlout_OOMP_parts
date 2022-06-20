@@ -1,0 +1,48 @@
+
+
+
+
+Contents
+========
+
+* [DIOD-MMA-X-A02D-V75>SMD (Mini MELF) 200 mA Diode 75v](#diod-mma-x-a02d-v75smd-mini-melf-200-ma-diode-75v)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# DIOD-MMA-X-A02D-V75>SMD (Mini MELF) 200 mA Diode 75v
+
+- ID: DIOD-MMA-X-A02D-V75
+- Name: DIOD-MMA-X-A02D-V75
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 144
+- oompID: DIOD-MMA-X-A02D-V75
+- name: SMD (Mini MELF) 200 mA Diode 75v
+- hexID: DSM2D
+- oompSort: DIODMMAA02D
+- oompType: DIOD
+- oompSize: MMA
+- oompColor: X
+- oompDesc: A02D
+- oompIndex: V75
+- oompVersion: 98
+- oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
+- ooDesignator: D1

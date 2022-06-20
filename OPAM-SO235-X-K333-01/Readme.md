@@ -1,0 +1,47 @@
+
+
+
+
+Contents
+========
+
+* [OPAM-SO235-X-K333-01>SMD (SOT-23-5) OPA333 Op Amp](#opam-so235-x-k333-01smd-sot-23-5-opa333-op-amp)
+	* [Datasheets](#datasheets)
+	* [EDA](#eda)
+		* [Footprints](#footprints)
+		* [Symbols](#symbols)
+	* [Tags](#tags)
+
+# OPAM-SO235-X-K333-01>SMD (SOT-23-5) OPA333 Op Amp
+
+- ID: OPAM-SO235-X-K333-01
+- Name: OPAM-SO235-X-K333-01
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## EDA
+
+### Footprints
+  
+
+|||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+
+## Tags
+
+- index: 424
+- oompID: OPAM-SO235-X-K333-01
+- name: SMD (SOT-23-5) OPA333 Op Amp
+- hexID: OA333
+- oompSort: OPAMSO235K333
+- oompType: OPAM
+- oompSize: SO235
+- oompColor: X
+- oompDesc: K333
+- oompIndex: 01
+- oompVersion: 98
+- ooDesignator: U1
