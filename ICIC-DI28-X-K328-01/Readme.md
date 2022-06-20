@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-DI28-X-K328-01>28 Pin DIP AtMega328P
 
 - ID: ICIC-DI28-X-K328-01
@@ -103,3 +104,7 @@ Contents
 - oompDiag: template;ICIC-DI28-X-XXXX-01-diag
 - ooPackageMarking: ATMEGA328
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

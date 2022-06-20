@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICSO-DI28-X-STAN-01>28 Pin DIP IC Socket
 
 - ID: ICSO-DI28-X-STAN-01
@@ -64,3 +65,7 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

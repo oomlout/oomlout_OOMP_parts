@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # WIRS-G28-G-STAN-01>28 AWG Green Stranded Wire
 
 - ID: WIRS-G28-G-STAN-01
@@ -56,3 +57,7 @@ Contents
 - oompVersion: 28
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

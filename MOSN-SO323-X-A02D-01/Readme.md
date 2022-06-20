@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # MOSN-SO323-X-A02D-01>SMD (SOT-323) 200 mA N-Ch. MOSFET
 
 - ID: MOSN-SO323-X-A02D-01
@@ -63,3 +64,7 @@ Contents
 - oompSimp: template;XXXX-SO323-X-XXXX-01-simp
 - ooPackageMarking: K38
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

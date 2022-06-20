@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # USBS-MC-X-SMDS-01>Micro SMD USB Socket
 
 - ID: USBS-MC-X-SMDS-01
@@ -63,3 +64,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;USBS-XXXX-X-XXXX-XX-schem
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

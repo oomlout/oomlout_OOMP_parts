@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-DI28W-X-KLPC14-01>28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)
 
 - ID: ICIC-DI28W-X-KLPC14-01
@@ -58,3 +59,7 @@ Contents
 - ooNumPins: 28
 - ooFootprint: OOMP-ICIC-DI28W-X-XXXX-01
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

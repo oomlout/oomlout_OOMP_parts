@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp
 
 - ID: OPAM-SC8-X-KLM358-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-LG14-X-K345-01>14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
 
 - ID: ICIC-LG14-X-K345-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # XTAL-11-X-MZ25-01>11 mm 25 MHz Crystal
 
 - ID: XTAL-11-X-MZ25-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;XTAL-XXXX-X-XXXX-XX-schem
 - ooDesignator: X1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESA-1268-X-O102X4-01>SMD (1206-8) 1k Ohm (x4) Resistor Array
 
 - ID: RESA-1268-X-O102X4-01
@@ -61,3 +62,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;RESA-XXXX-X-XXX4-XX-schem
 - ooDesignator: RN1
+
+
+
+[im]: image_600.jpg

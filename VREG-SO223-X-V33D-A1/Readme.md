@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO223-X-V33D-A1>SMD (SOT-223) 3.3v Voltage Regulator 1 A
 
 - ID: VREG-SO223-X-V33D-A1
@@ -57,3 +58,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

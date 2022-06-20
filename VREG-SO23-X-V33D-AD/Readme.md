@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO23-X-V33D-AD>SMD (SOT-23) 3.3v Voltage Regulator 250 mA
 
 - ID: VREG-SO23-X-V33D-AD
@@ -65,3 +66,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: 662S
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

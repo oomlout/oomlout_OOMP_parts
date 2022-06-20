@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # NUTT-M3-M-STAN-01>M3 Nut
 
 - ID: NUTT-M3-M-STAN-01
@@ -56,3 +57,7 @@ Contents
 - oompVersion: 31
 - oompClass: Hardware
 - oompClassCode: HARD
+
+
+
+[im]: image_600.jpg

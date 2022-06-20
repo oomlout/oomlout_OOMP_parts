@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-DFN8-X-KCN3065-01>SMD (DFN-8) Lithium Ion Battery Charger (CN3065)
 
 - ID: ICIC-DFN8-X-KCN3065-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

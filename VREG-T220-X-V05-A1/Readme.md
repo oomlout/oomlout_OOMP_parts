@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-T220-X-V05-A1>TO-220 5v Voltage Regulator 1 A
 
 - ID: VREG-T220-X-V05-A1
@@ -61,3 +62,7 @@ Contents
 - oompSimp: template;XXXX-T220-X-XXXX-01-simp
 - oompClassCode: THTH
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

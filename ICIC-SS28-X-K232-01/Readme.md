@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-SS28-X-K232-01>28 Pin SMD (SSOP) FTDI USB-Serial
 
 - ID: ICIC-SS28-X-K232-01
@@ -60,3 +61,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # WIRS-G28-W-STAN-01>28 AWG White Stranded Wire
 
 - ID: WIRS-G28-W-STAN-01
@@ -60,3 +61,7 @@ Contents
 - useDescription: 
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

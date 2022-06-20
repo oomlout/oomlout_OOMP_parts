@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-TS14-X-K125-01>14 Pin SMD (TSSOP) Quad Buffer (74HC125)
 
 - ID: ICIC-TS14-X-K125-01
@@ -60,3 +61,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

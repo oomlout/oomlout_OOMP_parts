@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RBCC-40W-Z-L300-01>40 Wire 300 mm Rainbow Crimped Ribbon Cable
 
 - ID: RBCC-40W-Z-L300-01
@@ -57,3 +58,7 @@ Contents
 - oompAbout: It&#39s often tempting to use these 300 mm long cables, however they are best avoided if possible. The longer length means there&#39s often extra cable that can clutter a project box, or be caught and unplugged unintentionally. That said they are useful at the early stage of a project where final placement is not known and the added length is an advantage.
 - oompClass: Wiring
 - oompClassCode: WIRE
+
+
+
+[im]: image_600.jpg

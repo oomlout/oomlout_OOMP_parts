@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SWIS-7135-X-DPDT-01>SMD (7135) DPDT Switch (Slide)
 
 - ID: SWIS-7135-X-DPDT-01
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - ooNumPins: 6
 - ooDesignator: S1
+
+
+
+[im]: image_600.jpg

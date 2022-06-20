@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-02-X-PI04-RS>2 mm 4 Pin JST Socket Right Angle (SMD)
 
 - ID: JSTS-02-X-PI04-RS
@@ -56,3 +57,7 @@ Contents
 - oompIndex: RS
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

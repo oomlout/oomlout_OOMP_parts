@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-TQ32-X-K328-01>32 Pin SMD (TQFP) AtMega328P
 
 - ID: ICIC-TQ32-X-K328-01
@@ -102,3 +103,7 @@ Contents
 - oompFootprint: TQSMDPackage;##ooNumPins@@;##ooPitch@@;##ooPadWidth@@;##ooPadHeight@@
 - ooPackageMarking: ATMEGA328
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

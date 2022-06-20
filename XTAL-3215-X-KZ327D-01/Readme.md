@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # XTAL-3215-X-KZ327D-01>SMD (3215) 32.768 kHz Crystal
 
 - ID: XTAL-3215-X-KZ327D-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;XTAL-XXXX-X-XXXX-XX-schem
 - ooDesignator: X1
+
+
+
+[im]: image_600.jpg

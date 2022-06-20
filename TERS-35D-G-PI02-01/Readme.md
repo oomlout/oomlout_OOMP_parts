@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TERS-35D-G-PI02-01>3.5 mm 2 Pin Green Screw Terminal
 
 - ID: TERS-35D-G-PI02-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

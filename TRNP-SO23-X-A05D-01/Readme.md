@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TRNP-SO23-X-A05D-01>SMD (SOT-23) 500 mA PNP Transistor
 
 - ID: TRNP-SO23-X-A05D-01
@@ -64,3 +65,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: WW1
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

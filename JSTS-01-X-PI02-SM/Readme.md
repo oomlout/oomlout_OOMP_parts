@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-01-X-PI02-SM>1 mm 2 Pin JST Socket (SMD)
 
 - ID: JSTS-01-X-PI02-SM
@@ -54,3 +55,7 @@ Contents
 - oompIndex: SM
 - oompVersion: 98
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

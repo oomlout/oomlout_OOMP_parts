@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TRNN-T92-X-K222-01>TO-92 2222A NPN Transistor
 
 - ID: TRNN-T92-X-K222-01
@@ -59,3 +60,7 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

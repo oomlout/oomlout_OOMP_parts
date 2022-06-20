@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # PRIV-M3-X-06-01>M3 x 6 mm Plastic Rivet
 
 - ID: PRIV-M3-X-06-01
@@ -54,3 +55,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 98
 - ooDesignator: 0
+
+
+
+[im]: image_600.jpg

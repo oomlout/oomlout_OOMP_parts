@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # POTE-14-X-O204-68>14 mm 200k Ohm Potentiometer Side Adjust
 
 - ID: POTE-14-X-O204-68
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 68
 - oompVersion: 40
 - ooDesignator: VR1
+
+
+
+[im]: image_600.jpg

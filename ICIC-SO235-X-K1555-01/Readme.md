@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-SO235-X-K1555-01>SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
 
 - ID: ICIC-SO235-X-K1555-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

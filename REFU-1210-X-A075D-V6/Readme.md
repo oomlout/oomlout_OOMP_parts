@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # REFU-1210-X-A075D-V6>SMD (1210) 750 mA Resetable Fuse 6v
 
 - ID: REFU-1210-X-A075D-V6
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;REFU-XXXX-X-XXXX-XX-schem
 - ooDesignator: F1
+
+
+
+[im]: image_600.jpg

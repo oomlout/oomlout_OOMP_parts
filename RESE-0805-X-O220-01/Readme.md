@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-0805-X-O220-01>SMD (0805) 22 Ohm Resistor
 
 - ID: RESE-0805-X-O220-01
@@ -62,3 +63,7 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+
+
+
+[im]: image_600.jpg

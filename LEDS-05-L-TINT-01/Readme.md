@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-05-L-TINT-01>5 mm Tinted Blue LED
 
 - ID: LEDS-05-L-TINT-01
@@ -62,3 +63,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;LEDS-05-X-XXXX-01-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

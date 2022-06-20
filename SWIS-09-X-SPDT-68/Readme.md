@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SWIS-09-X-SPDT-68> 9 mm SPDT Switch (Slide) Side Adjust 
 
 - ID: SWIS-09-X-SPDT-68
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - ooNumPins: 3
 - ooDesignator: S1
+
+
+
+[im]: image_600.jpg

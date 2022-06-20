@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SDCS-MC-M-SMDS-02>Micro SMD Metal SD Card Socket
 
 - ID: SDCS-MC-M-SMDS-02
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 02
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

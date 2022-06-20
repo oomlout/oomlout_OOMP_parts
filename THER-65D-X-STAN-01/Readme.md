@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # THER-65D-X-STAN-01>6.5 mm Thermistor
 
 - ID: THER-65D-X-STAN-01
@@ -54,3 +55,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 98
 - ooDesignator: RT
+
+
+
+[im]: image_600.jpg

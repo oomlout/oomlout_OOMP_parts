@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # USBS-MN-M-SMDS-01>Mini SMD Metal USB Socket
 
 - ID: USBS-MN-M-SMDS-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;USBS-XXXX-X-XXXX-XX-schem
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

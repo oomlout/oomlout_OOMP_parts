@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # INDU-06-X-UH10-01>6 mm 10 uH Inductor
 
 - ID: INDU-06-X-UH10-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;INDU-XXXX-X-XXXX-XX-schem
 - ooDesignator: L1
+
+
+
+[im]: image_600.jpg

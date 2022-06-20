@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # XTAL-5032-X-MZ12-01>SMD (5032) 12 MHz Crystal
 
 - ID: XTAL-5032-X-MZ12-01
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;XTAL-XXXX-X-XXXX-XX-schem
 - ooDesignator: X1
+
+
+
+[im]: image_600.jpg

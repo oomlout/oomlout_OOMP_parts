@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO23-X-BUCA-A2>SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 
 - ID: VREG-SO23-X-BUCA-A2
@@ -62,3 +63,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: 65KA
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

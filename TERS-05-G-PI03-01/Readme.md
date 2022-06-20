@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TERS-05-G-PI03-01>5 mm 3 Pin Green Screw Terminal
 
 - ID: TERS-05-G-PI03-01
@@ -58,3 +59,7 @@ Contents
 - ooNumPins: 3
 - ooFootprint: OOMP-TERS-05-X-PI03-01
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

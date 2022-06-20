@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-W04-X-O47X-01>1/4 Watt 4.7 Ohm Resistor
 
 - ID: RESE-W04-X-O47X-01
@@ -65,3 +66,7 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;RESE-W04-X-XXXX-XX-simp
 - ooDesignator: R1
+
+
+
+[im]: image_600.jpg

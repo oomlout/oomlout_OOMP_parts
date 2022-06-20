@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-0805-G-STAN-01>SMD (0805) Green LED
 
 - ID: LEDS-0805-G-STAN-01
@@ -73,3 +74,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

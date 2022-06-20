@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO223-X-V05-A1>SMD (SOT-223) 5v Voltage Regulator 1 A
 
 - ID: VREG-SO223-X-V05-A1
@@ -56,3 +57,7 @@ Contents
 - oompIndex: A1
 - oompVersion: 99
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

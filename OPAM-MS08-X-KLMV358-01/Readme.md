@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # OPAM-MS08-X-KLMV358-01>8 Pin SMD (MSOP) LMV358 Op Amp
 
 - ID: OPAM-MS08-X-KLMV358-01
@@ -64,3 +65,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

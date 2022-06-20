@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-DI18-X-KTM1636-01>18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636)
 
 - ID: ICIC-DI18-X-KTM1636-01
@@ -58,3 +59,7 @@ Contents
 - ooNumPins: 18
 - ooFootprint: OOMP-ICIC-DI18-X-XXXX-01
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

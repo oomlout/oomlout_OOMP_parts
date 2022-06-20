@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TRNN-SO23-X-A05D-02>SMD (SOT-23) 500 mA NPN Transistor
 
 - ID: TRNN-SO23-X-A05D-02
@@ -63,3 +64,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: J3Y
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

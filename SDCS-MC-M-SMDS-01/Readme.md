@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SDCS-MC-M-SMDS-01>Micro SMD SD Card Socket
 
 - ID: SDCS-MC-M-SMDS-01
@@ -62,3 +63,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # POTE-98D-X-O103-01>9.8 mm 10k Ohm Potentiometer
 
 - ID: POTE-98D-X-O103-01
@@ -56,3 +57,7 @@ Contents
 - ooWidth: 9.8 mm
 - ooLength: 9.8 mm
 - ooDesignator: VR1
+
+
+
+[im]: image_600.jpg

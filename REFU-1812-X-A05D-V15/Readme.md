@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # REFU-1812-X-A05D-V15>SMD (1812) 500 mA Resetable Fuse 15v
 
 - ID: REFU-1812-X-A05D-V15
@@ -64,3 +65,7 @@ Contents
 - oompClassCode: SMDS
 - oompSchem: template;REFU-XXXX-X-XXXX-XX-schem
 - ooDesignator: F1
+
+
+
+[im]: image_600.jpg

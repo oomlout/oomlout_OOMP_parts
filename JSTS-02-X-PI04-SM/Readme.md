@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-02-X-PI04-SM>2 mm 4 Pin JST Socket SMD
 
 - ID: JSTS-02-X-PI04-SM
@@ -56,3 +57,7 @@ Contents
 - oompIndex: SM
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

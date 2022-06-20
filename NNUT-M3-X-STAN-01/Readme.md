@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # NNUT-M3-X-STAN-01>M3 Nylon Nut
 
 - ID: NNUT-M3-X-STAN-01
@@ -56,3 +57,7 @@ Contents
 - oompVersion: 31
 - oompClass: Hardware
 - oompClassCode: HARD
+
+
+
+[im]: image_600.jpg

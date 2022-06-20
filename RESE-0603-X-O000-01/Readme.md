@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-0603-X-O000-01>SMD (0603) 0 Ohm Resistor
 
 - ID: RESE-0603-X-O000-01
@@ -66,3 +67,7 @@ Contents
 - oompIden: template;XXXX-0603-X-XXXX-XX-iden
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
+
+
+
+[im]: image_600.jpg

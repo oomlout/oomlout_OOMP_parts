@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-DI16-X-K595-01>16 Pin DIP 74HC595 8-Bit Shift Register (Latching)
 
 - ID: ICIC-DI16-X-K595-01
@@ -59,3 +60,7 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

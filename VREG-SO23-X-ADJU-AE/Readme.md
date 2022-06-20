@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO23-X-ADJU-AE>SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 
 - ID: VREG-SO23-X-ADJU-AE
@@ -63,3 +64,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: 432
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

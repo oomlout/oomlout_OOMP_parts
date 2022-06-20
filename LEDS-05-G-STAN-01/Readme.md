@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-05-G-STAN-01>5 mm Green LED
 
 - ID: LEDS-05-G-STAN-01
@@ -69,3 +70,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;LEDS-05-X-XXXX-01-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

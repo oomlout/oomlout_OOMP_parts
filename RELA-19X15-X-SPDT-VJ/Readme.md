@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RELA-19X15-X-SPDT-VJ>19 x 15 mm SPDT Relay 3v
 
 - ID: RELA-19X15-X-SPDT-VJ
@@ -56,3 +57,7 @@ Contents
 - ooWidth: 19 mm
 - ooHeight: 15 mm
 - ooDesignator: K
+
+
+
+[im]: image_600.jpg

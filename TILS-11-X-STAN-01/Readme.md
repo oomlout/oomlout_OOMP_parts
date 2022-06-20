@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TILS-11-X-STAN-01>11 mm Tilt Switch
 
 - ID: TILS-11-X-STAN-01
@@ -57,3 +58,7 @@ Contents
 - ooLength: 11 mm
 - ooNumPins: 2
 - ooDesignator: S1
+
+
+
+[im]: image_600.jpg

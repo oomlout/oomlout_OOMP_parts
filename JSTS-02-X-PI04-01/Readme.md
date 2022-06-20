@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-02-X-PI04-01>2 mm 4 Pin JST Socket
 
 - ID: JSTS-02-X-PI04-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

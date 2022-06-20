@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SCRE-M3-M-25-70>M3 x 25 mm Machine Screw Cross Head
 
 - ID: SCRE-M3-M-25-70
@@ -56,3 +57,7 @@ Contents
 - oompVersion: 31
 - oompClass: Hardware
 - oompClassCode: HARD
+
+
+
+[im]: image_600.jpg

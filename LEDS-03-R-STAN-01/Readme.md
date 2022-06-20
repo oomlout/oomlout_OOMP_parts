@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-03-R-STAN-01>3 mm Red LED
 
 - ID: LEDS-03-R-STAN-01
@@ -61,3 +62,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;LEDS-03-X-XXXX-01-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-10-W-FROS-01>10 mm Frosted White LED
 
 - ID: LEDS-10-W-FROS-01
@@ -72,3 +73,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;LEDS-10-X-XXXX-01-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SWIS-7827-X-SPDT-01>SMD (7827) SPDT Switch (Slide)
 
 - ID: SWIS-7827-X-SPDT-01
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - ooNumPins: 3
 - ooDesignator: S1
+
+
+
+[im]: image_600.jpg

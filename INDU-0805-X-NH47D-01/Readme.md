@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # INDU-0805-X-NH47D-01>SMD (0805) 4.7 nH Inductor
 
 - ID: INDU-0805-X-NH47D-01
@@ -57,3 +58,7 @@ Contents
 - ooLength: 2.0 mm
 - ooNumPins: 2
 - ooDesignator: L1
+
+
+
+[im]: image_600.jpg

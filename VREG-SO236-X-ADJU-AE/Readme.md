@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-SO236-X-ADJU-AE>SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
 
 - ID: VREG-SO236-X-ADJU-AE
@@ -54,3 +55,7 @@ Contents
 - oompIndex: AE
 - oompVersion: 98
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

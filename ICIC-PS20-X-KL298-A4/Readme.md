@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-PS20-X-KL298-A4>SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 
 - ID: ICIC-PS20-X-KL298-A4
@@ -56,3 +57,7 @@ Contents
 - oompIndex: A4
 - oompVersion: 40
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

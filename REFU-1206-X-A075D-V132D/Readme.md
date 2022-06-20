@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # REFU-1206-X-A075D-V132D>SMD (1206) 750 mA Resetable Fuse 13.2v
 
 - ID: REFU-1206-X-A075D-V132D
@@ -61,3 +62,7 @@ Contents
 - oompSchem: template;REFU-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: F1
+
+
+
+[im]: image_600.jpg

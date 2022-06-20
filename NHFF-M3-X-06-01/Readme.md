@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # NHFF-M3-X-06-01>M3 x 6 mm Nylon Standoff (F-F)
 
 - ID: NHFF-M3-X-06-01
@@ -56,3 +57,7 @@ Contents
 - oompVersion: 31
 - oompClass: Hardware
 - oompClassCode: HARD
+
+
+
+[im]: image_600.jpg

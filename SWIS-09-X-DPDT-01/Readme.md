@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # SWIS-09-X-DPDT-01>9 mm DPDT Switch (Slide)
 
 - ID: SWIS-09-X-DPDT-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: S1
+
+
+
+[im]: image_600.jpg

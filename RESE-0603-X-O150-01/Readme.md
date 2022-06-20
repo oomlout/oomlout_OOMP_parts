@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-0603-X-O150-01>SMD (0603) 15 Ohm Resistor
 
 - ID: RESE-0603-X-O150-01
@@ -62,3 +63,7 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: R1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-02-X-PI02-01>2 mm 2 Pin JST Socket
 
 - ID: JSTS-02-X-PI02-01
@@ -54,3 +55,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 98
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

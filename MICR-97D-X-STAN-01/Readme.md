@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # MICR-97D-X-STAN-01>9.7 mm Microphone
 
 - ID: MICR-97D-X-STAN-01
@@ -56,3 +57,7 @@ Contents
 - ooDiameter: 9.7 mm
 - ooNumPins: 2
 - ooDesignator: MK1
+
+
+
+[im]: image_600.jpg

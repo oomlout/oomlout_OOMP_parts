@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # POTE-17-X-O105-69>17 mm 1M Ohm Potentiometer Panel Mount
 
 - ID: POTE-17-X-O105-69
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 69
 - oompVersion: 40
 - ooDesignator: VR1
+
+
+
+[im]: image_600.jpg

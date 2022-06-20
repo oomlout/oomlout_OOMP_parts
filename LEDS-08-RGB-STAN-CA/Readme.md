@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-08-RGB-STAN-CA>8 mm RGB LED Common Anode
 
 - ID: LEDS-08-RGB-STAN-CA
@@ -57,3 +58,7 @@ Contents
 - oompVersion: 40
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

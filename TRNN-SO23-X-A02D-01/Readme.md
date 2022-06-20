@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TRNN-SO23-X-A02D-01>SMD (SOT-23) 200 mA NPN Transistor
 
 - ID: TRNN-SO23-X-A02D-01
@@ -64,3 +65,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: 1AM
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

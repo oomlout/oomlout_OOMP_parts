@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # MOSN-SO23-X-A21D-01>SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
 
 - ID: MOSN-SO23-X-A21D-01
@@ -64,3 +65,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: S2
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

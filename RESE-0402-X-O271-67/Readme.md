@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-0402-X-O271-67>SMD (0402) 270 Ohm Resistor 1%
 
 - ID: RESE-0402-X-O271-67
@@ -65,3 +66,7 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+
+
+
+[im]: image_600.jpg

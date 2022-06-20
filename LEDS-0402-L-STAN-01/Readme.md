@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-0402-L-STAN-01>SMD (0402) Blue LED
 
 - ID: LEDS-0402-L-STAN-01
@@ -60,3 +61,7 @@ Contents
 - oompIden: template;XXXX-0402-X-XXXX-XX-iden
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

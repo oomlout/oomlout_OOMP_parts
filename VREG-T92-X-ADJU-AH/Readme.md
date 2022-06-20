@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-T92-X-ADJU-AH>TO-92 Adjustable Voltage Regulator 100 mA
 
 - ID: VREG-T92-X-ADJU-AH
@@ -55,3 +56,7 @@ Contents
 - oompVersion: 98
 - ooNumPins: 3
 - ooDesignator: U
+
+
+
+[im]: image_600.jpg

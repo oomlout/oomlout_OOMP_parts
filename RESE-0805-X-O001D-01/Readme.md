@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RESE-0805-X-O001D-01>SMD (0805) 0.1 Ohm Resistor
 
 - ID: RESE-0805-X-O001D-01
@@ -63,3 +64,7 @@ Contents
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooPackageMarking: R100
 - ooDesignator: R1
+
+
+
+[im]: image_600.jpg

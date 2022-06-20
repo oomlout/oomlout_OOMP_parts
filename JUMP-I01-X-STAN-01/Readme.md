@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JUMP-I01-X-STAN-01>2.54 mm Jumper
 
 - ID: JUMP-I01-X-STAN-01
@@ -55,3 +56,7 @@ Contents
 - oompDesc: STAN
 - oompIndex: 01
 - oompVersion: 40
+
+
+
+[im]: image_600.jpg

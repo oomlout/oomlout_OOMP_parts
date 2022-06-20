@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RJ45-18-X-SOCK-LI>18 mm Socket RJ45 w/Lights
 
 - ID: RJ45-18-X-SOCK-LI
@@ -56,3 +57,7 @@ Contents
 - oompIndex: LI
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # RJ45-21-X-SOCK-01>21 mm Socket RJ45
 
 - ID: RJ45-21-X-SOCK-01
@@ -56,3 +57,7 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

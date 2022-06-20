@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # ICIC-SP16-X-KCH340-01>16 Pin SMD (SOP) USB-Serial (CH340)
 
 - ID: ICIC-SP16-X-KCH340-01
@@ -73,3 +74,7 @@ Contents
 - ooPin15: R232
 - ooPin16: VCC
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg

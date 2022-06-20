@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # LEDS-0603-R-STAN-01>SMD (0603) Red LED
 
 - ID: LEDS-0603-R-STAN-01
@@ -62,3 +63,7 @@ Contents
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: D1
+
+
+
+[im]: image_600.jpg

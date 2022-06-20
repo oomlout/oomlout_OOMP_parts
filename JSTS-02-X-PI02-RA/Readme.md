@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # JSTS-02-X-PI02-RA>2 mm 2 Pin JST Socket Right Angle
 
 - ID: JSTS-02-X-PI02-RA
@@ -56,3 +57,7 @@ Contents
 - oompIndex: RA
 - oompVersion: 40
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

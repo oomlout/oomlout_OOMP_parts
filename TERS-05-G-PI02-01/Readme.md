@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # TERS-05-G-PI02-01>5 mm 2 Pin Green Screw Terminal
 
 - ID: TERS-05-G-PI02-01
@@ -58,3 +59,7 @@ Contents
 - ooNumPins: 2
 - ooFootprint: OOMP-TERS-05-X-PI02-01
 - ooDesignator: J1
+
+
+
+[im]: image_600.jpg

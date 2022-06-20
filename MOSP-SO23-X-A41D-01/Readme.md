@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # MOSP-SO23-X-A41D-01>SMD (SOT-23) 4.1 Amp P-Ch. MOSFET
 
 - ID: MOSP-SO23-X-A41D-01
@@ -64,3 +65,7 @@ Contents
 - oompSimp: template;XXXX-SO23-X-XXXX-01-simp
 - ooPackageMarking: S5
 - ooDesignator: Q1
+
+
+
+[im]: image_600.jpg

@@ -12,7 +12,8 @@ Contents
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
-
+  
+![][im]
 # VREG-T252-X-V05-A5D>TO-252 5v Voltage Regulator 500 mA
 
 - ID: VREG-T252-X-V05-A5D
@@ -66,3 +67,7 @@ Contents
 - oompClass: Surface Mount
 - oompClassCode: SMDS
 - ooDesignator: U1
+
+
+
+[im]: image_600.jpg
