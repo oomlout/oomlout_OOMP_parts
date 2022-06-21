@@ -7,6 +7,7 @@ Contents
 
 * [MOSP-SO23-X-A35D-01>SMD (SOT-23) 3.5 Amp P-Ch. MOSFET](#mosp-so23-x-a35d-01smd-sot-23-35-amp-p-ch-mosfet)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

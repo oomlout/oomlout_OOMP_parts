@@ -8,6 +8,7 @@ Contents
 * [DBCO-DB09-X-THTH-ML>DB9 Connector Male](#dbco-db09-x-thth-mldb9-connector-male)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

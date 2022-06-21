@@ -8,6 +8,7 @@ Contents
 * [REFU-1210-X-A075D-V6>SMD (1210) 750 mA Resetable Fuse 6v](#refu-1210-x-a075d-v6smd-1210-750-ma-resetable-fuse-6v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

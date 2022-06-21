@@ -8,6 +8,7 @@ Contents
 * [CAPC-0603-X-UF10-V63D>SMD (0603) 10 uF Capacitor (Ceramic) 6.3v](#capc-0603-x-uf10-v63dsmd-0603-10-uf-capacitor-ceramic-63v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

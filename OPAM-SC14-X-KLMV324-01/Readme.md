@@ -8,6 +8,7 @@ Contents
 * [OPAM-SC14-X-KLMV324-01>SMD (SOIC-14) LMV324 Op Amp](#opam-sc14-x-klmv324-01smd-soic-14-lmv324-op-amp)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

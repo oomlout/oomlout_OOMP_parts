@@ -7,6 +7,7 @@ Contents
 
 * [VREG-SO238-X-ADJU-A2>SMD (SOT-23-8) Adjustable Voltage Regulator 2 A](#vreg-so238-x-adju-a2smd-sot-23-8-adjustable-voltage-regulator-2-a)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-QFN28-X-K4988-01>28 Pin SMD (QFN) Stepper Motor Driver (A4988)](#icic-qfn28-x-k4988-0128-pin-smd-qfn-stepper-motor-driver-a4988)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

@@ -8,6 +8,7 @@ Contents
 * [ICIC-SO235-X-K1555-01>SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)](#icic-so235-x-k1555-01smd-sot-23-5-lithium-ion-battery-charger-1-cell-max1555)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

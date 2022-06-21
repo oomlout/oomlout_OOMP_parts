@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-QFP100-X-KLPC17-01>100 Pin SMD (TQFP) LPC1768 (Cortex M3)](#icic-qfp100-x-klpc17-01100-pin-smd-tqfp-lpc1768-cortex-m3)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

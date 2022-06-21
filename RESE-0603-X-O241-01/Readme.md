@@ -8,6 +8,7 @@ Contents
 * [RESE-0603-X-O241-01>SMD (0603) 240 Ohm Resistor](#rese-0603-x-o241-01smd-0603-240-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

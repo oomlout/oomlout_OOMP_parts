@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-SP16-X-K2291-01>16 Pin SMD (SOP) PIR Motion Sensing (TM2291)](#icic-sp16-x-k2291-0116-pin-smd-sop-pir-motion-sensing-tm2291)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

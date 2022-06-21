@@ -7,6 +7,7 @@ Contents
 
 * [CAPT-1206-X-UF47D-V16>SMD (1206) 4.7 uF Capacitor (Tantalum) 16v](#capt-1206-x-uf47d-v16smd-1206-47-uf-capacitor-tantalum-16v)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

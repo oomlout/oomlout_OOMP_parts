@@ -8,6 +8,7 @@ Contents
 * [ICIC-DI18-X-KTM1636-01>18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636)](#icic-di18-x-ktm1636-0118-pin-dip-7-segment-driver-and-keypad-scanning-tm1636)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

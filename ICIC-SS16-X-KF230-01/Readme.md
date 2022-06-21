@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-SS16-X-KF230-01>16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)](#icic-ss16-x-kf230-0116-pin-smd-ssop-high-speed-usb-serial-ft230xs-r)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

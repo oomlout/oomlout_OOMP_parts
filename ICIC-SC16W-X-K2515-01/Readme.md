@@ -8,6 +8,7 @@ Contents
 * [ICIC-SC16W-X-K2515-01>16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)](#icic-sc16w-x-k2515-0116-pin-smd-soic-wide-can-controller-spi-mcp2515)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

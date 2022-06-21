@@ -8,6 +8,7 @@ Contents
 * [ICIC-DFN8-X-KCN3065-01>SMD (DFN-8) Lithium Ion Battery Charger (CN3065)](#icic-dfn8-x-kcn3065-01smd-dfn-8-lithium-ion-battery-charger-cn3065)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -29,6 +30,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 

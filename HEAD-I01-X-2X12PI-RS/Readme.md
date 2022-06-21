@@ -7,6 +7,7 @@ Contents
 
 * [HEAD-I01-X-2X12PI-RS>2.54 mm 24 Pin (2x12) Header Right Angle (SMD)](#head-i01-x-2x12pi-rs254-mm-24-pin-2x12-header-right-angle-smd)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|Front|Inventory|Specifications|
+| :---: | :---: | :---: |
+|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
 
 ## EDA
 
