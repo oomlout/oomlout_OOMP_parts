@@ -1,0 +1,81 @@
+{
+    "index": 13091,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13091
+        },
+        {
+            "name": "index",
+            "value": "4271"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-T92-X-K222-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 2222A NPN Transistor"
+        },
+        {
+            "name": "hexID",
+            "value": "NT92222"
+        },
+        {
+            "name": "oompSort",
+            "value": "0T922222"
+        },
+        {
+            "name": "oompType",
+            "value": "TRNN"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K222"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "ON Semi"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "P2N2222AG ON Semi"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-T92-X-K222-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 2222A NPN Transistor"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "index": 12696,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12696
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-SO23-X-A03D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 300 mA N-Ch. MOSFET"
+        },
+        {
+            "name": "hexID",
+            "value": "MNS23D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSN"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A03D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "Q"
+        },
+        {
+            "name": "ooPin2",
+            "value": "S"
+        },
+        {
+            "name": "ooPin3",
+            "value": "D"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "12W"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-SO23-X-A03D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 300 mA N-Ch. MOSFET"
+        }
+    ]
+}

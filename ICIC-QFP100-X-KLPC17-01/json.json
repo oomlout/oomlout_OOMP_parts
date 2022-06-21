@@ -1,0 +1,69 @@
+{
+    "index": 12605,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12605
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFP100-X-KLPC17-01"
+        },
+        {
+            "name": "name",
+            "value": "100 Pin SMD (TQFP) LPC1768 (Cortex M3)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSLPC17"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFP100"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLPC17"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFP100-X-KLPC17-01"
+        },
+        {
+            "name": "name",
+            "value": "100 Pin SMD (TQFP) LPC1768 (Cortex M3)"
+        }
+    ]
+}

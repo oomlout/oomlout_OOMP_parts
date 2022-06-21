@@ -1,0 +1,57 @@
+{
+    "index": 12321,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12321
+        },
+        {
+            "name": "oompID",
+            "value": "CABL-200-X-GROV-01"
+        },
+        {
+            "name": "name",
+            "value": "200 mm Grove Cable"
+        },
+        {
+            "name": "hexID",
+            "value": "CBG200"
+        },
+        {
+            "name": "oompSort",
+            "value": "CABL200GROV"
+        },
+        {
+            "name": "oompType",
+            "value": "CABL"
+        },
+        {
+            "name": "oompSize",
+            "value": "200"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "GROV"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompID",
+            "value": "CABL-200-X-GROV-01"
+        },
+        {
+            "name": "name",
+            "value": "200 mm Grove Cable"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "index": 12470,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12470
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O471-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 470 Ohm Ferrite Bead"
+        },
+        {
+            "name": "hexID",
+            "value": "F85471"
+        },
+        {
+            "name": "oompSort",
+            "value": "FERB0805O471"
+        },
+        {
+            "name": "oompType",
+            "value": "FERB"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O471"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25"
+        },
+        {
+            "name": "ooLength",
+            "value": "2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O471-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 470 Ohm Ferrite Bead"
+        }
+    ]
+}

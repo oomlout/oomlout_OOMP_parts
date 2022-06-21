@@ -1,0 +1,81 @@
+{
+    "index": 12468,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12468
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O300-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 30 Ohm Ferrite Bead"
+        },
+        {
+            "name": "hexID",
+            "value": "F8300"
+        },
+        {
+            "name": "oompSort",
+            "value": "FERB0805O300"
+        },
+        {
+            "name": "oompType",
+            "value": "FERB"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O300"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0805-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0805-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0805-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;FERB-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0805-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "FB1"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O300-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 30 Ohm Ferrite Bead"
+        }
+    ]
+}

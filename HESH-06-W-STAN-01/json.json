@@ -1,0 +1,73 @@
+{
+    "index": 12575,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12575
+        },
+        {
+            "name": "index",
+            "value": "4038"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm White Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS6W"
+        },
+        {
+            "name": "oompSort",
+            "value": "0606W"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm White Heat Shrink"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "index": 12689,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12689
+        },
+        {
+            "name": "index",
+            "value": "3977"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-10-V-FROS-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Frosted Purple LED"
+        },
+        {
+            "name": "hexID",
+            "value": "L10V"
+        },
+        {
+            "name": "oompSort",
+            "value": "1010V"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "10"
+        },
+        {
+            "name": "oompColor",
+            "value": "V"
+        },
+        {
+            "name": "oompDesc",
+            "value": "FROS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "20"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooLensColor",
+            "value": "Frosted"
+        },
+        {
+            "name": "ooForwardVoltage",
+            "value": "3.3 V"
+        },
+        {
+            "name": "ooForwardCurrent",
+            "value": "15 mA"
+        },
+        {
+            "name": "ooIntensity",
+            "value": "200 mcd"
+        },
+        {
+            "name": "ooPowerAngle",
+            "value": "50 deg"
+        },
+        {
+            "name": "ooWavelength",
+            "value": "403 nm"
+        },
+        {
+            "name": "ooFrontDiagram",
+            "value": "OOMP-LEDS-10.png"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;LEDS-10-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;LEDS-10-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;LEDS-10-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;LEDS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;LEDS-10-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-10-V-FROS-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Frosted Purple LED"
+        }
+    ]
+}

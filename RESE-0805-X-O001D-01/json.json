@@ -1,0 +1,97 @@
+{
+    "index": 12961,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12961
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O001D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 0.1 Ohm Resistor"
+        },
+        {
+            "name": "hexID",
+            "value": "R85001D"
+        },
+        {
+            "name": "oompSort",
+            "value": "RESE0805O001D"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O001D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0805-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0805-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0805-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0805-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "R100"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O001D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 0.1 Ohm Resistor"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "index": 13135,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13135
+        },
+        {
+            "name": "index",
+            "value": "4179"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG White Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2W"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28W"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": ""
+        },
+        {
+            "name": "useDescription",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG White Stranded Wire"
+        }
+    ]
+}

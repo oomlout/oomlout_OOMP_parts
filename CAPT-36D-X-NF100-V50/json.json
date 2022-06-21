@@ -1,0 +1,105 @@
+{
+    "index": 12424,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12424
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-36D-X-NF100-V50"
+        },
+        {
+            "name": "name",
+            "value": "3.6 mm 100 nF Capacitor (Tantalum) 50v"
+        },
+        {
+            "name": "hexID",
+            "value": "CTN100"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTH0.00000010000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "36D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "4 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "4 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.6 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "50 V"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "10 %"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-36D-X-NF100-V50"
+        },
+        {
+            "name": "name",
+            "value": "3.6 mm 100 nF Capacitor (Tantalum) 50v"
+        }
+    ]
+}

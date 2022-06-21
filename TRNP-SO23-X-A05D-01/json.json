@@ -1,0 +1,101 @@
+{
+    "index": 13093,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13093
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-A05D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 500 mA PNP Transistor"
+        },
+        {
+            "name": "hexID",
+            "value": "TPS25D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "TRNP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A05D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "B"
+        },
+        {
+            "name": "ooPin2",
+            "value": "E"
+        },
+        {
+            "name": "ooPin3",
+            "value": "C"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "WW1"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-A05D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 500 mA PNP Transistor"
+        }
+    ]
+}

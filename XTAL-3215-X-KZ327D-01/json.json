@@ -1,0 +1,73 @@
+{
+    "index": 13141,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13141
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-3215-X-KZ327D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 32.768 kHz Crystal"
+        },
+        {
+            "name": "hexID",
+            "value": "X3K327D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "XTAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "3215"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KZ327D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XTAL-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-3215-X-KZ327D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 32.768 kHz Crystal"
+        }
+    ]
+}

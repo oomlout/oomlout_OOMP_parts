@@ -1,0 +1,125 @@
+{
+    "index": 13138,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13138
+        },
+        {
+            "name": "index",
+            "value": "4046"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-11-X-MZ16-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm 16 MHz Crystal"
+        },
+        {
+            "name": "hexID",
+            "value": "XT16"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTH16000000"
+        },
+        {
+            "name": "oompType",
+            "value": "XTAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "11"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ16"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "20"
+        },
+        {
+            "name": "ooPitch",
+            "value": "4.88 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "4.65 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "3.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "11.05 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "16.000"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompAbout",
+            "value": "A 16MHz Crystal, in a commonly used through hole size."
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "Clock for a Microcontroller"
+        },
+        {
+            "name": "useDescription",
+            "value": "Used to provide a clock source to a microcontroller. Commonly used with Atmel 8bit microcontrollers operating at 5v."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XTAL-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-11-X-MZ16-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm 16 MHz Crystal"
+        }
+    ]
+}

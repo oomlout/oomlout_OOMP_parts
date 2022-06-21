@@ -1,0 +1,101 @@
+{
+    "index": 12719,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12719
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-MS08-X-KLMV358-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (MSOP) LMV358 Op Amp"
+        },
+        {
+            "name": "hexID",
+            "value": "OAM358"
+        },
+        {
+            "name": "oompSort",
+            "value": "MS08LMV358"
+        },
+        {
+            "name": "oompType",
+            "value": "OPAM"
+        },
+        {
+            "name": "oompSize",
+            "value": "MS08"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLMV358"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "1.1 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "4.9 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "R5#"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-MS08-X-KLMV358-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (MSOP) LMV358 Op Amp"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "index": 12726,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12726
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-07-X-O102-01"
+        },
+        {
+            "name": "name",
+            "value": "7 mm 1k Ohm Potentiometer"
+        },
+        {
+            "name": "hexID",
+            "value": "PT7102"
+        },
+        {
+            "name": "oompSort",
+            "value": "POTE07O102"
+        },
+        {
+            "name": "oompType",
+            "value": "POTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "07"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O102"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "7 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "7 mm"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "VR1"
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-07-X-O102-01"
+        },
+        {
+            "name": "name",
+            "value": "7 mm 1k Ohm Potentiometer"
+        }
+    ]
+}

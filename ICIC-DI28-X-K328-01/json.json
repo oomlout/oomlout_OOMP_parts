@@ -1,0 +1,257 @@
+{
+    "index": 12595,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12595
+        },
+        {
+            "name": "index",
+            "value": "4321"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI28-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin DIP AtMega328P"
+        },
+        {
+            "name": "hexID",
+            "value": "IC328"
+        },
+        {
+            "name": "oompSort",
+            "value": "ATMega 328"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI28"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K328"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "34.7 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "4.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "7.25 mm"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-ATME"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ATMEGA328P-PU"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "28"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "28"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-ICIC-DI28-X-XXXX-01"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "Arduino"
+        },
+        {
+            "name": "useDescription",
+            "value": "Used as the Microcontroller in the Arduino UNO"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1030050P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "IC MCU 8BIT 32KB FLASH"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:DIP28.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooPin1",
+            "value": "PC6"
+        },
+        {
+            "name": "ooPin2",
+            "value": "PD0"
+        },
+        {
+            "name": "ooPin3",
+            "value": "PD1"
+        },
+        {
+            "name": "ooPin4",
+            "value": "PD2"
+        },
+        {
+            "name": "ooPin5",
+            "value": "PD3"
+        },
+        {
+            "name": "ooPin6",
+            "value": "PD4"
+        },
+        {
+            "name": "ooPin7",
+            "value": "VCC"
+        },
+        {
+            "name": "ooPin8",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin9",
+            "value": "PB6"
+        },
+        {
+            "name": "ooPin10",
+            "value": "PB7"
+        },
+        {
+            "name": "ooPin11",
+            "value": "PD5"
+        },
+        {
+            "name": "ooPin12",
+            "value": "PD6"
+        },
+        {
+            "name": "ooPin13",
+            "value": "PD7"
+        },
+        {
+            "name": "ooPin14",
+            "value": "PB0"
+        },
+        {
+            "name": "ooPin15",
+            "value": "PB1"
+        },
+        {
+            "name": "ooPin16",
+            "value": "PB2"
+        },
+        {
+            "name": "ooPin17",
+            "value": "PB3"
+        },
+        {
+            "name": "ooPin18",
+            "value": "PB4"
+        },
+        {
+            "name": "ooPin19",
+            "value": "PB5"
+        },
+        {
+            "name": "ooPin20",
+            "value": "AVCC"
+        },
+        {
+            "name": "ooPin21",
+            "value": "AREF"
+        },
+        {
+            "name": "ooPin22",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin23",
+            "value": "PC0"
+        },
+        {
+            "name": "ooPin24",
+            "value": "PC1"
+        },
+        {
+            "name": "ooPin25",
+            "value": "PC2"
+        },
+        {
+            "name": "ooPin26",
+            "value": "PC3"
+        },
+        {
+            "name": "ooPin27",
+            "value": "PC4"
+        },
+        {
+            "name": "ooPin28",
+            "value": "PC5"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-DI28-X-XXXX-01-diag"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "ATMEGA328"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI28-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin DIP AtMega328P"
+        }
+    ]
+}

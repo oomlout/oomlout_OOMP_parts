@@ -1,0 +1,277 @@
+{
+    "index": 12592,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12592
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI16-X-KL293D-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin DIP Dual H-Bridge (L293D)"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KL293D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "ICL293D"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooPitchWidth",
+            "value": "0.3\""
+        },
+        {
+            "name": "numRows",
+            "value": "2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "16"
+        },
+        {
+            "name": "ooPin1",
+            "value": "EN1,2"
+        },
+        {
+            "name": "ooPin1x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin1y",
+            "value": "0"
+        },
+        {
+            "name": "ooPin2",
+            "value": "1IN"
+        },
+        {
+            "name": "ooPin2x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin2y",
+            "value": "0.1"
+        },
+        {
+            "name": "ooPin3",
+            "value": "1OUT"
+        },
+        {
+            "name": "ooPin3x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin3y",
+            "value": "0.2"
+        },
+        {
+            "name": "ooPin4",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin4x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin4y",
+            "value": "0.3"
+        },
+        {
+            "name": "ooPin5",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin5x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin5y",
+            "value": "0.4"
+        },
+        {
+            "name": "ooPin6",
+            "value": "2OUT"
+        },
+        {
+            "name": "ooPin6x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin6y",
+            "value": "0.5"
+        },
+        {
+            "name": "ooPin7",
+            "value": "2IN"
+        },
+        {
+            "name": "ooPin7x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin7y",
+            "value": "0.6"
+        },
+        {
+            "name": "ooPin8",
+            "value": "VCC"
+        },
+        {
+            "name": "ooPin8x",
+            "value": "0"
+        },
+        {
+            "name": "ooPin8y",
+            "value": "0.7"
+        },
+        {
+            "name": "ooPin9",
+            "value": "EN3,4"
+        },
+        {
+            "name": "ooPin9x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin9y",
+            "value": "0.7\""
+        },
+        {
+            "name": "ooPin10",
+            "value": "3IN"
+        },
+        {
+            "name": "ooPin10x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin10y",
+            "value": "0.6\""
+        },
+        {
+            "name": "ooPin11",
+            "value": "3OUT"
+        },
+        {
+            "name": "ooPin11x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin11y",
+            "value": "0.5\""
+        },
+        {
+            "name": "ooPin12",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin12x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin12y",
+            "value": "0.4\""
+        },
+        {
+            "name": "ooPin13",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin13x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin13y",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin14",
+            "value": "4OUT"
+        },
+        {
+            "name": "ooPin14x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin14y",
+            "value": "0.2\""
+        },
+        {
+            "name": "ooPin15",
+            "value": "4IN"
+        },
+        {
+            "name": "ooPin15x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin15y",
+            "value": "0.1\""
+        },
+        {
+            "name": "ooPin16",
+            "value": "VMOT"
+        },
+        {
+            "name": "ooPin16x",
+            "value": "0.3\""
+        },
+        {
+            "name": "ooPin16y",
+            "value": "0"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-DI16-X-XXXX-01"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "twoSidedPackage;##ooNumPins@@;##ooPitchWidth@@;##ooPitch@@"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI16-X-KL293D-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin DIP Dual H-Bridge (L293D)"
+        }
+    ]
+}

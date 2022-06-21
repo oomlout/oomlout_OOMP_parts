@@ -1,0 +1,69 @@
+{
+    "index": 13054,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13054
+        },
+        {
+            "name": "index",
+            "value": "4224"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-12-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 12 mm Machine Screw Cross Head"
+        },
+        {
+            "name": "hexID",
+            "value": "M312"
+        },
+        {
+            "name": "oompSort",
+            "value": "M3M312"
+        },
+        {
+            "name": "oompType",
+            "value": "SCRE"
+        },
+        {
+            "name": "oompSize",
+            "value": "M3"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "12"
+        },
+        {
+            "name": "oompIndex",
+            "value": "70"
+        },
+        {
+            "name": "oompVersion",
+            "value": "31"
+        },
+        {
+            "name": "oompClass",
+            "value": "Hardware"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "HARD"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-12-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 12 mm Machine Screw Cross Head"
+        }
+    ]
+}

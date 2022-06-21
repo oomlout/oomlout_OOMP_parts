@@ -1,0 +1,69 @@
+{
+    "index": 12613,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12613
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-KDS1307-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOIC-8) Real Time Clock (DS1307)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS1307"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SC8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KDS1307"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-KDS1307-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOIC-8) Real Time Clock (DS1307)"
+        }
+    ]
+}

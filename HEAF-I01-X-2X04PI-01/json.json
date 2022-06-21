@@ -1,0 +1,69 @@
+{
+    "index": 12535,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12535
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-X-2X04PI-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin (2x4) Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "HFX4"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEAF012X04PI"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2X04PI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2X04"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-2X04PI-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-X-2X04PI-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin (2x4) Female Header"
+        }
+    ]
+}

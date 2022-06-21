@@ -1,0 +1,177 @@
+{
+    "index": 12525,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12525
+        },
+        {
+            "name": "index",
+            "value": "3968"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI36-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 36 Pin Header"
+        },
+        {
+            "name": "hexID",
+            "value": "H36"
+        },
+        {
+            "name": "oompSort",
+            "value": "010136"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI36"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "91.44mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11.54 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "36"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI36-01"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "1000 V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI36-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI36-01"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI36-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 36 Pin Header"
+        }
+    ]
+}

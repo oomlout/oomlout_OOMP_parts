@@ -1,0 +1,73 @@
+{
+    "index": 12692,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12692
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-5050-RGB-K2812-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (5050) Smart Controller (WS2812B) RGB LED"
+        },
+        {
+            "name": "hexID",
+            "value": "L502"
+        },
+        {
+            "name": "oompSort",
+            "value": "LEDS5050K2812"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "5050"
+        },
+        {
+            "name": "oompColor",
+            "value": "RGB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2812"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "5"
+        },
+        {
+            "name": "ooLength",
+            "value": "5"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-5050-RGB-K2812-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (5050) Smart Controller (WS2812B) RGB LED"
+        }
+    ]
+}

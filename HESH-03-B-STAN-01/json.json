@@ -1,0 +1,73 @@
+{
+    "index": 12557,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12557
+        },
+        {
+            "name": "index",
+            "value": "4008"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Black Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS3B"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303B"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Black Heat Shrink"
+        }
+    ]
+}

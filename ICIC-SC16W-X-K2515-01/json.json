@@ -1,0 +1,69 @@
+{
+    "index": 12610,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12610
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC16W-X-K2515-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS2515"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SC16W"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2515"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC16W-X-K2515-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)"
+        }
+    ]
+}

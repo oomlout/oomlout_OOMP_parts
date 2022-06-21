@@ -1,0 +1,133 @@
+{
+    "index": 13047,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13047
+        },
+        {
+            "name": "index",
+            "value": "4161"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-W04-X-O473-01"
+        },
+        {
+            "name": "name",
+            "value": "1/4 Watt 47k Ohm Resistor"
+        },
+        {
+            "name": "hexID",
+            "value": "R4473"
+        },
+        {
+            "name": "oompSort",
+            "value": "0W040047000"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "W04"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O473"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "62.8 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "6.8 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": "Carbon"
+        },
+        {
+            "name": "ooPowerRating",
+            "value": "1/4 W"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "500 V"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "5%"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "colorBand1",
+            "value": "YELLOW"
+        },
+        {
+            "name": "colorBand2",
+            "value": "PURPLE"
+        },
+        {
+            "name": "colorBand3",
+            "value": "ORANGE"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;RESE-W04-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;RESE-W04-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;RESE-W04-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;RESE-W04-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-W04-X-O473-01"
+        },
+        {
+            "name": "name",
+            "value": "1/4 Watt 47k Ohm Resistor"
+        }
+    ]
+}

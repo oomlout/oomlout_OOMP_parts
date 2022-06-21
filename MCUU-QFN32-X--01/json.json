@@ -1,0 +1,57 @@
+{
+    "index": 12693,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12693
+        },
+        {
+            "name": "oompID",
+            "value": "MCUU-QFN32-X-K16U2-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (QFN) AtMega32U4 MCU"
+        },
+        {
+            "name": "oompType",
+            "value": "MCUU"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFN32"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "5mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.95mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "5mm"
+        },
+        {
+            "name": "oompID",
+            "value": "MCUU-QFN32-X--01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (QFN) AtMega32U4 MCU"
+        }
+    ]
+}

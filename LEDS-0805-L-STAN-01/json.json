@@ -1,0 +1,73 @@
+{
+    "index": 12681,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12681
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-0805-L-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) Blue LED"
+        },
+        {
+            "name": "hexID",
+            "value": "L85L"
+        },
+        {
+            "name": "oompSort",
+            "value": "LEDS0805STAN"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-0805-L-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) Blue LED"
+        }
+    ]
+}

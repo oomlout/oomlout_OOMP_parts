@@ -1,0 +1,81 @@
+{
+    "index": 12394,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12394
+        },
+        {
+            "name": "index",
+            "value": ""
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 100 uF Capacitor (Electrolytic) 16v"
+        },
+        {
+            "name": "hexID",
+            "value": "CEU100F"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 100 uF Capacitor (Electrolytic) 16v"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "index": 12564,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12564
+        },
+        {
+            "name": "index",
+            "value": "4006"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-V-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Purple Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS3V"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303V"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "V"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-V-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Purple Heat Shrink"
+        }
+    ]
+}

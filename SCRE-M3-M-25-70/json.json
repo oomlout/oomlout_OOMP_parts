@@ -1,0 +1,69 @@
+{
+    "index": 13057,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13057
+        },
+        {
+            "name": "index",
+            "value": "4226"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-25-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 25 mm Machine Screw Cross Head"
+        },
+        {
+            "name": "hexID",
+            "value": "M325"
+        },
+        {
+            "name": "oompSort",
+            "value": "M3M325"
+        },
+        {
+            "name": "oompType",
+            "value": "SCRE"
+        },
+        {
+            "name": "oompSize",
+            "value": "M3"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "25"
+        },
+        {
+            "name": "oompIndex",
+            "value": "70"
+        },
+        {
+            "name": "oompVersion",
+            "value": "31"
+        },
+        {
+            "name": "oompClass",
+            "value": "Hardware"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "HARD"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-25-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 25 mm Machine Screw Cross Head"
+        }
+    ]
+}

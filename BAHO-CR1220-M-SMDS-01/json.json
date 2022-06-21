@@ -1,0 +1,65 @@
+{
+    "index": 12303,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12303
+        },
+        {
+            "name": "oompID",
+            "value": "BAHO-CR1220-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 SMD Metal Battery Holder"
+        },
+        {
+            "name": "hexID",
+            "value": "BHS1220M"
+        },
+        {
+            "name": "oompSort",
+            "value": "BAHOCR1220SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "BAHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "CR1220"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BAHO-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "BT1"
+        },
+        {
+            "name": "oompID",
+            "value": "BAHO-CR1220-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 SMD Metal Battery Holder"
+        }
+    ]
+}

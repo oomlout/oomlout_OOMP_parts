@@ -1,0 +1,81 @@
+{
+    "index": 12410,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12410
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1206-X-UF22-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 22 uF Capacitor (Tantalum) 10v"
+        },
+        {
+            "name": "hexID",
+            "value": "C1U022"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPT1206UF22"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF22"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V10"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-1206-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-1206-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-1206-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-1206-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1206-X-UF22-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 22 uF Capacitor (Tantalum) 10v"
+        }
+    ]
+}

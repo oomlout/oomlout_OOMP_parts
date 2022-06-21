@@ -1,0 +1,69 @@
+{
+    "index": 12724,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12724
+        },
+        {
+            "name": "oompID",
+            "value": "PHTR-05-I9-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm IR (940 nm) Phototransistor"
+        },
+        {
+            "name": "hexID",
+            "value": "PT5I9"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "PHTR"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "I9"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "PHTR-05-I9-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm IR (940 nm) Phototransistor"
+        }
+    ]
+}

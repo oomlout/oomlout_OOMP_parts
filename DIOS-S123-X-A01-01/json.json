@@ -1,0 +1,69 @@
+{
+    "index": 12455,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12455
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-S123-X-A01-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 1 Amp Diode (Schottky)"
+        },
+        {
+            "name": "hexID",
+            "value": "DS35D1"
+        },
+        {
+            "name": "oompSort",
+            "value": "DIOSS123A01"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOS"
+        },
+        {
+            "name": "oompSize",
+            "value": "S123"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A01"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "SF"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-S123-X-A01-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 1 Amp Diode (Schottky)"
+        }
+    ]
+}

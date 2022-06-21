@@ -1,0 +1,73 @@
+{
+    "index": 12448,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12448
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-ESDP-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) ESD Protection Diode"
+        },
+        {
+            "name": "hexID",
+            "value": "DS3EP"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "S123"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ESDP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-ESDP-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) ESD Protection Diode"
+        }
+    ]
+}

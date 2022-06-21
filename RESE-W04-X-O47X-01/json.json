@@ -1,0 +1,105 @@
+{
+    "index": 13048,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13048
+        },
+        {
+            "name": "index",
+            "value": "4165"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-W04-X-O47X-01"
+        },
+        {
+            "name": "name",
+            "value": "1/4 Watt 4.7 Ohm Resistor"
+        },
+        {
+            "name": "hexID",
+            "value": "R447A"
+        },
+        {
+            "name": "oompSort",
+            "value": "0W040000004"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "W04"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O47X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "colorBand1",
+            "value": "YELLOW"
+        },
+        {
+            "name": "colorBand2",
+            "value": "PURPLE"
+        },
+        {
+            "name": "colorBand3",
+            "value": "GOLD"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;RESE-W04-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;RESE-W04-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;RESE-W04-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;RESE-W04-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-W04-X-O47X-01"
+        },
+        {
+            "name": "name",
+            "value": "1/4 Watt 4.7 Ohm Resistor"
+        }
+    ]
+}

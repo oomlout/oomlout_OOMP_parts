@@ -1,0 +1,65 @@
+{
+    "index": 12632,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12632
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-VQF32-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (VQFN) AtMega328P"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSV328"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICVQF32K328"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "VQF32"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K328"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "32"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-VQF32-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (VQFN) AtMega328P"
+        }
+    ]
+}

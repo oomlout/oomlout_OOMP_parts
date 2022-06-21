@@ -1,0 +1,133 @@
+{
+    "index": 12690,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12690
+        },
+        {
+            "name": "index",
+            "value": "3973"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-10-W-FROS-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Frosted White LED"
+        },
+        {
+            "name": "hexID",
+            "value": "L10W"
+        },
+        {
+            "name": "oompSort",
+            "value": "1010W"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "10"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "FROS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "20"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooLensColor",
+            "value": "Frosted"
+        },
+        {
+            "name": "ooForwardVoltage",
+            "value": "3.0 V"
+        },
+        {
+            "name": "ooForwardCurrent",
+            "value": "15 mA"
+        },
+        {
+            "name": "ooIntensity",
+            "value": "1,000 mcd"
+        },
+        {
+            "name": "ooPowerAngle",
+            "value": "57 deg"
+        },
+        {
+            "name": "ooWavelength",
+            "value": ""
+        },
+        {
+            "name": "ooChromaticityX",
+            "value": "0.32"
+        },
+        {
+            "name": "ooChromaticityY",
+            "value": "0.34"
+        },
+        {
+            "name": "ooFrontDiagram",
+            "value": "OOMP-LEDS-10.png"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;LEDS-10-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;LEDS-10-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;LEDS-10-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;LEDS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;LEDS-10-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-10-W-FROS-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Frosted White LED"
+        }
+    ]
+}

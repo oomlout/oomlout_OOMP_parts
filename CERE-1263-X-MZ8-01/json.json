@@ -1,0 +1,65 @@
+{
+    "index": 12427,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12427
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 8 MHz Ceramic Resonator"
+        },
+        {
+            "name": "hexID",
+            "value": "CR1638"
+        },
+        {
+            "name": "oompSort",
+            "value": "CERE1263MZ8"
+        },
+        {
+            "name": "oompType",
+            "value": "CERE"
+        },
+        {
+            "name": "oompSize",
+            "value": "1263"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ8"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CERE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 8 MHz Ceramic Resonator"
+        }
+    ]
+}

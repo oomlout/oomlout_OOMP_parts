@@ -1,0 +1,61 @@
+{
+    "index": 12644,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12644
+        },
+        {
+            "name": "oompID",
+            "value": "JSTS-01-X-PI02-SM"
+        },
+        {
+            "name": "name",
+            "value": "1 mm 2 Pin JST Socket (SMD)"
+        },
+        {
+            "name": "hexID",
+            "value": "J102"
+        },
+        {
+            "name": "oompSort",
+            "value": "JSTS0102PI"
+        },
+        {
+            "name": "oompType",
+            "value": "JSTS"
+        },
+        {
+            "name": "oompSize",
+            "value": "01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "JSTS-01-X-PI02-SM"
+        },
+        {
+            "name": "name",
+            "value": "1 mm 2 Pin JST Socket (SMD)"
+        }
+    ]
+}

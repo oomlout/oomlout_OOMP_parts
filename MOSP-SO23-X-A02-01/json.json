@@ -1,0 +1,133 @@
+{
+    "index": 12700,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12700
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 2 Amp P-Ch. MOSFET"
+        },
+        {
+            "name": "hexID",
+            "value": "MPSS202"
+        },
+        {
+            "name": "oompSort",
+            "value": "SO2302.000"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "1 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.3 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "340"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "340"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooPin1",
+            "value": "G"
+        },
+        {
+            "name": "ooPin2",
+            "value": "S"
+        },
+        {
+            "name": "ooPin3",
+            "value": "D"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 2 Amp P-Ch. MOSFET"
+        }
+    ]
+}

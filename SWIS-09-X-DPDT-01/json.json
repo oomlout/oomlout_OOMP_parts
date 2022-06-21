@@ -1,0 +1,69 @@
+{
+    "index": 13073,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13073
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-DPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "9 mm DPDT Switch (Slide)"
+        },
+        {
+            "name": "hexID",
+            "value": "SSW9D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "SWIS"
+        },
+        {
+            "name": "oompSize",
+            "value": "09"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "DPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-DPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "9 mm DPDT Switch (Slide)"
+        }
+    ]
+}

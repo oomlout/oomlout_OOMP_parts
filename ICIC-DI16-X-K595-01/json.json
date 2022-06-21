@@ -1,0 +1,81 @@
+{
+    "index": 12591,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12591
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI16-X-K595-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin DIP 74HC595 8-Bit Shift Register (Latching)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSR"
+        },
+        {
+            "name": "oompSort",
+            "value": "74HC595"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K595"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "16"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-ICIC-DI16-X-XXXX-01"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI16-X-K595-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin DIP 74HC595 8-Bit Shift Register (Latching)"
+        }
+    ]
+}

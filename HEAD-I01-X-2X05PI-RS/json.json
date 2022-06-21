@@ -1,0 +1,85 @@
+{
+    "index": 12485,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12485
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X05-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 10 Pin (2x5) Header Right Angle (SMD)"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2X05PI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "HRS2X05"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "12.7 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.08 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "17.66 mm"
+        },
+        {
+            "name": "numPins",
+            "value": "10"
+        },
+        {
+            "name": "numRows",
+            "value": "2"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "HEAD-I01-X-PI2x05-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-2X05PI-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 10 Pin (2x5) Header Right Angle (SMD)"
+        }
+    ]
+}

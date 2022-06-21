@@ -1,0 +1,69 @@
+{
+    "index": 13131,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13131
+        },
+        {
+            "name": "index",
+            "value": "4171"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Brown Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2N"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28N"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "N"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Brown Stranded Wire"
+        }
+    ]
+}

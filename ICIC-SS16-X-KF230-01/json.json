@@ -1,0 +1,61 @@
+{
+    "index": 12622,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12622
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS16-X-KF230-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)"
+        },
+        {
+            "name": "hexID",
+            "value": "IC230"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSS16KF230"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SS16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KF230"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS16-X-KF230-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)"
+        }
+    ]
+}

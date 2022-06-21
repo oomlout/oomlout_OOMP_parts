@@ -1,0 +1,61 @@
+{
+    "index": 13103,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13103
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-DFN8-X-BUCA-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VSD8A"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGDFN8BUCA"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "DFN8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "BUCA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A2"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-DFN8-X-BUCA-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "index": 13084,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13084
+        },
+        {
+            "name": "oompID",
+            "value": "TILS-11-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm Tilt Switch"
+        },
+        {
+            "name": "hexID",
+            "value": "TS11"
+        },
+        {
+            "name": "oompSort",
+            "value": "TILS11STAN"
+        },
+        {
+            "name": "oompType",
+            "value": "TILS"
+        },
+        {
+            "name": "oompSize",
+            "value": "11"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "3.4 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "11 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "TILS-11-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm Tilt Switch"
+        }
+    ]
+}

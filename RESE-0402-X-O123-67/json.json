@@ -1,0 +1,89 @@
+{
+    "index": 12775,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12775
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O123-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 12k Ohm Resistor 1%"
+        },
+        {
+            "name": "hexID",
+            "value": "R42123A"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O123"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "67"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.35mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O123-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 12k Ohm Resistor 1%"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "index": 13108,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13108
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO223-X-V33D-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-223) 3.3v Voltage Regulator 1 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VS231"
+        },
+        {
+            "name": "oompSort",
+            "value": "SO223.301.000"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO223"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A1"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO223-X-V33D-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-223) 3.3v Voltage Regulator 1 A"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "index": 13064,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13064
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-05-X-LIRE-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm Light (Resistive) Sensor"
+        },
+        {
+            "name": "hexID",
+            "value": "SEPR"
+        },
+        {
+            "name": "oompSort",
+            "value": "SENS05LIRE"
+        },
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LIRE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "5.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "0"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-05-X-LIRE-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm Light (Resistive) Sensor"
+        }
+    ]
+}

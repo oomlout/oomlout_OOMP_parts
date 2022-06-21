@@ -1,0 +1,197 @@
+{
+    "index": 12602,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12602
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN28-X-K4988-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (QFN) Stepper Motor Driver (A4988)"
+        },
+        {
+            "name": "hexID",
+            "value": "IC4988"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFN28"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K4988"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "28"
+        },
+        {
+            "name": "ooPin1",
+            "value": "OUT2B"
+        },
+        {
+            "name": "ooPin2",
+            "value": "ENABLE"
+        },
+        {
+            "name": "ooPin3",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin4",
+            "value": "CP1"
+        },
+        {
+            "name": "ooPin5",
+            "value": "CP2"
+        },
+        {
+            "name": "ooPin6",
+            "value": "VCP"
+        },
+        {
+            "name": "ooPin7",
+            "value": "NC"
+        },
+        {
+            "name": "ooPin8",
+            "value": "VREG"
+        },
+        {
+            "name": "ooPin9",
+            "value": "MS1"
+        },
+        {
+            "name": "ooPin10",
+            "value": "MS2"
+        },
+        {
+            "name": "ooPin11",
+            "value": "MS3"
+        },
+        {
+            "name": "ooPin12",
+            "value": "RESET"
+        },
+        {
+            "name": "ooPin13",
+            "value": "ROSC"
+        },
+        {
+            "name": "ooPin14",
+            "value": "SLEEP"
+        },
+        {
+            "name": "ooPin15",
+            "value": "VDD"
+        },
+        {
+            "name": "ooPin16",
+            "value": "STEP"
+        },
+        {
+            "name": "ooPin17",
+            "value": "REF"
+        },
+        {
+            "name": "ooPin18",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin19",
+            "value": "DIR"
+        },
+        {
+            "name": "ooPin20",
+            "value": "NC"
+        },
+        {
+            "name": "ooPin21",
+            "value": "OUT1B"
+        },
+        {
+            "name": "ooPin22",
+            "value": "VBB1"
+        },
+        {
+            "name": "ooPin23",
+            "value": "SENSE1"
+        },
+        {
+            "name": "ooPin24",
+            "value": "OUT1A"
+        },
+        {
+            "name": "ooPin25",
+            "value": "NC"
+        },
+        {
+            "name": "ooPin26",
+            "value": "OUT2A"
+        },
+        {
+            "name": "ooPin27",
+            "value": "SENSE2"
+        },
+        {
+            "name": "ooPin28",
+            "value": "VBB2"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "A4988"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;ICIC-QFN28-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-QFN28-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;ICIC-QFN28-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;ICIC-QFN28-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN28-X-K4988-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (QFN) Stepper Motor Driver (A4988)"
+        }
+    ]
+}

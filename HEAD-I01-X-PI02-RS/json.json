@@ -1,0 +1,125 @@
+{
+    "index": 12498,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12498
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI02-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 2 Pin Header Right Angle (SMD)"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;HEAD-I01-X-XX-RS-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;2"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-RS-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;2"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;HEAD-I01-X-XX-RS-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;2"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;HEAD-I01-X-XX-RS-simp"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;2"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI02-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI02-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI02-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 2 Pin Header Right Angle (SMD)"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "index": 12326,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12326
+        },
+        {
+            "name": "index",
+            "value": ""
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-NF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 100 nF Capacitor (Ceramic) 16v"
+        },
+        {
+            "name": "hexID",
+            "value": "R42N100"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-NF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 100 nF Capacitor (Ceramic) 16v"
+        }
+    ]
+}

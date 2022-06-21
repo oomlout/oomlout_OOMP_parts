@@ -1,0 +1,65 @@
+{
+    "index": 12652,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12652
+        },
+        {
+            "name": "oompID",
+            "value": "JUMP-I01-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm Jumper"
+        },
+        {
+            "name": "hexID",
+            "value": "JU01"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "JUMP"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompID",
+            "value": "JUMP-I01-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm Jumper"
+        }
+    ]
+}

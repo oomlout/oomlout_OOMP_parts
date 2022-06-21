@@ -1,0 +1,65 @@
+{
+    "index": 13074,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13074
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-DPDT-68"
+        },
+        {
+            "name": "name",
+            "value": "9 mm DPDT Switch (Slide) Side Adjust"
+        },
+        {
+            "name": "hexID",
+            "value": "SSW9S"
+        },
+        {
+            "name": "oompSort",
+            "value": "SWIS09DPDT"
+        },
+        {
+            "name": "oompType",
+            "value": "SWIS"
+        },
+        {
+            "name": "oompSize",
+            "value": "09"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "DPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "68"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "6"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-DPDT-68"
+        },
+        {
+            "name": "name",
+            "value": "9 mm DPDT Switch (Slide) Side Adjust"
+        }
+    ]
+}

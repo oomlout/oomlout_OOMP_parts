@@ -1,0 +1,73 @@
+{
+    "index": 12590,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12590
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI14-X-K1820-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin DIP Voice Recorder (ISD1820P)"
+        },
+        {
+            "name": "hexID",
+            "value": "IC1820P"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICDI14K1820"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI14"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K1820"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "14"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-ICIC-DI14-X-XXXX-01"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "ISDP1820P"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI14-X-K1820-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin DIP Voice Recorder (ISD1820P)"
+        }
+    ]
+}

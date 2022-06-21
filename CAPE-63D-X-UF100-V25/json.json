@@ -1,0 +1,89 @@
+{
+    "index": 12405,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12405
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-63D-X-UF100-V25"
+        },
+        {
+            "name": "name",
+            "value": "6.3 mm 100 uF Capacitor (Electrolytic) 25v"
+        },
+        {
+            "name": "hexID",
+            "value": "CEU100"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTH0.00001000000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "63D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "6.3 mm"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-63D-X-UF100-V25"
+        },
+        {
+            "name": "name",
+            "value": "6.3 mm 100 uF Capacitor (Electrolytic) 25v"
+        }
+    ]
+}

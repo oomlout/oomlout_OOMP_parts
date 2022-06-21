@@ -1,0 +1,69 @@
+{
+    "index": 12598,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12598
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-LG14-X-K345-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin SMD (LGA) Digital Accelerometer (ADXL345)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS345"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "LG14"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K345"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-LG14-X-K345-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin SMD (LGA) Digital Accelerometer (ADXL345)"
+        }
+    ]
+}

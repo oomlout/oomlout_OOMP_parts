@@ -1,0 +1,73 @@
+{
+    "index": 12739,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12739
+        },
+        {
+            "name": "index",
+            "value": "4125"
+        },
+        {
+            "name": "oompID",
+            "value": "RBCC-40W-Z-L100-01"
+        },
+        {
+            "name": "name",
+            "value": "40 Wire 100 mm Rainbow Crimped Ribbon Cable"
+        },
+        {
+            "name": "hexID",
+            "value": "RBC1"
+        },
+        {
+            "name": "oompSort",
+            "value": "040W100"
+        },
+        {
+            "name": "oompType",
+            "value": "RBCC"
+        },
+        {
+            "name": "oompSize",
+            "value": "40W"
+        },
+        {
+            "name": "oompColor",
+            "value": "Z"
+        },
+        {
+            "name": "oompDesc",
+            "value": "L100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These 100 mm long cables are best used when making connections between boards that are close to one another as the length doesn&#39t leave much room for play. However given their short length it also means there isn&#39t much wire left over to look messy."
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "RBCC-40W-Z-L100-01"
+        },
+        {
+            "name": "name",
+            "value": "40 Wire 100 mm Rainbow Crimped Ribbon Cable"
+        }
+    ]
+}

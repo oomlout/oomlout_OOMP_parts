@@ -1,0 +1,65 @@
+{
+    "index": 12320,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12320
+        },
+        {
+            "name": "oompID",
+            "value": "BUZZ-12-X-V3-01"
+        },
+        {
+            "name": "name",
+            "value": "12 mm 3v Buzzer"
+        },
+        {
+            "name": "hexID",
+            "value": "BZ12"
+        },
+        {
+            "name": "oompSort",
+            "value": "BUZZ12V3"
+        },
+        {
+            "name": "oompType",
+            "value": "BUZZ"
+        },
+        {
+            "name": "oompSize",
+            "value": "12"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V3"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUZZ-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "LS1"
+        },
+        {
+            "name": "oompID",
+            "value": "BUZZ-12-X-V3-01"
+        },
+        {
+            "name": "name",
+            "value": "12 mm 3v Buzzer"
+        }
+    ]
+}

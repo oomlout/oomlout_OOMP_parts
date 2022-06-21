@@ -1,0 +1,57 @@
+{
+    "index": 12305,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12305
+        },
+        {
+            "name": "oompID",
+            "value": "BAPI-06-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Badge Pin"
+        },
+        {
+            "name": "hexID",
+            "value": "BAPI"
+        },
+        {
+            "name": "oompSort",
+            "value": "BAPI06THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "BAPI"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompID",
+            "value": "BAPI-06-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Badge Pin"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "index": 12621,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12621
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-KHT46-01"
+        },
+        {
+            "name": "name",
+            "value": " 20 Pin SMD (SOP) Holtek HT46R066 "
+        },
+        {
+            "name": "hexID",
+            "value": "ICSKHT46"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSP20KHT46"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP20"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KHT46"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "PA3/INT/AN3"
+        },
+        {
+            "name": "ooPin2",
+            "value": "PA2/TC0/AN2"
+        },
+        {
+            "name": "ooPin3",
+            "value": "PA1/TC0/AN1"
+        },
+        {
+            "name": "ooPin4",
+            "value": "PA0/AN0"
+        },
+        {
+            "name": "ooPin5",
+            "value": "VSS/GND"
+        },
+        {
+            "name": "ooPin6",
+            "value": "PC0/AN4"
+        },
+        {
+            "name": "ooPin7",
+            "value": "PC1/AN5"
+        },
+        {
+            "name": "ooPin8",
+            "value": "PB0/SCOM0"
+        },
+        {
+            "name": "ooPin9",
+            "value": "PB1/SCOM1"
+        },
+        {
+            "name": "ooPin10",
+            "value": "PB2/SCOM2"
+        },
+        {
+            "name": "ooPin11",
+            "value": "PB3/SCOM3"
+        },
+        {
+            "name": "ooPin12",
+            "value": "PB4/TC0"
+        },
+        {
+            "name": "ooPin13",
+            "value": "PB5/INT"
+        },
+        {
+            "name": "ooPin14",
+            "value": "PC2"
+        },
+        {
+            "name": "ooPin15",
+            "value": "PC3/PWM1"
+        },
+        {
+            "name": "ooPin16",
+            "value": "VDD"
+        },
+        {
+            "name": "ooPin17",
+            "value": "PA7/RES"
+        },
+        {
+            "name": "ooPin18",
+            "value": "PA6/OSC1"
+        },
+        {
+            "name": "ooPin19",
+            "value": "PA5/OSC2"
+        },
+        {
+            "name": "ooPin20",
+            "value": "PA4/PWM0/TC1"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;ICIC-SP20-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-SP20-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;ICIC-SP20-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;ICIC-SP20-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "HT46R066B"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-KHT46-01"
+        },
+        {
+            "name": "name",
+            "value": " 20 Pin SMD (SOP) Holtek HT46R066 "
+        }
+    ]
+}

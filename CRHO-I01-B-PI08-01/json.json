@@ -1,0 +1,169 @@
+{
+    "index": 12434,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12434
+        },
+        {
+            "name": "index",
+            "value": "3951"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin Black Crimp Housing"
+        },
+        {
+            "name": "hexID",
+            "value": "CH08"
+        },
+        {
+            "name": "oompSort",
+            "value": "010108"
+        },
+        {
+            "name": "oompType",
+            "value": "CRHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "20.52 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "14 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": "Plastic"
+        },
+        {
+            "name": "ooTerminalStyle",
+            "value": "DuPont"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "250 V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These eight pin connectors are often used simply when you find you have eight wires that need connecting. However if you know of a common usage please let us know."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;CRHO-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;CRHO-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin Black Crimp Housing"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "index": 12420,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12420
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-2312-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2312) 100 uF Capacitor (Tantalum) 16v"
+        },
+        {
+            "name": "hexID",
+            "value": "CTS3U100F"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPC2312UF100"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "2312"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-2312-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2312) 100 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

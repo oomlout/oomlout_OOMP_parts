@@ -1,0 +1,69 @@
+{
+    "index": 12729,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12729
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-14-X-O204-68"
+        },
+        {
+            "name": "name",
+            "value": "14 mm 200k Ohm Potentiometer Side Adjust"
+        },
+        {
+            "name": "hexID",
+            "value": "PT4204S"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "POTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "14"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O204"
+        },
+        {
+            "name": "oompIndex",
+            "value": "68"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "VR1"
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-14-X-O204-68"
+        },
+        {
+            "name": "name",
+            "value": "14 mm 200k Ohm Potentiometer Side Adjust"
+        }
+    ]
+}

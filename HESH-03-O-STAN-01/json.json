@@ -1,0 +1,73 @@
+{
+    "index": 12562,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12562
+        },
+        {
+            "name": "index",
+            "value": "4002"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-O-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Orange Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS3O"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303O"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "O"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-O-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Orange Heat Shrink"
+        }
+    ]
+}

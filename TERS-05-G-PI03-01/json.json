@@ -1,0 +1,77 @@
+{
+    "index": 13079,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13079
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-05-G-PI03-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 3 Pin Green Screw Terminal"
+        },
+        {
+            "name": "hexID",
+            "value": "ST502G"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "TERS"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "G"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI03"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-TERS-05-X-PI03-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-05-G-PI03-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 3 Pin Green Screw Terminal"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "index": 12404,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12404
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-10-X-UF470-V25"
+        },
+        {
+            "name": "name",
+            "value": "10 mm 470 uF Capacitor (Electrolytic) 25v"
+        },
+        {
+            "name": "hexID",
+            "value": "CEU470"
+        },
+        {
+            "name": "oompSort",
+            "value": "0.00004700000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "10"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF470"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "5 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "12 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "10 mm"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-10-X-UF470-V25"
+        },
+        {
+            "name": "name",
+            "value": "10 mm 470 uF Capacitor (Electrolytic) 25v"
+        }
+    ]
+}

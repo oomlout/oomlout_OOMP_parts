@@ -1,0 +1,65 @@
+{
+    "index": 12302,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12302
+        },
+        {
+            "name": "oompID",
+            "value": "ANTE-SMA-X-G24-01"
+        },
+        {
+            "name": "name",
+            "value": "SMA 2.4 Ghz Antenna"
+        },
+        {
+            "name": "hexID",
+            "value": "AN24SM"
+        },
+        {
+            "name": "oompSort",
+            "value": "ANTESMAM4X4"
+        },
+        {
+            "name": "oompType",
+            "value": "ANTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "SMA"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "G24"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;ANTE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "AE1"
+        },
+        {
+            "name": "oompID",
+            "value": "ANTE-SMA-X-G24-01"
+        },
+        {
+            "name": "name",
+            "value": "SMA 2.4 Ghz Antenna"
+        }
+    ]
+}

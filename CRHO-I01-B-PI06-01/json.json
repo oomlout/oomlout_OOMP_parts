@@ -1,0 +1,105 @@
+{
+    "index": 12433,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12433
+        },
+        {
+            "name": "index",
+            "value": "3950"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI06-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Black Crimp Housing"
+        },
+        {
+            "name": "hexID",
+            "value": "CH06"
+        },
+        {
+            "name": "oompSort",
+            "value": "010106"
+        },
+        {
+            "name": "oompType",
+            "value": "CRHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI06"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "15.44 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "14 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": "Plastic"
+        },
+        {
+            "name": "ooTerminalStyle",
+            "value": "DuPont"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "250 V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI06-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Black Crimp Housing"
+        }
+    ]
+}

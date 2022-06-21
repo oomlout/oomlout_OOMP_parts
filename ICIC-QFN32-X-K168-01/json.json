@@ -1,0 +1,65 @@
+{
+    "index": 12603,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12603
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN32-X-K168-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (QFN) AtMega168P"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSQ168"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICQFN32K168"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFN32"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K168"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "32"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN32-X-K168-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (QFN) AtMega168P"
+        }
+    ]
+}

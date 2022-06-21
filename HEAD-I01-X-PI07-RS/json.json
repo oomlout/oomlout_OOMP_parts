@@ -1,0 +1,81 @@
+{
+    "index": 12511,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12511
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI07-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 7 Pin Header Right Angle (SMD)"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI07"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "HRS07"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "17.78 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "13.04 mm"
+        },
+        {
+            "name": "numPins",
+            "value": "7"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "HEAD-I01-X-PI07-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI07-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 7 Pin Header Right Angle (SMD)"
+        }
+    ]
+}

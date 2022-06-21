@@ -1,0 +1,73 @@
+{
+    "index": 12454,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12454
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-D214-X-A05-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DO-214) 5 Amp Diode (Schottky)"
+        },
+        {
+            "name": "hexID",
+            "value": "DS205"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surcace Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOS"
+        },
+        {
+            "name": "oompSize",
+            "value": "D214"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-D214-X-A05-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DO-214) 5 Amp Diode (Schottky)"
+        }
+    ]
+}

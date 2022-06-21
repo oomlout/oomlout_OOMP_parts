@@ -1,0 +1,69 @@
+{
+    "index": 12532,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12532
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-X-PI10-SM"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin Female Header (SMD)"
+        },
+        {
+            "name": "hexID",
+            "value": "HF210S"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEAF0210PI"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "02"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "10"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI10-SM"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-X-PI10-SM"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin Female Header (SMD)"
+        }
+    ]
+}

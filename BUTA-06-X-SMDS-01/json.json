@@ -1,0 +1,189 @@
+{
+    "index": 12308,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12308
+        },
+        {
+            "name": "index",
+            "value": "4315"
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-06-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm SMD Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "B06"
+        },
+        {
+            "name": "oompSort",
+            "value": "0606"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "6.2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "3.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "6.2 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "useID",
+            "value": "2"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "2"
+        },
+        {
+            "name": "useTitle",
+            "value": "Reset Button"
+        },
+        {
+            "name": "useTitle",
+            "value": "Keypad Button"
+        },
+        {
+            "name": "useDescription",
+            "value": "a reset button for a microcontroller."
+        },
+        {
+            "name": "useDescription",
+            "value": "a button on a keypad."
+        },
+        {
+            "name": "oompAbout",
+            "value": "<![CDATA[A commonly used through surface mount tactile pushbutton. For a through hole version of this part see <a href=\"http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01\">BUTA-06-X-STAN-01</a>.]]>"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompDiag",
+            "value": "rectangle;0;0;6.2;6.2;Main Square"
+        },
+        {
+            "name": "oompDiag",
+            "value": "circle;0;0;3.5;3.5;Main Button"
+        },
+        {
+            "name": "oompDiag",
+            "value": "circle;2.15;2.15;0.75;0.75;Circle Nub 1"
+        },
+        {
+            "name": "oompDiag",
+            "value": "circle;-2.15;-2.15;0.75;0.75;Circle Nub 2"
+        },
+        {
+            "name": "oompDiag",
+            "value": "circle;2.15;-2.15;0.75;0.75;Circle Nub 3"
+        },
+        {
+            "name": "oompDiag",
+            "value": "circle;-2.15;2.15;0.75;0.75;Circle Nub 4"
+        },
+        {
+            "name": "oompDiag",
+            "value": "rectangle;3.8;2.25;1.4;0.7;pad 1"
+        },
+        {
+            "name": "oompDiag",
+            "value": "rectangle;-3.8;-2.25;1.4;0.7;pad 2"
+        },
+        {
+            "name": "oompDiag",
+            "value": "rectangle;-3.8;2.25;1.4;0.7;pad 3"
+        },
+        {
+            "name": "oompDiag",
+            "value": "rectangle;3.8;-2.25;1.4;0.7;pad 4"
+        },
+        {
+            "name": "oompDiag",
+            "value": "name;0;5;20;5;##name@@"
+        },
+        {
+            "name": "oompDiag",
+            "value": "oompURL;0;-5;2.835;##hexID@@"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-06-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm SMD Pushbutton (Tactile)"
+        }
+    ]
+}

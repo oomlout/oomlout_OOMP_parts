@@ -1,0 +1,101 @@
+{
+    "index": 12749,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12749
+        },
+        {
+            "name": "index",
+            "value": "4274"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A05D-V15"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1812) 500 mA Resetable Fuse 15v"
+        },
+        {
+            "name": "hexID",
+            "value": "RF805"
+        },
+        {
+            "name": "oompSort",
+            "value": "181200.500"
+        },
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1812"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A05D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V15"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "4.5 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.75 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3.25 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "50##"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;REFU-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "F1"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A05D-V15"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1812) 500 mA Resetable Fuse 15v"
+        }
+    ]
+}

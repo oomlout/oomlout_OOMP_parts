@@ -1,0 +1,129 @@
+{
+    "index": 12461,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12461
+        },
+        {
+            "name": "oompID",
+            "value": "DISP-16X2-G-LCD-01"
+        },
+        {
+            "name": "name",
+            "value": " 16 x 2 Character LCD Green Display "
+        },
+        {
+            "name": "hexID",
+            "value": "DS16"
+        },
+        {
+            "name": "oompSort",
+            "value": "DISP16X2LCD"
+        },
+        {
+            "name": "oompType",
+            "value": "DISP"
+        },
+        {
+            "name": "oompSize",
+            "value": "16X2"
+        },
+        {
+            "name": "oompColor",
+            "value": "G"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LCD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin2",
+            "value": "5V"
+        },
+        {
+            "name": "ooPin3",
+            "value": "CON"
+        },
+        {
+            "name": "ooPin4",
+            "value": "RS"
+        },
+        {
+            "name": "ooPin5",
+            "value": "R/W"
+        },
+        {
+            "name": "ooPin6",
+            "value": "EN"
+        },
+        {
+            "name": "ooPin7",
+            "value": "D1"
+        },
+        {
+            "name": "ooPin8",
+            "value": "D2"
+        },
+        {
+            "name": "ooPin9",
+            "value": "D3"
+        },
+        {
+            "name": "ooPin10",
+            "value": "D4"
+        },
+        {
+            "name": "ooPin11",
+            "value": "D5"
+        },
+        {
+            "name": "ooPin12",
+            "value": "D6"
+        },
+        {
+            "name": "ooPin13",
+            "value": "D7"
+        },
+        {
+            "name": "ooPin14",
+            "value": "D8"
+        },
+        {
+            "name": "ooPin15",
+            "value": "BL+"
+        },
+        {
+            "name": "ooPin16",
+            "value": "BL-"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;DISP-16X2-X-LCD-01-bbls"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DISP-16X2-G-LCD-01"
+        },
+        {
+            "name": "name",
+            "value": " 16 x 2 Character LCD Green Display "
+        }
+    ]
+}

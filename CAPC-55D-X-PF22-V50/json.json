@@ -1,0 +1,101 @@
+{
+    "index": 12389,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12389
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-55D-X-PF22-V50"
+        },
+        {
+            "name": "name",
+            "value": "5.5 mm 22 pF Capacitor (Ceramic) 50v"
+        },
+        {
+            "name": "hexID",
+            "value": "CCP022"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTH0.00000000000220"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "55D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PF22"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.5 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "5.5 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "50 V"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "20%"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-55D-X-PF22-V50"
+        },
+        {
+            "name": "name",
+            "value": "5.5 mm 22 pF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

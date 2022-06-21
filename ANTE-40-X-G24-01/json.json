@@ -1,0 +1,65 @@
+{
+    "index": 12301,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12301
+        },
+        {
+            "name": "oompID",
+            "value": "ANTE-40-X-G24-01"
+        },
+        {
+            "name": "name",
+            "value": "40 mm 2.4 Ghz Antenna"
+        },
+        {
+            "name": "hexID",
+            "value": "AN2440"
+        },
+        {
+            "name": "oompSort",
+            "value": "ANTEG2440"
+        },
+        {
+            "name": "oompType",
+            "value": "ANTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "40"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "G24"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;ANTE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "AE1"
+        },
+        {
+            "name": "oompID",
+            "value": "ANTE-40-X-G24-01"
+        },
+        {
+            "name": "name",
+            "value": "40 mm 2.4 Ghz Antenna"
+        }
+    ]
+}

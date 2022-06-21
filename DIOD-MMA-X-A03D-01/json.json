@@ -1,0 +1,73 @@
+{
+    "index": 12444,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12444
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-MMA-X-A03D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Mini MELF) 300 mA Diode"
+        },
+        {
+            "name": "hexID",
+            "value": "DSM3D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "MMA"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A03D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-MMA-X-A03D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Mini MELF) 300 mA Diode"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "index": 13126,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13126
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T92-X-ADJU-AH"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 Adjustable Voltage Regulator 100 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "V92A"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGT92ADJU"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ADJU"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AH"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T92-X-ADJU-AH"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 Adjustable Voltage Regulator 100 mA"
+        }
+    ]
+}

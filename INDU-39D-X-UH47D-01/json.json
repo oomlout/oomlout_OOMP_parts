@@ -1,0 +1,73 @@
+{
+    "index": 12643,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12643
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-39D-X-UH47D-01"
+        },
+        {
+            "name": "name",
+            "value": "3.9 mm 4.7 uH Inductor"
+        },
+        {
+            "name": "hexID",
+            "value": "IN39U47"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "INDU"
+        },
+        {
+            "name": "oompSize",
+            "value": "39D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UH47D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;INDU-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-39D-X-UH47D-01"
+        },
+        {
+            "name": "name",
+            "value": "3.9 mm 4.7 uH Inductor"
+        }
+    ]
+}

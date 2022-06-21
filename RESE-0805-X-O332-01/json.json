@@ -1,0 +1,93 @@
+{
+    "index": 13004,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13004
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O332-01"
+        },
+        {
+            "name": "hexID",
+            "value": "R85332"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "332"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O332"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 3.3k Ohm Resistor"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0805-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0805-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0805-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0805-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O332-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 3.3k Ohm Resistor"
+        }
+    ]
+}

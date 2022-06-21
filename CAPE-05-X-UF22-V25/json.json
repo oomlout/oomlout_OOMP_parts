@@ -1,0 +1,89 @@
+{
+    "index": 12396,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12396
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF22-V25"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 22 uF Capacitor (Electrolytic) 25v"
+        },
+        {
+            "name": "hexID",
+            "value": "CEU022"
+        },
+        {
+            "name": "oompSort",
+            "value": "0.00000220000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF22"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "5 mm"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF22-V25"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 22 uF Capacitor (Electrolytic) 25v"
+        }
+    ]
+}

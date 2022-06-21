@@ -1,0 +1,57 @@
+{
+    "index": 9187,
+    "tags": [
+        {
+            "name": "index",
+            "value": 9187
+        },
+        {
+            "name": "oompType",
+            "value": "POTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "95D"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O103"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "PTA103"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "VR1"
+        },
+        {
+            "name": "kicadSymbol",
+            "value": "Device>R_Potentiometer"
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-95D-L-O103-01"
+        },
+        {
+            "name": "name",
+            "value": "9.5 mm 10k Ohm Blue Potentiometer"
+        }
+    ]
+}

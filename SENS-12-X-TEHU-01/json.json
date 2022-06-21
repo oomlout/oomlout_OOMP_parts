@@ -1,0 +1,61 @@
+{
+    "index": 13065,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13065
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-12-X-TEHU-01"
+        },
+        {
+            "name": "name",
+            "value": "12 mm Temperature and Humidity Sensor"
+        },
+        {
+            "name": "hexID",
+            "value": "SETH1"
+        },
+        {
+            "name": "oompSort",
+            "value": "SENS12TEHU"
+        },
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "12"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TEHU"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "0"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-12-X-TEHU-01"
+        },
+        {
+            "name": "name",
+            "value": "12 mm Temperature and Humidity Sensor"
+        }
+    ]
+}

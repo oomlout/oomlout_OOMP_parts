@@ -1,0 +1,69 @@
+{
+    "index": 13121,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13121
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO238-X-ADJU-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-8) Adjustable Voltage Regulator 2 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VS8A2"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO238"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ADJU"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A2"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO238-X-ADJU-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-8) Adjustable Voltage Regulator 2 A"
+        }
+    ]
+}

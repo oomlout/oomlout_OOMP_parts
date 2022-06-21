@@ -1,0 +1,153 @@
+{
+    "index": 8961,
+    "tags": [
+        {
+            "name": "index",
+            "value": 8961
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI03"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OOEB"
+        },
+        {
+            "name": "hexID",
+            "value": "H03OOEB"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;3"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-OOEB-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;3"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;3"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;3"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-ODD-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;3"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI03-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI03-01"
+        },
+        {
+            "name": "kicadSymbol",
+            "value": "Connector>Conn_01x03_Male"
+        },
+        {
+            "name": "kicadFootprint",
+            "value": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI03-OOEB"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 3 Pin Header (OOEB)"
+        }
+    ]
+}

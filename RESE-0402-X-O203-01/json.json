@@ -1,0 +1,89 @@
+{
+    "index": 12789,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12789
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O203-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 20k Ohm Resistor"
+        },
+        {
+            "name": "hexID",
+            "value": "R42203"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O203"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.35mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O203-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 20k Ohm Resistor"
+        }
+    ]
+}

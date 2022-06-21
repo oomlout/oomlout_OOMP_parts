@@ -1,0 +1,69 @@
+{
+    "index": 13118,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13118
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-V33D-A5D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS5335"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A5D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-V33D-A5D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA"
+        }
+    ]
+}

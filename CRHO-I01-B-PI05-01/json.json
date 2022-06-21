@@ -1,0 +1,169 @@
+{
+    "index": 12432,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12432
+        },
+        {
+            "name": "index",
+            "value": "3949"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI05-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 5 Pin Black Crimp Housing"
+        },
+        {
+            "name": "hexID",
+            "value": "CH05"
+        },
+        {
+            "name": "oompSort",
+            "value": "010105"
+        },
+        {
+            "name": "oompType",
+            "value": "CRHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "12.9 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "14 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": "Plastic"
+        },
+        {
+            "name": "ooTerminalStyle",
+            "value": "DuPont"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "250 V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These five pin connectors are often used simply when you find you have five wires that need connecting. That said it can occasionally be found connecting an SPI bus (power (+,-), data, clock, slave select (SS)) or on a stepper motor being driven in uni-polar mode, with a shared central tap (A,B,C,D,tap)"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;5"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;5"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;CRHO-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;5"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;5"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-ODD-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;5"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI05-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 5 Pin Black Crimp Housing"
+        }
+    ]
+}

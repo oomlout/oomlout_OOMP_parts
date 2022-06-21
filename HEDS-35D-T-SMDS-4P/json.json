@@ -1,0 +1,61 @@
+{
+    "index": 12546,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12546
+        },
+        {
+            "name": "oompID",
+            "value": "HEDS-35D-T-SMDS-4P"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm SMD Headphone Socket (4 Pin)"
+        },
+        {
+            "name": "hexID",
+            "value": "HP34T"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEDS35DSMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "HEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "35D"
+        },
+        {
+            "name": "oompColor",
+            "value": "T"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "4P"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEDS-35D-T-SMDS-4P"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm SMD Headphone Socket (4 Pin)"
+        }
+    ]
+}

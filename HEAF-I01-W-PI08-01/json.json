@@ -1,0 +1,137 @@
+{
+    "index": 12534,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12534
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-W-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin White Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "HF08W"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAF-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-W-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin White Female Header"
+        }
+    ]
+}

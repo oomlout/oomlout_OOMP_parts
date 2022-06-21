@@ -1,0 +1,65 @@
+{
+    "index": 13105,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13105
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-MS08-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS855D"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGMS08V05"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "MS08"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A5D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-MS08-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA"
+        }
+    ]
+}

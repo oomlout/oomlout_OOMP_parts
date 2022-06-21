@@ -1,0 +1,165 @@
+{
+    "index": 12524,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12524
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI20-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 20 Pin Header"
+        },
+        {
+            "name": "hexID",
+            "value": "H20"
+        },
+        {
+            "name": "oompSort",
+            "value": "010120"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI20"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "20"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI20-01"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;20"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;20"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;20"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;20"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;20"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI20-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI20-01"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI20-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 20 Pin Header"
+        }
+    ]
+}

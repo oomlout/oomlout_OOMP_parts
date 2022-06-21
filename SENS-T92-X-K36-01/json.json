@@ -1,0 +1,69 @@
+{
+    "index": 13072,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13072
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-T92-X-K36-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 Temperature (TMP36) Sensor"
+        },
+        {
+            "name": "hexID",
+            "value": "SE36"
+        },
+        {
+            "name": "oompSort",
+            "value": "SENST92K36"
+        },
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K36"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "TMP36"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-T92-X-K36-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 Temperature (TMP36) Sensor"
+        }
+    ]
+}

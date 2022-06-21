@@ -1,0 +1,89 @@
+{
+    "index": 12753,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12753
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O102X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 1k Ohm (x4) Resistor Array"
+        },
+        {
+            "name": "hexID",
+            "value": "RA1102"
+        },
+        {
+            "name": "oompSort",
+            "value": "12680001000"
+        },
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "1268"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O102X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "102"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESA-XXXX-X-XXX4-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RN1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O102X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 1k Ohm (x4) Resistor Array"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "index": 13085,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13085
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-SO23-X-A01D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 100 mA NPN Transistor"
+        },
+        {
+            "name": "hexID",
+            "value": "TNS21D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "TRNN"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A01D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "B"
+        },
+        {
+            "name": "ooPin2",
+            "value": "E"
+        },
+        {
+            "name": "ooPin3",
+            "value": "C"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "J6"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-SO23-X-A01D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 100 mA NPN Transistor"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "index": 12340,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12340
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF15-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 15 pF Capacitor (Ceramic) 50v"
+        },
+        {
+            "name": "hexID",
+            "value": "C42P015"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPC0402PF15"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PF15"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF15-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 15 pF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

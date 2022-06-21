@@ -1,0 +1,93 @@
+{
+    "index": 13122,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13122
+        },
+        {
+            "name": "index",
+            "value": "4328"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO89-X-V33D-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-89) 3.3v Voltage Regulator 1 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VS831"
+        },
+        {
+            "name": "oompSort",
+            "value": "SO893.301.000"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO89"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A1"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-JCST"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "CJA1117B-3.3"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1310120P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "1A LOW DROPOUT LINEAR REGULATOR 3.3V"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:SOT89.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO89-X-V33D-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-89) 3.3v Voltage Regulator 1 A"
+        }
+    ]
+}

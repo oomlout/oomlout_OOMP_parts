@@ -1,0 +1,113 @@
+{
+    "index": 12756,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12756
+        },
+        {
+            "name": "index",
+            "value": "4116"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O472X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 4.7k Ohm (x4) Resistor Array"
+        },
+        {
+            "name": "hexID",
+            "value": "RA1472"
+        },
+        {
+            "name": "oompSort",
+            "value": "12680004700"
+        },
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "1268"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O472X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "Yageo"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "YC164-JR-074K7L"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooPowerRating",
+            "value": "62.5 mW"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "5%"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "0040040P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "SMD RES ARRAY 4.7K OHM 4 RES 1206\t"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESA-XXXX-X-XXX4-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RN1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O472X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 4.7k Ohm (x4) Resistor Array"
+        }
+    ]
+}

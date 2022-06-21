@@ -1,0 +1,85 @@
+{
+    "index": 12501,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12501
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI03-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 3 Pin Header Right Angle"
+        },
+        {
+            "name": "hexID",
+            "value": "HR03"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEADI0103PI"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI03"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RA"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI03-RA"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI03-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 3 Pin Header Right Angle"
+        }
+    ]
+}

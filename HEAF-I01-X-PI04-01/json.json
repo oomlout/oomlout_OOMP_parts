@@ -1,0 +1,129 @@
+{
+    "index": 12537,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12537
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-X-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "HF04"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEAFI0104PI"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI04-01"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAF-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-X-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin Female Header"
+        }
+    ]
+}

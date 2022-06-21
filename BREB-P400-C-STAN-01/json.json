@@ -1,0 +1,117 @@
+{
+    "index": 12306,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12306
+        },
+        {
+            "name": "index",
+            "value": "4128"
+        },
+        {
+            "name": "oompID",
+            "value": "BREB-P400-C-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "400 Point Clear Breadboard"
+        },
+        {
+            "name": "hexID",
+            "value": "BB4C"
+        },
+        {
+            "name": "oompSort",
+            "value": "P400"
+        },
+        {
+            "name": "oompType",
+            "value": "BREB"
+        },
+        {
+            "name": "oompSize",
+            "value": "P400"
+        },
+        {
+            "name": "oompColor",
+            "value": "C"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "53 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "8.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "82 mm"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "300 v"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "Prototyping"
+        },
+        {
+            "name": "useDescription",
+            "value": "a base for prototyping new circuits."
+        },
+        {
+            "name": "ooNameLine3of3",
+            "value": "Breadboard "
+        },
+        {
+            "name": "oompAbout",
+            "value": "The start of any project. Great for quickly prototyping a new ciruit. Compatible with most 2.54 mm (0.1\") components."
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;BREB-P400-C-STAN-01-bbls"
+        },
+        {
+            "name": "oompID",
+            "value": "BREB-P400-C-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "400 Point Clear Breadboard"
+        }
+    ]
+}

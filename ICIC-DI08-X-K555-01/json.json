@@ -1,0 +1,109 @@
+{
+    "index": 12589,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12589
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI08-X-K555-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin DIP 555 Timer"
+        },
+        {
+            "name": "hexID",
+            "value": "IC555"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICDI08K555"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI08"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K555"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-ICIC-DI08-X-XXXX-01"
+        },
+        {
+            "name": "ooPin1",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin2",
+            "value": "TRIGGER"
+        },
+        {
+            "name": "ooPin3",
+            "value": "OUTPUT"
+        },
+        {
+            "name": "ooPin4",
+            "value": "RESET"
+        },
+        {
+            "name": "ooPin5",
+            "value": "CONTROL-VOLTAGE"
+        },
+        {
+            "name": "ooPin6",
+            "value": "THRESHOLD"
+        },
+        {
+            "name": "ooPin7",
+            "value": "DISCHARGE"
+        },
+        {
+            "name": "ooPin8",
+            "value": "Vcc"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-DI08-X-XXXX-01-diag"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "ISDP1820P"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI08-X-K555-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin DIP 555 Timer"
+        }
+    ]
+}

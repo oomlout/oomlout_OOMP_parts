@@ -1,0 +1,73 @@
+{
+    "index": 12642,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12642
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0806-X-UH10-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0806) 10 uH Inductor"
+        },
+        {
+            "name": "hexID",
+            "value": "IN86U10"
+        },
+        {
+            "name": "oompSort",
+            "value": "INDU0806UH10"
+        },
+        {
+            "name": "oompType",
+            "value": "INDU"
+        },
+        {
+            "name": "oompSize",
+            "value": "0806"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UH10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0806-X-UH10-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0806) 10 uH Inductor"
+        }
+    ]
+}

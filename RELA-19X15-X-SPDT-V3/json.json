@@ -1,0 +1,69 @@
+{
+    "index": 12750,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12750
+        },
+        {
+            "name": "oompID",
+            "value": "RELA-19X15-X-SPDT-V3"
+        },
+        {
+            "name": "name",
+            "value": "19 x 15 mm SPDT Relay 3v"
+        },
+        {
+            "name": "hexID",
+            "value": "RL19S3"
+        },
+        {
+            "name": "oompSort",
+            "value": "RELA19X15SPDT"
+        },
+        {
+            "name": "oompType",
+            "value": "RELA"
+        },
+        {
+            "name": "oompSize",
+            "value": "19X15"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V3"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "19 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "15 mm"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "K"
+        },
+        {
+            "name": "oompID",
+            "value": "RELA-19X15-X-SPDT-V3"
+        },
+        {
+            "name": "name",
+            "value": "19 x 15 mm SPDT Relay 3v"
+        }
+    ]
+}

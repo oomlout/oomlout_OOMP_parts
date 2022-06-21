@@ -1,0 +1,101 @@
+{
+    "index": 12392,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12392
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF10-V25"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 10 uF Capacitor (Electrolytic) 25v"
+        },
+        {
+            "name": "hexID",
+            "value": "CEU010"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTH0.00001000000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11 mm"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "5 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "25 V"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "20%"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF10-V25"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 10 uF Capacitor (Electrolytic) 25v"
+        }
+    ]
+}

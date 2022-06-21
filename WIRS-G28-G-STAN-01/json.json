@@ -1,0 +1,69 @@
+{
+    "index": 13129,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13129
+        },
+        {
+            "name": "index",
+            "value": "4175"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-G-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Green Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2G"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28G"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "G"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-G-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Green Stranded Wire"
+        }
+    ]
+}

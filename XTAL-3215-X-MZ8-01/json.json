@@ -1,0 +1,73 @@
+{
+    "index": 13142,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13142
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-3215-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 8 MHz Crystal"
+        },
+        {
+            "name": "hexID",
+            "value": "XS38"
+        },
+        {
+            "name": "oompSort",
+            "value": "XTAL3215MZ8"
+        },
+        {
+            "name": "oompType",
+            "value": "XTAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "3215"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ8"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-3215-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 8 MHz Crystal"
+        }
+    ]
+}

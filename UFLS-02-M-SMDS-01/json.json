@@ -1,0 +1,69 @@
+{
+    "index": 13094,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13094
+        },
+        {
+            "name": "oompID",
+            "value": "UFLS-02-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm SMD Metal UFL Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "UFL02S"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "UFLS"
+        },
+        {
+            "name": "oompSize",
+            "value": "02"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "UFLS-02-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm SMD Metal UFL Socket"
+        }
+    ]
+}

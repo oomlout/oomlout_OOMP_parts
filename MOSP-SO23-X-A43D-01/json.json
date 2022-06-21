@@ -1,0 +1,97 @@
+{
+    "index": 12703,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12703
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A43D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 4.3 Amp P-Ch. MOSFET"
+        },
+        {
+            "name": "hexID",
+            "value": "MPS2343D"
+        },
+        {
+            "name": "oompSort",
+            "value": "MOSPSO23A43D"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A43D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooPin1",
+            "value": "G"
+        },
+        {
+            "name": "ooPin2",
+            "value": "S"
+        },
+        {
+            "name": "ooPin3",
+            "value": "D"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "3407A"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A43D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 4.3 Amp P-Ch. MOSFET"
+        }
+    ]
+}

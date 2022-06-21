@@ -1,0 +1,85 @@
+{
+    "index": 12548,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12548
+        },
+        {
+            "name": "index",
+            "value": "4289"
+        },
+        {
+            "name": "oompID",
+            "value": "HEDS-35D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm SMD Headphone Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "10C1"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "35D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-SUNT"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ST-PJ-312"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3440030P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "AUDIO-Connector"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:6P-SMD-3.5.zip"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEDS-35D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm SMD Headphone Socket"
+        }
+    ]
+}

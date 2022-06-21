@@ -1,0 +1,61 @@
+{
+    "index": 13120,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13120
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO236-X-ADJU-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS36A"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSO236ADJU"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO236"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ADJU"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AE"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO236-X-ADJU-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA"
+        }
+    ]
+}

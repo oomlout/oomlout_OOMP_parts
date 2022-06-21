@@ -1,0 +1,61 @@
+{
+    "index": 13083,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13083
+        },
+        {
+            "name": "oompID",
+            "value": "THER-65D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6.5 mm Thermistor"
+        },
+        {
+            "name": "hexID",
+            "value": "TH65D"
+        },
+        {
+            "name": "oompSort",
+            "value": "THER65DSTAN"
+        },
+        {
+            "name": "oompType",
+            "value": "THER"
+        },
+        {
+            "name": "oompSize",
+            "value": "65D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RT"
+        },
+        {
+            "name": "oompID",
+            "value": "THER-65D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6.5 mm Thermistor"
+        }
+    ]
+}

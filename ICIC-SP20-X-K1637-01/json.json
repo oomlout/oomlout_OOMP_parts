@@ -1,0 +1,165 @@
+{
+    "index": 12620,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12620
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-K1637-01"
+        },
+        {
+            "name": "name",
+            "value": "20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS1637"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSP20K1637"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP20"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K1637"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "6"
+        },
+        {
+            "name": "ooPin1",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin2",
+            "value": "SEG1/KS1"
+        },
+        {
+            "name": "ooPin3",
+            "value": "SEG2/KS2"
+        },
+        {
+            "name": "ooPin4",
+            "value": "SEG3/KS3"
+        },
+        {
+            "name": "ooPin5",
+            "value": "SEG4/KS4"
+        },
+        {
+            "name": "ooPin6",
+            "value": "SEG5/KS5"
+        },
+        {
+            "name": "ooPin7",
+            "value": "SEG6/KS6"
+        },
+        {
+            "name": "ooPin8",
+            "value": "SEG7/KS7"
+        },
+        {
+            "name": "ooPin9",
+            "value": "SEG8/KS8"
+        },
+        {
+            "name": "ooPin10",
+            "value": "GRID6"
+        },
+        {
+            "name": "ooPin11",
+            "value": "GRID5"
+        },
+        {
+            "name": "ooPin12",
+            "value": "GRID4"
+        },
+        {
+            "name": "ooPin13",
+            "value": "GRID3"
+        },
+        {
+            "name": "ooPin14",
+            "value": "GRID2"
+        },
+        {
+            "name": "ooPin15",
+            "value": "GRID1"
+        },
+        {
+            "name": "ooPin16",
+            "value": "VDD"
+        },
+        {
+            "name": "ooPin17",
+            "value": "DIO"
+        },
+        {
+            "name": "ooPin18",
+            "value": "CLK"
+        },
+        {
+            "name": "ooPin19",
+            "value": "K1"
+        },
+        {
+            "name": "ooPin20",
+            "value": "K2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;ICIC-SP20-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-SP20-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;ICIC-SP20-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;ICIC-SP20-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "TM1637"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-K1637-01"
+        },
+        {
+            "name": "name",
+            "value": "20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)"
+        }
+    ]
+}

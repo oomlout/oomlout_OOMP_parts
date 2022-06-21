@@ -1,0 +1,137 @@
+{
+    "index": 12618,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12618
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP16-X-KCH340-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOP) USB-Serial (CH340)"
+        },
+        {
+            "name": "hexID",
+            "value": "IC340"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SDMS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KCH340"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "16"
+        },
+        {
+            "name": "ooPin1",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin2",
+            "value": "TXD"
+        },
+        {
+            "name": "ooPin3",
+            "value": "RXD"
+        },
+        {
+            "name": "ooPin4",
+            "value": "V3"
+        },
+        {
+            "name": "ooPin5",
+            "value": "UD+"
+        },
+        {
+            "name": "ooPin6",
+            "value": "UD-"
+        },
+        {
+            "name": "ooPin7",
+            "value": "X1"
+        },
+        {
+            "name": "ooPin8",
+            "value": "X0"
+        },
+        {
+            "name": "ooPin9",
+            "value": "CTS#"
+        },
+        {
+            "name": "ooPin10",
+            "value": "DSR#"
+        },
+        {
+            "name": "ooPin11",
+            "value": "RI#"
+        },
+        {
+            "name": "ooPin12",
+            "value": "DCD#"
+        },
+        {
+            "name": "ooPin13",
+            "value": "DTR#"
+        },
+        {
+            "name": "ooPin14",
+            "value": "RTS#"
+        },
+        {
+            "name": "ooPin15",
+            "value": "R232"
+        },
+        {
+            "name": "ooPin16",
+            "value": "VCC"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP16-X-KCH340-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOP) USB-Serial (CH340)"
+        }
+    ]
+}

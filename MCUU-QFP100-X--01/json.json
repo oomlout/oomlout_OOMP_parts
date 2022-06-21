@@ -1,0 +1,57 @@
+{
+    "index": 12694,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12694
+        },
+        {
+            "name": "oompID",
+            "value": "MCUU-QFP100-X-K2560-01"
+        },
+        {
+            "name": "name",
+            "value": "100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU"
+        },
+        {
+            "name": "oompType",
+            "value": "MCUU"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFP100"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "14mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "1mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "14mm"
+        },
+        {
+            "name": "oompID",
+            "value": "MCUU-QFP100-X--01"
+        },
+        {
+            "name": "name",
+            "value": "100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU"
+        }
+    ]
+}

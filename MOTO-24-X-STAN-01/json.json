@@ -1,0 +1,73 @@
+{
+    "index": 12706,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12706
+        },
+        {
+            "name": "oompID",
+            "value": "MOTO-24-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "24 mm Motor"
+        },
+        {
+            "name": "hexID",
+            "value": "MT24"
+        },
+        {
+            "name": "oompSort",
+            "value": "MOTO24STAN"
+        },
+        {
+            "name": "oompType",
+            "value": "MOTO"
+        },
+        {
+            "name": "oompSize",
+            "value": "24"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "24 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "30.5 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "M"
+        },
+        {
+            "name": "oompID",
+            "value": "MOTO-24-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "24 mm Motor"
+        }
+    ]
+}

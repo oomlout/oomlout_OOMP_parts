@@ -1,0 +1,69 @@
+{
+    "index": 12695,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12695
+        },
+        {
+            "name": "oompID",
+            "value": "MICR-97D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "9.7 mm Microphone"
+        },
+        {
+            "name": "hexID",
+            "value": "MI97D"
+        },
+        {
+            "name": "oompSort",
+            "value": "MICR97DSTAN"
+        },
+        {
+            "name": "oompType",
+            "value": "MICR"
+        },
+        {
+            "name": "oompSize",
+            "value": "97D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "9.7 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "MK1"
+        },
+        {
+            "name": "oompID",
+            "value": "MICR-97D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "9.7 mm Microphone"
+        }
+    ]
+}

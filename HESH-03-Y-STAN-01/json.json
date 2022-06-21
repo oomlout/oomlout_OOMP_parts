@@ -1,0 +1,73 @@
+{
+    "index": 12566,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12566
+        },
+        {
+            "name": "index",
+            "value": "4003"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Yellow Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS3Y"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303Y"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "Y"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Yellow Heat Shrink"
+        }
+    ]
+}

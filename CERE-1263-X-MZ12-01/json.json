@@ -1,0 +1,85 @@
+{
+    "index": 12425,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12425
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ12-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 12 MHz Ceramic Resonator"
+        },
+        {
+            "name": "hexID",
+            "value": "CR16312"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SDMS"
+        },
+        {
+            "name": "oompType",
+            "value": "CERE"
+        },
+        {
+            "name": "oompSize",
+            "value": "1263"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ12"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.9 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.3 mm"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CERE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ12-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 12 MHz Ceramic Resonator"
+        }
+    ]
+}

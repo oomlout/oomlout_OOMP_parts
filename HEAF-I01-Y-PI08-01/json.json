@@ -1,0 +1,153 @@
+{
+    "index": 12539,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12539
+        },
+        {
+            "name": "index",
+            "value": "4290"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-Y-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin Yellow Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "10C2"
+        },
+        {
+            "name": "oompSort",
+            "value": "010803"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "Y"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-YXCO"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "F185-1108A1BSYC1"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3460590P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "DIP Yellow Female Header"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:1X8P-2.54-8.5-YELLOW-FEMALE.zip"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAF-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-I01-Y-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin Yellow Female Header"
+        }
+    ]
+}

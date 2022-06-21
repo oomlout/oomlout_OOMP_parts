@@ -1,0 +1,89 @@
+{
+    "index": 12654,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12654
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-03-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Red LED"
+        },
+        {
+            "name": "hexID",
+            "value": "L3R"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "R"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;LEDS-03-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;LEDS-03-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;LEDS-03-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;LEDS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;LEDS-03-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-03-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Red LED"
+        }
+    ]
+}

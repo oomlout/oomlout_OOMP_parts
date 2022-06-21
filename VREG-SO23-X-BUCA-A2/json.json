@@ -1,0 +1,93 @@
+{
+    "index": 13110,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13110
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-BUCA-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VS3BA"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSO23BUCA"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "BUCA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A2"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "VSS"
+        },
+        {
+            "name": "ooPin2",
+            "value": "VOUT"
+        },
+        {
+            "name": "ooPin3",
+            "value": "VIN"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "65KA"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-BUCA-A2"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A"
+        }
+    ]
+}

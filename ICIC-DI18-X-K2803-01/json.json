@@ -1,0 +1,153 @@
+{
+    "index": 12593,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12593
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI18-X-K2803-01"
+        },
+        {
+            "name": "name",
+            "value": "18 Pin DIP ULN2803A Octal Transistor Array"
+        },
+        {
+            "name": "hexID",
+            "value": "IC2803"
+        },
+        {
+            "name": "oompSort",
+            "value": "ULN2803A"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI18"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2803"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "18"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-ICIC-DI18-X-XXXX-01"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "ooPin1",
+            "value": "IN1"
+        },
+        {
+            "name": "ooPin2",
+            "value": "IN2"
+        },
+        {
+            "name": "ooPin3",
+            "value": "IN3"
+        },
+        {
+            "name": "ooPin4",
+            "value": "IN4"
+        },
+        {
+            "name": "ooPin5",
+            "value": "IN5"
+        },
+        {
+            "name": "ooPin6",
+            "value": "IN6"
+        },
+        {
+            "name": "ooPin7",
+            "value": "IN7"
+        },
+        {
+            "name": "ooPin8",
+            "value": "IN8"
+        },
+        {
+            "name": "ooPin9",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin10",
+            "value": "COM"
+        },
+        {
+            "name": "ooPin11",
+            "value": "OUT8"
+        },
+        {
+            "name": "ooPin12",
+            "value": "OUT7"
+        },
+        {
+            "name": "ooPin13",
+            "value": "OUT6"
+        },
+        {
+            "name": "ooPin14",
+            "value": "OUT5"
+        },
+        {
+            "name": "ooPin15",
+            "value": "OUT4"
+        },
+        {
+            "name": "ooPin16",
+            "value": "OUT3"
+        },
+        {
+            "name": "ooPin17",
+            "value": "OUT2"
+        },
+        {
+            "name": "ooPin18",
+            "value": "OUT1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DI18-X-K2803-01"
+        },
+        {
+            "name": "name",
+            "value": "18 Pin DIP ULN2803A Octal Transistor Array"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "index": 13125,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13125
+        },
+        {
+            "name": "index",
+            "value": "4324"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T252-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "TO-252 5v Voltage Regulator 500 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VT555"
+        },
+        {
+            "name": "oompSort",
+            "value": "T2525.000.500"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "T252"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A5D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-JCST"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "CJ78M05"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": ""
+        },
+        {
+            "name": "useDescription",
+            "value": ""
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1300040P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "Three-terminal positive voltage regulator 0.5A 5V"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:TO252.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T252-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "TO-252 5v Voltage Regulator 500 mA"
+        }
+    ]
+}

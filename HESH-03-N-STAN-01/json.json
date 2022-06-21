@@ -1,0 +1,73 @@
+{
+    "index": 12561,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12561
+        },
+        {
+            "name": "index",
+            "value": "4000"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Brown Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS3N"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303N"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "03"
+        },
+        {
+            "name": "oompColor",
+            "value": "N"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Brown Heat Shrink"
+        }
+    ]
+}

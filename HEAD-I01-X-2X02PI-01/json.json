@@ -1,0 +1,109 @@
+{
+    "index": 12478,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12478
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2x02-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin (2x2) Header"
+        },
+        {
+            "name": "hexID",
+            "value": "H2X02"
+        },
+        {
+            "name": "oompSort",
+            "value": "A0101Z2X02"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2X02PI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "5.08mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11.8 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "5.08 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": ""
+        },
+        {
+            "name": "ooNumRows",
+            "value": "2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI2x02-01"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-2X02PI-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin (2x2) Header"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "index": 12350,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12350
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-UF1-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 1 uF Capacitor (Ceramic) 10v"
+        },
+        {
+            "name": "hexID",
+            "value": "C42U001"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF1"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V10"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-UF1-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 1 uF Capacitor (Ceramic) 10v"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "index": 13055,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13055
+        },
+        {
+            "name": "index",
+            "value": "4225"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-16-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 16 mm Machine Screw Cross Head"
+        },
+        {
+            "name": "hexID",
+            "value": "M316"
+        },
+        {
+            "name": "oompSort",
+            "value": "M3M316"
+        },
+        {
+            "name": "oompType",
+            "value": "SCRE"
+        },
+        {
+            "name": "oompSize",
+            "value": "M3"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "16"
+        },
+        {
+            "name": "oompIndex",
+            "value": "70"
+        },
+        {
+            "name": "oompVersion",
+            "value": "31"
+        },
+        {
+            "name": "oompClass",
+            "value": "Hardware"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "HARD"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-16-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 16 mm Machine Screw Cross Head"
+        }
+    ]
+}

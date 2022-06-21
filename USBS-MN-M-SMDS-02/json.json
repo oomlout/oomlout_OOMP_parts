@@ -1,0 +1,97 @@
+{
+    "index": 13100,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13100
+        },
+        {
+            "name": "index",
+            "value": "4300"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MN-M-SMDS-02"
+        },
+        {
+            "name": "name",
+            "value": "Mini SMD USB Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "USN2"
+        },
+        {
+            "name": "oompSort",
+            "value": "MNMN"
+        },
+        {
+            "name": "oompType",
+            "value": "USBS"
+        },
+        {
+            "name": "oompSize",
+            "value": "MN"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "02"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-SUNT"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ST-USB-003A"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3400020P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "CONN USB RCPT MINI B 5PS R/A SMD\t"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:MINI-B-SMD.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;USBS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MN-M-SMDS-02"
+        },
+        {
+            "name": "name",
+            "value": "Mini SMD USB Socket"
+        }
+    ]
+}

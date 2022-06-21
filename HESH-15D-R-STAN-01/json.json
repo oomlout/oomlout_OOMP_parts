@@ -1,0 +1,73 @@
+{
+    "index": 12583,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12583
+        },
+        {
+            "name": "index",
+            "value": "4011"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-15D-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "1.5 mm Red Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS1R"
+        },
+        {
+            "name": "oompSort",
+            "value": "0101R"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "15D"
+        },
+        {
+            "name": "oompColor",
+            "value": "R"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-15D-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "1.5 mm Red Heat Shrink"
+        }
+    ]
+}

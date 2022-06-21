@@ -1,0 +1,69 @@
+{
+    "index": 13133,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13133
+        },
+        {
+            "name": "index",
+            "value": "4172"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Red Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2R"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28R"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "R"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Red Stranded Wire"
+        }
+    ]
+}

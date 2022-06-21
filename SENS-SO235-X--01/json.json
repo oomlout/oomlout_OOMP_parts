@@ -1,0 +1,45 @@
+{
+    "index": 13071,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13071
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-SO235-X-K36-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor"
+        },
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-SO235-X--01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor"
+        }
+    ]
+}

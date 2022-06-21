@@ -1,0 +1,169 @@
+{
+    "index": 12545,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12545
+        },
+        {
+            "name": "index",
+            "value": "3969"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAL-I01-X-PI36-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 36 Pin Header (Long)"
+        },
+        {
+            "name": "hexID",
+            "value": "HL36"
+        },
+        {
+            "name": "oompSort",
+            "value": "010136"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI36"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "91.44 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "14.54mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.54mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "36"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI36-01"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "1000V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAL-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;36"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAL-I01-X-PI36-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 36 Pin Header (Long)"
+        }
+    ]
+}

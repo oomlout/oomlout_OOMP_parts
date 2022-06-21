@@ -1,0 +1,101 @@
+{
+    "index": 12858,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12858
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0603-X-O201-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 200 Ohm Resistor 1%"
+        },
+        {
+            "name": "hexID",
+            "value": "R6201A"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O201"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "67"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.8mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.45mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0603-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0603-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0603-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0603-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "Adafruit-Eagle-Library/adafruit/R0603"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0603-X-O201-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 200 Ohm Resistor 1%"
+        }
+    ]
+}

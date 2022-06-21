@@ -1,0 +1,61 @@
+{
+    "index": 13123,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13123
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SP08-X-V36D-A2"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A"
+        },
+        {
+            "name": "hexID",
+            "value": "VS836"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSP08V36D"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP08"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V36D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A2"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SP08-X-V36D-A2"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A"
+        }
+    ]
+}

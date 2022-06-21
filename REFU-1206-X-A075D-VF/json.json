@@ -1,0 +1,81 @@
+{
+    "index": 12747,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12747
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1206-X-A075D-VF"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 750 mA Resetable Fuse 16v"
+        },
+        {
+            "name": "hexID",
+            "value": "RF1275D"
+        },
+        {
+            "name": "oompSort",
+            "value": "REFU1206A075D"
+        },
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A075D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VF"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-1206-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-1206-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-1206-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;REFU-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-1206-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "F1"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1206-X-A075D-VF"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 750 mA Resetable Fuse 16v"
+        }
+    ]
+}

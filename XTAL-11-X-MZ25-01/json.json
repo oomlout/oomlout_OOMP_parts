@@ -1,0 +1,73 @@
+{
+    "index": 13139,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13139
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-11-X-MZ25-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm 25 MHz Crystal"
+        },
+        {
+            "name": "hexID",
+            "value": "XT25"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "XTAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "11"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ25"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XTAL-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-11-X-MZ25-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm 25 MHz Crystal"
+        }
+    ]
+}

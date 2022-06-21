@@ -1,0 +1,81 @@
+{
+    "index": 12315,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12315
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-4632-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (4632) Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "BT4632"
+        },
+        {
+            "name": "oompSort",
+            "value": "BUTA4632STAN"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "4632"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-4632-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (4632) Pushbutton (Tactile)"
+        }
+    ]
+}

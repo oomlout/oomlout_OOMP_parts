@@ -1,0 +1,65 @@
+{
+    "index": 12417,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12417
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1210-X-UF22-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 22 uF Capacitor (Tantalum) 16v"
+        },
+        {
+            "name": "hexID",
+            "value": "C1U022F"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPT1210UF22"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "1210"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF22"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1210-X-UF22-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 22 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

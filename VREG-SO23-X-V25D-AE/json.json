@@ -1,0 +1,93 @@
+{
+    "index": 13111,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13111
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-V25D-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 2.5v Voltage Regulator 200 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS325D1"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSO23V25D"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V25D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AE"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "VSS"
+        },
+        {
+            "name": "ooPin2",
+            "value": "VOUT"
+        },
+        {
+            "name": "ooPin3",
+            "value": "VIN"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "65T"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-V25D-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 2.5v Voltage Regulator 200 mA"
+        }
+    ]
+}

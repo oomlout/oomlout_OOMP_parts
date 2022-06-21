@@ -1,0 +1,125 @@
+{
+    "index": 12441,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12441
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-D214-X-A01-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DO-214) 1 Amp Diode"
+        },
+        {
+            "name": "hexID",
+            "value": "DS201"
+        },
+        {
+            "name": "oompSort",
+            "value": "D21401.000"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "D214"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A01"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "5.6 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "2 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.75 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "M7, S1M"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompAbout",
+            "value": "This is a commonly used general purpose high current (1A) surface mount diode. "
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "Arduino Power protection"
+        },
+        {
+            "name": "useDescription",
+            "value": "Used on the Arduino UNO board to protect agaionst inserting the DC power supply backwards."
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-D214-X-A01-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DO-214) 1 Amp Diode"
+        }
+    ]
+}

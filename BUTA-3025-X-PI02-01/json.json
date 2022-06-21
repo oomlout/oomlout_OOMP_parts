@@ -1,0 +1,81 @@
+{
+    "index": 12312,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12312
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-3025-X-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3025) 2 Pin Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "BT3025"
+        },
+        {
+            "name": "oompSort",
+            "value": "BUTA302502PI"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "3025"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-3025-X-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3025) 2 Pin Pushbutton (Tactile)"
+        }
+    ]
+}

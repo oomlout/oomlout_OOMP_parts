@@ -1,0 +1,61 @@
+{
+    "index": 12463,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12463
+        },
+        {
+            "name": "oompID",
+            "value": "DISP-7SEL-R-4DIG-01"
+        },
+        {
+            "name": "name",
+            "value": "7 Segment LED 4 Digit Red Display"
+        },
+        {
+            "name": "hexID",
+            "value": "DS74R"
+        },
+        {
+            "name": "oompSort",
+            "value": "DISP07SE4DIG"
+        },
+        {
+            "name": "oompType",
+            "value": "DISP"
+        },
+        {
+            "name": "oompSize",
+            "value": "7SEL"
+        },
+        {
+            "name": "oompColor",
+            "value": "R"
+        },
+        {
+            "name": "oompDesc",
+            "value": "4DIG"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "DS1"
+        },
+        {
+            "name": "oompID",
+            "value": "DISP-7SEL-R-4DIG-01"
+        },
+        {
+            "name": "name",
+            "value": "7 Segment LED 4 Digit Red Display"
+        }
+    ]
+}

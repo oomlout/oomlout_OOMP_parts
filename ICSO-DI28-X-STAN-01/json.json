@@ -1,0 +1,101 @@
+{
+    "index": 12636,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12636
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "ICSO-DI28-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin DIP IC Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "IS28"
+        },
+        {
+            "name": "oompSort",
+            "value": "0101028"
+        },
+        {
+            "name": "oompType",
+            "value": "ICSO"
+        },
+        {
+            "name": "oompSize",
+            "value": "DI28"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "10.16 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.2 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "35.56 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "28"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "1 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "250 V"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICSO-DI28-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin DIP IC Socket"
+        }
+    ]
+}

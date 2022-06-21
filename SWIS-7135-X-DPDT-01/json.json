@@ -1,0 +1,65 @@
+{
+    "index": 13076,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13076
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-7135-X-DPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7135) DPDT Switch (Slide)"
+        },
+        {
+            "name": "hexID",
+            "value": "SS7135"
+        },
+        {
+            "name": "oompSort",
+            "value": "SWIS7135DPDT"
+        },
+        {
+            "name": "oompType",
+            "value": "SWIS"
+        },
+        {
+            "name": "oompSize",
+            "value": "7135"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "DPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "6"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-7135-X-DPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7135) DPDT Switch (Slide)"
+        }
+    ]
+}

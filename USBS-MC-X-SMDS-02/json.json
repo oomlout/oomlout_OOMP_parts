@@ -1,0 +1,65 @@
+{
+    "index": 13096,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13096
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MC-X-SMDS-02"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD USB Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "USM2"
+        },
+        {
+            "name": "oompSort",
+            "value": "USBSMCSMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "USBS"
+        },
+        {
+            "name": "oompSize",
+            "value": "MC"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "02"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;USBS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MC-X-SMDS-02"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD USB Socket"
+        }
+    ]
+}

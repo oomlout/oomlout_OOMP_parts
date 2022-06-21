@@ -1,0 +1,101 @@
+{
+    "index": 13119,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13119
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-V33D-AC"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS533"
+        },
+        {
+            "name": "oompSort",
+            "value": "SO2503.30.150"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AC"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "1.45 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "LPF_"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "5"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-V33D-AC"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA"
+        }
+    ]
+}

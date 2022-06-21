@@ -1,0 +1,65 @@
+{
+    "index": 12617,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12617
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP16-X-K2291-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOP) PIR Motion Sensing (TM2291)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS2291"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSP16K2291"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2291"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "16"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP16-X-K2291-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOP) PIR Motion Sensing (TM2291)"
+        }
+    ]
+}

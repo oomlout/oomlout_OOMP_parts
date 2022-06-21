@@ -1,0 +1,69 @@
+{
+    "index": 13136,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13136
+        },
+        {
+            "name": "index",
+            "value": "4174"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Yellow Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2Y"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28Y"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "Y"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Yellow Stranded Wire"
+        }
+    ]
+}

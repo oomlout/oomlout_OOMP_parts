@@ -1,0 +1,97 @@
+{
+    "index": 12755,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12755
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O220X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 22 Ohm (x4) Resistor Array"
+        },
+        {
+            "name": "hexID",
+            "value": "RA1220"
+        },
+        {
+            "name": "oompSort",
+            "value": "12680000022"
+        },
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "1268"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O220X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "220"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESA-XXXX-X-XXX4-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RN1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O220X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 22 Ohm (x4) Resistor Array"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "index": 12704,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12704
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23F-X-A06-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23F) 6 Amp P-Ch. MOSFET"
+        },
+        {
+            "name": "hexID",
+            "value": "MP2F6"
+        },
+        {
+            "name": "oompSort",
+            "value": "MOSPSO23FA06"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23F"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A06"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "G"
+        },
+        {
+            "name": "ooPin2",
+            "value": "S"
+        },
+        {
+            "name": "ooPin3",
+            "value": "D"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23F-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23F-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23F-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23F-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23F-X-A06-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23F) 6 Amp P-Ch. MOSFET"
+        }
+    ]
+}

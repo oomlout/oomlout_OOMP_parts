@@ -1,0 +1,97 @@
+{
+    "index": 12701,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12701
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A35D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3.5 Amp P-Ch. MOSFET"
+        },
+        {
+            "name": "hexID",
+            "value": "MPS235D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A35D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "G"
+        },
+        {
+            "name": "ooPin2",
+            "value": "S"
+        },
+        {
+            "name": "ooPin3",
+            "value": "D"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A35D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3.5 Amp P-Ch. MOSFET"
+        }
+    ]
+}

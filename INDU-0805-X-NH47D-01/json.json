@@ -1,0 +1,73 @@
+{
+    "index": 12641,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12641
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0805-X-NH47D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 4.7 nH Inductor"
+        },
+        {
+            "name": "hexID",
+            "value": "IN85U22D"
+        },
+        {
+            "name": "oompSort",
+            "value": "INDU0805NH47D"
+        },
+        {
+            "name": "oompType",
+            "value": "INDU"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NH47D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0805-X-NH47D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 4.7 nH Inductor"
+        }
+    ]
+}

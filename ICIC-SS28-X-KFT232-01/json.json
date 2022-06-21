@@ -1,0 +1,65 @@
+{
+    "index": 12625,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12625
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS28-X-KFT232-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (SSOP) USB-Serial (FT232RL)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSF232"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSS28KFT232"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SS28"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KFT232"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "28"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS28-X-KFT232-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (SSOP) USB-Serial (FT232RL)"
+        }
+    ]
+}

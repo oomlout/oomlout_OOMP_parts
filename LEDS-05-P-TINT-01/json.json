@@ -1,0 +1,93 @@
+{
+    "index": 12664,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12664
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-05-P-TINT-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm Tinted Pink LED"
+        },
+        {
+            "name": "hexID",
+            "value": "LT5P"
+        },
+        {
+            "name": "oompSort",
+            "value": "0505ZTINTP"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "P"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TINT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;LEDS-05-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;LEDS-05-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;LEDS-05-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;LEDS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;LEDS-05-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-05-P-TINT-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm Tinted Pink LED"
+        }
+    ]
+}

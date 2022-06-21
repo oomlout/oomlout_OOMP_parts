@@ -1,0 +1,97 @@
+{
+    "index": 12426,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12426
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ16-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 16 MHz Ceramic Resonator"
+        },
+        {
+            "name": "hexID",
+            "value": "CR16316"
+        },
+        {
+            "name": "oompSort",
+            "value": "120616000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CERE"
+        },
+        {
+            "name": "oompSize",
+            "value": "1263"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ16"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.9 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.3 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CERE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ16-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 16 MHz Ceramic Resonator"
+        }
+    ]
+}

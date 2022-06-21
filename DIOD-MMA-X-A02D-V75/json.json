@@ -1,0 +1,65 @@
+{
+    "index": 12443,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12443
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-MMA-X-A02D-V75"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Mini MELF) 200 mA Diode 75v"
+        },
+        {
+            "name": "hexID",
+            "value": "DSM2D"
+        },
+        {
+            "name": "oompSort",
+            "value": "DIODMMAA02D"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "MMA"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A02D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V75"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-MMA-X-A02D-V75"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Mini MELF) 200 mA Diode 75v"
+        }
+    ]
+}

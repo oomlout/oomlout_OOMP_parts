@@ -1,0 +1,169 @@
+{
+    "index": 12431,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12431
+        },
+        {
+            "name": "index",
+            "value": "3948"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin Black Crimp Housing"
+        },
+        {
+            "name": "hexID",
+            "value": "CH04"
+        },
+        {
+            "name": "oompSort",
+            "value": "010104"
+        },
+        {
+            "name": "oompType",
+            "value": "CRHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "10.36 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "14 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooMaterial",
+            "value": "Plastic"
+        },
+        {
+            "name": "ooTerminalStyle",
+            "value": "DuPont"
+        },
+        {
+            "name": "ooMaxCurrent",
+            "value": "3 A"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "250 V"
+        },
+        {
+            "name": "oompAbout",
+            "value": "These four pin connectors are often used simply when you find you have four wires that need connecting. That said a common usage is with data buses, most notably I2C (power (+/gnd) SDA, SCL), or they can also be found on stepper motors when they are being driven in bipolar mode (A+, A-, B+, B-)."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;CRHO-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;4"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin Black Crimp Housing"
+        }
+    ]
+}

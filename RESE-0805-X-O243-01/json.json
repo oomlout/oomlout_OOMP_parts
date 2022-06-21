@@ -1,0 +1,93 @@
+{
+    "index": 12993,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12993
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O243-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 24k Ohm Resistor"
+        },
+        {
+            "name": "hexID",
+            "value": "R85243"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "243"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O243"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.25mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0805-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0805-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0805-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0805-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O243-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 24k Ohm Resistor"
+        }
+    ]
+}

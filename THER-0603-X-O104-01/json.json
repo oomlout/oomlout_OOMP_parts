@@ -1,0 +1,69 @@
+{
+    "index": 13082,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13082
+        },
+        {
+            "name": "oompID",
+            "value": "THER-0603-X-O104-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 100k Ohm Thermistor"
+        },
+        {
+            "name": "hexID",
+            "value": "TH6"
+        },
+        {
+            "name": "oompSort",
+            "value": "THER0603O104"
+        },
+        {
+            "name": "oompType",
+            "value": "THER"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O104"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.8 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RT1"
+        },
+        {
+            "name": "oompID",
+            "value": "THER-0603-X-O104-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 100k Ohm Thermistor"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "index": 12446,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12446
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-A02D-V1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 200 mA Diode 100v"
+        },
+        {
+            "name": "hexID",
+            "value": "DS32D"
+        },
+        {
+            "name": "oompSort",
+            "value": "DIODS123A02D"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "S123"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A02D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V1"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-A02D-V1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 200 mA Diode 100v"
+        }
+    ]
+}

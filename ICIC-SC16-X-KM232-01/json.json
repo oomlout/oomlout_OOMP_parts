@@ -1,0 +1,69 @@
+{
+    "index": 12609,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12609
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC16-X-KM232-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSM232"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SC16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KM232"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC16-X-KM232-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)"
+        }
+    ]
+}

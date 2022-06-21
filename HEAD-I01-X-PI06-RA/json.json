@@ -1,0 +1,145 @@
+{
+    "index": 12508,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12508
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI06-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Header Right Angle"
+        },
+        {
+            "name": "hexID",
+            "value": "HR06"
+        },
+        {
+            "name": "oompSort",
+            "value": "HEADI0106PI"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI06"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RA"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "6"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-RA-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-RA-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-I01-X-XX-RA-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-RA-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI06-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Header Right Angle"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "index": 12744,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12744
+        },
+        {
+            "name": "index",
+            "value": "4275"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1206-X-A05D-V8"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 500 mA Resetable Fuse 8v"
+        },
+        {
+            "name": "hexID",
+            "value": "RF15"
+        },
+        {
+            "name": "oompSort",
+            "value": "120600.500"
+        },
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A05D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V8"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-1206-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-1206-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-1206-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;REFU-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-1206-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "F1"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1206-X-A05D-V8"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 500 mA Resetable Fuse 8v"
+        }
+    ]
+}

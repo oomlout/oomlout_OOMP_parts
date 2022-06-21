@@ -1,0 +1,65 @@
+{
+    "index": 13068,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13068
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-3528-X-UVUV-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) Ultraviolet Sensor"
+        },
+        {
+            "name": "hexID",
+            "value": "SEUV"
+        },
+        {
+            "name": "oompSort",
+            "value": "SENS3528UVUV"
+        },
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "3528"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UVUV"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-3528-X-UVUV-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) Ultraviolet Sensor"
+        }
+    ]
+}

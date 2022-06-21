@@ -1,0 +1,65 @@
+{
+    "index": 12600,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12600
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN16-X-K5883-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS5883"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICQFN16K5883"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFN16"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K5883"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "16"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFN16-X-K5883-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)"
+        }
+    ]
+}

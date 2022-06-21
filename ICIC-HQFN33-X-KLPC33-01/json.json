@@ -1,0 +1,69 @@
+{
+    "index": 12597,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12597
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-HQFN33-X-KLPC33-01"
+        },
+        {
+            "name": "name",
+            "value": "33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSLPC33"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "HQFN33"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLPC33"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-HQFN33-X-KLPC33-01"
+        },
+        {
+            "name": "name",
+            "value": "33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)"
+        }
+    ]
+}

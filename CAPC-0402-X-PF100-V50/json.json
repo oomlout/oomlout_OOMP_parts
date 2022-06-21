@@ -1,0 +1,89 @@
+{
+    "index": 12338,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12338
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF100-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 100 pF Capacitor (Ceramic) 50v"
+        },
+        {
+            "name": "hexID",
+            "value": "C42P100"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.5mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF100-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 100 pF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

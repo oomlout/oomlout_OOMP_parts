@@ -1,0 +1,161 @@
+{
+    "index": 12473,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12473
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-L-PI06-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Blue Header"
+        },
+        {
+            "name": "hexID",
+            "value": "H06L"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI06"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "6"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;6"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI06-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI06-01"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-L-PI06-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin Blue Header"
+        }
+    ]
+}

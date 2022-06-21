@@ -1,0 +1,93 @@
+{
+    "index": 12792,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12792
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O220-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 22 Ohm Resistor 1%"
+        },
+        {
+            "name": "hexID",
+            "value": "R42220A"
+        },
+        {
+            "name": "oompSort",
+            "value": "RESE0402O220"
+        },
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O220"
+        },
+        {
+            "name": "oompIndex",
+            "value": "67"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "R1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0402-X-O220-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 22 Ohm Resistor 1%"
+        }
+    ]
+}

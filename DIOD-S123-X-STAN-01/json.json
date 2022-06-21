@@ -1,0 +1,77 @@
+{
+    "index": 12449,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12449
+        },
+        {
+            "name": "index",
+            "value": "4185"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) Diode"
+        },
+        {
+            "name": "hexID",
+            "value": "DS301"
+        },
+        {
+            "name": "oompSort",
+            "value": "S123000"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "S123"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) Diode"
+        }
+    ]
+}

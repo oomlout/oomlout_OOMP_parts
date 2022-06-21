@@ -1,0 +1,81 @@
+{
+    "index": 13081,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13081
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm 8 Pin Blue Screw Terminal"
+        },
+        {
+            "name": "hexID",
+            "value": "ST308L"
+        },
+        {
+            "name": "oompSort",
+            "value": "TERS35D08PI"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "TERS"
+        },
+        {
+            "name": "oompSize",
+            "value": "35D"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPitch",
+            "value": "3.5mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-TERS-35D-X-PI08-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm 8 Pin Blue Screw Terminal"
+        }
+    ]
+}

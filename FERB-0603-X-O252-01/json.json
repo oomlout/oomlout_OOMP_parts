@@ -1,0 +1,73 @@
+{
+    "index": 12466,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12466
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0603-X-O252-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 2.5k Ohm Ferrite Bead"
+        },
+        {
+            "name": "hexID",
+            "value": "F6252"
+        },
+        {
+            "name": "oompSort",
+            "value": "FERB0603O252"
+        },
+        {
+            "name": "oompType",
+            "value": "FERB"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O252"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.8 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0603-X-O252-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 2.5k Ohm Ferrite Bead"
+        }
+    ]
+}

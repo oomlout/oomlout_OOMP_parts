@@ -1,0 +1,97 @@
+{
+    "index": 13092,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13092
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-A02D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 200 mA PNP Transistor"
+        },
+        {
+            "name": "hexID",
+            "value": "TPS22D"
+        },
+        {
+            "name": "oompSort",
+            "value": "TRNPSO23A02D"
+        },
+        {
+            "name": "oompType",
+            "value": "TRNP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A02D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooPin1",
+            "value": "B"
+        },
+        {
+            "name": "ooPin2",
+            "value": "E"
+        },
+        {
+            "name": "ooPin3",
+            "value": "C"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "2AM"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-A02D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 200 mA PNP Transistor"
+        }
+    ]
+}

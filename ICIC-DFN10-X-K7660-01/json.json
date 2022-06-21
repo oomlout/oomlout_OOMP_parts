@@ -1,0 +1,65 @@
+{
+    "index": 12587,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12587
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DFN10-X-K7660-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS7660"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICDFN10K7660"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "DFN10"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K7660"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "10"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-DFN10-X-K7660-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)"
+        }
+    ]
+}

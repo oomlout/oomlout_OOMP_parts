@@ -1,0 +1,61 @@
+{
+    "index": 13117,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13117
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-BOS5-A5D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS25B"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSO235BOS5"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "BOS5"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A5D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-BOS5-A5D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "index": 12629,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12629
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TS20-X-K108B-01"
+        },
+        {
+            "name": "name",
+            "value": "20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS108B"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICTS20K108B"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "TS20"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K108B"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "20"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TS20-X-K108B-01"
+        },
+        {
+            "name": "name",
+            "value": "20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "index": 13127,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13127
+        },
+        {
+            "name": "index",
+            "value": "4180"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Black Stranded Wire"
+        },
+        {
+            "name": "hexID",
+            "value": "W2B"
+        },
+        {
+            "name": "oompSort",
+            "value": "0G28B"
+        },
+        {
+            "name": "oompType",
+            "value": "WIRS"
+        },
+        {
+            "name": "oompSize",
+            "value": "G28"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "28"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": ""
+        },
+        {
+            "name": "useDescription",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Black Stranded Wire"
+        }
+    ]
+}

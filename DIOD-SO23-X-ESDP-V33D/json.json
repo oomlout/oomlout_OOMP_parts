@@ -1,0 +1,105 @@
+{
+    "index": 12452,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12452
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-SO23-X-ESDP-V33D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) ESD Protection Diode 3.3v"
+        },
+        {
+            "name": "hexID",
+            "value": "DS3EP3"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ESDP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V33D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "C"
+        },
+        {
+            "name": "ooPin2",
+            "value": "C"
+        },
+        {
+            "name": "ooPin3",
+            "value": "A"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOS-XXXX-X-ESDP-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "3M3"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-SO23-X-ESDP-V33D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) ESD Protection Diode 3.3v"
+        }
+    ]
+}

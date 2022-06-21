@@ -1,0 +1,105 @@
+{
+    "index": 12318,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12318
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-6035-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6035) Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "B6035"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SDMS"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "6035"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3.5 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "2.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "6 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-6035-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6035) Pushbutton (Tactile)"
+        }
+    ]
+}

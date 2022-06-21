@@ -1,0 +1,65 @@
+{
+    "index": 13075,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13075
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-SPDT-68"
+        },
+        {
+            "name": "name",
+            "value": " 9 mm SPDT Switch (Slide) Side Adjust "
+        },
+        {
+            "name": "hexID",
+            "value": "SSW9S"
+        },
+        {
+            "name": "oompSort",
+            "value": "SWIS09SPDT"
+        },
+        {
+            "name": "oompType",
+            "value": "SWIS"
+        },
+        {
+            "name": "oompSize",
+            "value": "09"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "68"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-09-X-SPDT-68"
+        },
+        {
+            "name": "name",
+            "value": " 9 mm SPDT Switch (Slide) Side Adjust "
+        }
+    ]
+}

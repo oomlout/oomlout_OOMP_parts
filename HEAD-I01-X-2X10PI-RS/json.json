@@ -1,0 +1,85 @@
+{
+    "index": 12490,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12490
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2x10-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 20 Pin (2x10) Header Right Angle (SMD)"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "2X10PI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "HRS2X10"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "25.4 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.08 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "17.66 mm"
+        },
+        {
+            "name": "numPins",
+            "value": "20"
+        },
+        {
+            "name": "numRows",
+            "value": "2"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "HEAD-I01-X-PI2x10-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-2X10PI-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 20 Pin (2x10) Header Right Angle (SMD)"
+        }
+    ]
+}

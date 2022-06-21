@@ -1,0 +1,69 @@
+{
+    "index": 12608,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12608
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFP64-X-KLPC11-01"
+        },
+        {
+            "name": "name",
+            "value": "64 Pin SMD (TQFP) LPC11U24 (Cortex M0)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSLPC11"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "QFP64"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLPC11"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-QFP64-X-KLPC11-01"
+        },
+        {
+            "name": "name",
+            "value": "64 Pin SMD (TQFP) LPC11U24 (Cortex M0)"
+        }
+    ]
+}

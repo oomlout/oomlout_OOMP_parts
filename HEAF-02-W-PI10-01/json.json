@@ -1,0 +1,77 @@
+{
+    "index": 12530,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12530
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-W-PI10-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin White Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "HF210W"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "02"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "10"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-02-X-PI10-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-W-PI10-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin White Female Header"
+        }
+    ]
+}

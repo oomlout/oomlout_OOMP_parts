@@ -1,0 +1,69 @@
+{
+    "index": 12614,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12614
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-KDS1337-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOIC) Real Time Clock (DS1337)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS1337"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SC8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KDS1337"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-KDS1337-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOIC) Real Time Clock (DS1337)"
+        }
+    ]
+}

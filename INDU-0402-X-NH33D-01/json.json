@@ -1,0 +1,73 @@
+{
+    "index": 12638,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12638
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0402-X-NH33D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 3.3 NH Inductor"
+        },
+        {
+            "name": "hexID",
+            "value": "IN42N33D"
+        },
+        {
+            "name": "oompSort",
+            "value": "INDU0402NH33D"
+        },
+        {
+            "name": "oompType",
+            "value": "INDU"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NH33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.5 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.0 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "L1"
+        },
+        {
+            "name": "oompID",
+            "value": "INDU-0402-X-NH33D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 3.3 NH Inductor"
+        }
+    ]
+}

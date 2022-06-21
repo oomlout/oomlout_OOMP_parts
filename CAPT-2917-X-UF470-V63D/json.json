@@ -1,0 +1,65 @@
+{
+    "index": 12423,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12423
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-2917-X-UF470-V63D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2917) 470 uF Capacitor (Tantalum) 6.3v"
+        },
+        {
+            "name": "hexID",
+            "value": "CTS4U470"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPT2917UF470"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "2917"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF470"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V63D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-2917-X-UF470-V63D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2917) 470 uF Capacitor (Tantalum) 6.3v"
+        }
+    ]
+}

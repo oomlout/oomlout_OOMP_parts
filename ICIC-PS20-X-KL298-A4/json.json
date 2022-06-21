@@ -1,0 +1,69 @@
+{
+    "index": 12599,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12599
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-PS20-X-KL298-A4"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Power SO-20) Dual H-Bridge (L298) 4 A"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS298"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "PS20"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KL298"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A4"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-PS20-X-KL298-A4"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Power SO-20) Dual H-Bridge (L298) 4 A"
+        }
+    ]
+}

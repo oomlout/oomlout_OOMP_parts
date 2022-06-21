@@ -1,0 +1,81 @@
+{
+    "index": 12317,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12317
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-52D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "5.2 mm Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "BT52"
+        },
+        {
+            "name": "oompSort",
+            "value": "BUTA52DSTAN"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "52D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-52D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "5.2 mm Pushbutton (Tactile)"
+        }
+    ]
+}

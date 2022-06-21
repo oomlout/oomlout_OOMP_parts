@@ -1,0 +1,73 @@
+{
+    "index": 13143,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13143
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-5032-X-MZ12-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (5032) 12 MHz Crystal"
+        },
+        {
+            "name": "hexID",
+            "value": "XS512"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "XTAL"
+        },
+        {
+            "name": "oompSize",
+            "value": "5032"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MZ12"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XTAL-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "X1"
+        },
+        {
+            "name": "oompID",
+            "value": "XTAL-5032-X-MZ12-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (5032) 12 MHz Crystal"
+        }
+    ]
+}

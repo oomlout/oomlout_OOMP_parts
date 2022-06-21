@@ -1,0 +1,109 @@
+{
+    "index": 12307,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12307
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-06-X-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm 2 Pin Pushbutton (Tactile)"
+        },
+        {
+            "name": "hexID",
+            "value": "BT62"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooWidth",
+            "value": "6 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "3.5 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "3.5 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "ooLifetime",
+            "value": "50 000 cycles"
+        },
+        {
+            "name": "oompAbout",
+            "value": "A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-06-X-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm 2 Pin Pushbutton (Tactile)"
+        }
+    ]
+}

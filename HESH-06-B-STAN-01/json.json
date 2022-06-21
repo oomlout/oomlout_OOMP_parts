@@ -1,0 +1,73 @@
+{
+    "index": 12567,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12567
+        },
+        {
+            "name": "index",
+            "value": "4039"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Black Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS6B"
+        },
+        {
+            "name": "oompSort",
+            "value": "0303B"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "B"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Black Heat Shrink"
+        }
+    ]
+}

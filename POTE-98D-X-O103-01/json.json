@@ -1,0 +1,69 @@
+{
+    "index": 12736,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12736
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-98D-X-O103-01"
+        },
+        {
+            "name": "name",
+            "value": "9.8 mm 10k Ohm Potentiometer"
+        },
+        {
+            "name": "hexID",
+            "value": "PT98103"
+        },
+        {
+            "name": "oompSort",
+            "value": "POTE98DO103"
+        },
+        {
+            "name": "oompType",
+            "value": "POTE"
+        },
+        {
+            "name": "oompSize",
+            "value": "98D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O103"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooWidth",
+            "value": "9.8 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "9.8 mm"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "VR1"
+        },
+        {
+            "name": "oompID",
+            "value": "POTE-98D-X-O103-01"
+        },
+        {
+            "name": "name",
+            "value": "9.8 mm 10k Ohm Potentiometer"
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "index": 12626,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12626
+        },
+        {
+            "name": "index",
+            "value": "4326"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TQ32-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (TQFP) AtMega328P"
+        },
+        {
+            "name": "hexID",
+            "value": "ICS328"
+        },
+        {
+            "name": "oompSort",
+            "value": "AtMega 328 SMD"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "TQ32"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K328"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-ATME"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ATMEGA328P-AU"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1030060P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "IC MCU 8BIT 32KB FLASH 32TQFP"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:TQFP32.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooPitch",
+            "value": "0.65 mm"
+        },
+        {
+            "name": "ooPadWidth",
+            "value": "1 mm"
+        },
+        {
+            "name": "ooPadHeight",
+            "value": "0.32 mm"
+        },
+        {
+            "name": "ooPin1",
+            "value": "PD3"
+        },
+        {
+            "name": "ooPin2",
+            "value": "PD4"
+        },
+        {
+            "name": "ooPin3",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin4",
+            "value": "VCC"
+        },
+        {
+            "name": "ooPin5",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin6",
+            "value": "VCC"
+        },
+        {
+            "name": "ooPin7",
+            "value": "PB6"
+        },
+        {
+            "name": "ooPin8",
+            "value": "PB7"
+        },
+        {
+            "name": "ooPin9",
+            "value": "PD5"
+        },
+        {
+            "name": "ooPin10",
+            "value": "PD6"
+        },
+        {
+            "name": "ooPin11",
+            "value": "PD7"
+        },
+        {
+            "name": "ooPin12",
+            "value": "PB0"
+        },
+        {
+            "name": "ooPin13",
+            "value": "PB1"
+        },
+        {
+            "name": "ooPin14",
+            "value": "PB2"
+        },
+        {
+            "name": "ooPin15",
+            "value": "PB3"
+        },
+        {
+            "name": "ooPin16",
+            "value": "PB4"
+        },
+        {
+            "name": "ooPin17",
+            "value": "PB5"
+        },
+        {
+            "name": "ooPin18",
+            "value": "AVCC"
+        },
+        {
+            "name": "ooPin19",
+            "value": "ADC6"
+        },
+        {
+            "name": "ooPin20",
+            "value": "AREF"
+        },
+        {
+            "name": "ooPin21",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin22",
+            "value": "ADC7"
+        },
+        {
+            "name": "ooPin23",
+            "value": "PC0"
+        },
+        {
+            "name": "ooPin24",
+            "value": "PC1"
+        },
+        {
+            "name": "ooPin25",
+            "value": "PC2"
+        },
+        {
+            "name": "ooPin26",
+            "value": "PC3"
+        },
+        {
+            "name": "ooPin27",
+            "value": "PC4"
+        },
+        {
+            "name": "ooPin28",
+            "value": "PC5"
+        },
+        {
+            "name": "ooPin29",
+            "value": "PC5"
+        },
+        {
+            "name": "ooPin30",
+            "value": "PD0"
+        },
+        {
+            "name": "ooPin31",
+            "value": "PD1"
+        },
+        {
+            "name": "ooPin32",
+            "value": "PD2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "32"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-TQ32-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "TQSMDPackage;##ooNumPins@@;##ooPitch@@;##ooPadWidth@@;##ooPadHeight@@"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "ATMEGA328"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TQ32-X-K328-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (TQFP) AtMega328P"
+        }
+    ]
+}

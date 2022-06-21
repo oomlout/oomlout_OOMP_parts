@@ -1,0 +1,65 @@
+{
+    "index": 13077,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13077
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-7827-X-SPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7827) SPDT Switch (Slide)"
+        },
+        {
+            "name": "hexID",
+            "value": "SS7827"
+        },
+        {
+            "name": "oompSort",
+            "value": "SWIS7827SPDT"
+        },
+        {
+            "name": "oompType",
+            "value": "SWIS"
+        },
+        {
+            "name": "oompSize",
+            "value": "7827"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SPDT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S1"
+        },
+        {
+            "name": "oompID",
+            "value": "SWIS-7827-X-SPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7827) SPDT Switch (Slide)"
+        }
+    ]
+}

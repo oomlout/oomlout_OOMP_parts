@@ -1,0 +1,85 @@
+{
+    "index": 12627,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12627
+        },
+        {
+            "name": "index",
+            "value": "4327"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TS14-X-K125-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin SMD (TSSOP) Quad Buffer (74HC125)"
+        },
+        {
+            "name": "hexID",
+            "value": "ICQB"
+        },
+        {
+            "name": "oompSort",
+            "value": "Quad Buffer"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "TS14"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K125"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1050030P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "IC BUFFER/LINE DVR QUAD 14TSSOP"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:TSSOP14.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TS14-X-K125-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin SMD (TSSOP) Quad Buffer (74HC125)"
+        }
+    ]
+}

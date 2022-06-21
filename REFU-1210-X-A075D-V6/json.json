@@ -1,0 +1,73 @@
+{
+    "index": 12748,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12748
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1210-X-A075D-V6"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 750 mA Resetable Fuse 6v"
+        },
+        {
+            "name": "hexID",
+            "value": "RF1175D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1210"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A075D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V6"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;REFU-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "F1"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1210-X-A075D-V6"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 750 mA Resetable Fuse 6v"
+        }
+    ]
+}

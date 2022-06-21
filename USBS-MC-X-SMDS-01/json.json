@@ -1,0 +1,97 @@
+{
+    "index": 13095,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13095
+        },
+        {
+            "name": "index",
+            "value": "4317"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MC-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD USB Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "USM"
+        },
+        {
+            "name": "oompSort",
+            "value": "MCMC"
+        },
+        {
+            "name": "oompType",
+            "value": "USBS"
+        },
+        {
+            "name": "oompSize",
+            "value": "MC"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-SUNT"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ST-USB-001E"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3400150P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "MICRO USB B SMD R/A"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:B-SMD-5P.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;USBS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-MC-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD USB Socket"
+        }
+    ]
+}

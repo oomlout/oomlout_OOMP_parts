@@ -1,0 +1,125 @@
+{
+    "index": 12754,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12754
+        },
+        {
+            "name": "index",
+            "value": "4115"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O103X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 10k Ohm (x4) Resistor Array"
+        },
+        {
+            "name": "hexID",
+            "value": "RA1103"
+        },
+        {
+            "name": "oompSort",
+            "value": "12680010000"
+        },
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "1268"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O103X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3.2 mm"
+        },
+        {
+            "name": "com",
+            "value": "SMD"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "103"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooPowerRating",
+            "value": "62.5 mW"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "5%"
+        },
+        {
+            "name": "oompAbout",
+            "value": "This is a small (1206 size) component that houses 4 10k Ohm resistors. Great for saving space on a project."
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "Pullup Resistor"
+        },
+        {
+            "name": "useDescription",
+            "value": "Used to hold a digital pin high. When you need more than one and would like to save space."
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;RESA-XXXX-X-XXX4-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "RN1"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O103X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 10k Ohm (x4) Resistor Array"
+        }
+    ]
+}

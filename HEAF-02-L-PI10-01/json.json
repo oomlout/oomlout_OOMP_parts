@@ -1,0 +1,77 @@
+{
+    "index": 12529,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12529
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-L-PI10-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin Blue Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "H210"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAF"
+        },
+        {
+            "name": "oompSize",
+            "value": "02"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "10"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-02-X-PI10-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAF-02-L-PI10-01"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 10 Pin Blue Female Header"
+        }
+    ]
+}

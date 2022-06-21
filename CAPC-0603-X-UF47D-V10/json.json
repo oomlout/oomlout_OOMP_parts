@@ -1,0 +1,89 @@
+{
+    "index": 12376,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12376
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0603-X-UF47D-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 4.7 uF Capacitor (Ceramic) 10v"
+        },
+        {
+            "name": "hexID",
+            "value": "C6U004"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF47D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V10"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.8mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.8mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6mm"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0603-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0603-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0603-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0603-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0603-X-UF47D-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 4.7 uF Capacitor (Ceramic) 10v"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "index": 12467,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12467
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O221-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 220 Ohm Ferrite Bead"
+        },
+        {
+            "name": "hexID",
+            "value": "F8221"
+        },
+        {
+            "name": "oompSort",
+            "value": "08050000220"
+        },
+        {
+            "name": "oompType",
+            "value": "FERB"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O221"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.85 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.25 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0805-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0805-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0805-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;FERB-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0805-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "FB1"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O221-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 220 Ohm Ferrite Bead"
+        }
+    ]
+}

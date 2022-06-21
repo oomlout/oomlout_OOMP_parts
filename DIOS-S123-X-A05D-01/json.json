@@ -1,0 +1,73 @@
+{
+    "index": 12456,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12456
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-S123-X-A05D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 500 mA Diode (Schottky)"
+        },
+        {
+            "name": "hexID",
+            "value": "DS35D"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOS"
+        },
+        {
+            "name": "oompSize",
+            "value": "S123"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A05D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOS-S123-X-A05D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 500 mA Diode (Schottky)"
+        }
+    ]
+}

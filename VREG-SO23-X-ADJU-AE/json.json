@@ -1,0 +1,97 @@
+{
+    "index": 13109,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13109
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-ADJU-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) Adjustable Voltage Regulator 200 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS3A2D"
+        },
+        {
+            "name": "oompSort",
+            "value": "VREGSO23ADJU"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ADJU"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AE"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooPin1",
+            "value": "REF"
+        },
+        {
+            "name": "ooPin2",
+            "value": "CATH"
+        },
+        {
+            "name": "ooPin3",
+            "value": "ANODE"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "432"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-ADJU-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) Adjustable Voltage Regulator 200 mA"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "index": 12619,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12619
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-K1620-01"
+        },
+        {
+            "name": "name",
+            "value": " 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) "
+        },
+        {
+            "name": "hexID",
+            "value": "ICS1620"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICSP20K1620"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SP20"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K1620"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooPin1",
+            "value": "VDD"
+        },
+        {
+            "name": "ooPin2",
+            "value": "SEG1"
+        },
+        {
+            "name": "ooPin3",
+            "value": "SEG2"
+        },
+        {
+            "name": "ooPin4",
+            "value": "SEG3"
+        },
+        {
+            "name": "ooPin5",
+            "value": "SEG4"
+        },
+        {
+            "name": "ooPin6",
+            "value": "SEG5"
+        },
+        {
+            "name": "ooPin7",
+            "value": "SEG6"
+        },
+        {
+            "name": "ooPin8",
+            "value": "SEG7"
+        },
+        {
+            "name": "ooPin9",
+            "value": "SEG8"
+        },
+        {
+            "name": "ooPin10",
+            "value": "GRID6"
+        },
+        {
+            "name": "ooPin11",
+            "value": "GRID5"
+        },
+        {
+            "name": "ooPin12",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin13",
+            "value": "GRID4"
+        },
+        {
+            "name": "ooPin14",
+            "value": "GRID3"
+        },
+        {
+            "name": "ooPin15",
+            "value": "GND"
+        },
+        {
+            "name": "ooPin16",
+            "value": "GRID2"
+        },
+        {
+            "name": "ooPin17",
+            "value": "GRID1"
+        },
+        {
+            "name": "ooPin18",
+            "value": "DIN"
+        },
+        {
+            "name": "ooPin19",
+            "value": "CLK"
+        },
+        {
+            "name": "ooPin20",
+            "value": "STB"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;ICIC-SP20-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;ICIC-SP20-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;ICIC-SP20-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;ICIC-SP20-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "TM1620"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SP20-X-K1620-01"
+        },
+        {
+            "name": "name",
+            "value": " 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) "
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "index": 13102,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13102
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "VARI-0603-X-V05-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 5v Varistor"
+        },
+        {
+            "name": "hexID",
+            "value": "V6305"
+        },
+        {
+            "name": "oompSort",
+            "value": "060305.0"
+        },
+        {
+            "name": "oompType",
+            "value": "VARI"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.45 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "0.8 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-0603-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-0603-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-0603-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;VARI-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-0603-X-XXXX-XX-simp"
+        },
+        {
+            "name": "oompID",
+            "value": "VARI-0603-X-V05-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 5v Varistor"
+        }
+    ]
+}

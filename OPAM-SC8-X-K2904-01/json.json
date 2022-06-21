@@ -1,0 +1,69 @@
+{
+    "index": 12721,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12721
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-SC8-X-K2904-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOIC) LM2904 Dual Op Amp"
+        },
+        {
+            "name": "hexID",
+            "value": "OAS2904"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "OPAM"
+        },
+        {
+            "name": "oompSize",
+            "value": "SC8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2904"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-SC8-X-K2904-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOIC) LM2904 Dual Op Amp"
+        }
+    ]
+}

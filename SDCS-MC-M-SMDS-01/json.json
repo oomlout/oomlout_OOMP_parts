@@ -1,0 +1,93 @@
+{
+    "index": 13061,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13061
+        },
+        {
+            "name": "index",
+            "value": "4284"
+        },
+        {
+            "name": "oompID",
+            "value": "SDCS-MC-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD SD Card Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "SDMS"
+        },
+        {
+            "name": "oompSort",
+            "value": "MCMCSMD"
+        },
+        {
+            "name": "oompType",
+            "value": "SDCS"
+        },
+        {
+            "name": "oompSize",
+            "value": "MC"
+        },
+        {
+            "name": "oompColor",
+            "value": "M"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-SUNT"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "ST-TF-003A"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3300060P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "Micro SD Card Socket"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:9P-SMD-W-RING.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "SDCS-MC-M-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "Micro SMD SD Card Socket"
+        }
+    ]
+}

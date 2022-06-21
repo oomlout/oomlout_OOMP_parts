@@ -1,0 +1,85 @@
+{
+    "index": 12624,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12624
+        },
+        {
+            "name": "index",
+            "value": "4323"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS28-X-K232-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (SSOP) FTDI USB-Serial"
+        },
+        {
+            "name": "hexID",
+            "value": "IC232"
+        },
+        {
+            "name": "oompSort",
+            "value": "FTDI USB-Serial"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "SS28"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K232"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "1720010P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "IC USB FS SERIAL UART"
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:SSOP28.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-SS28-X-K232-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin SMD (SSOP) FTDI USB-Serial"
+        }
+    ]
+}

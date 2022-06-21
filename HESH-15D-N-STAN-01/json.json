@@ -1,0 +1,73 @@
+{
+    "index": 12581,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12581
+        },
+        {
+            "name": "index",
+            "value": "4010"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-15D-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "1.5 mm Brown Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS1N"
+        },
+        {
+            "name": "oompSort",
+            "value": "0101N"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "15D"
+        },
+        {
+            "name": "oompColor",
+            "value": "N"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-15D-N-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "1.5 mm Brown Heat Shrink"
+        }
+    ]
+}

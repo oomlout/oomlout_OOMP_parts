@@ -1,0 +1,133 @@
+{
+    "index": 12705,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12705
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-T220-X-A19-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-220 19 Amp P-Ch. MOSFET"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "MOSP"
+        },
+        {
+            "name": "oompSize",
+            "value": "T220"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A19"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "MP220A19"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "oonumPins",
+            "value": "3"
+        },
+        {
+            "name": "oonumRows",
+            "value": "1"
+        },
+        {
+            "name": "oopin1",
+            "value": "G"
+        },
+        {
+            "name": "oopin1X",
+            "value": "0"
+        },
+        {
+            "name": "ooPin1Y",
+            "value": "0"
+        },
+        {
+            "name": "oopin2",
+            "value": "D"
+        },
+        {
+            "name": "oopin2X",
+            "value": "0"
+        },
+        {
+            "name": "ooPin2Y",
+            "value": "0.1\""
+        },
+        {
+            "name": "oopin3",
+            "value": "S"
+        },
+        {
+            "name": "oopin3X",
+            "value": "0"
+        },
+        {
+            "name": "ooPin3Y",
+            "value": "0.2\""
+        },
+        {
+            "name": "oompSymbol",
+            "value": "oneSidedPackage;##ooNumPins@@"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "oneSidedPackage;##ooNumPins@@;##ooPitch@@"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-T220-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-T220-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-T220-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-T220-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-T220-X-A19-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-220 19 Amp P-Ch. MOSFET"
+        }
+    ]
+}

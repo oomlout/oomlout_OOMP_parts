@@ -1,0 +1,105 @@
+{
+    "index": 13114,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13114
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-V33D-AD"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3.3v Voltage Regulator 250 mA"
+        },
+        {
+            "name": "hexID",
+            "value": "VS332"
+        },
+        {
+            "name": "oompSort",
+            "value": "SO233.300.250"
+        },
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "V33D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AD"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooPin1",
+            "value": "VSS"
+        },
+        {
+            "name": "ooPin2",
+            "value": "VOUT"
+        },
+        {
+            "name": "ooPin3",
+            "value": "VIN"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-SO23-X-XXXX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-SO23-X-XXXX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-SO23-X-XXXX-01-iden"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-SO23-X-XXXX-01-simp"
+        },
+        {
+            "name": "ooPackageMarking",
+            "value": "662S"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO23-X-V33D-AD"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3.3v Voltage Regulator 250 mA"
+        }
+    ]
+}

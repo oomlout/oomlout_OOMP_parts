@@ -1,0 +1,93 @@
+{
+    "index": 12304,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12304
+        },
+        {
+            "name": "oompID",
+            "value": "BAHO-CR1220-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 SMD Battery Holder"
+        },
+        {
+            "name": "hexID",
+            "value": "BHS1220"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "BAHO"
+        },
+        {
+            "name": "oompSize",
+            "value": "CR1220"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooWidth",
+            "value": "15.06 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "4.10 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "15 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompAbout",
+            "value": "A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks."
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BAHO-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "BT1"
+        },
+        {
+            "name": "oompID",
+            "value": "BAHO-CR1220-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 SMD Battery Holder"
+        }
+    ]
+}

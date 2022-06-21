@@ -1,0 +1,97 @@
+{
+    "index": 13101,
+    "tags": [
+        {
+            "name": "index",
+            "value": 13101
+        },
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-TB-X-THTH-01"
+        },
+        {
+            "name": "name",
+            "value": "Type B Through Hole USB Socket"
+        },
+        {
+            "name": "hexID",
+            "value": "UTB"
+        },
+        {
+            "name": "oompSort",
+            "value": "THTHTB"
+        },
+        {
+            "name": "oompType",
+            "value": "USBS"
+        },
+        {
+            "name": "oompSize",
+            "value": "TB"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "THTH"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "16 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "10.3 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "12.2 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "4"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;USBS-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-TB-X-THTH-01"
+        },
+        {
+            "name": "name",
+            "value": "Type B Through Hole USB Socket"
+        }
+    ]
+}

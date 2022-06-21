@@ -1,0 +1,61 @@
+{
+    "index": 12723,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12723
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-SO235-X-K333-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) OPA333 Op Amp"
+        },
+        {
+            "name": "hexID",
+            "value": "OA333"
+        },
+        {
+            "name": "oompSort",
+            "value": "OPAMSO235K333"
+        },
+        {
+            "name": "oompType",
+            "value": "OPAM"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K333"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "OPAM-SO235-X-K333-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) OPA333 Op Amp"
+        }
+    ]
+}

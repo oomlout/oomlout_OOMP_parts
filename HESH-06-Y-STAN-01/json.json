@@ -1,0 +1,73 @@
+{
+    "index": 12576,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12576
+        },
+        {
+            "name": "index",
+            "value": "4033"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Yellow Heat Shrink"
+        },
+        {
+            "name": "hexID",
+            "value": "HS6Y"
+        },
+        {
+            "name": "oompSort",
+            "value": "0606Y"
+        },
+        {
+            "name": "oompType",
+            "value": "HESH"
+        },
+        {
+            "name": "oompSize",
+            "value": "06"
+        },
+        {
+            "name": "oompColor",
+            "value": "Y"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "27"
+        },
+        {
+            "name": "ooShrinkRatio",
+            "value": "2:1"
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Yellow Heat Shrink"
+        }
+    ]
+}

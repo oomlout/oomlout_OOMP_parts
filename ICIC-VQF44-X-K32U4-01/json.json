@@ -1,0 +1,61 @@
+{
+    "index": 12633,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12633
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-VQF44-X-K32U4-01"
+        },
+        {
+            "name": "name",
+            "value": "44 Pin SMD (VQFN) AtMega32U4"
+        },
+        {
+            "name": "hexID",
+            "value": "ICSV32U4"
+        },
+        {
+            "name": "oompSort",
+            "value": "ICICVQF44K32U4"
+        },
+        {
+            "name": "oompType",
+            "value": "ICIC"
+        },
+        {
+            "name": "oompSize",
+            "value": "VQF44"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K32U4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "U1"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-VQF44-X-K32U4-01"
+        },
+        {
+            "name": "name",
+            "value": "44 Pin SMD (VQFN) AtMega32U4"
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "index": 12512,
+    "tags": [
+        {
+            "name": "index",
+            "value": 12512
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "H08"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54"
+        },
+        {
+            "name": "ooPinHeight",
+            "value": "11.60"
+        },
+        {
+            "name": "ooPinWidth",
+            "value": "0.64"
+        },
+        {
+            "name": "ooPinOffset",
+            "value": "1.53"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAD-I01-X-XX-01-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-EVEN-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;8"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "schematicSymbol",
+            "value": "HEAD-XX-X-PI08-XX"
+        },
+        {
+            "name": "pcbFootprint",
+            "value": "HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "kicadSymbol",
+            "value": "Connector/Conn_01x08_Male"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X08"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X08_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X08_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X08_NO_SILK"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x08_P2.54mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI08-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin Header"
+        }
+    ]
+}
