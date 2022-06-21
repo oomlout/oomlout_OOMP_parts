@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 341
+- index: 12640
 - oompID: INDU-06-X-UH10-01
 - name: 6 mm 10 uH Inductor
 - hexID: IN06U10

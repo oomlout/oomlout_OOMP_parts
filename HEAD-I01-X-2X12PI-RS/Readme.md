@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 193
+- index: 12492
 - oompID: HEAD-I01-X-PI2X12-RS
 - name: 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
 - oompSort: 

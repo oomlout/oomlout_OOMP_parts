@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 126
+- index: 12425
 - oompID: CERE-1263-X-MZ12-01
 - name: SMD (1206-3) 12 MHz Ceramic Resonator
 - hexID: CR16312

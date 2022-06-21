@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 304
+- index: 12603
 - oompID: ICIC-QFN32-X-K168-01
 - name: 32 Pin SMD (QFN) AtMega168P
 - hexID: ICSQ168

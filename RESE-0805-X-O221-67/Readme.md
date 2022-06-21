@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 688
+- index: 12987
 - oompID: RESE-0805-X-O221-67
 - name: SMD (0805) 220 Ohm Resistor 1%
 - hexID: R85221A

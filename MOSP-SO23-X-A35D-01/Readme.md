@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 402
+- index: 12701
 - oompID: MOSP-SO23-X-A35D-01
 - name: SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
 - hexID: MPS235D

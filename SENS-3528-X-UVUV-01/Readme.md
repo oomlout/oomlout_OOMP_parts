@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 769
+- index: 13068
 - oompID: SENS-3528-X-UVUV-01
 - name: SMD (3528) Ultraviolet Sensor
 - hexID: SEUV

@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 604
+- index: 12903
 - oompID: RESE-0603-X-O362-01
 - name: SMD (0603) 3.6k Ohm Resistor
 - hexID: R6362

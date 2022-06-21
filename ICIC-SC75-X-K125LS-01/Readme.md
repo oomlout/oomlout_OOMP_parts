@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 312
+- index: 12611
 - oompID: ICIC-SC75-X-K125LS-01
 - name: 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
 - hexID: ICS125LS

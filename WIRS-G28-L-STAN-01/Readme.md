@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 831
+- index: 13130
 - index: 4176
 - oompID: WIRS-G28-L-STAN-01
 - name: 28 AWG Blue Stranded Wire

@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 584
+- index: 12883
 - oompID: RESE-0603-X-O271-67
 - name: SMD (0603) 270 Ohm Resistor 1%
 - hexID: R6271A

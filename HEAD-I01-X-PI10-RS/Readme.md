@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 219
+- index: 12518
 - oompID: HEAD-I01-X-PI10-RS
 - name: 2.54 mm 10 Pin Header Right Angle (SMD)
 - oompType: HEAD

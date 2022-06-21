@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 672
+- index: 12971
 - oompID: RESE-0805-X-O122-67
 - name: SMD (0805) 1.2k Ohm Resistor 1%
 - hexID: R85122A

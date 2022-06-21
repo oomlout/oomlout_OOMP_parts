@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 702
+- index: 13001
 - oompID: RESE-0805-X-O330-67
 - name: SMD (0805) 33 Ohm Resistor 1%
 - hexID: R85330A

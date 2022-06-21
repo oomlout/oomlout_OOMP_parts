@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 774
+- index: 13073
 - oompID: SWIS-09-X-DPDT-01
 - name: 9 mm DPDT Switch (Slide)
 - hexID: SSW9D

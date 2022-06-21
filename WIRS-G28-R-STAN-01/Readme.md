@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 834
+- index: 13133
 - index: 4172
 - oompID: WIRS-G28-R-STAN-01
 - name: 28 AWG Red Stranded Wire

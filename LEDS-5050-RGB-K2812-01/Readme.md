@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 393
+- index: 12692
 - oompID: LEDS-5050-RGB-K2812-01
 - name: SMD (5050) Smart Controller (WS2812B) RGB LED
 - hexID: L502

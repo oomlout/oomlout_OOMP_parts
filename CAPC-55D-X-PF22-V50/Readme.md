@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 90
+- index: 12389
 - index: 9876
 - oompID: CAPC-55D-X-PF22-V50
 - name: 5.5 mm 22 pF Capacitor (Ceramic) 50v

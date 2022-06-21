@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 532
+- index: 12831
 - oompID: RESE-0603-X-O106-01
 - name: SMD (0603) 10M Ohm Resistor
 - hexID: R6106

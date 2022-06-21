@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 49
+- index: 12348
 - oompID: CAPC-0402-X-PF390-V50
 - name: SMD (0402) 390 pF Capacitor (Ceramic) 50v
 - hexID: C42P390

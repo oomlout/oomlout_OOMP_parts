@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 115
+- index: 12414
 - index: 4280
 - oompID: CAPT-1210-X-UF10-V16
 - name: SMD (1210) 10 uF Capacitor (Tantalum) 16v

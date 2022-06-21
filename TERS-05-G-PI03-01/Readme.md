@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 780
+- index: 13079
 - oompID: TERS-05-G-PI03-01
 - name: 5 mm 3 Pin Green Screw Terminal
 - hexID: ST502G

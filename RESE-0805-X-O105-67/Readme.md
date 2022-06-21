@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 668
+- index: 12967
 - oompID: RESE-0805-X-O105-67
 - name: SMD (0805) 1M Ohm Resistor 1%
 - hexID: R85105A

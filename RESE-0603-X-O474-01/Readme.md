@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 619
+- index: 12918
 - oompID: RESE-0603-X-O474-01
 - name: SMD (0603) 470k Ohm Resistor
 - hexID: R6474

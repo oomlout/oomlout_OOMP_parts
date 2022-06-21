@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 8
+- index: 12307
 - oompID: BUTA-06-X-PI02-01
 - name: 6 mm 2 Pin Pushbutton (Tactile)
 - hexID: BT62

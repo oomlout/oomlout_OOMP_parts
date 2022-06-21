@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 443
+- index: 12742
 - oompID: REFU-1206-X-A01-V8
 - name: SMD (1206) 1 Amp Resetable Fuse 8v
 - hexID: RF121

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 781
+- index: 13080
 - oompID: TERS-35D-G-PI02-01
 - name: 3.5 mm 2 Pin Green Screw Terminal
 - hexID: ST302G

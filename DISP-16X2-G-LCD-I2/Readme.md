@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 163
+- index: 12462
 - oompID: DISP-16X2-G-LCD-I2
 - name:  16 x 2 Character LCD Green Display (I2C) 
 - hexID: DS16

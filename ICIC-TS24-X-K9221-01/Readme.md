@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 331
+- index: 12630
 - oompID: ICIC-TS24-X-K9221-01
 - name: 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
 - hexID: ICS9221

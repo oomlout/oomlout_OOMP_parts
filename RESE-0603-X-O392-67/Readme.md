@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 609
+- index: 12908
 - oompID: RESE-0603-X-O392-67
 - name: SMD (0603) 3.9k Ohm Resistor 1%
 - hexID: R6392A

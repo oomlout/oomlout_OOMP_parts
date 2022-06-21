@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 675
+- index: 12974
 - oompID: RESE-0805-X-O151-67
 - name: SMD (0805) 150 Ohm Resistor 1%
 - hexID: R85151A

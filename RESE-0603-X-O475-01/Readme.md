@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 621
+- index: 12920
 - oompID: RESE-0603-X-O475-01
 - name: SMD (0603) 4.7M Ohm Resistor
 - hexID: R6475

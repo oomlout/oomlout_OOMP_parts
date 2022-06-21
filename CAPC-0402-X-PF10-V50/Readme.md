@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 38
+- index: 12337
 - oompID: CAPC-0402-X-PF10-V50
 - name: SMD (0402) 10 pF Capacitor (Ceramic) 50v
 - hexID: C42P010

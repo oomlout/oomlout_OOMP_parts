@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 735
+- index: 13034
 - index: 4149
 - oompID: RESE-W04-X-O105-01
 - name: 1/4 Watt 1M Ohm Resistor

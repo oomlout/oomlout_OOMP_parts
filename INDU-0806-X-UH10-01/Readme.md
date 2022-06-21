@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 343
+- index: 12642
 - oompID: INDU-0806-X-UH10-01
 - name: SMD (0806) 10 uH Inductor
 - hexID: IN86U10

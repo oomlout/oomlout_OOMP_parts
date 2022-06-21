@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 618
+- index: 12917
 - oompID: RESE-0603-X-O473-01
 - name: SMD (0603) 47k Ohm Resistor
 - hexID: R6473

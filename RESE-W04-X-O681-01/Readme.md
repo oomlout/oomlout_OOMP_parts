@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 751
+- index: 13050
 - index: 4162
 - oompID: RESE-W04-X-O681-01
 - name: 1/4 Watt 680 Ohm Resistor

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 497
+- index: 12796
 - oompID: RESE-0402-X-O224-01
 - name: SMD (0402) 220k Ohm Resistor
 - hexID: R42224

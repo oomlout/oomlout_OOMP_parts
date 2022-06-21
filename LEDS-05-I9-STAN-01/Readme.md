@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 360
+- index: 12659
 - oompID: LEDS-05-I9-STAN-01
 - name: 5 mm IR (940 nm) LED
 - hexID: L5I9

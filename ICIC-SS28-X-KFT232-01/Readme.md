@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 326
+- index: 12625
 - oompID: ICIC-SS28-X-KFT232-01
 - name: 28 Pin SMD (SSOP) USB-Serial (FT232RL)
 - hexID: ICSF232

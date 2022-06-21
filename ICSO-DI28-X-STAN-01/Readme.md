@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 337
+- index: 12636
 - index: 9876
 - oompID: ICSO-DI28-X-STAN-01
 - name: 28 Pin DIP IC Socket

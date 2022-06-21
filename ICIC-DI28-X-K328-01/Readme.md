@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 296
+- index: 12595
 - index: 4321
 - oompID: ICIC-DI28-X-K328-01
 - name: 28 Pin DIP AtMega328P

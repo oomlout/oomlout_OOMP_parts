@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 551
+- index: 12850
 - oompID: RESE-0603-X-O154-01
 - name: SMD (0603) 150k Ohm Resistor
 - hexID: R6154

@@ -42,7 +42,7 @@ Contents
 
 ## Tags
 
-- index: 612
+- index: 12911
 - oompID: RESE-0603-X-O4022-67
 - name: SMD (0603) 40k Ohm Resistor 1%
 - hexID: R6402

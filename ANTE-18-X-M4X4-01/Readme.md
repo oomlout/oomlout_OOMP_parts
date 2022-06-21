@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 1
+- index: 12300
 - oompID: ANTE-18-X-M4X4-01
 - name: 18 mm Quad Band (850/900/1800/1900 Mhz) Antenna
 - hexID: AN4X18

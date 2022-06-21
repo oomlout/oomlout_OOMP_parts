@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 693
+- index: 12992
 - oompID: RESE-0805-X-O242-01
 - name: SMD (0805) 2.4k Ohm Resistor
 - hexID: R85242

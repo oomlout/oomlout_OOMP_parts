@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 766
+- index: 13065
 - oompID: SENS-12-X-TEHU-01
 - name: 12 mm Temperature and Humidity Sensor
 - hexID: SETH1

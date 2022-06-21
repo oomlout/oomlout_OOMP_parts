@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 421
+- index: 12720
 - oompID: OPAM-SC14-X-KLMV324-01
 - name: SMD (SOIC-14) LMV324 Op Amp
 - hexID: OAS324

@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 572
+- index: 12871
 - oompID: RESE-0603-X-O223-67
 - name: SMD (0603) 22k Ohm Resistor 1%
 - hexID: R6223A

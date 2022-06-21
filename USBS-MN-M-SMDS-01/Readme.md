@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 800
+- index: 13099
 - oompID: USBS-MN-M-SMDS-01
 - name: Mini SMD Metal USB Socket
 - hexID: USN

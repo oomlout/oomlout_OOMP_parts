@@ -63,7 +63,7 @@ Contents
 
 ## Tags
 
-- index: 750
+- index: 13049
 - index: 3981
 - oompID: RESE-W04-X-O561-01
 - name: 1/4 Watt 560 Ohm Resistor

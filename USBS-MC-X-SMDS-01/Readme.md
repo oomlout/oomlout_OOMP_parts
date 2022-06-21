@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 796
+- index: 13095
 - index: 4317
 - oompID: USBS-MC-X-SMDS-01
 - name: Micro SMD USB Socket

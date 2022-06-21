@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 19
+- index: 12318
 - oompID: BUTA-6035-X-STAN-01
 - name: SMD (6035) Pushbutton (Tactile)
 - hexID: B6035

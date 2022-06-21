@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 20
+- index: 12319
 - oompID: BUTP-07-X-STAN-69
 - name:  7 mm Pushbutton Panel Mount 
 - hexID: BP07

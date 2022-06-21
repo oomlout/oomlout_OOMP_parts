@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 315
+- index: 12614
 - oompID: ICIC-SC8-X-KDS1337-01
 - name: 8 Pin SMD (SOIC) Real Time Clock (DS1337)
 - hexID: ICS1337

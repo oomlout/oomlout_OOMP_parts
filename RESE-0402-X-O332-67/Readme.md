@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 505
+- index: 12804
 - oompID: RESE-0402-X-O332-67
 - name: SMD (0402) 3.3k Ohm Resistor 1%
 - hexID: R42332A

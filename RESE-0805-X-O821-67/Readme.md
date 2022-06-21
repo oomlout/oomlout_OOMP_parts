@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 725
+- index: 13024
 - oompID: RESE-0805-X-O821-67
 - name: SMD (0805) 820 Ohm Resistor 1%
 - hexID: R85821A

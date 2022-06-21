@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 5
+- index: 12304
 - oompID: BAHO-CR1220-X-SMDS-01
 - name: CR1220 SMD Battery Holder
 - hexID: BHS1220

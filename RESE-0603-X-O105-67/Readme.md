@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 531
+- index: 12830
 - oompID: RESE-0603-X-O105-67
 - name: SMD (0603) 1M Ohm Resistor 1%
 - hexID: R6105A

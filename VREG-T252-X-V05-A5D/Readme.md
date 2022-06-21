@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 826
+- index: 13125
 - index: 4324
 - oompID: VREG-T252-X-V05-A5D
 - name: TO-252 5v Voltage Regulator 500 mA

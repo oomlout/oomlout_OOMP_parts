@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 404
+- index: 12703
 - oompID: MOSP-SO23-X-A43D-01
 - name: SMD (SOT-23) 4.3 Amp P-Ch. MOSFET
 - hexID: MPS2343D

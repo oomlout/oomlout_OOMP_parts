@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 835
+- index: 13134
 - index: 4177
 - oompID: WIRS-G28-V-STAN-01
 - name: 28 AWG Purple Stranded Wire

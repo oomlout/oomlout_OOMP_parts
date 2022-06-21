@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 734
+- index: 13033
 - index: 4148
 - oompID: RESE-W04-X-O104-01
 - name: 1/4 Watt 100k Ohm Resistor

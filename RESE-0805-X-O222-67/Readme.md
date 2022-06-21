@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 690
+- index: 12989
 - oompID: RESE-0805-X-O222-67
 - name: SMD (0805) 2.2k Ohm Resistor 1%
 - hexID: R85222A

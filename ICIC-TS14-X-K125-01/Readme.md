@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 328
+- index: 12627
 - index: 4327
 - oompID: ICIC-TS14-X-K125-01
 - name: 14 Pin SMD (TSSOP) Quad Buffer (74HC125)

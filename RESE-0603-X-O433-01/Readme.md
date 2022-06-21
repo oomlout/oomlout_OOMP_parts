@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 614
+- index: 12913
 - oompID: RESE-0603-X-O433-01
 - name: SMD (0603) 43k Ohm Resistor
 - hexID: R6433

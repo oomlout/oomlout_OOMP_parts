@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 586
+- index: 12885
 - oompID: RESE-0603-X-O273-01
 - hexID: R6273
 - name: SMD (0603) 28k Ohm Resistor

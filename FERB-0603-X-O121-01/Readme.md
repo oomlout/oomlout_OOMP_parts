@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 166
+- index: 12465
 - oompID: FERB-0603-X-O121-01
 - name: SMD (0603) 120 Ohm Ferrite Bead
 - hexID: F6121

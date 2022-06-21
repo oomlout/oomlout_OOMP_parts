@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 33
+- index: 12332
 - oompID: CAPC-0402-X-NF47D-V50
 - name: SMD (0402) 4.7 nF Capacitor (Ceramic) 50v
 - hexID: C42N047V50

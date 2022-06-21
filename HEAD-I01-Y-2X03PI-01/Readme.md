@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 229
+- index: 12528
 - oompID: HEAD-I01-Y-2X03PI-01
 - name: 2.54 mm 6 Pin (2x3) Yellow Header
 - hexID: H2X03Y

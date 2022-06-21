@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 34
+- index: 12333
 - oompID: CAPC-0402-X-NF47D-V63D
 - name: SMD (0402) 4.7 nF Capacitor (Ceramic) 6.3v
 - hexID: C42N047V63D

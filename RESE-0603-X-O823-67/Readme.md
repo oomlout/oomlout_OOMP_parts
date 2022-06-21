@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 660
+- index: 12959
 - oompID: RESE-0603-X-O823-67
 - name: SMD (0603) 82k Ohm Resistor 1%
 - hexID: R6823A

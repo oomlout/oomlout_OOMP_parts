@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 764
+- index: 13063
 - oompID: SDCS-MC-M-SMDS-03
 - name: Micro SMD Metal SD Card Socket
 - hexID: SDMS3

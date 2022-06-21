@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 295
+- index: 12594
 - oompID: ICIC-DI18-X-KTM1636-01
 - name: 18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636)
 - hexID: IC1636

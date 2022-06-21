@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 561
+- index: 12860
 - oompID: RESE-0603-X-O202-67
 - name: SMD (0603) 2k Ohm Resistor 1%
 - hexID: R6202A

@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 118
+- index: 12417
 - oompID: CAPT-1210-X-UF22-V16
 - name: SMD (1210) 22 uF Capacitor (Tantalum) 16v
 - hexID: C1U022F

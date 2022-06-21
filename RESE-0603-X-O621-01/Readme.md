@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 641
+- index: 12940
 - oompID: RESE-0603-X-O621-01
 - name: SMD (0603) 620 Ohm Resistor
 - hexID: R6621

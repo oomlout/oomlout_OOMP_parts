@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 709
+- index: 13008
 - oompID: RESE-0805-X-O392-67
 - name: SMD (0805) 3.9k Ohm Resistor 1%
 - hexID: R85392A

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 487
+- index: 12786
 - oompID: RESE-0402-X-O181-01
 - name: SMD (0402) 180 Ohm Resistor
 - hexID: R42181

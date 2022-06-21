@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 679
+- index: 12978
 - oompID: RESE-0805-X-O182-01
 - name: SMD (0805) 1.8k Ohm Resistor
 - ooPackageMarking: 182

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 152
+- index: 12451
 - oompID: DIOD-SO23-X-ESDP-01
 - name: SMD (SOT-23) ESD Protection Diode
 - hexID: DS2EP

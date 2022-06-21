@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 433
+- index: 12732
 - oompID: POTE-17-X-O104-69
 - name: 17 mm 100k Ohm Potentiometer Panel Mount
 - hexID: PT7104

@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 806
+- index: 13105
 - oompID: VREG-MS08-X-V05-A5D
 - name: 8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA
 - hexID: VS855D

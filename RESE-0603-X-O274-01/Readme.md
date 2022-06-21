@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 588
+- index: 12887
 - oompID: RESE-0603-X-O274-01
 - name: SMD (0603) 280k Ohm Resistor
 - hexID: R6274

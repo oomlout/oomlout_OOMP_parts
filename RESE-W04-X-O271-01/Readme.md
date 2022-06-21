@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 741
+- index: 13040
 - index: 3980
 - oompID: RESE-W04-X-O271-01
 - name: 1/4 Watt 270 Ohm Resistor

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 476
+- index: 12775
 - oompID: RESE-0402-X-O123-67
 - name: SMD (0402) 12k Ohm Resistor 1%
 - hexID: R42123A

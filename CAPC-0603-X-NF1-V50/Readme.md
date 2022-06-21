@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 56
+- index: 12355
 - oompID: CAPC-0603-X-NF1-V50
 - name: SMD (0603) 1 nF Capacitor (Ceramic) 50v
 - hexID: C6N001

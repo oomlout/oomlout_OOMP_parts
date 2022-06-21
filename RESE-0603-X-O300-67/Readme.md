@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 590
+- index: 12889
 - oompID: RESE-0603-X-O300-67
 - name: SMD (0603) 30 Ohm Resistor 1%
 - hexID: R6300A

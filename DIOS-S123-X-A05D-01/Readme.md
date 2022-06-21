@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 157
+- index: 12456
 - oompID: DIOS-S123-X-A05D-01
 - name: SMD (SOD-123) 500 mA Diode (Schottky)
 - hexID: DS35D

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 842
+- index: 13141
 - oompID: XTAL-3215-X-KZ327D-01
 - name: SMD (3215) 32.768 kHz Crystal
 - hexID: X3K327D

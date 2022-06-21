@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 327
+- index: 12626
 - index: 4326
 - oompID: ICIC-TQ32-X-K328-01
 - name: 32 Pin SMD (TQFP) AtMega328P

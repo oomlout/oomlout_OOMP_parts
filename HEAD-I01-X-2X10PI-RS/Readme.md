@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 191
+- index: 12490
 - oompID: HEAD-I01-X-PI2x10-RS
 - name: 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
 - oompSort: 

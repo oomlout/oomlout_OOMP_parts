@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 422
+- index: 12721
 - oompID: OPAM-SC8-X-K2904-01
 - name: 8 Pin SMD (SOIC) LM2904 Dual Op Amp
 - hexID: OAS2904

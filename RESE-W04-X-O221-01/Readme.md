@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 738
+- index: 13037
 - index: 4151
 - oompID: RESE-W04-X-O221-01
 - name: 1/4 Watt 220 Ohm Resistor

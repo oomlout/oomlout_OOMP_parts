@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 776
+- index: 13075
 - oompID: SWIS-09-X-SPDT-68
 - name:  9 mm SPDT Switch (Slide) Side Adjust 
 - hexID: SSW9S

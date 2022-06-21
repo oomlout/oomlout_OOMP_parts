@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 811
+- index: 13110
 - oompID: VREG-SO23-X-BUCA-A2
 - name: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 - hexID: VS3BA

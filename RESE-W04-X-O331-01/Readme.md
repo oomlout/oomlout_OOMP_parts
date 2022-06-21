@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 742
+- index: 13041
 - index: 4155
 - oompID: RESE-W04-X-O331-01
 - name: 1/4 Watt 330 Ohm Resistor

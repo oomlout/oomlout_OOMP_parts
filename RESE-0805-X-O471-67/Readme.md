@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 711
+- index: 13010
 - oompID: RESE-0805-X-O471-67
 - name: SMD (0805) 470 Ohm Resistor 1%
 - hexID: R85471A

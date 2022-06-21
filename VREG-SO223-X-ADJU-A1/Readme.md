@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 807
+- index: 13106
 - oompID: VREG-SO223-X-ADJU-A1
 - name: SMD (SOT-223) Adjustable Voltage Regulator 1 A
 - hexID: VS2A1

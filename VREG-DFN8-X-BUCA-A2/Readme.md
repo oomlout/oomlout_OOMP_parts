@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 804
+- index: 13103
 - oompID: VREG-DFN8-X-BUCA-A2
 - name: SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
 - hexID: VSD8A

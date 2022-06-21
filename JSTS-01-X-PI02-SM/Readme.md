@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 345
+- index: 12644
 - oompID: JSTS-01-X-PI02-SM
 - name: 1 mm 2 Pin JST Socket (SMD)
 - hexID: J102

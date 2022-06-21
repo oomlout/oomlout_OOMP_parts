@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 454
+- index: 12753
 - index: 9876
 - oompID: RESA-1268-X-O102X4-01
 - name: SMD (1206-8) 1k Ohm (x4) Resistor Array

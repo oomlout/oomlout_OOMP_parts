@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 653
+- index: 12952
 - oompID: RESE-0603-X-O751-01
 - name: SMD (0603) 750 Ohm Resistor
 - hexID: R6751

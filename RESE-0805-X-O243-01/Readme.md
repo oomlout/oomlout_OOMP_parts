@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 694
+- index: 12993
 - oompID: RESE-0805-X-O243-01
 - name: SMD (0805) 24k Ohm Resistor
 - hexID: R85243

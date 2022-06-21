@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 477
+- index: 12776
 - oompID: RESE-0402-X-O124-01
 - name: SMD (0402) 120k Ohm Resistor
 - hexID: R42124

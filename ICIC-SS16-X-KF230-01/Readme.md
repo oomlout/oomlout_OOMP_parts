@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 323
+- index: 12622
 - oompID: ICIC-SS16-X-KF230-01
 - name: 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
 - hexID: IC230

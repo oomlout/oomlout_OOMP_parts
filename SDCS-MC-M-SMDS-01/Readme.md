@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 762
+- index: 13061
 - index: 4284
 - oompID: SDCS-MC-M-SMDS-01
 - name: Micro SMD SD Card Socket

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 733
+- index: 13032
 - index: 3978
 - oompID: RESE-W04-X-O103-01
 - name: 1/4 Watt 10k Ohm Resistor

@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 73
+- index: 12372
 - oompID: CAPC-0603-X-UF1-V25
 - name: SMD (0603) 1 uF Capacitor (Ceramic) 25v
 - hexID: C6U001

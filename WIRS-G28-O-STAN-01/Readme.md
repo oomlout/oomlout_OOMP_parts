@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 833
+- index: 13132
 - index: 4173
 - oompID: WIRS-G28-O-STAN-01
 - name: 28 AWG Orange Stranded Wire

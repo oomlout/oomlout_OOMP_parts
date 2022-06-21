@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 481
+- index: 12780
 - oompID: RESE-0402-X-O151-67
 - name: SMD (0402) 150 Ohm Resistor 1%
 - hexID: R42151A

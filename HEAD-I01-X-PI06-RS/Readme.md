@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 210
+- index: 12509
 - oompID: HEAD-I01-X-PI06-RS
 - name: 2.54 mm 6 Pin Header Right Angle (SMD)
 - oompType: HEAD

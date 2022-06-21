@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 298
+- index: 12597
 - oompID: ICIC-HQFN33-X-KLPC33-01
 - name: 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
 - hexID: ICSLPC33

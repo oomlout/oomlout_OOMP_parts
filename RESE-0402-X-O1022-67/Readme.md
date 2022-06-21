@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 464
+- index: 12763
 - oompID: RESE-0402-X-O1022-67
 - name: SMD (0402) 10.2k Ohm Resistor 1%
 - hexID: R421022A

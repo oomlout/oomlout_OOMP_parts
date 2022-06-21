@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 434
+- index: 12733
 - oompID: POTE-17-X-O105-69
 - name: 17 mm 1M Ohm Potentiometer Panel Mount
 - hexID: PT7105

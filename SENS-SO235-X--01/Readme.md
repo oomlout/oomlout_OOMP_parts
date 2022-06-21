@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 772
+- index: 13071
 - oompID: SENS-SO235-X-K36-01
 - name: SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor
 - oompType: SENS

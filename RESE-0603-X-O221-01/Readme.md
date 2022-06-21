@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 568
+- index: 12867
 - oompID: RESE-0603-X-O221-01
 - name: SMD (0603) 220 Ohm Resistor
 - hexID: R6221

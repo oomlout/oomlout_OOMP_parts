@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 61
+- index: 12360
 - index: 
 - oompID: CAPC-0603-X-NF22D-V50
 - name: SMD (0603) 2.2 nF Capacitor (Ceramic) 50v

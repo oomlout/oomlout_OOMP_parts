@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 737
+- index: 13036
 - index: 4164
 - oompID: RESE-W04-X-O15X-01
 - name: 1/4 Watt 1.5 Ohm Resistor

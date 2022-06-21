@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 2
+- index: 12301
 - oompID: ANTE-40-X-G24-01
 - name: 40 mm 2.4 Ghz Antenna
 - hexID: AN2440

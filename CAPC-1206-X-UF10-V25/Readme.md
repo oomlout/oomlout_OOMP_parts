@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 87
+- index: 12386
 - oompID: CAPC-1206-X-UF10-V25
 - name: SMD (1206) 10 uF Capacitor (Ceramic) 25v
 - hexID: C1U10

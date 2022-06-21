@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 696
+- index: 12995
 - oompID: RESE-0805-X-O301-67
 - name: SMD (0805) 300 Ohm Resistor 1%
 - hexID: R85301A

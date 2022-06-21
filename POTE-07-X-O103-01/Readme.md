@@ -44,7 +44,7 @@ Contents
 
 ## Tags
 
-- index: 428
+- index: 12727
 - oompID: POTE-07-X-O103-01
 - name: 7 mm 10k Ohm Potentiometer
 - hexID: PT7103

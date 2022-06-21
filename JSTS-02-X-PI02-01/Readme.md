@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 346
+- index: 12645
 - oompID: JSTS-02-X-PI02-01
 - name: 2 mm 2 Pin JST Socket
 - hexID: J202

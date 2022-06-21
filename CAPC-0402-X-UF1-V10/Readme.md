@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 51
+- index: 12350
 - oompID: CAPC-0402-X-UF1-V10
 - name: SMD (0402) 1 uF Capacitor (Ceramic) 10v
 - hexID: C42U001

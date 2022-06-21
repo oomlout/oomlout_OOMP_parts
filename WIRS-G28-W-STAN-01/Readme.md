@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 836
+- index: 13135
 - index: 4179
 - oompID: WIRS-G28-W-STAN-01
 - name: 28 AWG White Stranded Wire

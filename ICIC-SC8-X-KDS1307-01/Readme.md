@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 314
+- index: 12613
 - oompID: ICIC-SC8-X-KDS1307-01
 - name: SMD (SOIC-8) Real Time Clock (DS1307)
 - hexID: ICS1307

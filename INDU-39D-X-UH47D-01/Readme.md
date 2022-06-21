@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 344
+- index: 12643
 - oompID: INDU-39D-X-UH47D-01
 - name: 3.9 mm 4.7 uH Inductor
 - hexID: IN39U47

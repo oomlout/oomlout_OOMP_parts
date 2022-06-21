@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 329
+- index: 12628
 - oompID: ICIC-TS20-X-K108-01
 - name: 20 Pin SMD (TSSOP) 8-bit Level Shifter (TXS108E)
 - hexID: ICS108

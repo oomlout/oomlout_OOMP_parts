@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 829
+- index: 13128
 - index: 4178
 - oompID: WIRS-G28-E-STAN-01
 - name: 28 AWG Grey Stranded Wire

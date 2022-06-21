@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 745
+- index: 13044
 - index: 4158
 - oompID: RESE-W04-X-O470-01
 - name: 1/4 Watt 47 Ohm Resistor

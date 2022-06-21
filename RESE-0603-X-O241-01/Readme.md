@@ -51,7 +51,7 @@ Contents
 
 ## Tags
 
-- index: 576
+- index: 12875
 - oompID: RESE-0603-X-O241-01
 - name: SMD (0603) 240 Ohm Resistor
 - hexID: R6241

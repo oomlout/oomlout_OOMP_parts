@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 292
+- index: 12591
 - index: 9876
 - oompID: ICIC-DI16-X-K595-01
 - name: 16 Pin DIP 74HC595 8-Bit Shift Register (Latching)

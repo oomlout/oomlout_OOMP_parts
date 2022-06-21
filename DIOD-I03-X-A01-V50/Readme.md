@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 143
+- index: 12442
 - index: 9876
 - oompID: DIOD-I03-X-A01-V50
 - name: 7.62 mm 1 Amp Diode 50v

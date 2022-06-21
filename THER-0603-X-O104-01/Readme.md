@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 783
+- index: 13082
 - oompID: THER-0603-X-O104-01
 - name: SMD (0603) 100k Ohm Thermistor
 - hexID: TH6

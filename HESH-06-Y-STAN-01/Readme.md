@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 277
+- index: 12576
 - index: 4033
 - oompID: HESH-06-Y-STAN-01
 - name: 6 mm Yellow Heat Shrink

@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 401
+- index: 12700
 - index: 9876
 - oompID: MOSP-SO23-X-A02-01
 - name: SMD (SOT-23) 2 Amp P-Ch. MOSFET

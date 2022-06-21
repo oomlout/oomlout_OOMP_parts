@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 739
+- index: 13038
 - index: 4152
 - oompID: RESE-W04-X-O222-01
 - name: 1/4 Watt 2.2k Ohm Resistor

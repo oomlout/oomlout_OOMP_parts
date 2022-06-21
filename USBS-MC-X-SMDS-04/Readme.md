@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 799
+- index: 13098
 - oompID: USBS-MC-X-SMDS-04
 - name: Micro SMD USB Socket
 - hexID: USM4

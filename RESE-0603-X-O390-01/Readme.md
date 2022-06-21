@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 605
+- index: 12904
 - oompID: RESE-0603-X-O390-01
 - name: SMD (0603) 39 Ohm Resistor
 - hexID: R6390

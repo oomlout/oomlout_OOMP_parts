@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 424
+- index: 12723
 - oompID: OPAM-SO235-X-K333-01
 - name: SMD (SOT-23-5) OPA333 Op Amp
 - hexID: OA333

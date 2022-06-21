@@ -35,7 +35,7 @@ Contents
 
 ## Tags
 
-- index: 168
+- index: 12467
 - index: 9876
 - oompID: FERB-0805-X-O221-01
 - name: SMD (0805) 220 Ohm Ferrite Bead

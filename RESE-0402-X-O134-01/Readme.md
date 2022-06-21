@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 479
+- index: 12778
 - oompID: RESE-0402-X-O134-01
 - name: SMD (0402) 130k Ohm Resistor
 - hexID: R42134

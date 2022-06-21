@@ -52,7 +52,7 @@ Contents
 
 ## Tags
 
-- index: 563
+- index: 12862
 - oompID: RESE-0603-X-O203-67
 - name: SMD (0603) 20k Ohm Resistor 1%
 - hexID: R6203A

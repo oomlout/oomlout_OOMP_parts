@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 30
+- index: 12329
 - oompID: CAPC-0402-X-NF220-V16
 - name: SMD (0402) 220 nF Capacitor (Ceramic) 16v
 - hexID: C42N220

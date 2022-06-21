@@ -45,7 +45,7 @@ Contents
 
 ## Tags
 
-- index: 373
+- index: 12672
 - oompID: LEDS-05-Y-STAN-01
 - name: 5 mm Yellow LED
 - hexID: L5Y
