@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13022
 - oompID: RESE-0805-X-O682-01
 - name: SMD (0805) 6.8k Ohm Resistor
 - hexID: R85682

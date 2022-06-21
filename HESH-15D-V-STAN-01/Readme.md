@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12584
-- index: 4016
 - oompID: HESH-15D-V-STAN-01
 - name: 1.5 mm Purple Heat Shrink
 - hexID: HS1V

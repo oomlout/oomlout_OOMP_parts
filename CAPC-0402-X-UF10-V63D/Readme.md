@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12352
 - oompID: CAPC-0402-X-UF10-V63D
 - name: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - hexID: C42U010

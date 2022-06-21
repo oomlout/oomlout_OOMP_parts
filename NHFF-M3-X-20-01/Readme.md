@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12710
-- index: 4197
 - oompID: NHFF-M3-X-20-01
 - name: M3 x 20 mm Nylon Standoff (F-F)
 - hexID: NFF20

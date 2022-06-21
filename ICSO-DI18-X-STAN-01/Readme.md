@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12635
 - oompID: ICSO-DI18-X-STAN-01
 - name: 18 Pin DIP IC Socket
 - hexID: IS18

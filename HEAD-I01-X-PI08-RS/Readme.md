@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12515
 - oompID: HEAD-I01-X-PI08-RS
 - name: 2.54 mm 8 Pin Header Right Angle (SMD)
 - oompType: HEAD

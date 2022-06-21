@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12749
-- index: 4274
 - oompID: REFU-1812-X-A05D-V15
 - name: SMD (1812) 500 mA Resetable Fuse 15v
 - hexID: RF805

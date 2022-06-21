@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12675
 - oompID: LEDS-0603-L-STAN-01
 - name: SMD (0603) Blue LED
 - hexID: L6L

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12494
 - oompID: HEAD-I01-X-PI2x36-RA
 - name:  2.54 mm 72 Pin (2x36) Header Right Angle 
 - hexID: HR2X03

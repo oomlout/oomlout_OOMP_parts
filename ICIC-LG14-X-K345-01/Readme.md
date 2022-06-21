@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12598
 - oompID: ICIC-LG14-X-K345-01
 - name: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
 - hexID: ICS345

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12633
 - oompID: ICIC-VQF44-X-K32U4-01
 - name: 44 Pin SMD (VQFN) AtMega32U4
 - hexID: ICSV32U4

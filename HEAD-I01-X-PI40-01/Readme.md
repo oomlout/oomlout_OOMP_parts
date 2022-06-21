@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12527
 - oompID: HEAD-I01-X-PI40-01
 - name: 2.54 mm 40 Pin Header
 - hexID: H40

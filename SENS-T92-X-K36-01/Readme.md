@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13072
 - oompID: SENS-T92-X-K36-01
 - name: TO-92 Temperature (TMP36) Sensor
 - hexID: SE36

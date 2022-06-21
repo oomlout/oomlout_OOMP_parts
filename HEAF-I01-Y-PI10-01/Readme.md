@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12543
-- index: 4292
 - oompID: HEAF-I01-Y-PI10-01
 - name: 2.54 mm 10 Pin Yellow Female Header
 - hexID: HF10Y

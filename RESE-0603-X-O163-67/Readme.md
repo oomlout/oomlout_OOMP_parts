@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12852
 - oompID: RESE-0603-X-O163-67
 - name: SMD (0603) 16k Ohm Resistor 1%
 - hexID: R6163A

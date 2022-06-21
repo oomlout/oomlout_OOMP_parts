@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12404
-- index: 9876
 - oompID: CAPE-10-X-UF470-V25
 - name: 10 mm 470 uF Capacitor (Electrolytic) 25v
 - hexID: CEU470

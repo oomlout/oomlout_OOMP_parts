@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13062
 - oompID: SDCS-MC-M-SMDS-02
 - name: Micro SMD Metal SD Card Socket
 - hexID: SDMS2

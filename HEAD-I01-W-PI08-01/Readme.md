@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12477
 - oompID: HEAD-I01-W-PI08-01
 - name: 2.54 mm 8 Pin White Header
 - hexID: H08W

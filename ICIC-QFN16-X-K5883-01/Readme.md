@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12600
 - oompID: ICIC-QFN16-X-K5883-01
 - name: 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
 - hexID: ICS5883

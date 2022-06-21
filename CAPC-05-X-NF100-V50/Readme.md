@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12354
 - oompID: CAPC-05-X-NF100-V50
 - name: 5 mm 100 nF Capacitor (Ceramic) 50v
 - hexID: CCN100

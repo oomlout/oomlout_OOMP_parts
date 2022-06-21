@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12324
 - oompID: CAPC-0402-X-NF10-V50
 - name: SMD (0402) 10 nF Capacitor (Ceramic) 50v
 - hexID: C42N010

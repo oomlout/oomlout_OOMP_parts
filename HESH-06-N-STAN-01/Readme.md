@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12571
-- index: 4022
 - oompID: HESH-06-N-STAN-01
 - name: 6 mm Brown Heat Shrink
 - hexID: HS6N

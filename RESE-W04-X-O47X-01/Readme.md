@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13048
-- index: 4165
 - oompID: RESE-W04-X-O47X-01
 - name: 1/4 Watt 4.7 Ohm Resistor
 - hexID: R447A

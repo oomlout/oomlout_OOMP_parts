@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12623
 - oompID: ICIC-SS24-X-K6612-01
 - name: 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
 - hexID: ICS6612

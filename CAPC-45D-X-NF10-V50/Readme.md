@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12388
 - oompID: CAPC-45D-X-NF10-V50
 - name: 4.5 mm 10 nF Capacitor (Ceramic) 50v
 - hexID: CCN010

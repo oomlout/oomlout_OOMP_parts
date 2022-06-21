@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13114
-- index: 9876
 - oompID: VREG-SO23-X-V33D-AD
 - name: SMD (SOT-23) 3.3v Voltage Regulator 250 mA
 - hexID: VS332

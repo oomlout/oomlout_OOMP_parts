@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13142
 - oompID: XTAL-3215-X-MZ8-01
 - name: SMD (3215) 8 MHz Crystal
 - hexID: XS38

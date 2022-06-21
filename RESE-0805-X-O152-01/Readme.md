@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12975
 - oompID: RESE-0805-X-O152-01
 - name: SMD (0805) 1.5k Ohm Resistor
 - hexID: R85152

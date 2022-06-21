@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12694
 - oompID: MCUU-QFP100-X-K2560-01
 - name: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
 - oompType: MCUU

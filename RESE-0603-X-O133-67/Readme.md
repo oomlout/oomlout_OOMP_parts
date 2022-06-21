@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12842
 - oompID: RESE-0603-X-O133-67
 - name: SMD (0603) 13k Ohm Resistor 1%
 - hexID: R6133A

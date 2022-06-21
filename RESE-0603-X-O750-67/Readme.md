@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12951
 - oompID: RESE-0603-X-O750-67
 - name: SMD (0603) 75 Ohm Resistor 1%
 - hexID: R6750A

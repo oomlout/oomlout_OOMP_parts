@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12996
 - oompID: RESE-0805-X-O302-01
 - name: SMD (0805) 3k Ohm Resistor
 - hexID: R85302

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12493
 - oompID: HEAD-I01-X-PI2X13-RS
 - name: 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
 - oompSort: 

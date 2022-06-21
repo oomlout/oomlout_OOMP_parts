@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12560
-- index: 4005
 - oompID: HESH-03-L-STAN-01
 - name: 3 mm Blue Heat Shrink
 - hexID: HS3L

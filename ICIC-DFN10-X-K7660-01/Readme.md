@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12587
 - oompID: ICIC-DFN10-X-K7660-01
 - name: SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
 - hexID: ICS7660

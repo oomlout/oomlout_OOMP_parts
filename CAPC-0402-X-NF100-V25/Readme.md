@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12327
 - oompID: CAPC-0402-X-NF100-V25
 - name: SMD (0402) 100 nF Capacitor (Ceramic) 25v
 - hexID: C42N100V25

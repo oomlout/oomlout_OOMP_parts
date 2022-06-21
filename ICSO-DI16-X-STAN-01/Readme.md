@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12634
 - oompID: ICSO-DI16-X-STAN-01
 - name: 16 Pin DIP IC Socket
 - hexID: IS16

@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12755
-- index: 9876
 - oompID: RESA-1268-X-O220X4-01
 - name: SMD (1206-8) 22 Ohm (x4) Resistor Array
 - hexID: RA1220

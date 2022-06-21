@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12617
 - oompID: ICIC-SP16-X-K2291-01
 - name: 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
 - hexID: ICS2291

@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12391
-- index: 9876
 - oompID: CAPE-05-X-UF1-V63D
 - name: 5 mm 1 uF Capacitor (Electrolytic) 63v
 - hexID: CEU001

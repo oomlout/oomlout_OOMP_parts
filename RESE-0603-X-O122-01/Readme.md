@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12837
 - oompID: RESE-0603-X-O122-01
 - name: SMD (0603) 1.2k Ohm Resistor
 - hexID: R6122

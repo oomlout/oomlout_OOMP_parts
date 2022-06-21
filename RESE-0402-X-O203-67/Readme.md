@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12790
 - oompID: RESE-0402-X-O203-67
 - name: SMD (0402) 20k Ohm Resistor 1%
 - hexID: R42203A

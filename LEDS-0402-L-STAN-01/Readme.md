@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12655
 - oompID: LEDS-0402-L-STAN-01
 - name: SMD (0402) Blue LED
 - hexID: L42L

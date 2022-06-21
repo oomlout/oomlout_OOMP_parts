@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12381
 - oompID: CAPC-0805-X-UF10-V25
 - name: SMD (0805) 10 uF Capacitor (Ceramic) 25v
 - hexID: C85U010

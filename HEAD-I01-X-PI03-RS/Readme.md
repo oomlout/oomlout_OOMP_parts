@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12502
 - oompID: HEAD-I01-X-PI03-RS
 - name: 2.54 mm 3 Pin Header Right Angle (SMD)
 - oompType: HEAD

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12427
 - oompID: CERE-1263-X-MZ8-01
 - name: SMD (1206-3) 8 MHz Ceramic Resonator
 - hexID: CR1638

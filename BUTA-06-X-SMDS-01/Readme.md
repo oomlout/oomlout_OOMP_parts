@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12308
-- index: 4315
 - oompID: BUTA-06-X-SMDS-01
 - name: 6 mm SMD Pushbutton (Tactile)
 - hexID: B06

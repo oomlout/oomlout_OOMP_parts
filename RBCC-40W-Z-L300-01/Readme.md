@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12741
-- index: 4123
 - oompID: RBCC-40W-Z-L300-01
 - name: 40 Wire 300 mm Rainbow Crimped Ribbon Cable
 - hexID: RBC3

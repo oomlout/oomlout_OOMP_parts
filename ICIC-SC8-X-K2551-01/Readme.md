@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12612
 - oompID: ICIC-SC8-X-K2551-01
 - name: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 - hexID: ICS2551

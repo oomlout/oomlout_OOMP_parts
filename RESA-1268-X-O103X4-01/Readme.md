@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12754
-- index: 4115
 - oompID: RESA-1268-X-O103X4-01
 - name: SMD (1206-8) 10k Ohm (x4) Resistor Array
 - hexID: RA1103

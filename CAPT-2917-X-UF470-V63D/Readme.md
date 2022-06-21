@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12423
 - oompID: CAPT-2917-X-UF470-V63D
 - name: SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
 - hexID: CTS4U470

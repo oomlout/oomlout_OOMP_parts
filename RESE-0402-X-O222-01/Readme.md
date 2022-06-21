@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12794
 - oompID: RESE-0402-X-O222-01
 - name: SMD (0402) 2.2k Ohm Resistor
 - hexID: R42222

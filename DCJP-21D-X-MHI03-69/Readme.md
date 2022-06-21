@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12437
 - oompID: DCJP-21D-X-MHI03-69
 - name:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 - hexID: GJP3

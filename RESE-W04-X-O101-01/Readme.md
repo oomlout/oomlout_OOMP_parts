@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13030
-- index: 4147
 - oompID: RESE-W04-X-O101-01
 - name: 1/4 Watt 100 Ohm Resistor
 - hexID: R4101

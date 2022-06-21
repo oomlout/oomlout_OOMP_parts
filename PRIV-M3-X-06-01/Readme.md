@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12738
 - oompID: PRIV-M3-X-06-01
 - name: M3 x 6 mm Plastic Rivet
 - hexID: PR36

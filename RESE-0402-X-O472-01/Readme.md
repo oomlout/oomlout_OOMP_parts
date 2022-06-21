@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12807
 - oompID: RESE-0402-X-O472-01
 - hexID: R42472
 - oompDesc: O472

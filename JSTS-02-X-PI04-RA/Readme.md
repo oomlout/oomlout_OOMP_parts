@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12649
 - oompID: JSTS-02-X-PI04-RA
 - name: 2 mm 4 Pin JST Socket Right Angle
 - hexID: J204R

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12559
-- index: 4004
 - oompID: HESH-03-G-STAN-01
 - name: 3 mm Green Heat Shrink
 - hexID: HS3G

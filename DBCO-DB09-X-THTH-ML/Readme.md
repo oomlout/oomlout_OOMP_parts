@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12436
 - oompID: DBCO-DB09-X-THTH-ML
 - name: DB9 Connector Male
 - hexID: DB09M

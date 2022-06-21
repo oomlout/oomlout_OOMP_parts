@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13086
 - oompID: TRNN-SO23-X-A02D-01
 - name: SMD (SOT-23) 200 mA NPN Transistor
 - hexID: TNS22D

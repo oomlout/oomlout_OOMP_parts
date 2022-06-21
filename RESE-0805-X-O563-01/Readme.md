@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13019
 - oompID: RESE-0805-X-O563-01
 - name: SMD (0805) 56k Ohm Resistor
 - ooPackageMarking: 563

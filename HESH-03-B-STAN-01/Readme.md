@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12557
-- index: 4008
 - oompID: HESH-03-B-STAN-01
 - name: 3 mm Black Heat Shrink
 - hexID: HS3B

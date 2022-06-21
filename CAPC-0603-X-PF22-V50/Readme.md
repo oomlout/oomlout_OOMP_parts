@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12367
 - oompID: CAPC-0603-X-PF22-V50
 - name: SMD (0603) 22 pF Capacitor (Ceramic) 50v
 - hexID: C6P022

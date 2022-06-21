@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12999
 - oompID: RESE-0805-X-O303-67
 - name: SMD (0805) 30k Ohm Resistor 1%
 - hexID: R85303A

@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12859
 - oompID: RESE-0603-X-O202-01
 - name: SMD (0603) 2k Ohm Resistor
 - hexID: R6202

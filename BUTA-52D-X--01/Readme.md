@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12316
 - oompID: BUTA-52D-X-SMDS-01
 - name: 5.2 mm SMD Pushbutton (Tactile)
 - oompType: BUTA

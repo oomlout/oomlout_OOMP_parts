@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12752
 - oompID: RELA-19X15-X-SPDT-VJ
 - name: 19 x 15 mm SPDT Relay 3v
 - hexID: RL19S3

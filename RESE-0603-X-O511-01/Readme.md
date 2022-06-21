@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12926
 - oompID: RESE-0603-X-O511-01
 - name: SMD (0603) 510 Ohm Resistor
 - hexID: R6511

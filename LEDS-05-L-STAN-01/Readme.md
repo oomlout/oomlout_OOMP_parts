@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12660
 - oompID: LEDS-05-L-STAN-01
 - name: 5 mm Blue LED
 - hexID: L5L

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12550
 - oompID: HELF-I01-L-2X03PI-01
 - name: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 - hexID: HFLX03L

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13043
-- index: 4157
 - oompID: RESE-W04-X-O334-01
 - name: 1/4 Watt 330k Ohm Resistor
 - hexID: R4334

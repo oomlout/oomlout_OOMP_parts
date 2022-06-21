@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13035
-- index: 4150
 - oompID: RESE-W04-X-O152-01
 - name: 1/4 Watt 1.5k Ohm Resistor
 - hexID: R4152

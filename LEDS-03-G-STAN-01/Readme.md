@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12653
 - oompID: LEDS-03-G-STAN-01
 - name: 3 mm Green LED
 - hexID: L3G

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12621
 - oompID: ICIC-SP20-X-KHT46-01
 - name:  20 Pin SMD (SOP) Holtek HT46R066 
 - hexID: ICSKHT46

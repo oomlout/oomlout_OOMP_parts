@@ -42,7 +42,6 @@ Contents
 
 ## Tags
 
-- index: 12877
 - oompID: RESE-0603-X-O242-67
 - name: SMD (0603) 2.4k Ohm Resistor 1%
 - hexID: R6242A

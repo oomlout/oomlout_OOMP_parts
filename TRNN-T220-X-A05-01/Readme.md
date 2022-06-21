@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13090
 - oompID: TRNN-T220-X-A05-01
 - name: TO-220 5 Amp NPN Transistor
 - hexID: TN120

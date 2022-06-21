@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12631
 - oompID: ICIC-UDF6-X-K2659-01
 - name: SMD (UDFN-6) GPS Amplifier (MAX2659)
 - hexID: ICSGPS

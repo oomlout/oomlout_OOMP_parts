@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12785
 - oompID: RESE-0402-X-O15X-01
 - name: SMD (0402) 1.5 Ohm Resistor
 - hexID: R4215X

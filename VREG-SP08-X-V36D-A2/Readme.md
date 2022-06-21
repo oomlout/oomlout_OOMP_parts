@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13123
 - oompID: VREG-SP08-X-V36D-A2
 - name: 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
 - hexID: VS836

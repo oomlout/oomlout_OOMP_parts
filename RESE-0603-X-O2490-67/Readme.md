@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12880
 - oompID: RESE-0603-X-O2490-67
 - name: SMD (0603) 249 Ohm Resistor 1%
 - hexID: R6249A

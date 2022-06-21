@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12371
 - oompID: CAPC-0603-X-PF82D-V50
 - name: SMD (0603) 8.2 pF Capacitor (Ceramic) 50v
 - hexID: C6P008

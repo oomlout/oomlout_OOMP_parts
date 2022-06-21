@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12487
 - oompID: HEAD-I01-X-PI2x07-RS
 - name: 2.54 mm 14 Pin (2x7)Header Right Angle (SMD)
 - oompSort: 

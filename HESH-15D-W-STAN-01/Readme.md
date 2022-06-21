@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12585
-- index: 4018
 - oompID: HESH-15D-W-STAN-01
 - name: 1.5 mm White Heat Shrink
 - hexID: HS1W

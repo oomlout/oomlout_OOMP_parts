@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12656
 - oompID: LEDS-0402-W-STAN-01
 - name: SMD (0402) White LED
 - hexID: L42W

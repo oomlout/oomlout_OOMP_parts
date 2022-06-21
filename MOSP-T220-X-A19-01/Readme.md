@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12705
 - oompID: MOSP-T220-X-A19-01
 - name: TO-220 19 Amp P-Ch. MOSFET
 - oompSort: 

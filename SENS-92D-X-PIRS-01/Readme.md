@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13070
 - oompID: SENS-92D-X-PIRS-01
 - name: 9.2 mm PIRS Sensor
 - hexID: SEPI

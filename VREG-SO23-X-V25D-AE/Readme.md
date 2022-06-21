@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13111
 - oompID: VREG-SO23-X-V25D-AE
 - name: SMD (SOT-23) 2.5v Voltage Regulator 200 mA
 - hexID: VS325D1

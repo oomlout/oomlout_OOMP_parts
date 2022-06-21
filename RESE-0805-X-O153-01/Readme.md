@@ -44,7 +44,6 @@ Contents
 
 ## Tags
 
-- index: 12977
 - oompID: RESE-0805-X-O153-01
 - hexID: R85153
 - ooPackageMarking: 153

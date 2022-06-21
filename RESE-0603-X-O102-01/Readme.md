@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12823
 - oompID: RESE-0603-X-O102-01
 - name: SMD (0603) 1k Ohm Resistor
 - hexID: R6102

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12412
 - oompID: CAPT-1206-X-UF47D-V63D
 - name: SMD (1206) 4.7 uF Capacitor (Tantalum) 6.3v
 - hexID: CTS1U47DF

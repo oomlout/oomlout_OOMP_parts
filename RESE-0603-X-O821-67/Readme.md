@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12956
 - oompID: RESE-0603-X-O821-67
 - name: SMD (0603) 820 Ohm Resistor 1%
 - hexID: R6821A

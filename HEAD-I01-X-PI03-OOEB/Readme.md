@@ -44,7 +44,6 @@ Contents
 
 ## Tags
 
-- index: 8961
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X

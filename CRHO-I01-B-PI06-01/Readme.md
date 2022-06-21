@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12433
-- index: 3950
 - oompID: CRHO-I01-B-PI06-01
 - name: 2.54 mm 6 Pin Black Crimp Housing
 - hexID: CH06

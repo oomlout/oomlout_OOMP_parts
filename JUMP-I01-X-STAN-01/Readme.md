@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12652
 - oompID: JUMP-I01-X-STAN-01
 - name: 2.54 mm Jumper
 - hexID: JU01

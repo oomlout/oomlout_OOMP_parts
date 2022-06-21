@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13046
-- index: 4160
 - oompID: RESE-W04-X-O472-01
 - name: 1/4 Watt 4.7k Ohm Resistor
 - hexID: R4472

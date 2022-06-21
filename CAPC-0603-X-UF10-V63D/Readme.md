@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12374
 - oompID: CAPC-0603-X-UF10-V63D
 - name: SMD (0603) 10 uF Capacitor (Ceramic) 6.3v
 - hexID: C6U010V63D

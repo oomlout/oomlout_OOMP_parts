@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12605
 - oompID: ICIC-QFP100-X-KLPC17-01
 - name: 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
 - hexID: ICSLPC17

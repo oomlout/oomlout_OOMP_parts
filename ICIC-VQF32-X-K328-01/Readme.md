@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12632
 - oompID: ICIC-VQF32-X-K328-01
 - name: 32 Pin SMD (VQFN) AtMega328P
 - hexID: ICSV328

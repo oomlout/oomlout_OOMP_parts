@@ -54,7 +54,6 @@ Contents
 
 ## Tags
 
-- index: 9187
 - oompType: POTE
 - oompSize: 95D
 - oompColor: L

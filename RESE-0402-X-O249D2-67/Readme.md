@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12797
 - oompID: RESE-0402-X-O249D2-67
 - name: SMD (0402) 2.49 Ohm Resistor 1%
 - hexID: R42249D2A

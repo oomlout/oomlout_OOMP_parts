@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12857
 - oompID: RESE-0603-X-O201-01
 - name: SMD (0603) 200 Ohm Resistor
 - hexID: R6201

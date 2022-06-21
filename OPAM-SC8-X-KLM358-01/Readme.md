@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12722
 - oompID: OPAM-SC8-X-KLM358-01
 - name: SMD (SOIC-8) LM358 Op Amp
 - hexID: OAS358

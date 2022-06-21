@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12461
 - oompID: DISP-16X2-G-LCD-01
 - name:  16 x 2 Character LCD Green Display 
 - hexID: DS16

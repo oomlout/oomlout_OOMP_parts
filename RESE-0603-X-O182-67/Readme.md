@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12853
 - oompID: RESE-0603-X-O182-67
 - name: SMD (0603) 1.8k Ohm Resistor 1%
 - hexID: R6182A

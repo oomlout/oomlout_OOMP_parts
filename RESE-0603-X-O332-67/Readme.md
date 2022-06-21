@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12900
 - oompID: RESE-0603-X-O332-67
 - hexID: R6332A
 - name: SMD (0603) 3.3k Ohm Resistor 1%

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12347
 - oompID: CAPC-0402-X-PF33-V50
 - name: SMD (0402) 33 pF Capacitor (Ceramic) 50v
 - hexID: C42P033

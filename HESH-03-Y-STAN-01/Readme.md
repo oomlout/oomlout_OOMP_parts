@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12566
-- index: 4003
 - oompID: HESH-03-Y-STAN-01
 - name: 3 mm Yellow Heat Shrink
 - hexID: HS3Y

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12320
 - oompID: BUZZ-12-X-V3-01
 - name: 12 mm 3v Buzzer
 - hexID: BZ12

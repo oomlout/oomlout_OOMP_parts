@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12735
 - oompID: POTE-95D-X-O103-01
 - name: 9.5 mm 10k Ohm Potentiometer
 - hexID: PT95103

@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12530
 - oompID: HEAF-02-W-PI10-01
 - name: 2 mm 10 Pin White Female Header
 - hexID: HF210W

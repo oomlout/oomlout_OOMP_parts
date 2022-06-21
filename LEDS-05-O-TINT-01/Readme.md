@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12663
-- index: 9876
 - oompID: LEDS-05-O-TINT-01
 - name: 5 mm Tinted Orange LED
 - hexID: LT5O

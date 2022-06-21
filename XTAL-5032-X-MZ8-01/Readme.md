@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13145
 - oompID: XTAL-5032-X-MZ8-01
 - name: SMD (5032) 8 MHz Crystal
 - hexID: XS58

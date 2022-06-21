@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12536
 - oompID: HEAF-I01-X-PI02-RO
 - name: 2.54 mm 2 Pin Female Header (Round)
 - hexID: HF2R

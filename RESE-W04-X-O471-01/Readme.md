@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13045
-- index: 4159
 - oompID: RESE-W04-X-O471-01
 - name: 1/4 Watt 470 Ohm Resistor
 - hexID: R4471

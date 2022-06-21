@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12879
 - oompID: RESE-0603-X-O243-67
 - hexID: R6243A
 - name: SMD (0603) 25k Ohm Resistor 1%

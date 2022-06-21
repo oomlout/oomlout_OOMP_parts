@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12984
 - oompID: RESE-0805-X-O204-67
 - name: SMD (0805) 200k Ohm Resistor 1%
 - hexID: R85204A

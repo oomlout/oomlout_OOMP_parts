@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13077
 - oompID: SWIS-7827-X-SPDT-01
 - name: SMD (7827) SPDT Switch (Slide)
 - hexID: SS7827

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12810
 - oompID: RESE-0402-X-O499D-67
 - hexID: R42499A
 - oompDesc: O499D

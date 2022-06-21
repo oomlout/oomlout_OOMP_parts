@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12619
 - oompID: ICIC-SP20-X-K1620-01
 - name:  20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) 
 - hexID: ICS1620

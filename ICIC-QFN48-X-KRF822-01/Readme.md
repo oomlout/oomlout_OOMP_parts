@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12604
 - oompID: ICIC-QFN48-X-KRF822-01
 - name: 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
 - hexID: IC822

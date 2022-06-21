@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12696
 - oompID: MOSN-SO23-X-A03D-01
 - name: SMD (SOT-23) 300 mA N-Ch. MOSFET
 - hexID: MNS23D

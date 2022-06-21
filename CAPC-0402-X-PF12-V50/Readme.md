@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12339
 - oompID: CAPC-0402-X-PF12-V50
 - name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - hexID: C42P012

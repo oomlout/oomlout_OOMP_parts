@@ -54,8 +54,6 @@ Contents
 
 ## Tags
 
-- index: 12505
-- index: 9876
 - oompID: HEAD-I01-X-PI05-01
 - name: 2.54 mm 5 Pin Header
 - hexID: H05

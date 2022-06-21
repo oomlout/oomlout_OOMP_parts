@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12317
 - oompID: BUTA-52D-X-STAN-01
 - name: 5.2 mm Pushbutton (Tactile)
 - hexID: BT52

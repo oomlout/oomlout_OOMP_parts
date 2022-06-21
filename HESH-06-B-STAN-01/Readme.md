@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12567
-- index: 4039
 - oompID: HESH-06-B-STAN-01
 - name: 6 mm Black Heat Shrink
 - hexID: HS6B

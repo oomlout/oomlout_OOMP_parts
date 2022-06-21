@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12817
 - oompID: RESE-0603-X-O000-01
 - name: SMD (0603) 0 Ohm Resistor
 - hexID: R6000

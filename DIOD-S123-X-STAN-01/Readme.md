@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12449
-- index: 4185
 - oompID: DIOD-S123-X-STAN-01
 - name: SMD (SOD-123) Diode
 - hexID: DS301

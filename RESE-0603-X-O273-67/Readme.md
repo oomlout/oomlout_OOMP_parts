@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12886
 - oompID: RESE-0603-X-O273-67
 - name: SMD (0603) 27k Ohm Resistor 1%
 - hexID: R6273A

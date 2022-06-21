@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12561
-- index: 4000
 - oompID: HESH-03-N-STAN-01
 - name: 3 mm Brown Heat Shrink
 - hexID: HS3N

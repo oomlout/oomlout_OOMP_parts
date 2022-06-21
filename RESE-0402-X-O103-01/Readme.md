@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12764
 - oompID: RESE-0402-X-O103-01
 - hexID: R42103
 - oompDesc: O103

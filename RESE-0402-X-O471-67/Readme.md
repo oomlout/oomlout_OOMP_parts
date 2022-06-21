@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12806
 - oompID: RESE-0402-X-O471-67
 - name: SMD (0402) 470 Ohm Resistor 1%
 - hexID: R42471A

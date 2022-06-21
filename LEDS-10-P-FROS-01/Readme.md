@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12687
-- index: 3976
 - oompID: LEDS-10-P-FROS-01
 - name: 10 mm Frosted Pink LED
 - hexID: L10P

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12432
-- index: 3949
 - oompID: CRHO-I01-B-PI05-01
 - name: 2.54 mm 5 Pin Black Crimp Housing
 - hexID: CH05

@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12399
-- index: 9876
 - oompID: CAPE-05-X-UF22D-V63D
 - name: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 - hexID: CEU002

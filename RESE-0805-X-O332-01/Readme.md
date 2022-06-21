@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13004
 - oompID: RESE-0805-X-O332-01
 - hexID: R85332
 - ooPackageMarking: 332

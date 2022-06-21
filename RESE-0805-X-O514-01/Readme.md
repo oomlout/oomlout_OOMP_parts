@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13017
 - oompID: RESE-0805-X-O514-01
 - name: SMD (0805) 510k Ohm Resistor
 - hexID: R85514

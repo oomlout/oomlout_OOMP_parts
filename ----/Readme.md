@@ -35,4 +35,3 @@ Contents
 
 ## Tags
 
-- index: 12728

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12573
-- index: 4023
 - oompID: HESH-06-R-STAN-01
 - name: 6 mm Red Heat Shrink
 - hexID: HS6R

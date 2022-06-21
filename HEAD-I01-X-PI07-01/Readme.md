@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12510
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12961
 - oompID: RESE-0805-X-O001D-01
 - name: SMD (0805) 0.1 Ohm Resistor
 - hexID: R85001D

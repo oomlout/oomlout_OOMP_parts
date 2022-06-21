@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12335
 - oompID: CAPC-0402-X-PF06D-V50
 - name: SMD (0402) 0.6 pF Capacitor (Ceramic) 50v
 - hexID: C42P006D

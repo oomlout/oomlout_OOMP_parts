@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12894
 - oompID: RESE-0603-X-O303-67
 - hexID: R6303A
 - name: SMD (0603) 31k Ohm Resistor 1%

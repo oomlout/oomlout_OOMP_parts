@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12743
 - oompID: REFU-1206-X-A05D-01
 - name: SMD (1206) 500 mA Resetable Fuse
 - hexID: RF1205

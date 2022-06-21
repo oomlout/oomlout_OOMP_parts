@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12468
 - oompID: FERB-0805-X-O300-01
 - name: SMD (0805) 30 Ohm Ferrite Bead
 - hexID: F8300

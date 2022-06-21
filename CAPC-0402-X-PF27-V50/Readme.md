@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12346
 - oompID: CAPC-0402-X-PF27-V50
 - name: SMD (0402) 27 pF Capacitor (Ceramic) 50v
 - hexID: C42P027

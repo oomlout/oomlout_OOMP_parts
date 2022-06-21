@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13144
 - oompID: XTAL-5032-X-MZ16-01
 - name: SMD (5032) 16 MHz Crystal
 - hexID: XS516

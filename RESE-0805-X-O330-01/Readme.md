@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13000
 - oompID: RESE-0805-X-O330-01
 - name: SMD (0805) 33 Ohm Resistor
 - hexID: R85330

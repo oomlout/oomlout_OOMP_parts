@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13027
 - oompID: RESE-1206-X-O130-01
 - hexID: R1130
 - name: SMD (1206) 13 Ohm Resistor

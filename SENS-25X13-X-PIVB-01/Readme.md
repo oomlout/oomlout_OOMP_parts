@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13067
 - oompID: SENS-25X13-X-PIVB-01
 - name: 25 x 13 mm Piezo Vibration Sensor
 - hexID: SEVB

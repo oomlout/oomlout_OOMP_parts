@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12972
 - oompID: RESE-0805-X-O123-01
 - name: SMD (0805) 12k Ohm Resistor
 - hexID: R85123

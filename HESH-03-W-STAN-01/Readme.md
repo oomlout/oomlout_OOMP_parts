@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12565
-- index: 4032
 - oompID: HESH-03-W-STAN-01
 - name: 3 mm White Heat Shrink
 - hexID: HS3W

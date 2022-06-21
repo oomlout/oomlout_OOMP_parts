@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12822
 - oompID: RESE-0603-X-O101-01
 - name: SMD (0603) 100 Ohm Resistor
 - hexID: R6101

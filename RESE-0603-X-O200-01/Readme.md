@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12856
 - oompID: RESE-0603-X-O200-01
 - name: SMD (0603) 20 Ohm Resistor
 - hexID: R6200

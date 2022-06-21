@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12395
-- index: 
 - oompID: CAPE-05-X-UF100-V16
 - name: 5 mm 100 uF Capacitor (Electrolytic) 16v
 - hexID: CEU100F

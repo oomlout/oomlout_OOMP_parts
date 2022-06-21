@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12330
 - oompID: CAPC-0402-X-NF22D-V50
 - name: SMD (0402) 2.2 nF Capacitor (Ceramic) 50v
 - hexID: C42N002

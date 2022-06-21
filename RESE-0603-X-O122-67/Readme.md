@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12838
 - oompID: RESE-0603-X-O122-67
 - hexID: R6122A
 - hexID: R6122A

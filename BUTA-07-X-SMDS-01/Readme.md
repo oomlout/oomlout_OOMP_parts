@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12310
-- index: 4296
 - oompID: BUTA-07-X-SMDS-01
 - name: 7 mm SMD Pushbutton (Tactile)
 - hexID: B7S

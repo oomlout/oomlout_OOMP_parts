@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12803
 - oompID: RESE-0402-X-O332-01
 - hexID: R42332
 - oompDesc: O332

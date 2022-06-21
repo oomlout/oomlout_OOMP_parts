@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12539
-- index: 4290
 - oompID: HEAF-I01-Y-PI08-01
 - name: 2.54 mm 8 Pin Yellow Female Header
 - hexID: 10C2

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12609
 - oompID: ICIC-SC16-X-KM232-01
 - name: 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
 - hexID: ICSM232

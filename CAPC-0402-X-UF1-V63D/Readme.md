@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12351
 - oompID: CAPC-0402-X-UF1-V63D
 - name: SMD (0402) 1 uF Capacitor (Ceramic) 6.3v
 - hexID: C42U001V63D

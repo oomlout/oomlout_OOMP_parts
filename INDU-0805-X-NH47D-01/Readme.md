@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12641
 - oompID: INDU-0805-X-NH47D-01
 - name: SMD (0805) 4.7 nH Inductor
 - hexID: IN85U22D

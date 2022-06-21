@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12440
-- index: 9876
 - oompID: DIOD-1206-X-A015D-01
 - name: SMD (1206) 150 mA Diode 75v
 - hexID: DS115

@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12916
 - oompID: RESE-0603-X-O472-01
 - hexID: R6472
 - hexID: R6472

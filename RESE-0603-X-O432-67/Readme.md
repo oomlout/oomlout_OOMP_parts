@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12912
 - oompID: RESE-0603-X-O432-67
 - name: SMD (0603) 4.3k Ohm Resistor 1%
 - hexID: R6432A

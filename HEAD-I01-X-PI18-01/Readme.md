@@ -61,7 +61,6 @@ Contents
 
 ## Tags
 
-- index: 12523
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X

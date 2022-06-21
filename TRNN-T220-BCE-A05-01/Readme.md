@@ -44,7 +44,6 @@ Contents
 
 ## Tags
 
-- index: 9547
 - oompType: TRNN
 - oompSize: T220
 - oompColor: BCE

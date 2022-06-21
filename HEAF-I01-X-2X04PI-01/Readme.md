@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12535
 - oompID: HEAF-I01-X-2X04PI-01
 - name: 2.54 mm 8 Pin (2x4) Female Header
 - hexID: HFX4

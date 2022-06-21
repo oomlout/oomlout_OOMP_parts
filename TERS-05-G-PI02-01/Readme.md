@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13078
 - oompID: TERS-05-G-PI02-01
 - name: 5 mm 2 Pin Green Screw Terminal
 - hexID: ST502G

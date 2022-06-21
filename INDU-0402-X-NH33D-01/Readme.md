@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12638
 - oompID: INDU-0402-X-NH33D-01
 - name: SMD (0402) 3.3 NH Inductor
 - hexID: IN42N33D

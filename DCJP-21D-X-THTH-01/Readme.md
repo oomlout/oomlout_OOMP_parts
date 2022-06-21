@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12438
-- index: 4283
 - oompID: DCJP-21D-X-THTH-01
 - name: 2.1 mm Through Hole DC Jack
 - hexID: DJ21

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12791
 - oompID: RESE-0402-X-O204-01
 - name: SMD (0402) 200k Ohm Resistor
 - hexID: R42204

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12981
 - oompID: RESE-0805-X-O202-01
 - hexID: R85202
 - ooPackageMarking: 202

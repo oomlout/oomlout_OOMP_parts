@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13101
-- index: 9876
 - oompID: USBS-TB-X-THTH-01
 - name: Type B Through Hole USB Socket
 - hexID: UTB

@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12678
 - oompID: LEDS-0603-Y-STAN-01
 - name: SMD (0603) Yellow LED
 - hexID: L6Y

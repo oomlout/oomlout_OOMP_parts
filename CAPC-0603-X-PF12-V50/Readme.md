@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12365
 - oompID: CAPC-0603-X-PF12-V50
 - name: SMD (0603) 12 pF Capacitor (Ceramic) 50v
 - hexID: C6P012

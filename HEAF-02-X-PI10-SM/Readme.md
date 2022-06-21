@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12532
 - oompID: HEAF-02-X-PI10-SM
 - name: 2 mm 10 Pin Female Header (SMD)
 - hexID: HF210S

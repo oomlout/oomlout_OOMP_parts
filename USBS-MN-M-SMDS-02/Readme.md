@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13100
-- index: 4300
 - oompID: USBS-MN-M-SMDS-02
 - name: Mini SMD USB Socket
 - hexID: USN2

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13028
-- index: 4145
 - oompID: RESE-W04-X-O000-01
 - name: 1/4 Watt 0 Ohm Resistor
 - hexID: R4000

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12544
-- index: 9876
 - oompID: HEAL-I01-X-PI03-01
 - name: 2.54 mm 3 Pin Header (Long)
 - hexID: HL03

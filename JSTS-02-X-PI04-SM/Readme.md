@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12651
 - oompID: JSTS-02-X-PI04-SM
 - name: 2 mm 4 Pin JST Socket SMD
 - hexID: J204S

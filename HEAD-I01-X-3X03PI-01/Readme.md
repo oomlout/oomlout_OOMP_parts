@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12526
 - oompID: HEAD-I01-X-PI3X03-01
 - name:  2.54 mm 9 Pin (3x3) Header 
 - hexID: H3X03

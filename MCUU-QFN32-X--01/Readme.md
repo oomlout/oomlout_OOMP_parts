@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12693
 - oompID: MCUU-QFN32-X-K16U2-01
 - name: 32 Pin SMD (QFN) AtMega32U4 MCU
 - oompType: MCUU

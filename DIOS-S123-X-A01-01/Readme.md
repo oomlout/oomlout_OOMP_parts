@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12455
 - oompID: DIOS-S123-X-A01-01
 - name: SMD (SOD-123) 1 Amp Diode (Schottky)
 - hexID: DS35D1

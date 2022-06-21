@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 12460
 - oompID: DISP-128X64-X-OLED-01
 - name: 128 x 64 Pixels OLED Display
 - hexID: DS16OL

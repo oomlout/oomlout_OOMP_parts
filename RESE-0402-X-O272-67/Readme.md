@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12800
 - oompID: RESE-0402-X-O272-67
 - hexID: R42272A
 - oompDesc: O272

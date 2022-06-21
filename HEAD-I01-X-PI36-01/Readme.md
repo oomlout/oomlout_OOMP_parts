@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12525
-- index: 3968
 - oompID: HEAD-I01-X-PI36-01
 - name: 2.54 mm 36 Pin Header
 - hexID: H36

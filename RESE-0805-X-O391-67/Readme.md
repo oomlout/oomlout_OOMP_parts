@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13007
 - oompID: RESE-0805-X-O391-67
 - name: SMD (0805) 390 Ohm Resistor 1%
 - hexID: R85391A

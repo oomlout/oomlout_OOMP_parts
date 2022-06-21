@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12713
-- index: 4199
 - oompID: NNUT-M3-X-STAN-01
 - name: M3 Nylon Nut
 - hexID: NN3

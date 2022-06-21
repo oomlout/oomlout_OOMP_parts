@@ -51,7 +51,6 @@ Contents
 
 ## Tags
 
-- index: 12953
 - oompID: RESE-0603-X-O752-01
 - name: SMD (0603) 7.5k Ohm Resistor
 - hexID: R6752

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 13031
-- index: 4144
 - oompID: RESE-W04-X-O102-01
 - name: 1/4 Watt 1k Ohm Resistor
 - hexID: R4102

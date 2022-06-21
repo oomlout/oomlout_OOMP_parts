@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12377
 - oompID: CAPC-0805-X-NF10-V50
 - name: SMD (0805) 10 nF Capacitor (Ceramic) 50v
 - hexID: C85N010

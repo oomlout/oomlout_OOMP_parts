@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- index: 13102
-- index: 9876
 - oompID: VARI-0603-X-V05-01
 - name: SMD (0603) 5v Varistor
 - hexID: V6305

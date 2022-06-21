@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12756
-- index: 4116
 - oompID: RESA-1268-X-O472X4-01
 - name: SMD (1206-8) 4.7k Ohm (x4) Resistor Array
 - hexID: RA1472

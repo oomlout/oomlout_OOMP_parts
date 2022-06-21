@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12869
 - oompID: RESE-0603-X-O222-01
 - name: SMD (0603) 2.2k Ohm Resistor
 - hexID: R6222

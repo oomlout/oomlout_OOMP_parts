@@ -45,7 +45,6 @@ Contents
 
 ## Tags
 
-- index: 12679
 - oompID: LEDS-08-RGB-STAN-CA
 - name: 8 mm RGB LED Common Anode
 - hexID: L8RGB

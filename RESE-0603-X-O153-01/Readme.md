@@ -52,7 +52,6 @@ Contents
 
 ## Tags
 
-- index: 12848
 - oompID: RESE-0603-X-O153-01
 - name: SMD (0603) 16k Ohm Resistor
 - hexID: R6153
