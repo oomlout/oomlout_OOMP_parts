@@ -1,25 +1,16 @@
 {
-    "index": 13026,
     "tags": [
         {
-            "name": "index",
-            "value": 13026
-        },
-        {
             "name": "oompID",
-            "value": "RESE-1206-X-O101-01"
+            "value": "RESE-1206-X-O130-01"
         },
         {
             "name": "hexID",
-            "value": "R1101"
+            "value": "R1130"
         },
         {
             "name": "name",
-            "value": "SMD (1206) 100 Ohm Resistor"
-        },
-        {
-            "name": "oompSort",
-            "value": "12060000100"
+            "value": "SMD (1206) 13 Ohm Resistor"
         },
         {
             "name": "oompType",
@@ -54,18 +45,6 @@
             "value": "3.1mm"
         },
         {
-            "name": "ooTolerance",
-            "value": "5%"
-        },
-        {
-            "name": "ooMaterial",
-            "value": "Carbon Film"
-        },
-        {
-            "name": "ooMaxVoltage",
-            "value": "50 V"
-        },
-        {
             "name": "oompDiag",
             "value": "template;XXXX-1206-X-XXXX-XX-diag"
         },
@@ -91,7 +70,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (1206) 100 Ohm Resistor"
+            "value": "SMD (1206) 13 Ohm Resistor"
         }
     ]
 }
