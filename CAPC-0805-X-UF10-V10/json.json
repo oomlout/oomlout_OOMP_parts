@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0805-X-UF10-V10"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) 10 uF Capacitor (Ceramic) 10v"
-        },
-        {
             "name": "hexID",
             "value": "C85U010"
         },

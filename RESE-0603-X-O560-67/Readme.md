@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O560-67
-- name: SMD (0603) 56 Ohm Resistor 1%
 - hexID: R6560A
 - oompDesc: O560
 - oompType: RESE

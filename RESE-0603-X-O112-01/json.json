@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O112-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 1.1k Ohm Resistor"
-        },
-        {
             "name": "ooPackageMarking",
             "value": "112"
         },

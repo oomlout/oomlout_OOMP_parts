@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "LEDS-0805-Y-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) Yellow LED"
-        },
-        {
             "name": "hexID",
             "value": "L85Y"
         },

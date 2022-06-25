@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "CAPE-10-X-UF470-V25"
-        },
-        {
-            "name": "name",
-            "value": "10 mm 470 uF Capacitor (Electrolytic) 25v"
-        },
-        {
             "name": "hexID",
             "value": "CEU470"
         },

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "BUTA-52D-X-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "5.2 mm Pushbutton (Tactile)"
-        },
-        {
             "name": "hexID",
             "value": "BT52"
         },

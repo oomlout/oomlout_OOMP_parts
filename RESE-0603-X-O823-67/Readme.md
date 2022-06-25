@@ -52,8 +52,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O823-67
-- name: SMD (0603) 82k Ohm Resistor 1%
 - hexID: R6823A
 - oompSort: 
 - oompClass: Surface Mount

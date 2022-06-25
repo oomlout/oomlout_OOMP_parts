@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O914-01
-- name: SMD (0402) 910k Ohm Resistor
 - hexID: R42914
 - oompSort: RESE0402O914
 - oompType: RESE

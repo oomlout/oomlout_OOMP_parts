@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO235-U-V33D-AC"
-        },
-        {
-            "name": "name",
-            "value": " SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA "
-        },
-        {
             "name": "hexID",
             "value": "VS533"
         },
@@ -54,7 +46,7 @@
         },
         {
             "name": "name",
-            "value": " SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA "
+            "value": "SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA"
         }
     ]
 }

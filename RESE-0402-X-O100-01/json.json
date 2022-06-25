@@ -1,20 +1,12 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O100-01"
-        },
-        {
             "name": "hexID",
             "value": "R42100"
         },
         {
             "name": "oompDesc",
             "value": "O100"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 10 Ohm Resistor"
         },
         {
             "name": "oompSort",

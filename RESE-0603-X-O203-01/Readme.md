@@ -52,8 +52,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O203-01
-- name: SMD (0603) 20k Ohm Resistor
 - ooPackageMarking: 203
 - hexID: R6203
 - oompSort: 

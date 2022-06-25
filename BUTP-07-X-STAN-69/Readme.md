@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [BUTP-07-X-STAN-69> 7 mm Pushbutton Panel Mount ](#butp-07-x-stan-69-7-mm-pushbutton-panel-mount-)
+* [BUTP-07-X-STAN-69>7 mm Pushbutton Panel Mount](#butp-07-x-stan-697-mm-pushbutton-panel-mount)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTP-07-X-STAN-69> 7 mm Pushbutton Panel Mount 
+# BUTP-07-X-STAN-69>7 mm Pushbutton Panel Mount
 
 - ID: BUTP-07-X-STAN-69
 - Name: BUTP-07-X-STAN-69
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: BUTP-07-X-STAN-69
-- name:  7 mm Pushbutton Panel Mount 
 - hexID: BP07
 - oompSort: BUTP07STAN
 - oompType: BUTP

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [JSTS-01-X-PI02-SM>1 mm 2 Pin JST Socket (SMD)](#jsts-01-x-pi02-sm1-mm-2-pin-jst-socket-smd)
+* [JSTS-01-X-PI02-SM>1 mm 2 Pin JST Socket SMD](#jsts-01-x-pi02-sm1-mm-2-pin-jst-socket-smd)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# JSTS-01-X-PI02-SM>1 mm 2 Pin JST Socket (SMD)
+# JSTS-01-X-PI02-SM>1 mm 2 Pin JST Socket SMD
 
 - ID: JSTS-01-X-PI02-SM
 - Name: JSTS-01-X-PI02-SM
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: JSTS-01-X-PI02-SM
-- name: 1 mm 2 Pin JST Socket (SMD)
 - hexID: J102
 - oompSort: JSTS0102PI
 - oompType: JSTS

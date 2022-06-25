@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: INDU-39D-X-UH47D-01
-- name: 3.9 mm 4.7 uH Inductor
 - hexID: IN39U47
 - oompSort: 
 - oompClass: Surface Mount

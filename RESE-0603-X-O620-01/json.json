@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O620-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 62 Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R6620"
         },

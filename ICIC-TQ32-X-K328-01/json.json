@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4326"
-        },
-        {
-            "name": "oompID",
-            "value": "ICIC-TQ32-X-K328-01"
-        },
-        {
-            "name": "name",
-            "value": "32 Pin SMD (TQFP) AtMega328P"
-        },
-        {
             "name": "hexID",
             "value": "ICS328"
         },
@@ -242,7 +230,7 @@
         },
         {
             "name": "name",
-            "value": "32 Pin SMD (TQFP) AtMega328P"
+            "value": "AtMega328P"
         }
     ]
 }

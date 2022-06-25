@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-DFN10-X-K7660-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)"
-        },
-        {
             "name": "hexID",
             "value": "ICS7660"
         },

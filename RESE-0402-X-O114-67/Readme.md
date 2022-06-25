@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0402-X-O114-67>SMD (0402) 120k Ohm Resistor 1%](#rese-0402-x-o114-67smd-0402-120k-ohm-resistor-1)
+* [RESE-0402-X-O114-67>SMD (0402) 110k Ohm Resistor 1%](#rese-0402-x-o114-67smd-0402-110k-ohm-resistor-1)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0402-X-O114-67>SMD (0402) 120k Ohm Resistor 1%
+# RESE-0402-X-O114-67>SMD (0402) 110k Ohm Resistor 1%
 
 - ID: RESE-0402-X-O114-67
 - Name: RESE-0402-X-O114-67
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O114-67
-- name: SMD (0402) 120k Ohm Resistor 1%
 - hexID: R42114A
 - oompDesc: O114
 - oompType: RESE

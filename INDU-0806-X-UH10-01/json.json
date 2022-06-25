@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "INDU-0806-X-UH10-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0806) 10 uH Inductor"
-        },
-        {
             "name": "hexID",
             "value": "IN86U10"
         },

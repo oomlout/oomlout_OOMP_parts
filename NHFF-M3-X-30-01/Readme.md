@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: NHFF-M3-X-30-01
-- name: M3 x 30 mm Nylon Standoff (F-F)
 - hexID: NFF30
 - oompSort: M3M330
 - oompType: NHFF

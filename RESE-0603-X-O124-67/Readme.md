@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O124-67
-- name: SMD (0603) 120k Ohm Resistor 1%
 - hexID: R6124A
 - oompDesc: O124
 - oompType: RESE

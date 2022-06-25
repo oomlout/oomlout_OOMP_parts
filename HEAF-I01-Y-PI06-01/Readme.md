@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-Y-PI06-01
-- name: 2.54 mm 6 Pin Yellow Female Header
 - hexID: HF06Y
 - oompSort: HEAFI0106PI
 - oompType: HEAF

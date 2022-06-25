@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O470-67
-- name: SMD (0805) 47 Ohm Resistor 1%
 - hexID: R85470A
 - oompDesc: O470
 - oompType: RESE

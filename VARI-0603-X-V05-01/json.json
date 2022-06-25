@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "VARI-0603-X-V05-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 5v Varistor"
-        },
-        {
             "name": "hexID",
             "value": "V6305"
         },

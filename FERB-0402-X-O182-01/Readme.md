@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: FERB-0402-X-O182-01
-- name: SMD (0402) 1.8k Ohm Ferrite Bead
 - hexID: F42182
 - oompSort: FERB0402O182
 - oompType: FERB

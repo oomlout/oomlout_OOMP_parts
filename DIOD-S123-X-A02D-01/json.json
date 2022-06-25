@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DIOD-S123-X-A02D-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOD-123) 200 mA Diode"
-        },
-        {
             "name": "hexID",
             "value": "DS32D"
         },

@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: REFU-1206-X-A075D-V16
-- name: SMD (1206) 750 mA Resetable Fuse 16v
 - hexID: RF1275D
 - oompSort: REFU1206A075D
 - oompType: REFU

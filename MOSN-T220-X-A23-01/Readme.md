@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: MOSN-T220-X-A23-01
-- name: TO-220 23 Amp N-Ch. MOSFET
 - oompSort: 
 - oompType: MOSN
 - oompSize: T220

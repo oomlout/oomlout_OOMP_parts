@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [DISP-16X2-G-LCD-01> 16 x 2 Character LCD Green Display ](#disp-16x2-g-lcd-01-16-x-2-character-lcd-green-display-)
+* [DISP-16X2-G-LCD-01>16 x 2 Character LCD Green Display](#disp-16x2-g-lcd-0116-x-2-character-lcd-green-display)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# DISP-16X2-G-LCD-01> 16 x 2 Character LCD Green Display 
+# DISP-16X2-G-LCD-01>16 x 2 Character LCD Green Display
 
 - ID: DISP-16X2-G-LCD-01
 - Name: DISP-16X2-G-LCD-01
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DISP-16X2-G-LCD-01
-- name:  16 x 2 Character LCD Green Display 
 - hexID: DS16
 - oompSort: DISP16X2LCD
 - oompType: DISP

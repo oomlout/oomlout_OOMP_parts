@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "OPAM-MS08-X-KLMV358-01"
-        },
-        {
-            "name": "name",
-            "value": "8 Pin SMD (MSOP) LMV358 Op Amp"
-        },
-        {
             "name": "hexID",
             "value": "OAM358"
         },

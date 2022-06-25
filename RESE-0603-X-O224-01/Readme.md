@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O224-01
-- name: SMD (0603) 220k Ohm Resistor
 - hexID: R6224
 - ooPackageMarking: 224
 - oompDesc: O224

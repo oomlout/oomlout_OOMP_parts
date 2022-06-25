@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "POTE-14-X-O204-68"
-        },
-        {
-            "name": "name",
-            "value": "14 mm 200k Ohm Potentiometer Side Adjust"
-        },
-        {
             "name": "hexID",
             "value": "PT4204S"
         },

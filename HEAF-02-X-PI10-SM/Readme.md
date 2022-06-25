@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header (SMD)](#heaf-02-x-pi10-sm2-mm-10-pin-female-header-smd)
+* [HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header SMD](#heaf-02-x-pi10-sm2-mm-10-pin-female-header-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header (SMD)
+# HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header SMD
 
 - ID: HEAF-02-X-PI10-SM
 - Name: HEAF-02-X-PI10-SM
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-02-X-PI10-SM
-- name: 2 mm 10 Pin Female Header (SMD)
 - hexID: HF210S
 - oompSort: HEAF0210PI
 - oompType: HEAF

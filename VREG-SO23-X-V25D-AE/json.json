@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO23-X-V25D-AE"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23) 2.5v Voltage Regulator 200 mA"
-        },
-        {
             "name": "hexID",
             "value": "VS325D1"
         },

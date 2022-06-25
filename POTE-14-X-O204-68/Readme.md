@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: POTE-14-X-O204-68
-- name: 14 mm 200k Ohm Potentiometer Side Adjust
 - hexID: PT4204S
 - oompSort: 
 - oompClass: Through Hole Component

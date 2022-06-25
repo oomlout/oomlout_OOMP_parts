@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CRHO-I01-B-PI01-01
-- name: 2.54 mm 1 Pin Black Crimp Housing
 - hexID: CH01
 - oompSort: 010101
 - oompType: CRHO

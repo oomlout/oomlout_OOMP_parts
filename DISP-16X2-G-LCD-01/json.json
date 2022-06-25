@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DISP-16X2-G-LCD-01"
-        },
-        {
-            "name": "name",
-            "value": " 16 x 2 Character LCD Green Display "
-        },
-        {
             "name": "hexID",
             "value": "DS16"
         },
@@ -118,7 +110,7 @@
         },
         {
             "name": "name",
-            "value": " 16 x 2 Character LCD Green Display "
+            "value": "16 x 2 Character LCD Green Display"
         }
     ]
 }

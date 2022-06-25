@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-SC16W-X-K2515-01
-- name: 16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)
 - hexID: ICS2515
 - oompSort: 
 - oompClass: Surface Mount

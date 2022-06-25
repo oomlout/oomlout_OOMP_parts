@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X03PI-01>2.54 mm 6 Pin (2x3) Header](#head-i01-x-2x03pi-01254-mm-6-pin-2x3-header)
+* [HEAD-I01-X-2X03PI-01>2.54 mm Header](#head-i01-x-2x03pi-01254-mm-header)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X03PI-01>2.54 mm 6 Pin (2x3) Header
+# HEAD-I01-X-2X03PI-01>2.54 mm Header
 
 - ID: HEAD-I01-X-2X03PI-01
 - Name: HEAD-I01-X-2X03PI-01
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI2x03-01
-- name: 2.54 mm 6 Pin (2x3) Header
 - hexID: H2X03
 - oompSort: 
 - oompClass: Through Hole

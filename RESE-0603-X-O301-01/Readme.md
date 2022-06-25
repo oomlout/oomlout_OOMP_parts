@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O301-01
-- name: SMD (0603) 300 Ohm Resistor
 - hexID: R6301
 - ooPackageMarking: 301
 - oompType: RESE

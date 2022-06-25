@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "LEDS-0402-W-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) White LED"
-        },
-        {
             "name": "hexID",
             "value": "L42W"
         },

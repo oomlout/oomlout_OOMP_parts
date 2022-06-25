@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: SENS-05-X-LIRE-01
-- name: 5 mm Light (Resistive) Sensor
 - hexID: SEPR
 - oompSort: SENS05LIRE
 - oompType: SENS

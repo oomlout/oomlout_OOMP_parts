@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: JUMP-I01-X-STAN-01
-- name: 2.54 mm Jumper
 - hexID: JU01
 - oompSort: 
 - oompClass: Through Hole

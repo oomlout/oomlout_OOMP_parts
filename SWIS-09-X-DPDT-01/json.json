@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "SWIS-09-X-DPDT-01"
-        },
-        {
-            "name": "name",
-            "value": "9 mm DPDT Switch (Slide)"
-        },
-        {
             "name": "hexID",
             "value": "SSW9D"
         },

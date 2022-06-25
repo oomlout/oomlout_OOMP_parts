@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-DI18-X-K2803-01
-- name: 18 Pin DIP ULN2803A Octal Transistor Array
 - hexID: IC2803
 - oompSort: ULN2803A
 - oompType: ICIC

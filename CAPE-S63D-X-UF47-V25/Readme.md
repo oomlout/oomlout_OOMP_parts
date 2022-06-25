@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-S63D-X-UF47-V25
-- name: SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
 - hexID: CESU047
 - oompSort: S63F0.00004700000000
 - oompType: CAPE

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAD-I01-X-PI2x04-RA"
-        },
-        {
-            "name": "name",
-            "value": " 2.54 mm 8 Pin (2x4) Header Right Angle "
-        },
-        {
             "name": "hexID",
             "value": "HR2X03"
         },
@@ -58,7 +50,7 @@
         },
         {
             "name": "name",
-            "value": " 2.54 mm 8 Pin (2x4) Header Right Angle "
+            "value": "2.54 mm Header Right Angle"
         }
     ]
 }

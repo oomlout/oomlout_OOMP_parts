@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-V-TINT-01
-- name: 5 mm Tinted Purple LED
 - hexID: LT5V
 - oompSort: 0505ZTINTV
 - oompType: LEDS

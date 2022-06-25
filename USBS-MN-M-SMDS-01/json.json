@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "USBS-MN-M-SMDS-01"
-        },
-        {
-            "name": "name",
-            "value": "Mini SMD Metal USB Socket"
-        },
-        {
             "name": "hexID",
             "value": "USN"
         },

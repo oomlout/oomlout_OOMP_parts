@@ -45,11 +45,9 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O121-01
 - hexID: R85121
 - ooPackageMarking: 121
 - oompDesc: O121
-- name: SMD (0805) 120 Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

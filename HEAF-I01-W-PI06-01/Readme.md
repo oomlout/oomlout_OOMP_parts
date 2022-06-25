@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-W-PI06-01
-- name: 2.54 mm 6 Pin White Female Header
 - hexID: H6W
 - oompSort: 
 - oompClass: Through Hole

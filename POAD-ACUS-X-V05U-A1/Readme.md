@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: POAD-ACUS-X-V05U-A1
-- name: American Style (120v) 5v (USB) Power Adapter 1 A
 - hexID: PAU5
 - oompSort: POAD0501
 - oompType: POAD

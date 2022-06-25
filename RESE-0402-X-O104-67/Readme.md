@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O104-67
 - hexID: R42104A
 - oompDesc: O104
-- name: SMD (0402) 100k Ohm Resistor 1%
 - oompSort: RESE0402O104
 - oompType: RESE
 - oompSize: 0402

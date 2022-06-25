@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-DI16-X-KL293D-01
-- name: 16 Pin DIP Dual H-Bridge (L293D)
 - oompSort: 
 - oompType: ICIC
 - oompSize: DI16

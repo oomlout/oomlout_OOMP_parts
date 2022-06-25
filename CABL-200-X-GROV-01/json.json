@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CABL-200-X-GROV-01"
-        },
-        {
-            "name": "name",
-            "value": "200 mm Grove Cable"
-        },
-        {
             "name": "hexID",
             "value": "CBG200"
         },

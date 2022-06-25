@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CRHO-I01-B-PI03-01
-- name: 2.54 mm 3 Pin Black Crimp Housing
 - hexID: CH03
 - oompSort: 010103
 - oompType: CRHO

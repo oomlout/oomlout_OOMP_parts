@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4182"
-        },
-        {
-            "name": "oompID",
-            "value": "LEDS-0603-G-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) Green LED"
-        },
-        {
             "name": "hexID",
             "value": "L6G"
         },

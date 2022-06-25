@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O474-67
 - hexID: R42474A
 - oompDesc: O474
-- name: SMD (0402) 470k Ohm Resistor 1%
 - oompSort: RESE0402O474
 - oompType: RESE
 - oompSize: 0402

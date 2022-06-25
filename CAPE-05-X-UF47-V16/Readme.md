@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-05-X-UF47-V16
-- name: 5 mm 47 uF Capacitor (Electrolytic) 16v
 - hexID: CEU047
 - oompSort: CAPE05UF47
 - oompType: CAPE

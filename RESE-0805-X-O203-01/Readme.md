@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O203-01
-- name: SMD (0805) 20k Ohm Resistor
 - hexID: R85203
 - ooPackageMarking: 203
 - oompDesc: O203

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O205-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 2.0M Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R6205A"
         },
@@ -90,7 +82,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (0603) 2.0M Ohm Resistor 1%"
+            "value": "SMD (0603) 2M Ohm Resistor 1%"
         }
     ]
 }

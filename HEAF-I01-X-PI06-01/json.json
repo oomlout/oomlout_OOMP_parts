@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAF-I01-X-PI06-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 6 Pin Female Header"
-        },
-        {
             "name": "hexID",
             "value": "HF06"
         },

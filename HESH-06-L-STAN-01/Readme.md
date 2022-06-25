@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-06-L-STAN-01
-- name: 6 mm Blue Heat Shrink
 - hexID: HS6L
 - oompSort: 0606L
 - oompType: HESH

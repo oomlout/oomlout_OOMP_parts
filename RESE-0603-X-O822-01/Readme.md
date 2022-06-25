@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O822-01
-- name: SMD (0603) 8.2k Ohm Resistor
 - hexID: R6822
 - ooPackageMarking: 822
 - oompDesc: O822

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [REFU-1812-X-A05D-V15>SMD (1812) 500 mA Resetable Fuse 15v](#refu-1812-x-a05d-v15smd-1812-500-ma-resetable-fuse-15v)
+* [REFU-1812-X-A05D-V15>SMD (1812) 500 mA Resetable Fuse](#refu-1812-x-a05d-v15smd-1812-500-ma-resetable-fuse)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# REFU-1812-X-A05D-V15>SMD (1812) 500 mA Resetable Fuse 15v
+# REFU-1812-X-A05D-V15>SMD (1812) 500 mA Resetable Fuse
 
 - ID: REFU-1812-X-A05D-V15
 - Name: REFU-1812-X-A05D-V15
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: REFU-1812-X-A05D-V15
-- name: SMD (1812) 500 mA Resetable Fuse 15v
 - hexID: RF805
 - oompSort: 181200.500
 - oompType: REFU

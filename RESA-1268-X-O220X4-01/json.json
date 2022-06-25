@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "RESA-1268-X-O220X4-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206-8) 22 Ohm (x4) Resistor Array"
-        },
-        {
             "name": "hexID",
             "value": "RA1220"
         },

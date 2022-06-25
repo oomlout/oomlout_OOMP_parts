@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-SC16-X-KM232-01"
-        },
-        {
-            "name": "name",
-            "value": "16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)"
-        },
-        {
             "name": "hexID",
             "value": "ICSM232"
         },

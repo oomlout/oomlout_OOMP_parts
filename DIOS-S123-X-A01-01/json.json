@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DIOS-S123-X-A01-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOD-123) 1 Amp Diode (Schottky)"
-        },
-        {
             "name": "hexID",
             "value": "DS35D1"
         },

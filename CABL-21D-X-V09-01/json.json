@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CABL-21D-X-V09-01"
-        },
-        {
-            "name": "name",
-            "value": "2.1 mm 9v Cable"
-        },
-        {
             "name": "hexID",
             "value": "CB9V21"
         },

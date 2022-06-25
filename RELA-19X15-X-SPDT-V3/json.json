@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RELA-19X15-X-SPDT-V3"
-        },
-        {
-            "name": "name",
-            "value": "19 x 15 mm SPDT Relay 3v"
-        },
-        {
             "name": "hexID",
             "value": "RL19S3"
         },

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-15D-E-STAN-01
-- name: 1.5 mm Grey Heat Shrink
 - hexID: HS1E
 - oompSort: 0101E
 - oompType: HESH

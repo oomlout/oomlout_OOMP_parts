@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O000-67
-- name: SMD (0805) 0 Ohm Resistor 1%
 - hexID: R85000A
 - oompDesc: O000
 - oompType: RESE

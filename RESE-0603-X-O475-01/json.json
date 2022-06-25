@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O475-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 4.7M Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R6475"
         },

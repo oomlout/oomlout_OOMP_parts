@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-L-PI08-01
-- name: 2.54 mm 8 Pin Blue Header
 - hexID: H08L
 - oompSort: 
 - oompClass: Through Hole

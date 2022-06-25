@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-W-PI08-01
-- name: 2.54 mm 8 Pin White Female Header
 - hexID: HF08W
 - oompSort: 
 - oompClass: Through Hole

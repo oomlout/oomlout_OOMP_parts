@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-05-X-UF22-V25
-- name: 5 mm 22 uF Capacitor (Electrolytic) 25v
 - hexID: CEU022
 - oompSort: 0.00000220000000
 - oompType: CAPE

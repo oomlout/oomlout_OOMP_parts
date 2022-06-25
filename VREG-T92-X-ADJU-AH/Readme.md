@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-T92-X-ADJU-AH
-- name: TO-92 Adjustable Voltage Regulator 100 mA
 - hexID: V92A
 - oompSort: VREGT92ADJU
 - oompType: VREG

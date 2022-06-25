@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAL-I01-X-PI36-01
-- name: 2.54 mm 36 Pin Header (Long)
 - hexID: HL36
 - oompSort: 010136
 - oompType: HEAL

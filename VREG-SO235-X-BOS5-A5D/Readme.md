@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-SO235-X-BOS5-A5D
-- name: SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
 - hexID: VS25B
 - oompSort: VREGSO235BOS5
 - oompType: VREG

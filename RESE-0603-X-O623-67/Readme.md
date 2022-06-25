@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O623-67
-- name: SMD (0603) 62k Ohm Resistor 1%
 - hexID: R6623A
 - oompDesc: O623
 - oompType: RESE

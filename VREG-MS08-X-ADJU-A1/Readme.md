@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-MS08-X-ADJU-A1
-- name: 8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A
 - hexID: VS8A1
 - oompSort: VREGMS08ADJU
 - oompType: VREG

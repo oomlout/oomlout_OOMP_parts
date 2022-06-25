@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CRHO-I01-B-PI08-01
-- name: 2.54 mm 8 Pin Black Crimp Housing
 - hexID: CH08
 - oompSort: 010108
 - oompType: CRHO

@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4096"
-        },
-        {
-            "name": "oompID",
-            "value": "CAPT-2312-X-UF22-V25"
-        },
-        {
-            "name": "name",
-            "value": "SMD (2312) 22 uF Capacitor (Tantalum) 25v"
-        },
-        {
             "name": "hexID",
             "value": "CTS3U022"
         },

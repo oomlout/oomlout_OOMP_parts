@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "FERB-0603-X-O121-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 120 Ohm Ferrite Bead"
-        },
-        {
             "name": "hexID",
             "value": "F6121"
         },

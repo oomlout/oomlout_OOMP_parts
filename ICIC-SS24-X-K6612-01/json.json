@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-SS24-X-K6612-01"
-        },
-        {
-            "name": "name",
-            "value": "24 Pin SMD (SSOP) Dual H-Bridge (TB6612)"
-        },
-        {
             "name": "hexID",
             "value": "ICS6612"
         },

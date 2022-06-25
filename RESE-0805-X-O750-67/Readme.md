@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O750-67
-- name: SMD (0805) 75 Ohm Resistor 1%
 - hexID: R85750A
 - oompDesc: O750
 - oompType: RESE

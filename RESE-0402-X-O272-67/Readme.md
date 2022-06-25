@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O272-67
 - hexID: R42272A
 - oompDesc: O272
-- name: SMD (0402) 2.7k Ohm Resistor 1%
 - oompSort: RESE0402O272
 - oompType: RESE
 - oompSize: 0402

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO235-X-BOS5-A5D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA"
-        },
-        {
             "name": "hexID",
             "value": "VS25B"
         },

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: SCRE-M3-M-20-70
-- name: M3 x 20 mm Metal Machine Screw Cross Head
 - hexID: M320
 - oompSort: M3M320M
 - oompType: SCRE

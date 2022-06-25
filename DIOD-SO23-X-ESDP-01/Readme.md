@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOD-SO23-X-ESDP-01
-- name: SMD (SOT-23) ESD Protection Diode
 - hexID: DS2EP
 - oompSort: 
 - oompClass: Surface Mount

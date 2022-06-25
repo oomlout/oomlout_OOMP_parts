@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEDS-35D-T-SMDS-4P
-- name: 3.5 mm SMD Headphone Socket (4 Pin)
 - hexID: HP34T
 - oompSort: HEDS35DSMDS
 - oompType: HEDS

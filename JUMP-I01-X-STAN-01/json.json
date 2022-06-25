@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "JUMP-I01-X-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm Jumper"
-        },
-        {
             "name": "hexID",
             "value": "JU01"
         },

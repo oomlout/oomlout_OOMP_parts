@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-PI06-01
-- name: 2.54 mm 6 Pin Female Header
 - hexID: HF06
 - oompSort: 
 - oompClass: Through Hole

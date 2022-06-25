@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "REFU-1206-X-A01-V8"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206) 1 Amp Resetable Fuse 8v"
-        },
-        {
             "name": "hexID",
             "value": "RF121"
         },

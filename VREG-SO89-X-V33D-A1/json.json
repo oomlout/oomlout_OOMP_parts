@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4328"
-        },
-        {
-            "name": "oompID",
-            "value": "VREG-SO89-X-V33D-A1"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-89) 3.3v Voltage Regulator 1 A"
-        },
-        {
             "name": "hexID",
             "value": "VS831"
         },

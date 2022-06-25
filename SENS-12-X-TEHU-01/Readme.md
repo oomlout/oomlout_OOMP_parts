@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: SENS-12-X-TEHU-01
-- name: 12 mm Temperature and Humidity Sensor
 - hexID: SETH1
 - oompSort: SENS12TEHU
 - oompType: SENS

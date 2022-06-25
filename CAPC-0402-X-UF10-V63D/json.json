@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0402-X-UF10-V63D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 10 uF Capacitor (Ceramic) 6.3v"
-        },
-        {
             "name": "hexID",
             "value": "C42U010"
         },

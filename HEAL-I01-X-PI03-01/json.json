@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "HEAL-I01-X-PI03-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 3 Pin Header (Long)"
-        },
-        {
             "name": "hexID",
             "value": "HL03"
         },

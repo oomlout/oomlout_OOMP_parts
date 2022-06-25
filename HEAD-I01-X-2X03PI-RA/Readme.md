@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X03PI-RA> 2.54 mm 6 Pin (2x3) Header Right Angle ](#head-i01-x-2x03pi-ra-254-mm-6-pin-2x3-header-right-angle-)
+* [HEAD-I01-X-2X03PI-RA>2.54 mm Header Right Angle](#head-i01-x-2x03pi-ra254-mm-header-right-angle)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X03PI-RA> 2.54 mm 6 Pin (2x3) Header Right Angle 
+# HEAD-I01-X-2X03PI-RA>2.54 mm Header Right Angle
 
 - ID: HEAD-I01-X-2X03PI-RA
 - Name: HEAD-I01-X-2X03PI-RA
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI2x03-RA
-- name:  2.54 mm 6 Pin (2x3) Header Right Angle 
 - hexID: HR2X03
 - oompSort: 
 - oompType: HEAD

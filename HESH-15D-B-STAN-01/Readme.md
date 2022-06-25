@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-15D-B-STAN-01
-- name: 1.5 mm Black Heat Shrink
 - hexID: HS1B
 - oompSort: 0101B
 - oompType: HESH

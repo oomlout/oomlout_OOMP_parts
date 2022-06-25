@@ -44,8 +44,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-0603-G-STAN-01
-- name: SMD (0603) Green LED
 - hexID: L6G
 - oompSort: 0603G
 - oompType: LEDS

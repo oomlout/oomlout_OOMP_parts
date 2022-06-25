@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RBCC-40W-Z-L200-01
-- name: 40 Wire 200 mm Rainbow Crimped Ribbon Cable
 - hexID: RBC2
 - oompSort: 040W200
 - oompType: RBCC

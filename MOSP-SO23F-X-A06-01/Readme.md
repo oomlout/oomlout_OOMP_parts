@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: MOSP-SO23F-X-A06-01
-- name: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
 - hexID: MP2F6
 - oompSort: MOSPSO23FA06
 - oompType: MOSP

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-0603-R-STAN-01
-- name: SMD (0603) Red LED
 - hexID: L6R
 - oompSort: 0603R
 - oompType: LEDS

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "OPAM-SC14-X-KLMV324-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOIC-14) LMV324 Op Amp"
-        },
-        {
             "name": "hexID",
             "value": "OAS324"
         },
@@ -58,7 +50,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (SOIC-14) LMV324 Op Amp"
+            "value": "14 Pin SMD (SOIC) LMV358 Op Amp"
         }
     ]
 }

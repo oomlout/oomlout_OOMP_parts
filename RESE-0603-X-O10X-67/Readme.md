@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O10X-67
-- name: SMD (0603) 1 Ohm Resistor 1%
 - hexID: R610XA
 - oompDesc: O10X
 - oompType: RESE

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-DI16-X-KL293D-01"
-        },
-        {
-            "name": "name",
-            "value": "16 Pin DIP Dual H-Bridge (L293D)"
-        },
-        {
             "name": "oompSort",
             "value": ""
         },

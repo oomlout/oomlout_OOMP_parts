@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-R-STAN-01
-- name: 5 mm Red LED
 - hexID: L5R
 - oompSort: 0505R
 - oompType: LEDS

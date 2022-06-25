@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-Y-TINT-01
-- name: 5 mm Tinted Yellow LED
 - hexID: LT5Y
 - oompSort: 0505ZTINTY
 - oompType: LEDS

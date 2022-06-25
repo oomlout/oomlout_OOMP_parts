@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-W04-X-O331-01
-- name: 1/4 Watt 330 Ohm Resistor
 - hexID: R4331
 - oompSort: 0W040000330
 - oompType: RESE

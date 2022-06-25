@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0805-X-O563-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) 56k Ohm Resistor"
-        },
-        {
             "name": "ooPackageMarking",
             "value": "563"
         },

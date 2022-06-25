@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0603-X-PF15-V50
-- name: SMD (0603) 15 pF Capacitor (Ceramic) 50v
 - hexID: C6P015
 - oompSort: 
 - oompType: CAPC

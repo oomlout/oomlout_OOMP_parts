@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4156"
-        },
-        {
-            "name": "oompID",
-            "value": "RESE-W04-X-O332-01"
-        },
-        {
-            "name": "name",
-            "value": "1/4 Watt 3.3k Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R4332"
         },

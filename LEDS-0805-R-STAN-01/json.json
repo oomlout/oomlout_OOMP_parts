@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "LEDS-0805-R-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) Red LED"
-        },
-        {
             "name": "hexID",
             "value": "L85R"
         },

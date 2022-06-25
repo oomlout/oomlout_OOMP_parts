@@ -52,10 +52,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O302-67
 - hexID: R6302A
 - hexID: R6302A
-- name: SMD (0603) 3k Ohm Resistor 1%
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X

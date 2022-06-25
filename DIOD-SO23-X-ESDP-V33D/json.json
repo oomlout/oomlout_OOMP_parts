@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DIOD-SO23-X-ESDP-V33D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23) ESD Protection Diode 3.3v"
-        },
-        {
             "name": "hexID",
             "value": "DS3EP3"
         },

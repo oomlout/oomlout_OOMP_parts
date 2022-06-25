@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: NSCR-M3-X-16-70
-- name: M3 x 16 mm Nylon Screw Cross Head
 - hexID: NS16
 - oompSort: M3M316
 - oompType: NSCR

@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O271-67
-- name: SMD (0805) 270 Ohm Resistor 1%
 - hexID: R85271A
 - oompDesc: O271
 - oompType: RESE

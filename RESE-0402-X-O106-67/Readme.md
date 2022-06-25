@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O106-67
 - hexID: R42106A
 - oompDesc: O106
-- name: SMD (0402) 10M Ohm Resistor 1%
 - oompSort: RESE0402O106
 - oompType: RESE
 - oompSize: 0402

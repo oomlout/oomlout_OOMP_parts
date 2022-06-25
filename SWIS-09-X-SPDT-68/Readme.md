@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [SWIS-09-X-SPDT-68> 9 mm SPDT Switch (Slide) Side Adjust ](#swis-09-x-spdt-68-9-mm-spdt-switch-slide-side-adjust-)
+* [SWIS-09-X-SPDT-68>9 mm SPDT Switch (Slide) Side Adjust](#swis-09-x-spdt-689-mm-spdt-switch-slide-side-adjust)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# SWIS-09-X-SPDT-68> 9 mm SPDT Switch (Slide) Side Adjust 
+# SWIS-09-X-SPDT-68>9 mm SPDT Switch (Slide) Side Adjust
 
 - ID: SWIS-09-X-SPDT-68
 - Name: SWIS-09-X-SPDT-68
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: SWIS-09-X-SPDT-68
-- name:  9 mm SPDT Switch (Slide) Side Adjust 
 - hexID: SSW9S
 - oompSort: SWIS09SPDT
 - oompType: SWIS

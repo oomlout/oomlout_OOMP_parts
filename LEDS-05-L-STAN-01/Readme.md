@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-L-STAN-01
-- name: 5 mm Blue LED
 - hexID: L5L
 - oompSort: 
 - oompClass: Through Hole

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CERE-1263-X-MZ16-01
-- name: SMD (1206-3) 16 MHz Ceramic Resonator
 - hexID: CR16316
 - oompSort: 120616000000
 - oompType: CERE

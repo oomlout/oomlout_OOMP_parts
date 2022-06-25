@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [SDCS-MC-M-SMDS-01>Micro SMD SD Card Socket](#sdcs-mc-m-smds-01micro-smd-sd-card-socket)
+* [SDCS-MC-M-SMDS-01>Micro SMD Metal SD Card Socket](#sdcs-mc-m-smds-01micro-smd-metal-sd-card-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# SDCS-MC-M-SMDS-01>Micro SMD SD Card Socket
+# SDCS-MC-M-SMDS-01>Micro SMD Metal SD Card Socket
 
 - ID: SDCS-MC-M-SMDS-01
 - Name: SDCS-MC-M-SMDS-01
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: SDCS-MC-M-SMDS-01
-- name: Micro SMD SD Card Socket
 - hexID: SDMS
 - oompSort: MCMCSMD
 - oompType: SDCS

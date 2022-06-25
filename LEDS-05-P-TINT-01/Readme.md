@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-P-TINT-01
-- name: 5 mm Tinted Pink LED
 - hexID: LT5P
 - oompSort: 0505ZTINTP
 - oompType: LEDS

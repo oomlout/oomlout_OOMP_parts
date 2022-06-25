@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "DIOD-D214-X-A01-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (DO-214) 1 Amp Diode"
-        },
-        {
             "name": "hexID",
             "value": "DS201"
         },

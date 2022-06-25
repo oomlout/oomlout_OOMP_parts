@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-15D-N-STAN-01
-- name: 1.5 mm Brown Heat Shrink
 - hexID: HS1N
 - oompSort: 0101N
 - oompType: HESH

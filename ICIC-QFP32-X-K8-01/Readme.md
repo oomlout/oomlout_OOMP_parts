@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-QFP32-X-K8-01
-- name: 32 Pin SMD (TQFP) AtMega8A
 - hexID: ICS008
 - oompSort: 
 - oompClass: Surface Mount

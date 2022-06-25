@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0603-X-UF22D-V10
-- name: SMD (0603) 2.2 uF Capacitor (Ceramic) 10v
 - hexID: C6U002
 - oompSort: CAPC0603UF22D
 - oompType: CAPC

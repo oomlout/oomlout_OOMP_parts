@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "REFU-1206-X-A05D-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206) 500 mA Resetable Fuse"
-        },
-        {
             "name": "hexID",
             "value": "RF1205"
         },

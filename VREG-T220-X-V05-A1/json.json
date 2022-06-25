@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "VREG-T220-X-V05-A1"
-        },
-        {
-            "name": "name",
-            "value": "TO-220 5v Voltage Regulator 1 A"
-        },
-        {
             "name": "hexID",
             "value": "VT251"
         },

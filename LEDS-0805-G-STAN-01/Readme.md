@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-0805-G-STAN-01
-- name: SMD (0805) Green LED
 - hexID: L85G
 - oompSort: 0805G
 - oompType: LEDS

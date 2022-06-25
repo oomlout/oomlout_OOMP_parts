@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-UF1-V25
-- name: SMD (0805) 1 uF Capacitor (Ceramic) 25v
 - hexID: C85U001
 - oompType: CAPC
 - oompSize: 0805

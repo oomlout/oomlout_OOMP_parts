@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAD-I01-X-PI2x09-RS"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 18 Pin (2x9) Header Right Angle (SMD)"
-        },
-        {
             "name": "oompSort",
             "value": ""
         },
@@ -74,7 +66,7 @@
         },
         {
             "name": "name",
-            "value": "2.54 mm 18 Pin (2x9) Header Right Angle (SMD)"
+            "value": "2.54 mm Header Right Angle (SMD)"
         }
     ]
 }

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O153-67
-- name: SMD (0402) 15k Ohm Resistor 1%
 - hexID: R42153A
 - oompDesc: O153
 - oompType: RESE

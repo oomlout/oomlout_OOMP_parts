@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-0805-Y-STAN-01
-- name: SMD (0805) Yellow LED
 - hexID: L85Y
 - oompSort: 0805Y
 - oompType: LEDS

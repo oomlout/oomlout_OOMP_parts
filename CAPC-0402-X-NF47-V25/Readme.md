@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0402-X-NF47-V25
-- name: SMD (0402) 47 nF Capacitor (Ceramic) 25v
 - hexID: C42N047
 - oompType: CAPC
 - oompSize: 0402

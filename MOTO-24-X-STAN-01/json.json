@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "MOTO-24-X-STAN-01"
-        },
-        {
-            "name": "name",
-            "value": "24 mm Motor"
-        },
-        {
             "name": "hexID",
             "value": "MT24"
         },

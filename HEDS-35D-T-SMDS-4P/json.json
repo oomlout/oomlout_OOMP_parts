@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEDS-35D-T-SMDS-4P"
-        },
-        {
-            "name": "name",
-            "value": "3.5 mm SMD Headphone Socket (4 Pin)"
-        },
-        {
             "name": "hexID",
             "value": "HP34T"
         },

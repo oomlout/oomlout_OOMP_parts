@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: FERB-0805-X-O221-01
-- name: SMD (0805) 220 Ohm Ferrite Bead
 - hexID: F8221
 - oompSort: 08050000220
 - oompType: FERB

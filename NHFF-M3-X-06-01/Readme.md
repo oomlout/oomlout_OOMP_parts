@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: NHFF-M3-X-06-01
-- name: M3 x 6 mm Nylon Standoff (F-F)
 - hexID: NFF06
 - oompSort: M3M306
 - oompType: NHFF

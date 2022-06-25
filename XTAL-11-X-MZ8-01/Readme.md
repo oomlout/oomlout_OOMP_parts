@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: XTAL-11-X-MZ8-01
-- name: 11 mm 8 MHz Crystal
 - hexID: XT8
 - oompSort: 
 - oompClass: Through Hole

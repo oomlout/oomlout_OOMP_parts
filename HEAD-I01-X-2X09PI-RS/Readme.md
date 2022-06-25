@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X09PI-RS>2.54 mm 18 Pin (2x9) Header Right Angle (SMD)](#head-i01-x-2x09pi-rs254-mm-18-pin-2x9-header-right-angle-smd)
+* [HEAD-I01-X-2X09PI-RS>2.54 mm Header Right Angle (SMD)](#head-i01-x-2x09pi-rs254-mm-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X09PI-RS>2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
+# HEAD-I01-X-2X09PI-RS>2.54 mm Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-2X09PI-RS
 - Name: HEAD-I01-X-2X09PI-RS
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI2x09-RS
-- name: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
 - oompSort: 
 - oompType: HEAD
 - oompSize: I01

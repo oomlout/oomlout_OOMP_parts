@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPT-1210-X-UF100-V10
-- name: SMD (1210) 100 uF Capacitor (Tantalum) 10v
 - hexID: C1U100
 - oompSort: CAPT1210UF100
 - oompType: CAPT

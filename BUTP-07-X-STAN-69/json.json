@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "BUTP-07-X-STAN-69"
-        },
-        {
-            "name": "name",
-            "value": " 7 mm Pushbutton Panel Mount "
-        },
-        {
             "name": "hexID",
             "value": "BP07"
         },
@@ -46,7 +38,7 @@
         },
         {
             "name": "name",
-            "value": " 7 mm Pushbutton Panel Mount "
+            "value": "7 mm Pushbutton Panel Mount"
         }
     ]
 }

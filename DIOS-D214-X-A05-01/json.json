@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DIOS-D214-X-A05-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (DO-214) 5 Amp Diode (Schottky)"
-        },
-        {
             "name": "hexID",
             "value": "DS205"
         },

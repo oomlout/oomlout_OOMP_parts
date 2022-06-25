@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "3980"
-        },
-        {
-            "name": "oompID",
-            "value": "RESE-W04-X-O271-01"
-        },
-        {
-            "name": "name",
-            "value": "1/4 Watt 270 Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R4271"
         },

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "XTAL-5032-X-MZ12-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (5032) 12 MHz Crystal"
-        },
-        {
             "name": "hexID",
             "value": "XS512"
         },

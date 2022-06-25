@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-VQF32-X-K328-01"
-        },
-        {
-            "name": "name",
-            "value": "32 Pin SMD (VQFN) AtMega328P"
-        },
-        {
             "name": "hexID",
             "value": "ICSV328"
         },

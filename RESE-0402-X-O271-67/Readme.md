@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O271-67
-- name: SMD (0402) 270 Ohm Resistor 1%
 - hexID: R42271A
 - hexID: R42
 - hexID: R42

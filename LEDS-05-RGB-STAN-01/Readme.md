@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-RGB-STAN-01
-- name: 5 mm RGB LED
 - hexID: L5RGB
 - oompSort: LEDS05STAN
 - oompType: LEDS

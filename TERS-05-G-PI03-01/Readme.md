@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: TERS-05-G-PI03-01
-- name: 5 mm 3 Pin Green Screw Terminal
 - hexID: ST502G
 - oompSort: 
 - oompClass: Through Hole

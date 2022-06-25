@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: INDU-0402-X-NH47D-01
-- name: SMD (0402) 4.7 nH Inductor
 - hexID: IN42N47D
 - oompSort: INDU0402NH47D
 - oompType: INDU

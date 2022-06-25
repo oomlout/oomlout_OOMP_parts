@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O512-67
-- name: SMD (0402) 5.1k Ohm Resistor 1%
 - hexID: R42512A
 - oompDesc: O512
 - oompType: RESE

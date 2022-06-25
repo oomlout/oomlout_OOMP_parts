@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: MOSP-SO23-X-A41D-01
-- name: SMD (SOT-23) 4.1 Amp P-Ch. MOSFET
 - hexID: MPS241D
 - oompSort: 
 - oompClass: Surface Mount

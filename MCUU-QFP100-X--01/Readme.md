@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [MCUU-QFP100-X--01>100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU](#mcuu-qfp100-x--01100-pin-smd-tqfp-stepper-motor-driver-a4988-mcu)
+* [MCUU-QFP100-X--01>100 Pin SMD (TQFP) MCU](#mcuu-qfp100-x--01100-pin-smd-tqfp-mcu)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MCUU-QFP100-X--01>100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
+# MCUU-QFP100-X--01>100 Pin SMD (TQFP) MCU
 
 - ID: MCUU-QFP100-X--01
 - Name: MCUU-QFP100-X--01
@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: MCUU-QFP100-X-K2560-01
-- name: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
 - oompType: MCUU
 - oompSize: QFP100
 - oompColor: X

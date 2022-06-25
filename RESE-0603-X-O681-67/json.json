@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O681-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 680 Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R6681A"
         },

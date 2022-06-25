@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "TRNN-SO23-X-A05D-02"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23) 500 mA NPN Transistor"
-        },
-        {
             "name": "hexID",
             "value": "TNS25D2"
         },

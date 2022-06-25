@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "TERS-05-G-PI03-01"
-        },
-        {
-            "name": "name",
-            "value": "5 mm 3 Pin Green Screw Terminal"
-        },
-        {
             "name": "hexID",
             "value": "ST502G"
         },

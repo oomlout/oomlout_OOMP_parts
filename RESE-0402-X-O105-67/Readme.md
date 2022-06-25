@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O105-67
 - hexID: R42105A
 - oompDesc: O105
-- name: SMD (0402) 1M Ohm Resistor 1%
 - oompSort: RESE0402O105
 - oompType: RESE
 - oompSize: 0402

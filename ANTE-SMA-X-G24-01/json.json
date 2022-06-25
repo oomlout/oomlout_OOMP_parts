@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ANTE-SMA-X-G24-01"
-        },
-        {
-            "name": "name",
-            "value": "SMA 2.4 Ghz Antenna"
-        },
-        {
             "name": "hexID",
             "value": "AN24SM"
         },

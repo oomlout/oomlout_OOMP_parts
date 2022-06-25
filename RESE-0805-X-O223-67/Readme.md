@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O223-67
-- name: SMD (0805) 22k Ohm Resistor 1%
 - hexID: R85223A
 - oompDesc: O223
 - oompType: RESE

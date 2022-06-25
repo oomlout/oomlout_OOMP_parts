@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-06-O-STAN-01
-- name: 6 mm Orange Heat Shrink
 - hexID: HS6O
 - oompSort: 0606O
 - oompType: HESH

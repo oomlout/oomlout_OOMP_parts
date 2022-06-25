@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O123-01
-- name: SMD (0603) 12k Ohm Resistor
 - hexID: R6123
 - ooPackageMarking: 123
 - oompDesc: O123

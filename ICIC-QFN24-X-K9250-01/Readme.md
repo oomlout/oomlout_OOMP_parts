@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-QFN24-X-K9250-01
-- name: 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
 - hexID: ICS9250
 - oompSort: ICICQFN24K9250
 - oompType: ICIC

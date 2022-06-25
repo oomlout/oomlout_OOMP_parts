@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "DIOD-I03-X-A01-V50"
-        },
-        {
-            "name": "name",
-            "value": "7.62 mm 1 Amp Diode 50v"
-        },
-        {
             "name": "hexID",
             "value": "DT01"
         },

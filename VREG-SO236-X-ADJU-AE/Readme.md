@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-SO236-X-ADJU-AE
-- name: SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
 - hexID: VS36A
 - oompSort: VREGSO236ADJU
 - oompType: VREG

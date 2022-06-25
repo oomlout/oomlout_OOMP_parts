@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-0805-L-STAN-01
-- name: SMD (0805) Blue LED
 - hexID: L85L
 - oompSort: LEDS0805STAN
 - oompType: LEDS

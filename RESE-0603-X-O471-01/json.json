@@ -1,20 +1,12 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O471-01"
-        },
-        {
             "name": "hexID",
             "value": "R6471"
         },
         {
             "name": "hexID",
             "value": "R6471"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 470 Ohm Resistor"
         },
         {
             "name": "ooPackageMarking",

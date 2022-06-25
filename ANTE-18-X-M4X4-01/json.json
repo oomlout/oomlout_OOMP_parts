@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ANTE-18-X-M4X4-01"
-        },
-        {
-            "name": "name",
-            "value": "18 mm Quad Band (850/900/1800/1900 Mhz) Antenna"
-        },
-        {
             "name": "hexID",
             "value": "AN4X18"
         },

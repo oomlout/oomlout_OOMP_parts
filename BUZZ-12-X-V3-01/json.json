@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "BUZZ-12-X-V3-01"
-        },
-        {
-            "name": "name",
-            "value": "12 mm 3v Buzzer"
-        },
-        {
             "name": "hexID",
             "value": "BZ12"
         },

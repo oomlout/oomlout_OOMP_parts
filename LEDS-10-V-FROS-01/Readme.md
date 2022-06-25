@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-10-V-FROS-01
-- name: 10 mm Frosted Purple LED
 - hexID: L10V
 - oompSort: 1010V
 - oompType: LEDS

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO23-X-BUCA-A2"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A"
-        },
-        {
             "name": "hexID",
             "value": "VS3BA"
         },

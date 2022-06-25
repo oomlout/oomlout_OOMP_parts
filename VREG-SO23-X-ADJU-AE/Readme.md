@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-SO23-X-ADJU-AE
-- name: SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 - hexID: VS3A2D
 - oompSort: VREGSO23ADJU
 - oompType: VREG

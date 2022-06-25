@@ -1,20 +1,12 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O332-01"
-        },
-        {
             "name": "hexID",
             "value": "R42332"
         },
         {
             "name": "oompDesc",
             "value": "O332"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 3.3k Ohm Resistor"
         },
         {
             "name": "oompType",

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: NNUT-M3-X-STAN-01
-- name: M3 Nylon Nut
 - hexID: NN3
 - oompSort: M3M3
 - oompType: NNUT

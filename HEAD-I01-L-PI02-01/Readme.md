@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-L-PI02-01
-- name: 2.54 mm 2 Pin Blue Header
 - hexID: H02L
 - oompSort: 
 - oompClass: Through Hole

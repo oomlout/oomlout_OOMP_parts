@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-DFN8-X-BUCA-A2"
-        },
-        {
-            "name": "name",
-            "value": "SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A"
-        },
-        {
             "name": "hexID",
             "value": "VSD8A"
         },

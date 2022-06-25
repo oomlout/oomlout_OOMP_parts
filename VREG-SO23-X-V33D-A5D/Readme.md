@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-SO23-X-V33D-A5D
-- name: SMD (SOT-23) 3.3v Voltage Regulator 500 mA
 - hexID: VS235
 - oompSort: SO233.300.500
 - oompType: VREG

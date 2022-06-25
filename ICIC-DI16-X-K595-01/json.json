@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "ICIC-DI16-X-K595-01"
-        },
-        {
-            "name": "name",
-            "value": "16 Pin DIP 74HC595 8-Bit Shift Register (Latching)"
-        },
-        {
             "name": "hexID",
             "value": "ICSR"
         },

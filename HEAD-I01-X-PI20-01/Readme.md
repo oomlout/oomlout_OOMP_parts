@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI20-01
-- name: 2.54 mm 20 Pin Header
 - hexID: H20
 - oompSort: 010120
 - oompType: HEAD

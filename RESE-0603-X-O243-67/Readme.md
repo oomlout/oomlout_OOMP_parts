@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0603-X-O243-67>SMD (0603) 25k Ohm Resistor 1%](#rese-0603-x-o243-67smd-0603-25k-ohm-resistor-1)
+* [RESE-0603-X-O243-67>SMD (0603) 24k Ohm Resistor 1%](#rese-0603-x-o243-67smd-0603-24k-ohm-resistor-1)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -15,7 +15,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0603-X-O243-67>SMD (0603) 25k Ohm Resistor 1%
+# RESE-0603-X-O243-67>SMD (0603) 24k Ohm Resistor 1%
 
 - ID: RESE-0603-X-O243-67
 - Name: RESE-0603-X-O243-67
@@ -52,9 +52,7 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O243-67
 - hexID: R6243A
-- name: SMD (0603) 25k Ohm Resistor 1%
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X

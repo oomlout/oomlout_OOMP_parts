@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-06-V-STAN-01
-- name: 6 mm Purple Heat Shrink
 - hexID: HS6V
 - oompSort: 0606V
 - oompType: HESH

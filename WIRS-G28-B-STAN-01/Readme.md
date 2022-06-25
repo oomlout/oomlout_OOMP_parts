@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: WIRS-G28-B-STAN-01
-- name: 28 AWG Black Stranded Wire
 - hexID: W2B
 - oompSort: 0G28B
 - oompType: WIRS

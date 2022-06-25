@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4315"
-        },
-        {
-            "name": "oompID",
-            "value": "BUTA-06-X-SMDS-01"
-        },
-        {
-            "name": "name",
-            "value": "6 mm SMD Pushbutton (Tactile)"
-        },
-        {
             "name": "hexID",
             "value": "B06"
         },

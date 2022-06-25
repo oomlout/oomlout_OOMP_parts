@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-NF100-V50
-- name: SMD (0805) 100 nF Capacitor (Ceramic) 50v
 - hexID: C85N100
 - oompType: CAPC
 - oompSize: 0805

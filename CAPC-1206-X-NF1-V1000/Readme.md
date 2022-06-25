@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-1206-X-NF1-V1000
-- name: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
 - hexID: C1N001
 - oompType: CAPC
 - oompSize: 1206

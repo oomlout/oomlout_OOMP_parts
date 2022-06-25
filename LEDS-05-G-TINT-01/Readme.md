@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-G-TINT-01
-- name: 5 mm Tinted Green LED
 - hexID: LT5G
 - oompSort: 0505ZTINTG
 - oompType: LEDS

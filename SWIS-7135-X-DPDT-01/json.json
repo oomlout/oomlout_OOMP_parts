@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "SWIS-7135-X-DPDT-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (7135) DPDT Switch (Slide)"
-        },
-        {
             "name": "hexID",
             "value": "SS7135"
         },

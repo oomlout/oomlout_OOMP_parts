@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O134-67
-- name: SMD (0402) 130k Ohm Resistor 1%
 - hexID: R42134A
 - oompDesc: O134
 - oompType: RESE

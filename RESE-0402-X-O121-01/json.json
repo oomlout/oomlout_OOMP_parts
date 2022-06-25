@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O121-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 120 Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R42121"
         },

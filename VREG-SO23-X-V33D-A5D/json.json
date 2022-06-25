@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4325"
-        },
-        {
-            "name": "oompID",
-            "value": "VREG-SO23-X-V33D-A5D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23) 3.3v Voltage Regulator 500 mA"
-        },
-        {
             "name": "hexID",
             "value": "VS235"
         },

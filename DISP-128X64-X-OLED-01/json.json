@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DISP-128X64-X-OLED-01"
-        },
-        {
-            "name": "name",
-            "value": "128 x 64 Pixels OLED Display"
-        },
-        {
             "name": "hexID",
             "value": "DS16OL"
         },

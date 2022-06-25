@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-VQF44-X-K32U4-01"
-        },
-        {
-            "name": "name",
-            "value": "44 Pin SMD (VQFN) AtMega32U4"
-        },
-        {
             "name": "hexID",
             "value": "ICSV32U4"
         },

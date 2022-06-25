@@ -44,8 +44,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O103-01
-- name: SMD (0805) 10k Ohm Resistor
 - ooPackageMarking: 103
 - hexID: R85103
 - oompSort: 

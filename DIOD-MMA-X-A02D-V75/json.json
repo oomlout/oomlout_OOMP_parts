@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DIOD-MMA-X-A02D-V75"
-        },
-        {
-            "name": "name",
-            "value": "SMD (Mini MELF) 200 mA Diode 75v"
-        },
-        {
             "name": "hexID",
             "value": "DSM2D"
         },

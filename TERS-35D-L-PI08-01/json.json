@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "TERS-35D-L-PI08-01"
-        },
-        {
-            "name": "name",
-            "value": "3.5 mm 8 Pin Blue Screw Terminal"
-        },
-        {
             "name": "hexID",
             "value": "ST308L"
         },

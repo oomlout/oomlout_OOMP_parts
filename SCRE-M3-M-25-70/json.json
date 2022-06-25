@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4226"
-        },
-        {
-            "name": "oompID",
-            "value": "SCRE-M3-M-25-70"
-        },
-        {
-            "name": "name",
-            "value": "M3 x 25 mm Machine Screw Cross Head"
-        },
-        {
             "name": "hexID",
             "value": "M325"
         },
@@ -58,7 +46,7 @@
         },
         {
             "name": "name",
-            "value": "M3 x 25 mm Machine Screw Cross Head"
+            "value": "M3 x 25 mm Metal Machine Screw Cross Head"
         }
     ]
 }

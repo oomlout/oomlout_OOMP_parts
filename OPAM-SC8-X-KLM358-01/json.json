@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "OPAM-SC8-X-KLM358-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOIC-8) LM358 Op Amp"
-        },
-        {
             "name": "hexID",
             "value": "OAS358"
         },
@@ -58,7 +50,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (SOIC-8) LM358 Op Amp"
+            "value": "8 Pin SMD (SOIC) LM358 Op Amp"
         }
     ]
 }

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "MOSN-SO323-X-A02D-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-323) 200 mA N-Ch. MOSFET"
-        },
-        {
             "name": "hexID",
             "value": "MNS22D"
         },

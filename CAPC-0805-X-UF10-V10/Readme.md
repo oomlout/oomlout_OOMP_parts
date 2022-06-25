@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-UF10-V10
-- name: SMD (0805) 10 uF Capacitor (Ceramic) 10v
 - hexID: C85U010
 - oompSort: CAPC0805UF10
 - oompType: CAPC

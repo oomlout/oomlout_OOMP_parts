@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-SP20-X-K1637-01"
-        },
-        {
-            "name": "name",
-            "value": "20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)"
-        },
-        {
             "name": "hexID",
             "value": "ICS1637"
         },

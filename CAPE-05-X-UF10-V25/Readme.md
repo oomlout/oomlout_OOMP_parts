@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-05-X-UF10-V25
-- name: 5 mm 10 uF Capacitor (Electrolytic) 25v
 - hexID: CEU010
 - oompSort: THTH0.00001000000000
 - oompType: CAPE

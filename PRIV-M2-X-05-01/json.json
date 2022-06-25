@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "PRIV-M2-X-05-01"
-        },
-        {
-            "name": "name",
-            "value": "M2 x 5 mm Plastic Rivet"
-        },
-        {
             "name": "hexID",
             "value": "PR25"
         },

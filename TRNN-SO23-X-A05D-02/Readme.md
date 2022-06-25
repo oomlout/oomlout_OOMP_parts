@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: TRNN-SO23-X-A05D-02
-- name: SMD (SOT-23) 500 mA NPN Transistor
 - hexID: TNS25D2
 - oompSort: TRNNSO23A05D
 - oompType: TRNN

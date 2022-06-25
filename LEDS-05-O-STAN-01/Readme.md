@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-O-STAN-01
-- name: 5 mm Orange LED
 - hexID: L5O
 - oompSort: 
 - oompClass: Through Hole

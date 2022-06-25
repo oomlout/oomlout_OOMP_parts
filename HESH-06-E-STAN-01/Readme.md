@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-06-E-STAN-01
-- name: 6 mm Grey Heat Shrink
 - hexID: HS6E
 - oompSort: 0606E
 - oompType: HESH

@@ -44,8 +44,6 @@ Contents
 
 ## Tags
 
-- oompID: POTE-07-X-O103-01
-- name: 7 mm 10k Ohm Potentiometer
 - hexID: PT7103
 - oompSort: 
 - oompClass: Through Hole Component

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "SWIS-09-X-SPDT-68"
-        },
-        {
-            "name": "name",
-            "value": " 9 mm SPDT Switch (Slide) Side Adjust "
-        },
-        {
             "name": "hexID",
             "value": "SSW9S"
         },
@@ -54,7 +46,7 @@
         },
         {
             "name": "name",
-            "value": " 9 mm SPDT Switch (Slide) Side Adjust "
+            "value": "9 mm SPDT Switch (Slide) Side Adjust"
         }
     ]
 }

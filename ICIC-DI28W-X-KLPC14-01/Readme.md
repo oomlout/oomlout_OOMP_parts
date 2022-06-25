@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [ICIC-DI28W-X-KLPC14-01>28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)](#icic-di28w-x-klpc14-0128-pin-dip-06-dip-lpc1114-cortex-m0)
+* [ICIC-DI28W-X-KLPC14-01>28 Pin DIP (0.6") LPC1114 (Cortex M0)](#icic-di28w-x-klpc14-0128-pin-dip-06-lpc1114-cortex-m0)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-DI28W-X-KLPC14-01>28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)
+# ICIC-DI28W-X-KLPC14-01>28 Pin DIP (0.6") LPC1114 (Cortex M0)
 
 - ID: ICIC-DI28W-X-KLPC14-01
 - Name: ICIC-DI28W-X-KLPC14-01
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-DI28W-X-KLPC14-01
-- name: 28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)
 - hexID: ICLPC14
 - oompSort: 
 - oompClass: Through Hole

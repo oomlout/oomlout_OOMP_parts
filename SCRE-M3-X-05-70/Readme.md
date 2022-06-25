@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: SCRE-M3-X-05-70
-- name: M3 x 5 mm Machine Screw Cross Head
 - hexID: M35
 - oompSort: SCREM305
 - oompType: SCRE

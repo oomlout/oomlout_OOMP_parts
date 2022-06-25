@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-S63D-X-UF220-V16
-- name: SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v
 - hexID: CESU220
 - oompSort: CAPES63DUF220
 - oompType: CAPE

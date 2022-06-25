@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-03-B-STAN-01
-- name: 3 mm Black Heat Shrink
 - hexID: HS3B
 - oompSort: 0303B
 - oompType: HESH

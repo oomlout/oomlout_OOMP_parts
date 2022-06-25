@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: POTE-07-X-O102-01
-- name: 7 mm 1k Ohm Potentiometer
 - hexID: PT7102
 - oompSort: POTE07O102
 - oompType: POTE

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "INDU-06-X-UH10-01"
-        },
-        {
-            "name": "name",
-            "value": "6 mm 10 uH Inductor"
-        },
-        {
             "name": "hexID",
             "value": "IN06U10"
         },

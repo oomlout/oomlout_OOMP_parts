@@ -52,8 +52,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O391-01
-- name: SMD (0603) 390 Ohm Resistor
 - hexID: R6391
 - ooPackageMarking: 391
 - oompSort: 06030000390

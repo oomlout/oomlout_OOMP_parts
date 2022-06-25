@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0402-X-NF100-V10"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 100 nF Capacitor (Ceramic) 10v"
-        },
-        {
             "name": "hexID",
             "value": "C42N100"
         },

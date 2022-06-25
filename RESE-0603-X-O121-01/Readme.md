@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O121-01
-- name: SMD (0603) 120 Ohm Resistor
 - hexID: R6121
 - ooPackageMarking: 121
 - oompDesc: O121

@@ -45,11 +45,9 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O102-01
 - hexID: R85102
 - ooPackageMarking: 102
 - oompDesc: O102
-- name: SMD (0805) 1k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

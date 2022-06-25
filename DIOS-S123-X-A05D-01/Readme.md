@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOS-S123-X-A05D-01
-- name: SMD (SOD-123) 500 mA Diode (Schottky)
 - hexID: DS35D
 - oompSort: 
 - oompClass: Surface Mount

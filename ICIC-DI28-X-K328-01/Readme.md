@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-DI28-X-K328-01
-- name: 28 Pin DIP AtMega328P
 - hexID: IC328
 - oompSort: ATMega 328
 - oompType: ICIC

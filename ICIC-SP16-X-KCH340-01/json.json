@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-SP16-X-KCH340-01"
-        },
-        {
-            "name": "name",
-            "value": "16 Pin SMD (SOP) USB-Serial (CH340)"
-        },
-        {
             "name": "hexID",
             "value": "IC340"
         },

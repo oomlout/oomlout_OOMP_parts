@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O104-67
-- name: SMD (0805) 100k Ohm Resistor 1%
 - hexID: R85104A
 - oompSort: 
 - oompClass: Surface Mount

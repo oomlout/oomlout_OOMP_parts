@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: TRNN-T92-X-K222-01
-- name: TO-92 2222A NPN Transistor
 - hexID: NT92222
 - oompSort: 0T922222
 - oompType: TRNN

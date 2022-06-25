@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0805-X-O223-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) 22k Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R85223A"
         },

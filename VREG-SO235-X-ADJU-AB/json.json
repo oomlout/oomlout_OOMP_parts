@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO235-X-ADJU-AB"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A"
-        },
-        {
             "name": "hexID",
             "value": "VS5AB"
         },

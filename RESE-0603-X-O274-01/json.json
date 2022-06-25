@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O274-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 280k Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R6274"
         },
@@ -94,7 +86,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (0603) 280k Ohm Resistor"
+            "value": "SMD (0603) 270k Ohm Resistor"
         }
     ]
 }

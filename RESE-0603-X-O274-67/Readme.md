@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O274-67
-- name: SMD (0603) 270k Ohm Resistor 1%
 - hexID: R6274A
 - oompType: RESE
 - oompSize: 0603

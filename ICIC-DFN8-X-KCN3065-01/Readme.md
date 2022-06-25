@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-DFN8-X-KCN3065-01
-- name: SMD (DFN-8) Lithium Ion Battery Charger (CN3065)
 - hexID: ICS3065
 - oompSort: 
 - oompClass: Surface Mount

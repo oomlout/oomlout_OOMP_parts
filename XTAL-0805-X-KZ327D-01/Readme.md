@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: XTAL-0805-X-KZ327D-01
-- name: SMD (0805) 32.768 kHz Crystal
 - hexID: X85K327D
 - oompSort: XTAL0805KZ327D
 - oompType: XTAL

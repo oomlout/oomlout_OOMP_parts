@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O181-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 180 Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R42181A"
         },

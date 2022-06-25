@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O332-01
 - hexID: R42332
 - oompDesc: O332
-- name: SMD (0402) 3.3k Ohm Resistor
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-SP20-X-KHT46-01"
-        },
-        {
-            "name": "name",
-            "value": " 20 Pin SMD (SOP) Holtek HT46R066 "
-        },
-        {
             "name": "hexID",
             "value": "ICSKHT46"
         },
@@ -150,7 +142,7 @@
         },
         {
             "name": "name",
-            "value": " 20 Pin SMD (SOP) Holtek HT46R066 "
+            "value": "20 Pin SMD (SOP) Holtek HT46R066"
         }
     ]
 }

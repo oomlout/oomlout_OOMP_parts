@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O472-01
 - hexID: R42472
 - oompDesc: O472
-- name: SMD (0402) 4.7k Ohm Resistor
 - oompSort: RESE0402O472
 - oompType: RESE
 - oompSize: 0402

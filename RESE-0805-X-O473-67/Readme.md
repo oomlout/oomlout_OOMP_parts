@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O473-67
-- name: SMD (0805) 47k Ohm Resistor 1%
 - hexID: R85473A
 - oompSort: 
 - oompClass: Surface Mount

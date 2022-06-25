@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DISP-7SEL-R-4DIG-01
-- name: 7 Segment LED 4 Digit Red Display
 - hexID: DS74R
 - oompSort: DISP07SE4DIG
 - oompType: DISP

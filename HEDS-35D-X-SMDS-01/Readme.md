@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HEDS-35D-X-SMDS-01
-- name: 3.5 mm SMD Headphone Socket
 - hexID: 10C1
 - oompSort: 
 - oompType: HEDS

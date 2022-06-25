@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-QFP44-X-K32U4-01
-- name: 44 Pin SMD (TQFP) AtMega32U4
 - hexID: ICSQ32U4
 - oompSort: 
 - oompClass: Surface Mount

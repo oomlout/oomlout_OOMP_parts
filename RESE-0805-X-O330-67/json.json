@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0805-X-O330-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) 33 Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R85330A"
         },

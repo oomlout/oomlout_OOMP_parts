@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: FERB-0805-X-O331-01
-- name: SMD (0805) 330 Ohm Ferrite Bead
 - hexID: F85331
 - oompSort: FERB0805O331
 - oompType: FERB

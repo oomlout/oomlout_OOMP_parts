@@ -45,10 +45,8 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O499D-67
 - hexID: R42499A
 - oompDesc: O499D
-- name: SMD (0402) 49.9 Ohm Resistor 1%
 - oompSort: RESE0402O499D
 - oompType: RESE
 - oompSize: 0402

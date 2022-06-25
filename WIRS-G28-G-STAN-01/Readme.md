@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: WIRS-G28-G-STAN-01
-- name: 28 AWG Green Stranded Wire
 - hexID: W2G
 - oompSort: 0G28G
 - oompType: WIRS

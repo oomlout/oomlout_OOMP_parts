@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O514-01
-- name: SMD (0402) 510k Ohm Resistor
 - hexID: R42514
 - oompDesc: O514
 - oompType: RESE

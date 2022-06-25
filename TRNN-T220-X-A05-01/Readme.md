@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: TRNN-T220-X-A05-01
-- name: TO-220 5 Amp NPN Transistor
 - hexID: TN120
 - oompSort: TRNNT220A05
 - oompType: TRNN

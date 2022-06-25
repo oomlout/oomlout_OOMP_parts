@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O823-67
-- name: SMD (0402) 82k Ohm Resistor 1%
 - hexID: R42823A
 - oompDesc: O823
 - oompType: RESE

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOD-S123-X-ESDP-01
-- name: SMD (SOD-123) ESD Protection Diode
 - hexID: DS3EP
 - oompSort: 
 - oompClass: Surface Mount

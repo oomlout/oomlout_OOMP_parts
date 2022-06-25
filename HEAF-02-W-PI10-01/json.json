@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAF-02-W-PI10-01"
-        },
-        {
-            "name": "name",
-            "value": "2 mm 10 Pin White Female Header"
-        },
-        {
             "name": "hexID",
             "value": "HF210W"
         },

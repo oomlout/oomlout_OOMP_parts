@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O15X-01
-- name: SMD (0402) 1.5 Ohm Resistor
 - hexID: R4215X
 - oompSort: 
 - oompClass: Surface Mount

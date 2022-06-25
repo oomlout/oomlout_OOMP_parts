@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-PI10-01
-- name: 2.54 mm 10 Pin Female Header
 - hexID: HF10
 - oompSort: A010110
 - oompType: HEAF

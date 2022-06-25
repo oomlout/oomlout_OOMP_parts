@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "MCUU-QFN32-X-K16U2-01"
-        },
-        {
-            "name": "name",
-            "value": "32 Pin SMD (QFN) AtMega32U4 MCU"
-        },
-        {
             "name": "oompType",
             "value": "MCUU"
         },
@@ -46,7 +38,7 @@
         },
         {
             "name": "name",
-            "value": "32 Pin SMD (QFN) AtMega32U4 MCU"
+            "value": "32 Pin SMD (QFN) MCU"
         }
     ]
 }

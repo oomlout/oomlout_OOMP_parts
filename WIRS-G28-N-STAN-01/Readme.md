@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: WIRS-G28-N-STAN-01
-- name: 28 AWG Brown Stranded Wire
 - hexID: W2N
 - oompSort: 0G28N
 - oompType: WIRS

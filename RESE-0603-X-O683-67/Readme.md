@@ -52,8 +52,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O683-67
-- name: SMD (0603) 68k Ohm Resistor 1%
 - hexID: R6683A
 - oompDesc: O683
 - oompType: RESE

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: JSTS-02-X-PI02-RA
-- name: 2 mm 2 Pin JST Socket Right Angle
 - hexID: J202R
 - oompSort: 
 - oompClass: Through Hole

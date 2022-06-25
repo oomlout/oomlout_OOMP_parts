@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-10-G-FROS-01
-- name: 10 mm Frosted Green LED
 - hexID: L10G
 - oompSort: 1010G
 - oompType: LEDS

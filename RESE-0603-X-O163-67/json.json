@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O163-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 16k Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R6163A"
         },

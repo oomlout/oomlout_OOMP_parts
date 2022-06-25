@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "REFU-1206-X-A075D-V132D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206) 750 mA Resetable Fuse 13.2v"
-        },
-        {
             "name": "hexID",
             "value": "RF1175D"
         },

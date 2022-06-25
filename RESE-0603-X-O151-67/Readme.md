@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O151-67
-- name: SMD (0603) 150 Ohm Resistor 1%
 - hexID: R6151A
 - oompDesc: O151
 - oompType: RESE

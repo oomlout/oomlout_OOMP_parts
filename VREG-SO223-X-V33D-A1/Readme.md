@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: VREG-SO223-X-V33D-A1
-- name: SMD (SOT-223) 3.3v Voltage Regulator 1 A
 - hexID: VS231
 - oompSort: SO223.301.000
 - oompType: VREG

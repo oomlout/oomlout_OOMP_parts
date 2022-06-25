@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "4275"
-        },
-        {
-            "name": "oompID",
-            "value": "REFU-1206-X-A05D-V8"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206) 500 mA Resetable Fuse 8v"
-        },
-        {
             "name": "hexID",
             "value": "RF15"
         },

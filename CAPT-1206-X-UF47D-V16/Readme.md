@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPT-1206-X-UF47D-V16
-- name: SMD (1206) 4.7 uF Capacitor (Tantalum) 16v
 - hexID: C1U004D
 - oompSort: CAPT1206UF47D
 - oompType: CAPT

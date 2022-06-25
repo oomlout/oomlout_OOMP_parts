@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-SO223-X-ADJU-A1"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-223) Adjustable Voltage Regulator 1 A"
-        },
-        {
             "name": "hexID",
             "value": "VS2A1"
         },

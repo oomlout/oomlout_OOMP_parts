@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "POTE-95D-X-O103-01"
-        },
-        {
-            "name": "name",
-            "value": "9.5 mm 10k Ohm Potentiometer"
-        },
-        {
             "name": "hexID",
             "value": "PT95103"
         },

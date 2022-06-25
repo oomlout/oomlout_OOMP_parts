@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O511-67
-- name: SMD (0805) 510 Ohm Resistor 1%
 - hexID: R85511A
 - oompDesc: O511
 - oompType: RESE

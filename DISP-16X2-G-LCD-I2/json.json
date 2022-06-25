@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DISP-16X2-G-LCD-I2"
-        },
-        {
-            "name": "name",
-            "value": " 16 x 2 Character LCD Green Display (I2C) "
-        },
-        {
             "name": "hexID",
             "value": "DS16"
         },
@@ -66,7 +58,7 @@
         },
         {
             "name": "name",
-            "value": " 16 x 2 Character LCD Green Display (I2C) "
+            "value": "16 x 2 Character LCD Green Display (I2C)"
         }
     ]
 }

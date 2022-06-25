@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-W04-X-O682-01
-- name: 1/4 Watt 6.8k Ohm Resistor
 - hexID: R4682
 - oompSort: 0W040006800
 - oompType: RESE

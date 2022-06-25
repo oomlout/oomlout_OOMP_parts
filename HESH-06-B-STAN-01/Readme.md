@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HESH-06-B-STAN-01
-- name: 6 mm Black Heat Shrink
 - hexID: HS6B
 - oompSort: 0303B
 - oompType: HESH

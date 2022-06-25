@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "FERB-0402-X-O182-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 1.8k Ohm Ferrite Bead"
-        },
-        {
             "name": "hexID",
             "value": "F42182"
         },

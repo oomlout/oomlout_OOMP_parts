@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-W04-X-O223-01
-- name: 1/4 Watt 22k Ohm Resistor
 - hexID: R4223
 - oompSort: 0W040022000
 - oompType: RESE

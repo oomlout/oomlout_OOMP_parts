@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CABL-200-X-GROV-01
-- name: 200 mm Grove Cable
 - hexID: CBG200
 - oompSort: CABL200GROV
 - oompType: CABL

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0805-X-UF47D-V25"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0805) 4.7 uF Capacitor (Ceramic) 25v"
-        },
-        {
             "name": "hexID",
             "value": "C85U004"
         },

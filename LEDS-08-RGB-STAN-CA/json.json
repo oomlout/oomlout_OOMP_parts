@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "LEDS-08-RGB-STAN-CA"
-        },
-        {
-            "name": "name",
-            "value": "8 mm RGB LED Common Anode"
-        },
-        {
             "name": "hexID",
             "value": "L8RGB"
         },

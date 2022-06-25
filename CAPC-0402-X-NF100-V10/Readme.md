@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0402-X-NF100-V10
-- name: SMD (0402) 100 nF Capacitor (Ceramic) 10v
 - hexID: C42N100
 - oompType: CAPC
 - oompSize: 0402

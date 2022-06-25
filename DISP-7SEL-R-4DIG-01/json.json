@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DISP-7SEL-R-4DIG-01"
-        },
-        {
-            "name": "name",
-            "value": "7 Segment LED 4 Digit Red Display"
-        },
-        {
             "name": "hexID",
             "value": "DS74R"
         },

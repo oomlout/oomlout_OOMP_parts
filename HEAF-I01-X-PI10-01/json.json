@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "9876"
-        },
-        {
-            "name": "oompID",
-            "value": "HEAF-I01-X-PI10-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 10 Pin Female Header"
-        },
-        {
             "name": "hexID",
             "value": "HF10"
         },

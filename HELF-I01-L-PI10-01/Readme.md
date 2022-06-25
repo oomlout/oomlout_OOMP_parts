@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: HELF-I01-L-PI10-01
-- name: 2.54 mm 10 Pin Blue Female Header (Long)
 - hexID: HFL10L
 - oompSort: 
 - oompClass: Through Hole

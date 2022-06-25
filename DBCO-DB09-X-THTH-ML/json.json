@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "DBCO-DB09-X-THTH-ML"
-        },
-        {
-            "name": "name",
-            "value": "DB9 Connector Male"
-        },
-        {
             "name": "hexID",
             "value": "DB09M"
         },
@@ -58,7 +50,7 @@
         },
         {
             "name": "name",
-            "value": "DB9 Connector Male"
+            "value": "DB9 Through Hole Connector Male"
         }
     ]
 }

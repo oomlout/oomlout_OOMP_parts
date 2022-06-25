@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": "3975"
-        },
-        {
-            "name": "oompID",
-            "value": "LEDS-10-O-FROS-01"
-        },
-        {
-            "name": "name",
-            "value": "10 mm Frosted Orange LED"
-        },
-        {
             "name": "hexID",
             "value": "L10O"
         },

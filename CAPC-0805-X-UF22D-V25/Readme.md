@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-UF22D-V25
-- name: SMD (0805) 2.2 uF Capacitor (Ceramic) 25v
 - hexID: C85U002
 - oompType: CAPC
 - oompSize: 0805

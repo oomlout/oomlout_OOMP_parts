@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O4022-67"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 40k Ohm Resistor 1%"
-        },
-        {
             "name": "hexID",
             "value": "R6402"
         },
@@ -98,7 +90,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (0603) 40k Ohm Resistor 1%"
+            "value": "SMD (0603) 4k Ohm Resistor 1%"
         }
     ]
 }

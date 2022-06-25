@@ -45,11 +45,9 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O222-01
 - hexID: R85222
 - ooPackageMarking: 222
 - oompDesc: O222
-- name: SMD (0805) 2.2k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

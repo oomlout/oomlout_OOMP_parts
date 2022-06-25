@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O561-01
-- name: SMD (0603) 560 Ohm Resistor
 - hexID: R6561
 - ooPackageMarking: 561
 - oompDesc: O561

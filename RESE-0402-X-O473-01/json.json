@@ -1,20 +1,12 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O473-01"
-        },
-        {
             "name": "hexID",
             "value": "R42473"
         },
         {
             "name": "oompDesc",
             "value": "O473"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 47k Ohm Resistor"
         },
         {
             "name": "oompSort",

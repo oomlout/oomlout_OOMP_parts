@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-W-PI03-01
-- name: 2.54 mm 3 Pin White Header
 - hexID: H03W
 - oompSort: 
 - oompClass: Through Hole

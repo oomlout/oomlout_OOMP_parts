@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [SCRE-M3-M-12-70>M3 x 12 mm Machine Screw Cross Head](#scre-m3-m-12-70m3-x-12-mm-machine-screw-cross-head)
+* [SCRE-M3-M-12-70>M3 x 12 mm Metal Machine Screw Cross Head](#scre-m3-m-12-70m3-x-12-mm-metal-machine-screw-cross-head)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# SCRE-M3-M-12-70>M3 x 12 mm Machine Screw Cross Head
+# SCRE-M3-M-12-70>M3 x 12 mm Metal Machine Screw Cross Head
 
 - ID: SCRE-M3-M-12-70
 - Name: SCRE-M3-M-12-70
@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: SCRE-M3-M-12-70
-- name: M3 x 12 mm Machine Screw Cross Head
 - hexID: M312
 - oompSort: M3M312
 - oompType: SCRE

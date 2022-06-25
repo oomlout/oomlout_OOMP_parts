@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RJ45-21-X-SOCK-01"
-        },
-        {
-            "name": "name",
-            "value": "21 mm Socket RJ45"
-        },
-        {
             "name": "hexID",
             "value": "R45S"
         },

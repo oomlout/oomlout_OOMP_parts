@@ -45,11 +45,9 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O391-01
 - hexID: R85391
 - ooPackageMarking: 391
 - oompDesc: O391
-- name: SMD (0805) 390 Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "USBS-MC-X-SMDS-04"
-        },
-        {
-            "name": "name",
-            "value": "Micro SMD USB Socket"
-        },
-        {
             "name": "hexID",
             "value": "USM4"
         },

@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "INDU-39D-X-UH47D-01"
-        },
-        {
-            "name": "name",
-            "value": "3.9 mm 4.7 uH Inductor"
-        },
-        {
             "name": "hexID",
             "value": "IN39U47"
         },

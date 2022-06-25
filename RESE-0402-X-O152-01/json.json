@@ -1,20 +1,12 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O152-01"
-        },
-        {
             "name": "hexID",
             "value": "R4152"
         },
         {
             "name": "oompDesc",
             "value": "O152"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 1.5k Ohm Resistor"
         },
         {
             "name": "oompSort",

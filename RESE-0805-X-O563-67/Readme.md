@@ -35,8 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O563-67
-- name: SMD (0805) 56k Ohm Resistor 1%
 - hexID: R85563A
 - oompDesc: O563
 - oompType: RESE

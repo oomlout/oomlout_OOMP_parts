@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: LEDS-05-W-TINT-01
-- name: 5 mm Tinted White LED
 - hexID: LT5W
 - oompSort: 0505ZTINTW
 - oompType: LEDS

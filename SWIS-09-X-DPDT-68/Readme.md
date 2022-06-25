@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: SWIS-09-X-DPDT-68
-- name: 9 mm DPDT Switch (Slide) Side Adjust
 - hexID: SSW9S
 - oompSort: SWIS09DPDT
 - oompType: SWIS

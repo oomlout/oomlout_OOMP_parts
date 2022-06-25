@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: WIRS-G28-O-STAN-01
-- name: 28 AWG Orange Stranded Wire
 - hexID: W2O
 - oompSort: 0G28O
 - oompType: WIRS

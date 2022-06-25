@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: WIRS-G28-W-STAN-01
-- name: 28 AWG White Stranded Wire
 - hexID: W2W
 - oompSort: 0G28W
 - oompType: WIRS

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O121-01
-- name: SMD (0402) 120 Ohm Resistor
 - hexID: R42121
 - oompDesc: O121
 - oompType: RESE

@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOS-D214-X-A05-01
-- name: SMD (DO-214) 5 Amp Diode (Schottky)
 - hexID: DS205
 - oompSort: 
 - oompClass: Surcace Mount

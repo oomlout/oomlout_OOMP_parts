@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "VREG-T92-X-ADJU-AH"
-        },
-        {
-            "name": "name",
-            "value": "TO-92 Adjustable Voltage Regulator 100 mA"
-        },
-        {
             "name": "hexID",
             "value": "V92A"
         },

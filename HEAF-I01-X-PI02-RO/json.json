@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAF-I01-X-PI02-RO"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 2 Pin Female Header (Round)"
-        },
-        {
             "name": "hexID",
             "value": "HF2R"
         },

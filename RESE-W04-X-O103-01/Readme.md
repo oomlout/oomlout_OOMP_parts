@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-W04-X-O103-01
-- name: 1/4 Watt 10k Ohm Resistor
 - hexID: R4103
 - oompSort: 0W040010000
 - oompType: RESE

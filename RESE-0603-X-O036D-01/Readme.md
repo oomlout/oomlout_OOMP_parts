@@ -52,8 +52,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O036D-01
-- name: SMD (0603) 3.6 Ohm Resistor
 - hexID: R6036D
 - oompSort: RESE0603O036D
 - oompType: RESE

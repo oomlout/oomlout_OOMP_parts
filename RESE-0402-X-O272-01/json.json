@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O272-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 2.7k Ohm Resistor"
-        },
-        {
             "name": "hexID",
             "value": "R42272"
         },

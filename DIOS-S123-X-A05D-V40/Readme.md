@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOS-S123-X-A05D-V40
-- name: SMD (SOD-123) 500 mA Diode (Schottky) 40v
 - hexID: DS35D
 - oompSort: DIOSS123A05D
 - oompType: DIOS

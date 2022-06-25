@@ -63,8 +63,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-W04-X-O561-01
-- name: 1/4 Watt 560 Ohm Resistor
 - hexID: R4561
 - oompSort: 0W040000560
 - oompType: RESE

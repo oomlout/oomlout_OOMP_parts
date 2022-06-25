@@ -51,8 +51,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O204-67
-- name: SMD (0603) 200k Ohm Resistor 1%
 - hexID: R6204A
 - oompDesc: O204
 - oompType: RESE

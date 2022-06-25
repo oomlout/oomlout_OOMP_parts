@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "SDCS-MC-M-SMDS-02"
-        },
-        {
-            "name": "name",
-            "value": "Micro SMD Metal SD Card Socket"
-        },
-        {
             "name": "hexID",
             "value": "SDMS2"
         },

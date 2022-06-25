@@ -45,8 +45,6 @@ Contents
 
 ## Tags
 
-- oompID: TILS-11-X-STAN-01
-- name: 11 mm Tilt Switch
 - hexID: TS11
 - oompSort: TILS11STAN
 - oompType: TILS
