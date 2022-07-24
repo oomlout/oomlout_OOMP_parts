@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: MOTO-24-X-STAN-01
+- name: 24 mm Motor
 - hexID: MT24
 - oompSort: MOTO24STAN
 - oompType: MOTO

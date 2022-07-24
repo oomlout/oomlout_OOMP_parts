@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: JSTS-02-X-PI04-01
+- name: 2 mm 4 Pin JST Socket
 - hexID: J204
 - oompSort: 
 - oompClass: Through Hole

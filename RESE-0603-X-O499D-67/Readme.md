@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O499D-67
+- name: SMD (0603) 49.9 Ohm Resistor 1%
 - hexID: R6499DA
 - oompDesc: O499D
 - oompType: RESE

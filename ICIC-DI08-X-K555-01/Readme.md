@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [ICIC-DI08-X-K555-01>555 Timer](#icic-di08-x-k555-01555-timer)
+* [ICIC-DI08-X-K555-01>8 Pin DIP 555 Timer](#icic-di08-x-k555-018-pin-dip-555-timer)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-DI08-X-K555-01>555 Timer
+# ICIC-DI08-X-K555-01>8 Pin DIP 555 Timer
 
 - ID: ICIC-DI08-X-K555-01
 - Name: ICIC-DI08-X-K555-01
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-DI08-X-K555-01
+- name: 8 Pin DIP 555 Timer
 - hexID: IC555
 - oompSort: ICICDI08K555
 - oompType: ICIC

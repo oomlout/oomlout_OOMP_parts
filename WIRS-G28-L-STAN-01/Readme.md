@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: WIRS-G28-L-STAN-01
+- name: 28 AWG Blue Stranded Wire
 - hexID: W2L
 - oompSort: 0G28L
 - oompType: WIRS

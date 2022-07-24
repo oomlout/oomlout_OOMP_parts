@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAF-02-L-PI10-01
+- name: 2 mm 10 Pin Blue Female Header
 - hexID: H210
 - oompSort: 
 - oompClass: Through Hole

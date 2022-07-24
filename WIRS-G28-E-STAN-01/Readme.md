@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: WIRS-G28-E-STAN-01
+- name: 28 AWG Grey Stranded Wire
 - hexID: W2E
 - oompSort: 0G28E
 - oompType: WIRS

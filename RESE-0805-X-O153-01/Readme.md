@@ -44,9 +44,11 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O153-01
 - hexID: R85153
 - ooPackageMarking: 153
 - oompDesc: O153
+- name: SMD (0805) 15k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

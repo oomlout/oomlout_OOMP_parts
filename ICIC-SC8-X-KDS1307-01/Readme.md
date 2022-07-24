@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [ICIC-SC8-X-KDS1307-01>8 Pin SMD (SOIC) Real Time Clock (DS1307)](#icic-sc8-x-kds1307-018-pin-smd-soic-real-time-clock-ds1307)
+* [ICIC-SC8-X-KDS1307-01>SMD (SOIC-8) Real Time Clock (DS1307)](#icic-sc8-x-kds1307-01smd-soic-8-real-time-clock-ds1307)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-SC8-X-KDS1307-01>8 Pin SMD (SOIC) Real Time Clock (DS1307)
+# ICIC-SC8-X-KDS1307-01>SMD (SOIC-8) Real Time Clock (DS1307)
 
 - ID: ICIC-SC8-X-KDS1307-01
 - Name: ICIC-SC8-X-KDS1307-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SC8-X-KDS1307-01
+- name: SMD (SOIC-8) Real Time Clock (DS1307)
 - hexID: ICS1307
 - oompSort: 
 - oompClass: Surface Mount

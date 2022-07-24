@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4273"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1206-X-UF10-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 10 uF Capacitor (Tantalum) 16v"
+        },
+        {
             "name": "hexID",
             "value": "CTS1U010F"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: THER-65D-X-STAN-01
+- name: 6.5 mm Thermistor
 - hexID: TH65D
 - oompSort: THER65DSTAN
 - oompType: THER

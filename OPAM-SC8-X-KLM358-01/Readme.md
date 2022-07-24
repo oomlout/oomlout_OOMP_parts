@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [OPAM-SC8-X-KLM358-01>8 Pin SMD (SOIC) LM358 Op Amp](#opam-sc8-x-klm358-018-pin-smd-soic-lm358-op-amp)
+* [OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp](#opam-sc8-x-klm358-01smd-soic-8-lm358-op-amp)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# OPAM-SC8-X-KLM358-01>8 Pin SMD (SOIC) LM358 Op Amp
+# OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp
 
 - ID: OPAM-SC8-X-KLM358-01
 - Name: OPAM-SC8-X-KLM358-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: OPAM-SC8-X-KLM358-01
+- name: SMD (SOIC-8) LM358 Op Amp
 - hexID: OAS358
 - oompSort: 
 - oompClass: Surface Mount

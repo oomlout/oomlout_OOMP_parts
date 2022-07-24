@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "XTAL-11-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "11 mm 8 MHz Crystal"
+        },
+        {
             "name": "hexID",
             "value": "XT8"
         },

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [OPAM-SC14-X-KLMV324-01>14 Pin SMD (SOIC) LMV358 Op Amp](#opam-sc14-x-klmv324-0114-pin-smd-soic-lmv358-op-amp)
+* [OPAM-SC14-X-KLMV324-01>SMD (SOIC-14) LMV324 Op Amp](#opam-sc14-x-klmv324-01smd-soic-14-lmv324-op-amp)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# OPAM-SC14-X-KLMV324-01>14 Pin SMD (SOIC) LMV358 Op Amp
+# OPAM-SC14-X-KLMV324-01>SMD (SOIC-14) LMV324 Op Amp
 
 - ID: OPAM-SC14-X-KLMV324-01
 - Name: OPAM-SC14-X-KLMV324-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: OPAM-SC14-X-KLMV324-01
+- name: SMD (SOIC-14) LMV324 Op Amp
 - hexID: OAS324
 - oompSort: 
 - oompClass: Surface Mount

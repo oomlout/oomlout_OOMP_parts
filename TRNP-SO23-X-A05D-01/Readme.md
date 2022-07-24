@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: TRNP-SO23-X-A05D-01
+- name: SMD (SOT-23) 500 mA PNP Transistor
 - hexID: TPS25D
 - oompSort: 
 - oompClass: Surface Mount

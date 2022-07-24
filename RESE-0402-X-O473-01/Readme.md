@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O473-01
 - hexID: R42473
 - oompDesc: O473
+- name: SMD (0402) 47k Ohm Resistor
 - oompSort: RESE0402O473
 - oompType: RESE
 - oompSize: 0402

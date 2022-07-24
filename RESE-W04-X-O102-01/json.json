@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4144"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-W04-X-O102-01"
+        },
+        {
+            "name": "name",
+            "value": "1/4 Watt 1k Ohm Resistor"
+        },
+        {
             "name": "hexID",
             "value": "R4102"
         },

@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-SO235-X-V33D-A5D
+- name: SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA
 - hexID: VS5335
 - oompSort: 
 - oompClass: Surface Mount

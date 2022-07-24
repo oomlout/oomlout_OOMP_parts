@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI12-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 12 Pin Header Right Angle (SMD)"
+        },
+        {
             "name": "oompType",
             "value": "HEAD"
         },

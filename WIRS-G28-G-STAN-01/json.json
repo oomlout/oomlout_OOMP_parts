@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4175"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-G-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Green Stranded Wire"
+        },
+        {
             "name": "hexID",
             "value": "W2G"
         },

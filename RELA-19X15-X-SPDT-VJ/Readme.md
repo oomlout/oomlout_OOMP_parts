@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RELA-19X15-X-SPDT-VJ>19 x 15 mm SPDT Relay](#rela-19x15-x-spdt-vj19-x-15-mm-spdt-relay)
+* [RELA-19X15-X-SPDT-VJ>19 x 15 mm SPDT Relay 3v](#rela-19x15-x-spdt-vj19-x-15-mm-spdt-relay-3v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RELA-19X15-X-SPDT-VJ>19 x 15 mm SPDT Relay
+# RELA-19X15-X-SPDT-VJ>19 x 15 mm SPDT Relay 3v
 
 - ID: RELA-19X15-X-SPDT-VJ
 - Name: RELA-19X15-X-SPDT-VJ
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RELA-19X15-X-SPDT-VJ
+- name: 19 x 15 mm SPDT Relay 3v
 - hexID: RL19S3
 - oompSort: RELA19X15SPDT
 - oompType: RELA

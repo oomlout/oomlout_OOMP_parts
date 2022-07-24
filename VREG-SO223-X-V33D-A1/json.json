@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO223-X-V33D-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-223) 3.3v Voltage Regulator 1 A"
+        },
+        {
             "name": "hexID",
             "value": "VS231"
         },

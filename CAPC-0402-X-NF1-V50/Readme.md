@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0402-X-NF1-V50
+- name: SMD (0402) 1 nF Capacitor (Ceramic) 50v
 - hexID: C42N001
 - oompType: CAPC
 - oompSize: 0402

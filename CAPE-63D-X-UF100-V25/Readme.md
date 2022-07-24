@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPE-63D-X-UF100-V25
+- name: 6.3 mm 100 uF Capacitor (Electrolytic) 25v
 - hexID: CEU100
 - oompSort: THTH0.00001000000000
 - oompType: CAPE

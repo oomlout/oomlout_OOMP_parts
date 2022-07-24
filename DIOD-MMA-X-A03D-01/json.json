@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "DIOD-MMA-X-A03D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (Mini MELF) 300 mA Diode"
+        },
+        {
             "name": "hexID",
             "value": "DSM3D"
         },

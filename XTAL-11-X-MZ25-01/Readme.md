@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: XTAL-11-X-MZ25-01
+- name: 11 mm 25 MHz Crystal
 - hexID: XT25
 - oompSort: 
 - oompClass: Through Hole

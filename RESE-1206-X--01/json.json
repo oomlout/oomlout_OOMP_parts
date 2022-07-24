@@ -1,8 +1,16 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-1206-X-O130-01"
+        },
+        {
             "name": "hexID",
             "value": "R1130"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 13 Ohm Resistor"
         },
         {
             "name": "oompType",
@@ -62,7 +70,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (1206) Resistor"
+            "value": "SMD (1206) 13 Ohm Resistor"
         }
     ]
 }

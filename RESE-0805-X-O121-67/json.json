@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O121-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 120 Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R85121A"
         },

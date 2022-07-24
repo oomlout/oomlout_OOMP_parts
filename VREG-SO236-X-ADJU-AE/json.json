@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "VREG-SO236-X-ADJU-AE"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA"
+        },
+        {
             "name": "hexID",
             "value": "VS36A"
         },

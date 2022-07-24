@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A35D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3.5 Amp P-Ch. MOSFET"
+        },
+        {
             "name": "hexID",
             "value": "MPS235D"
         },

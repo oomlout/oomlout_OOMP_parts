@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-15D-G-STAN-01
+- name: 1.5 mm Green Heat Shrink
 - hexID: HS1G
 - oompSort: 0101G
 - oompType: HESH

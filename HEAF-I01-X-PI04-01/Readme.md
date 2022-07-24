@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAF-I01-X-PI04-01
+- name: 2.54 mm 4 Pin Female Header
 - hexID: HF04
 - oompSort: HEAFI0104PI
 - oompType: HEAF

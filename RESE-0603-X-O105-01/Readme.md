@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O105-01
+- name: SMD (0603) 1M Ohm Resistor
 - hexID: R6105
 - ooPackageMarking: 105
 - oompDesc: O105

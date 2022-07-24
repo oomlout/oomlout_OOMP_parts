@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-PF10-V50
+- name: SMD (0603) 10 pF Capacitor (Ceramic) 50v
 - hexID: C6P010
 - oompType: CAPC
 - oompSize: 0603

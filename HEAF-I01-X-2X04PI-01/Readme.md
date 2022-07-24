@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-X-2X04PI-01>2.54 mm Female Header](#heaf-i01-x-2x04pi-01254-mm-female-header)
+* [HEAF-I01-X-2X04PI-01>2.54 mm 8 Pin (2x4) Female Header](#heaf-i01-x-2x04pi-01254-mm-8-pin-2x4-female-header)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-X-2X04PI-01>2.54 mm Female Header
+# HEAF-I01-X-2X04PI-01>2.54 mm 8 Pin (2x4) Female Header
 
 - ID: HEAF-I01-X-2X04PI-01
 - Name: HEAF-I01-X-2X04PI-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAF-I01-X-2X04PI-01
+- name: 2.54 mm 8 Pin (2x4) Female Header
 - hexID: HFX4
 - oompSort: HEAF012X04PI
 - oompType: HEAF

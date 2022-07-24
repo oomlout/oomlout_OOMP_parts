@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-K2551-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)"
+        },
+        {
             "name": "hexID",
             "value": "ICS2551"
         },

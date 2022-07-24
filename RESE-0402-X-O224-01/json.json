@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O224-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 220k Ohm Resistor"
+        },
+        {
             "name": "hexID",
             "value": "R42224"
         },

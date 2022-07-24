@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-06-G-STAN-01
+- name: 6 mm Green Heat Shrink
 - hexID: HS6G
 - oompSort: 0606G
 - oompType: HESH

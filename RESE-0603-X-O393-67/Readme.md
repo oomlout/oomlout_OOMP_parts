@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O393-67
+- name: SMD (0603) 39k Ohm Resistor 1%
 - hexID: R6393A
 - oompType: RESE
 - oompSize: 0603

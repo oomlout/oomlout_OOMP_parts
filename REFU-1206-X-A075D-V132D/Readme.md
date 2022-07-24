@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: REFU-1206-X-A075D-V132D
+- name: SMD (1206) 750 mA Resetable Fuse 13.2v
 - hexID: RF1175D
 - oompSort: 
 - oompClass: Surface Mount

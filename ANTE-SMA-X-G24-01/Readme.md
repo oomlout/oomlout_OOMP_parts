@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ANTE-SMA-X-G24-01
+- name: SMA 2.4 Ghz Antenna
 - hexID: AN24SM
 - oompSort: ANTESMAM4X4
 - oompType: ANTE

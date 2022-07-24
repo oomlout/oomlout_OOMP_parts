@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: MOSN-SO323-X-A02D-01
+- name: SMD (SOT-323) 200 mA N-Ch. MOSFET
 - hexID: MNS22D
 - oompSort: MOSNSO323A02D
 - oompType: MOSN

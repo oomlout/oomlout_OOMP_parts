@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICSO-DI16-X-STAN-01
+- name: 16 Pin DIP IC Socket
 - hexID: IS16
 - oompSort: 
 - oompClass: Through Hole

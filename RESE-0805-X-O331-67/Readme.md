@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O331-67
+- name: SMD (0805) 330 Ohm Resistor 1%
 - hexID: R85331A
 - oompDesc: O331
 - oompType: RESE

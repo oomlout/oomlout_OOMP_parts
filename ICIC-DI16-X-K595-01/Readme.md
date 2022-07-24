@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-DI16-X-K595-01
+- name: 16 Pin DIP 74HC595 8-Bit Shift Register (Latching)
 - hexID: ICSR
 - oompSort: 74HC595
 - oompType: ICIC

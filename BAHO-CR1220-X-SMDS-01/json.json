@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "BAHO-CR1220-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "CR1220 SMD Battery Holder"
+        },
+        {
             "name": "hexID",
             "value": "BHS1220"
         },

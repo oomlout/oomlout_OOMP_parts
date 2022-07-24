@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [DISP-16X2-G-LCD-I2>16 x 2 Character LCD Green Display (I2C)](#disp-16x2-g-lcd-i216-x-2-character-lcd-green-display-i2c)
+* [DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) ](#disp-16x2-g-lcd-i2-16-x-2-character-lcd-green-display-i2c-)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# DISP-16X2-G-LCD-I2>16 x 2 Character LCD Green Display (I2C)
+# DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) 
 
 - ID: DISP-16X2-G-LCD-I2
 - Name: DISP-16X2-G-LCD-I2
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DISP-16X2-G-LCD-I2
+- name:  16 x 2 Character LCD Green Display (I2C) 
 - hexID: DS16
 - oompSort: DISP16X2LCD
 - oompType: DISP

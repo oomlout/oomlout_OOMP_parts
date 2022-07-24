@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SP16-X-KCH340-01
+- name: 16 Pin SMD (SOP) USB-Serial (CH340)
 - hexID: IC340
 - oompSort: 
 - oompClass: Surface Mount

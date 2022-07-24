@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: FERB-0603-X-O252-01
+- name: SMD (0603) 2.5k Ohm Ferrite Bead
 - hexID: F6252
 - oompSort: FERB0603O252
 - oompType: FERB

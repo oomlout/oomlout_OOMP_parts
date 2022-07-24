@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O22X-67
+- name: SMD (0603) 2.2 Ohm Resistor 1%
 - hexID: R622X
 - oompDesc: O22X
 - oompType: RESE

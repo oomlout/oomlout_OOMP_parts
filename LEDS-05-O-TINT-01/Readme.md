@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-O-TINT-01
+- name: 5 mm Tinted Orange LED
 - hexID: LT5O
 - oompSort: 0505ZTINTO
 - oompType: LEDS

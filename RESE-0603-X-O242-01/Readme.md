@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O242-01
+- name: SMD (0603) 2.4k Ohm Resistor
 - hexID: R6242
 - ooPackageMarking: 242
 - oompType: RESE

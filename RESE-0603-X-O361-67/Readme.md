@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O361-67
+- name: SMD (0603) 360 Ohm Resistor 1%
 - hexID: R6361A
 - oompType: RESE
 - oompSize: 0603

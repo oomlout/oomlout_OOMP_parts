@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CERE-1263-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-3) 8 MHz Ceramic Resonator"
+        },
+        {
             "name": "hexID",
             "value": "CR1638"
         },

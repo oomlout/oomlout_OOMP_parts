@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-SO235-X-ADJU-AB
+- name: SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
 - hexID: VS5AB
 - oompSort: 
 - oompClass: Surface Mount

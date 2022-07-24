@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: USBS-MC-X-SMDS-01
+- name: Micro SMD USB Socket
 - hexID: USM
 - oompSort: MCMC
 - oompType: USBS

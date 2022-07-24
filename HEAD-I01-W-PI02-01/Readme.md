@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-W-PI02-01
+- name: 2.54 mm 2 Pin White Header
 - hexID: H02W
 - oompSort: HEADI0102PI
 - oompType: HEAD

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O000-01
+- name: SMD (0402) 0 Ohm Resistor
 - hexID: R42000
 - oompSort: 
 - oompClass: Surface Mount

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NSCR-M3-X-20-70
+- name: M3 x 20 mm Nylon Screw Cross Head
 - hexID: NS20
 - oompSort: M3M320
 - oompType: NSCR

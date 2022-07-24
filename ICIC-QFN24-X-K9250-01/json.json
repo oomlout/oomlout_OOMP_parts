@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-QFN24-X-K9250-01"
+        },
+        {
+            "name": "name",
+            "value": "24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)"
+        },
+        {
             "name": "hexID",
             "value": "ICS9250"
         },

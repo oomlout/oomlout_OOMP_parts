@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O470-01
+- name: SMD (0603) 47 Ohm Resistor
 - hexID: R6470
 - ooPackageMarking: 470
 - oompDesc: O470

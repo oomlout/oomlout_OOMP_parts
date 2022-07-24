@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPT-1206-X-UF47D-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 4.7 uF Capacitor (Tantalum) 16v"
+        },
+        {
             "name": "hexID",
             "value": "C1U004D"
         },

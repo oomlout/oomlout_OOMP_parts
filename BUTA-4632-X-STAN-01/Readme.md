@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: BUTA-4632-X-STAN-01
+- name: SMD (4632) Pushbutton (Tactile)
 - hexID: BT4632
 - oompSort: BUTA4632STAN
 - oompType: BUTA

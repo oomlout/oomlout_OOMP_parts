@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "POTE-07-X-O103-01"
+        },
+        {
+            "name": "name",
+            "value": "7 mm 10k Ohm Potentiometer"
+        },
+        {
             "name": "hexID",
             "value": "PT7103"
         },

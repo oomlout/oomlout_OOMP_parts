@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": ""
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 100 uF Capacitor (Electrolytic) 16v"
+        },
+        {
             "name": "hexID",
             "value": "CEU100F"
         },

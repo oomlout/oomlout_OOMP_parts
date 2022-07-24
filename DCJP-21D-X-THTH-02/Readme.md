@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DCJP-21D-X-THTH-02
+- name: 2.1 mm Through Hole DC Jack
 - hexID: DJ2Z
 - oompSort: 
 - oompClass: Through Hole

@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O331-67
 - hexID: R42331A
 - oompDesc: O331
+- name: SMD (0402) 330 Ohm Resistor 1%
 - oompSort: RESE0402O331
 - oompType: RESE
 - oompSize: 0402

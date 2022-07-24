@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: SENS-87DX45D-X-K1550-01
+- name: 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor
 - hexID: SEPR
 - oompSort: SENS87DX45DK1550
 - oompType: SENS

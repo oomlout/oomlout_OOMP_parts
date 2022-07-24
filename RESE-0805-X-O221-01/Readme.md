@@ -45,9 +45,11 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O221-01
 - hexID: R85221
 - ooPackageMarking: 221
 - oompDesc: O221
+- name: SMD (0805) 220 Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

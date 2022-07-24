@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-55D-X-PF22-V50"
+        },
+        {
+            "name": "name",
+            "value": "5.5 mm 22 pF Capacitor (Ceramic) 50v"
+        },
+        {
             "name": "hexID",
             "value": "CCP022"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPT-2312-X-UF22-V25
+- name: SMD (2312) 22 uF Capacitor (Tantalum) 25v
 - hexID: CTS3U022
 - oompSort: 23120.00002200000000
 - oompType: CAPT

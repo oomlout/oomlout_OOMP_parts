@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-DI28W-X-KLPC14-01"
+        },
+        {
+            "name": "name",
+            "value": "28 Pin DIP (0.6\") DIP LPC1114 (Cortex M0)"
+        },
+        {
             "name": "hexID",
             "value": "ICLPC14"
         },
@@ -58,7 +66,7 @@
         },
         {
             "name": "name",
-            "value": "28 Pin DIP (0.6\") LPC1114 (Cortex M0)"
+            "value": "28 Pin DIP (0.6\") DIP LPC1114 (Cortex M0)"
         }
     ]
 }

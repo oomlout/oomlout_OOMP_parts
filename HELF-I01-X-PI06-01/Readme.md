@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HELF-I01-X-PI06-01
+- name: 2.54 mm 6 Pin Female Header (Long)
 - hexID: HLF06
 - oompSort: HELFI0106PI
 - oompType: HELF

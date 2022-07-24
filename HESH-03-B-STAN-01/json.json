@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4008"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Black Heat Shrink"
+        },
+        {
             "name": "hexID",
             "value": "HS3B"
         },

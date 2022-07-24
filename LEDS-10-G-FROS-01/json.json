@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "3971"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-10-G-FROS-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Frosted Green LED"
+        },
+        {
             "name": "hexID",
             "value": "L10G"
         },

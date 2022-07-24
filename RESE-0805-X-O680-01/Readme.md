@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O680-01
+- name: SMD (0805) 68 Ohm Resistor
 - ooPackageMarking: 680
 - hexID: R85680
 - oompSort: 

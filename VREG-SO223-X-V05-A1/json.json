@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "VREG-SO223-X-V05-A1"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-223) 5v Voltage Regulator 1 A"
+        },
+        {
             "name": "hexID",
             "value": "VS251"
         },

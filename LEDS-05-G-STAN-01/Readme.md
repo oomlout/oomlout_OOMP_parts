@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-G-STAN-01
+- name: 5 mm Green LED
 - hexID: L5G
 - oompSort: 0505G
 - oompType: LEDS

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SWIS-09-X-DPDT-68"
+        },
+        {
+            "name": "name",
+            "value": "9 mm DPDT Switch (Slide) Side Adjust"
+        },
+        {
             "name": "hexID",
             "value": "SSW9S"
         },

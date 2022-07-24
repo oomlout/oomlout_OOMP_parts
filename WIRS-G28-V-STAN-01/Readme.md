@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: WIRS-G28-V-STAN-01
+- name: 28 AWG Purple Stranded Wire
 - hexID: W2V
 - oompSort: 0G28V
 - oompType: WIRS

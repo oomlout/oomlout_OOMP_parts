@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-S123-X-A02D-01
+- name: SMD (SOD-123) 200 mA Diode
 - hexID: DS32D
 - oompSort: DIODS123A02D
 - oompType: DIOD

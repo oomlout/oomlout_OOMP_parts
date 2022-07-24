@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-06-Y-STAN-01
+- name: 6 mm Yellow Heat Shrink
 - hexID: HS6Y
 - oompSort: 0606Y
 - oompType: HESH

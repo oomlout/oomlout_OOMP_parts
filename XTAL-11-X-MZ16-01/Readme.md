@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: XTAL-11-X-MZ16-01
+- name: 11 mm 16 MHz Crystal
 - hexID: XT16
 - oompSort: THTH16000000
 - oompType: XTAL

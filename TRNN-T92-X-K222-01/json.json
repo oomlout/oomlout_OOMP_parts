@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4271"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-T92-X-K222-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 2222A NPN Transistor"
+        },
+        {
             "name": "hexID",
             "value": "NT92222"
         },

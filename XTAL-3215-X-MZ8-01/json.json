@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "XTAL-3215-X-MZ8-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 8 MHz Crystal"
+        },
+        {
             "name": "hexID",
             "value": "XS38"
         },

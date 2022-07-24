@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4004"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-03-G-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "3 mm Green Heat Shrink"
+        },
+        {
             "name": "hexID",
             "value": "HS3G"
         },

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ANTE-40-X-G24-01"
+        },
+        {
+            "name": "name",
+            "value": "40 mm 2.4 Ghz Antenna"
+        },
+        {
             "name": "hexID",
             "value": "AN2440"
         },

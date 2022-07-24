@@ -1,6 +1,10 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O221-01"
+        },
+        {
             "name": "hexID",
             "value": "R85221"
         },
@@ -11,6 +15,10 @@
         {
             "name": "oompDesc",
             "value": "O221"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 220 Ohm Resistor"
         },
         {
             "name": "oompType",

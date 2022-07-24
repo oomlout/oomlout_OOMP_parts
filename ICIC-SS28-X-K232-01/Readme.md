@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SS28-X-K232-01
+- name: 28 Pin SMD (SSOP) FTDI USB-Serial
 - hexID: IC232
 - oompSort: FTDI USB-Serial
 - oompType: ICIC

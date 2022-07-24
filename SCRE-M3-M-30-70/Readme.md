@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: SCRE-M3-M-30-70
+- name: M3 x 30 mm Metal Machine Screw Cross Head
 - hexID: M330
 - oompSort: 030330M
 - oompType: SCRE

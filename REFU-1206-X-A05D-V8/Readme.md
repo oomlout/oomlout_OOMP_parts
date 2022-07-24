@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: REFU-1206-X-A05D-V8
+- name: SMD (1206) 500 mA Resetable Fuse 8v
 - hexID: RF15
 - oompSort: 120600.500
 - oompType: REFU

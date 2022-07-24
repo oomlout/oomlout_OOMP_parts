@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-S123-X-STAN-01
+- name: SMD (SOD-123) Diode
 - hexID: DS301
 - oompSort: S123000
 - oompType: DIOD

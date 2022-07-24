@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-0805-G-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) Green LED"
+        },
+        {
             "name": "hexID",
             "value": "L85G"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-I03-X-A01-V50
+- name: 7.62 mm 1 Amp Diode 50v
 - hexID: DT01
 - oompSort: THTH01.000
 - oompType: DIOD

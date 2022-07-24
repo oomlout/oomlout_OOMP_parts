@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HELF-I01-L-2X03PI-01>2.54 mm Blue Female Header (Long)](#helf-i01-l-2x03pi-01254-mm-blue-female-header-long)
+* [HELF-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Female Header (Long)](#helf-i01-l-2x03pi-01254-mm-6-pin-2x3-blue-female-header-long)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HELF-I01-L-2X03PI-01>2.54 mm Blue Female Header (Long)
+# HELF-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 
 - ID: HELF-I01-L-2X03PI-01
 - Name: HELF-I01-L-2X03PI-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HELF-I01-L-2X03PI-01
+- name: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 - hexID: HFLX03L
 - oompSort: 
 - oompClass: Through Hole

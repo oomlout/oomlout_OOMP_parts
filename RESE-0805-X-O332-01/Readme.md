@@ -45,9 +45,11 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O332-01
 - hexID: R85332
 - ooPackageMarking: 332
 - oompDesc: O332
+- name: SMD (0805) 3.3k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

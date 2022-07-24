@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O331-01
+- name: SMD (0603) 330 Ohm Resistor
 - hexID: R6331
 - oompSort: 06030000330
 - oompType: RESE

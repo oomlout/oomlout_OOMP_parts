@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: BUTA-3025-X-PI02-01
+- name: SMD (3025) 2 Pin Pushbutton (Tactile)
 - hexID: BT3025
 - oompSort: BUTA302502PI
 - oompType: BUTA

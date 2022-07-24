@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SENS-T92-X-K36-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 Temperature (TMP36) Sensor"
+        },
+        {
             "name": "hexID",
             "value": "SE36"
         },

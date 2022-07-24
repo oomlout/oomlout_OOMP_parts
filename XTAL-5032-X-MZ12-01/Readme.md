@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: XTAL-5032-X-MZ12-01
+- name: SMD (5032) 12 MHz Crystal
 - hexID: XS512
 - oompSort: 
 - oompClass: Surface Mount

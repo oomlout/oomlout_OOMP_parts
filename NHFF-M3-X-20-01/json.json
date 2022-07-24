@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4197"
+        },
+        {
+            "name": "oompID",
+            "value": "NHFF-M3-X-20-01"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 20 mm Nylon Standoff (F-F)"
+        },
+        {
             "name": "hexID",
             "value": "NFF20"
         },

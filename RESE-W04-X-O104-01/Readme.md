@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O104-01
+- name: 1/4 Watt 100k Ohm Resistor
 - hexID: R4104
 - oompSort: 0W040100000
 - oompType: RESE

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CAPE-05-X-UF47D-V63D>5 mm 4.7 uF Capacitor (Electrolytic) 6.3v](#cape-05-x-uf47d-v63d5-mm-47-uf-capacitor-electrolytic-63v)
+* [CAPE-05-X-UF47D-V63D>5 mm 4.7 uF Capacitor (Electrolytic) 63v](#cape-05-x-uf47d-v63d5-mm-47-uf-capacitor-electrolytic-63v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CAPE-05-X-UF47D-V63D>5 mm 4.7 uF Capacitor (Electrolytic) 6.3v
+# CAPE-05-X-UF47D-V63D>5 mm 4.7 uF Capacitor (Electrolytic) 63v
 
 - ID: CAPE-05-X-UF47D-V63D
 - Name: CAPE-05-X-UF47D-V63D
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPE-05-X-UF47D-V63D
+- name: 5 mm 4.7 uF Capacitor (Electrolytic) 63v
 - hexID: CEU004
 - oompSort: 0.00000047000000
 - oompType: CAPE

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-SO23-X-ESDP-V33D
+- name: SMD (SOT-23) ESD Protection Diode 3.3v
 - hexID: DS3EP3
 - oompSort: 
 - oompClass: Surface Mount

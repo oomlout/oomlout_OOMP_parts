@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O105-01
+- name: 1/4 Watt 1M Ohm Resistor
 - hexID: R4105
 - oompSort: 0W041000000
 - oompType: RESE

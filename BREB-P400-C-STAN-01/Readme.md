@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: BREB-P400-C-STAN-01
+- name: 400 Point Clear Breadboard
 - hexID: BB4C
 - oompSort: P400
 - oompType: BREB

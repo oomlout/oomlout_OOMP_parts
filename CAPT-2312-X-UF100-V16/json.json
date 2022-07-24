@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPT-2312-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2312) 100 uF Capacitor (Tantalum) 16v"
+        },
+        {
             "name": "hexID",
             "value": "CTS3U100F"
         },

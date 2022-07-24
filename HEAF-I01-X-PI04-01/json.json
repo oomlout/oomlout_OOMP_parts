@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "HEAF-I01-X-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin Female Header"
+        },
+        {
             "name": "hexID",
             "value": "HF04"
         },

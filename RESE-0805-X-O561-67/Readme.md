@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O561-67
+- name: SMD (0805) 560 Ohm Resistor 1%
 - hexID: R85561A
 - oompDesc: O561
 - oompType: RESE

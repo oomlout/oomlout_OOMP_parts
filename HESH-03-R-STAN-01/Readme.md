@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-03-R-STAN-01
+- name: 3 mm Red Heat Shrink
 - hexID: HS3R
 - oompSort: 0303R
 - oompType: HESH

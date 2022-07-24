@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF18-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 18 pF Capacitor (Ceramic) 50v"
+        },
+        {
             "name": "hexID",
             "value": "C42P018"
         },

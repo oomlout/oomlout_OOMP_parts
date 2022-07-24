@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: FERB-0805-X-O471-01
+- name: SMD (0805) 470 Ohm Ferrite Bead
 - hexID: F85471
 - oompSort: FERB0805O471
 - oompType: FERB

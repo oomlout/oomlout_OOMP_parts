@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A41D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 4.1 Amp P-Ch. MOSFET"
+        },
+        {
             "name": "hexID",
             "value": "MPS241D"
         },

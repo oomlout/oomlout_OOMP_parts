@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "HEAF-I01-W-PI06-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin White Female Header"
+        },
+        {
             "name": "hexID",
             "value": "H6W"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O124-67
+- name: SMD (0402) 120k Ohm Resistor 1%
 - hexID: R42124A
 - oompDesc: O124
 - oompType: RESE

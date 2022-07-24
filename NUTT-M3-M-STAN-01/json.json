@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4213"
+        },
+        {
+            "name": "oompID",
+            "value": "NUTT-M3-M-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "M3 Nut"
+        },
+        {
             "name": "hexID",
             "value": "NU3"
         },
@@ -46,7 +58,7 @@
         },
         {
             "name": "name",
-            "value": "M3 Metal Nut"
+            "value": "M3 Nut"
         }
     ]
 }

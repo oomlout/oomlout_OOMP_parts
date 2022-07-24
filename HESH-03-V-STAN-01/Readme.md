@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-03-V-STAN-01
+- name: 3 mm Purple Heat Shrink
 - hexID: HS3V
 - oompSort: 0303V
 - oompType: HESH

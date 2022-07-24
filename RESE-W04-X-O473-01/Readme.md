@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O473-01
+- name: 1/4 Watt 47k Ohm Resistor
 - hexID: R4473
 - oompSort: 0W040047000
 - oompType: RESE

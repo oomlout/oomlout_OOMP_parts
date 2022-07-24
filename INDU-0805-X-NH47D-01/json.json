@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "INDU-0805-X-NH47D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 4.7 nH Inductor"
+        },
+        {
             "name": "hexID",
             "value": "IN85U22D"
         },

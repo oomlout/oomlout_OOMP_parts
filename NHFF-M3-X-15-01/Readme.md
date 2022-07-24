@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NHFF-M3-X-15-01
+- name: M3 x 15 mm Nylon Standoff (F-F)
 - hexID: NFF15
 - oompSort: M3M315
 - oompType: NHFF

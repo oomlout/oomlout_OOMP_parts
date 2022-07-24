@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O822-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 8.2k Ohm Resistor"
+        },
+        {
             "name": "ooPackageMarking",
             "value": "822"
         },

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4181"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-0603-R-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) Red LED"
+        },
+        {
             "name": "hexID",
             "value": "L6R"
         },

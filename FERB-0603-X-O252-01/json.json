@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "FERB-0603-X-O252-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 2.5k Ohm Ferrite Bead"
+        },
+        {
             "name": "hexID",
             "value": "F6252"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-X-PI06-RA
+- name: 2.54 mm 6 Pin Header Right Angle
 - hexID: HR06
 - oompSort: HEADI0106PI
 - oompType: HEAD

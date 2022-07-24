@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0805-X-UF22-V63D
+- name: SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
 - hexID: C85U022
 - oompType: CAPC
 - oompSize: 0805

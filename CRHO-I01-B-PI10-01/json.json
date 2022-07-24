@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "3952"
+        },
+        {
+            "name": "oompID",
+            "value": "CRHO-I01-B-PI10-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 10 Pin Black Crimp Housing"
+        },
+        {
             "name": "hexID",
             "value": "CH10"
         },

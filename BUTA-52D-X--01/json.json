@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "BUTA-52D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "5.2 mm SMD Pushbutton (Tactile)"
+        },
+        {
             "name": "oompType",
             "value": "BUTA"
         },
@@ -58,7 +66,7 @@
         },
         {
             "name": "name",
-            "value": "5.2 mm Pushbutton (Tactile)"
+            "value": "5.2 mm SMD Pushbutton (Tactile)"
         }
     ]
 }

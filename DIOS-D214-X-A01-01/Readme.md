@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOS-D214-X-A01-01
+- name: SMD (DO-214) 1 Amp Diode (Schottky)
 - hexID: DS201
 - oompSort: 
 - oompClass: Surface Mount

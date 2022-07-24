@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-DI14-X-K1820-01
+- name: 14 Pin DIP Voice Recorder (ISD1820P)
 - hexID: IC1820P
 - oompSort: ICICDI14K1820
 - oompType: ICIC

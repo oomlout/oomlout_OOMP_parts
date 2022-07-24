@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-03-O-STAN-01
+- name: 3 mm Orange Heat Shrink
 - hexID: HS3O
 - oompSort: 0303O
 - oompType: HESH

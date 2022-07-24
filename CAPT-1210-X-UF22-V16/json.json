@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPT-1210-X-UF22-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 22 uF Capacitor (Tantalum) 16v"
+        },
+        {
             "name": "hexID",
             "value": "C1U022F"
         },

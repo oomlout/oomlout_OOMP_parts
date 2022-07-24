@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4327"
+        },
+        {
+            "name": "oompID",
+            "value": "ICIC-TS14-X-K125-01"
+        },
+        {
+            "name": "name",
+            "value": "14 Pin SMD (TSSOP) Quad Buffer (74HC125)"
+        },
+        {
             "name": "hexID",
             "value": "ICQB"
         },
@@ -62,7 +74,7 @@
         },
         {
             "name": "name",
-            "value": "14 Pin SMD (TSSOP) Quad Buffer"
+            "value": "14 Pin SMD (TSSOP) Quad Buffer (74HC125)"
         }
     ]
 }

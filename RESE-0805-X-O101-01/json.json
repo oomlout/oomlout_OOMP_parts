@@ -1,6 +1,10 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O101-01"
+        },
+        {
             "name": "hexID",
             "value": "R85101"
         },
@@ -11,6 +15,10 @@
         {
             "name": "oompDesc",
             "value": "O101"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 100 Ohm Resistor"
         },
         {
             "name": "oompType",

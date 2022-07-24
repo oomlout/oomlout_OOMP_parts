@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: INDU-0402-X-NH15-01
+- name: SMD (0402) 15 nH Inductor
 - hexID: IN42N15
 - oompSort: INDU0402NH15
 - oompType: INDU

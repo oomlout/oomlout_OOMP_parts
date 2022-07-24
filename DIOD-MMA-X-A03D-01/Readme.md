@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-MMA-X-A03D-01
+- name: SMD (Mini MELF) 300 mA Diode
 - hexID: DSM3D
 - oompSort: 
 - oompClass: Surface Mount

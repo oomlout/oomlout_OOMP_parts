@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPT-2312-X-UF100-V10
+- name: SMD (2312) 100 uF Capacitor (Tantalum) 10v
 - hexID: CTS3U100
 - oompSort: 23120.00010000000000
 - oompType: CAPT

@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O201-67
+- name: SMD (0805) 200 Ohm Resistor 1%
 - hexID: R85201A
 - oompDesc: O201
 - oompType: RESE

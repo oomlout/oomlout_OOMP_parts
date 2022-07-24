@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O101-01
 - hexID: R42101
 - oompDesc: O101
+- name: SMD (0402) 100 Ohm Resistor
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-10-Y-FROS-01
+- name: 10 mm Frosted Yellow LED
 - hexID: L10Y
 - oompSort: 1010Y
 - oompType: LEDS

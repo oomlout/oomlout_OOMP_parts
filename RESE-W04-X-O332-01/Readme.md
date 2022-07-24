@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O332-01
+- name: 1/4 Watt 3.3k Ohm Resistor
 - hexID: R4332
 - oompSort: 0W040003300
 - oompType: RESE

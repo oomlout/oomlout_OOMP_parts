@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CABL-21D-X-V09-01
+- name: 2.1 mm 9v Cable
 - hexID: CB9V21
 - oompSort: CABL21D09V
 - oompType: CABL

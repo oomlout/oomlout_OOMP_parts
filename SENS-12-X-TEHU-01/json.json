@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SENS-12-X-TEHU-01"
+        },
+        {
+            "name": "name",
+            "value": "12 mm Temperature and Humidity Sensor"
+        },
+        {
             "name": "hexID",
             "value": "SETH1"
         },

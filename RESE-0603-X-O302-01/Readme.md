@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O302-01
+- name: SMD (0603) 3k Ohm Resistor
 - hexID: R6302
 - ooPackageMarking: 302
 - oompType: RESE

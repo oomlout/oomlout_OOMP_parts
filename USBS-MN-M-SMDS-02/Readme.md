@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [USBS-MN-M-SMDS-02>Mini SMD Metal USB Socket](#usbs-mn-m-smds-02mini-smd-metal-usb-socket)
+* [USBS-MN-M-SMDS-02>Mini SMD USB Socket](#usbs-mn-m-smds-02mini-smd-usb-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# USBS-MN-M-SMDS-02>Mini SMD Metal USB Socket
+# USBS-MN-M-SMDS-02>Mini SMD USB Socket
 
 - ID: USBS-MN-M-SMDS-02
 - Name: USBS-MN-M-SMDS-02
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: USBS-MN-M-SMDS-02
+- name: Mini SMD USB Socket
 - hexID: USN2
 - oompSort: MNMN
 - oompType: USBS

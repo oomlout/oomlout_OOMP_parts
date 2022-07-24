@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "DIOD-S123-X-ESDP-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) ESD Protection Diode"
+        },
+        {
             "name": "hexID",
             "value": "DS3EP"
         },

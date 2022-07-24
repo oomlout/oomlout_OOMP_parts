@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [SCRE-M3-M-25-70>M3 x 25 mm Metal Machine Screw Cross Head](#scre-m3-m-25-70m3-x-25-mm-metal-machine-screw-cross-head)
+* [SCRE-M3-M-25-70>M3 x 25 mm Machine Screw Cross Head](#scre-m3-m-25-70m3-x-25-mm-machine-screw-cross-head)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# SCRE-M3-M-25-70>M3 x 25 mm Metal Machine Screw Cross Head
+# SCRE-M3-M-25-70>M3 x 25 mm Machine Screw Cross Head
 
 - ID: SCRE-M3-M-25-70
 - Name: SCRE-M3-M-25-70
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: SCRE-M3-M-25-70
+- name: M3 x 25 mm Machine Screw Cross Head
 - hexID: M325
 - oompSort: M3M325
 - oompType: SCRE

@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O103-01
 - hexID: R42103
 - oompDesc: O103
+- name: SMD (0402) 10k Ohm Resistor
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X

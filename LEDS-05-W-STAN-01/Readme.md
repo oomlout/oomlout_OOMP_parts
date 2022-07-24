@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-W-STAN-01
+- name: 5 mm White LED
 - hexID: L5W
 - oompSort: 
 - oompClass: Through Hole

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X02PI-01>2.54 mm Header](#head-i01-x-2x02pi-01254-mm-header)
+* [HEAD-I01-X-2X02PI-01>2.54 mm 4 Pin (2x2) Header](#head-i01-x-2x02pi-01254-mm-4-pin-2x2-header)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X02PI-01>2.54 mm Header
+# HEAD-I01-X-2X02PI-01>2.54 mm 4 Pin (2x2) Header
 
 - ID: HEAD-I01-X-2X02PI-01
 - Name: HEAD-I01-X-2X02PI-01
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-X-PI2x02-01
+- name: 2.54 mm 4 Pin (2x2) Header
 - hexID: H2X02
 - oompSort: A0101Z2X02
 - oompType: HEAD

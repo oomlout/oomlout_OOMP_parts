@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-PF27-V50
+- name: SMD (0603) 27 pF Capacitor (Ceramic) 50v
 - hexID: C6P027
 - oompType: CAPC
 - oompSize: 0603

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [BUTA-6035-X-STAN-01>Pushbutton (Tactile)](#buta-6035-x-stan-01pushbutton-tactile)
+* [BUTA-6035-X-STAN-01>SMD (6035) Pushbutton (Tactile)](#buta-6035-x-stan-01smd-6035-pushbutton-tactile)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTA-6035-X-STAN-01>Pushbutton (Tactile)
+# BUTA-6035-X-STAN-01>SMD (6035) Pushbutton (Tactile)
 
 - ID: BUTA-6035-X-STAN-01
 - Name: BUTA-6035-X-STAN-01
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: BUTA-6035-X-STAN-01
+- name: SMD (6035) Pushbutton (Tactile)
 - hexID: B6035
 - oompSort: 
 - oompClass: Surface Mount

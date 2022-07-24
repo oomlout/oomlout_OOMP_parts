@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RBCC-40W-Z-L100-01
+- name: 40 Wire 100 mm Rainbow Crimped Ribbon Cable
 - hexID: RBC1
 - oompSort: 040W100
 - oompType: RBCC

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "VREG-MS08-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA"
+        },
+        {
             "name": "hexID",
             "value": "VS855D"
         },

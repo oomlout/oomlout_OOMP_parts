@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O112-01
+- name: SMD (0603) 1.1k Ohm Resistor
 - ooPackageMarking: 112
 - hexID: R6112
 - oompSort: 

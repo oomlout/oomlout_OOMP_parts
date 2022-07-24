@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-03-G-STAN-01
+- name: 3 mm Green LED
 - hexID: L3G
 - oompSort: 
 - oompClass: Through Hole

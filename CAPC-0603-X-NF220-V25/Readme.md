@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-NF220-V25
+- name: SMD (0603) 220 nF Capacitor (Ceramic) 25v
 - hexID: C6N220
 - oompType: CAPC
 - oompSize: 0603

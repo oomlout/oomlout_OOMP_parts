@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-0805-R-STAN-01
+- name: SMD (0805) Red LED
 - hexID: L85R
 - oompSort: 
 - oompClass: Surface Mount

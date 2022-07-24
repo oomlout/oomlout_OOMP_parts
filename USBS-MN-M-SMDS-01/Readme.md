@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: USBS-MN-M-SMDS-01
+- name: Mini SMD Metal USB Socket
 - hexID: USN
 - oompSort: 
 - oompClass: Through Hole

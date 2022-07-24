@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOD-D214-X-A01-01
+- name: SMD (DO-214) 1 Amp Diode
 - hexID: DS201
 - oompSort: D21401.000
 - oompType: DIOD

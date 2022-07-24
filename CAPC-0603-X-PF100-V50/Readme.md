@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-PF100-V50
+- name: SMD (0603) 100 pF Capacitor (Ceramic) 50v
 - hexID: C6P100
 - oompType: CAPC
 - oompSize: 0603

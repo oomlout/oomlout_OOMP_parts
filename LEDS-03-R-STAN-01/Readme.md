@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-03-R-STAN-01
+- name: 3 mm Red LED
 - hexID: L3R
 - oompSort: 
 - oompClass: Through Hole

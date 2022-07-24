@@ -1,12 +1,20 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O472-01"
+        },
+        {
             "name": "hexID",
             "value": "R42472"
         },
         {
             "name": "oompDesc",
             "value": "O472"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 4.7k Ohm Resistor"
         },
         {
             "name": "oompSort",

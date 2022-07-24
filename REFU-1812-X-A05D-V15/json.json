@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4274"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A05D-V15"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1812) 500 mA Resetable Fuse 15v"
+        },
+        {
             "name": "hexID",
             "value": "RF805"
         },
@@ -78,7 +90,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (1812) 500 mA Resetable Fuse"
+            "value": "SMD (1812) 500 mA Resetable Fuse 15v"
         }
     ]
 }

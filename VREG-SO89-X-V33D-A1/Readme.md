@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-SO89-X-V33D-A1
+- name: SMD (SOT-89) 3.3v Voltage Regulator 1 A
 - hexID: VS831
 - oompSort: SO893.301.000
 - oompType: VREG

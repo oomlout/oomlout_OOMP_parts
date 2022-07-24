@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4024"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-O-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm Orange Heat Shrink"
+        },
+        {
             "name": "hexID",
             "value": "HS6O"
         },

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4193"
+        },
+        {
+            "name": "oompID",
+            "value": "NHFF-M3-X-06-01"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 6 mm Nylon Standoff (F-F)"
+        },
+        {
             "name": "hexID",
             "value": "NFF06"
         },

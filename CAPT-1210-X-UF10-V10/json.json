@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4087"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-1210-X-UF10-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1210) 10 uF Capacitor (Tantalum) 10v"
+        },
+        {
             "name": "hexID",
             "value": "CTS2U010B"
         },

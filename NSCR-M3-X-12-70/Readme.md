@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NSCR-M3-X-12-70
+- name: M3 x 12 mm Nylon Screw Cross Head
 - hexID: NS12
 - oompSort: M3M312
 - oompType: NSCR

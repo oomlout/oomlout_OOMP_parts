@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O151-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 150 Ohm Resistor"
+        },
+        {
             "name": "hexID",
             "value": "R85151"
         },

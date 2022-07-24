@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SENS-05-X-LIRE-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm Light (Resistive) Sensor"
+        },
+        {
             "name": "hexID",
             "value": "SEPR"
         },

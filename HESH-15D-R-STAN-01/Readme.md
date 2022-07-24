@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-15D-R-STAN-01
+- name: 1.5 mm Red Heat Shrink
 - hexID: HS1R
 - oompSort: 0101R
 - oompType: HESH

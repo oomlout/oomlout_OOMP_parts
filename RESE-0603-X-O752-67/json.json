@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0603-X-O752-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 7.5k Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R6752A"
         },

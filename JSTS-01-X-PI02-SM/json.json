@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "JSTS-01-X-PI02-SM"
+        },
+        {
+            "name": "name",
+            "value": "1 mm 2 Pin JST Socket (SMD)"
+        },
+        {
             "name": "hexID",
             "value": "J102"
         },
@@ -42,7 +50,7 @@
         },
         {
             "name": "name",
-            "value": "1 mm 2 Pin JST Socket SMD"
+            "value": "1 mm 2 Pin JST Socket (SMD)"
         }
     ]
 }

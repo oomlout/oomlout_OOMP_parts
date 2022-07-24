@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-QFP64-X-KLPC11-01"
+        },
+        {
+            "name": "name",
+            "value": "64 Pin SMD (TQFP) LPC11U24 (Cortex M0)"
+        },
+        {
             "name": "hexID",
             "value": "ICSLPC11"
         },

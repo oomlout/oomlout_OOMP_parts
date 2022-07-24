@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "OPAM-SO235-X-K333-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) OPA333 Op Amp"
+        },
+        {
             "name": "hexID",
             "value": "OA333"
         },

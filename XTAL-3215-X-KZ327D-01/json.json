@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "XTAL-3215-X-KZ327D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3215) 32.768 kHz Crystal"
+        },
+        {
             "name": "hexID",
             "value": "X3K327D"
         },

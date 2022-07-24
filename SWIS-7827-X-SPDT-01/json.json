@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SWIS-7827-X-SPDT-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7827) SPDT Switch (Slide)"
+        },
+        {
             "name": "hexID",
             "value": "SS7827"
         },

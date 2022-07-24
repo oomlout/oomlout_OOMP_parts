@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-R-TINT-01
+- name: 5 mm Tinted Red LED
 - hexID: LT5R
 - oompSort: 0505ZTINTR
 - oompType: LEDS

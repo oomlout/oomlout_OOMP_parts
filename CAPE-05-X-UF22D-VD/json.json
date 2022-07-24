@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF22D-V63D"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 2.2 uF Capacitor (Electrolytic) 63v"
+        },
+        {
             "name": "hexID",
             "value": "CEU002"
         },
@@ -66,7 +78,7 @@
         },
         {
             "name": "name",
-            "value": "5 mm 2.2 uF Capacitor (Electrolytic)"
+            "value": "5 mm 2.2 uF Capacitor (Electrolytic) 63v"
         }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPT-2917-X-UF470-V63D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (2917) 470 uF Capacitor (Tantalum) 6.3v"
+        },
+        {
             "name": "hexID",
             "value": "CTS4U470"
         },

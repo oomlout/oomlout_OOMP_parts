@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4125"
+        },
+        {
+            "name": "oompID",
+            "value": "RBCC-40W-Z-L100-01"
+        },
+        {
+            "name": "name",
+            "value": "40 Wire 100 mm Rainbow Crimped Ribbon Cable"
+        },
+        {
             "name": "hexID",
             "value": "RBC1"
         },

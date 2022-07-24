@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-10-W-FROS-01
+- name: 10 mm Frosted White LED
 - hexID: L10W
 - oompSort: 1010W
 - oompType: LEDS

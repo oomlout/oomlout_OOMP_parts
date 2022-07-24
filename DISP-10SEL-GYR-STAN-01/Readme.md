@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: DISP-10SEL-GYR-STAN-01
+- name: 10 Segment LED Bargraph Green, Yellow, Red Display
 - hexID: DS10M
 - oompSort: DISP10SELSTAN
 - oompType: DISP

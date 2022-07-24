@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0603-X-O153-01>SMD (0603) 15k Ohm Resistor](#rese-0603-x-o153-01smd-0603-15k-ohm-resistor)
+* [RESE-0603-X-O153-01>SMD (0603) 16k Ohm Resistor](#rese-0603-x-o153-01smd-0603-16k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -15,7 +15,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0603-X-O153-01>SMD (0603) 15k Ohm Resistor
+# RESE-0603-X-O153-01>SMD (0603) 16k Ohm Resistor
 
 - ID: RESE-0603-X-O153-01
 - Name: RESE-0603-X-O153-01
@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O153-01
+- name: SMD (0603) 16k Ohm Resistor
 - hexID: R6153
 - ooPackageMarking: 153
 - oompDesc: O153

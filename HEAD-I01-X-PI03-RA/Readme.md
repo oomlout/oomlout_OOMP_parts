@@ -54,6 +54,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-X-PI03-RA
+- name: 2.54 mm 3 Pin Header Right Angle
 - hexID: HR03
 - oompSort: HEADI0103PI
 - oompType: HEAD

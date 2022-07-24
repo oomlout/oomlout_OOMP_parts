@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-1206-X-UF100-V63D
+- name: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - hexID: C1U100
 - oompSort: CAPC1206UF100
 - oompType: CAPC

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-SP16-X-K2291-01"
+        },
+        {
+            "name": "name",
+            "value": "16 Pin SMD (SOP) PIR Motion Sensing (TM2291)"
+        },
+        {
             "name": "hexID",
             "value": "ICS2291"
         },

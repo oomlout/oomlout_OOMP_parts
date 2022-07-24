@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4185"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S123-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) Diode"
+        },
+        {
             "name": "hexID",
             "value": "DS301"
         },

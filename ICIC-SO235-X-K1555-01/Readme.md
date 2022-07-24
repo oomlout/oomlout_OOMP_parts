@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SO235-X-K1555-01
+- name: SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
 - hexID: ICS1555
 - oompSort: 
 - oompClass: Surface Mount

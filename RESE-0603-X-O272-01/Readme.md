@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O272-01
+- name: SMD (0603) 2.7k Ohm Resistor
 - hexID: R6272
 - ooPackageMarking: 272
 - oompType: RESE

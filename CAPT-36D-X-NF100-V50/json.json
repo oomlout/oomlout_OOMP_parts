@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-36D-X-NF100-V50"
+        },
+        {
+            "name": "name",
+            "value": "3.6 mm 100 nF Capacitor (Tantalum) 50v"
+        },
+        {
             "name": "hexID",
             "value": "CTN100"
         },

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-SO223-X-V05-A1
+- name: SMD (SOT-223) 5v Voltage Regulator 1 A
 - hexID: VS251
 - oompSort: 
 - oompClass: Surface Mount

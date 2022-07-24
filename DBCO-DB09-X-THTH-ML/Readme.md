@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [DBCO-DB09-X-THTH-ML>DB9 Through Hole Connector Male](#dbco-db09-x-thth-mldb9-through-hole-connector-male)
+* [DBCO-DB09-X-THTH-ML>DB9 Connector Male](#dbco-db09-x-thth-mldb9-connector-male)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# DBCO-DB09-X-THTH-ML>DB9 Through Hole Connector Male
+# DBCO-DB09-X-THTH-ML>DB9 Connector Male
 
 - ID: DBCO-DB09-X-THTH-ML
 - Name: DBCO-DB09-X-THTH-ML
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DBCO-DB09-X-THTH-ML
+- name: DB9 Connector Male
 - hexID: DB09M
 - oompSort: 
 - oompClass: Through Hole

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O221-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 220 Ohm Ferrite Bead"
+        },
+        {
             "name": "hexID",
             "value": "F8221"
         },

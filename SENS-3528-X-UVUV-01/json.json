@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SENS-3528-X-UVUV-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) Ultraviolet Sensor"
+        },
+        {
             "name": "hexID",
             "value": "SEUV"
         },

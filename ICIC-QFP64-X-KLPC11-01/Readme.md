@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-QFP64-X-KLPC11-01
+- name: 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
 - hexID: ICSLPC11
 - oompSort: 
 - oompClass: Surface Mount

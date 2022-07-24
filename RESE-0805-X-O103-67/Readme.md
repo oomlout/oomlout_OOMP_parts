@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O103-67
 - hexID: R85103A
 - oompDesc: O103
+- name: SMD (0805) 10k Ohm Resistor 1%
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

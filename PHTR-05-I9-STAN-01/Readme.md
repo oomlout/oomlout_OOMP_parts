@@ -54,6 +54,8 @@ Contents
 
 ## Tags
 
+- oompID: PHTR-05-I9-STAN-01
+- name: 5 mm IR (940 nm) Phototransistor
 - hexID: PT5I9
 - oompSort: 
 - oompClass: Through Hole

@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-QFN28-X-K4988-01
+- name: 28 Pin SMD (QFN) Stepper Motor Driver (A4988)
 - hexID: IC4988
 - oompSort: 
 - oompType: ICIC

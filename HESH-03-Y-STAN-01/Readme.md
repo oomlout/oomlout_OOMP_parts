@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-03-Y-STAN-01
+- name: 3 mm Yellow Heat Shrink
 - hexID: HS3Y
 - oompSort: 0303Y
 - oompType: HESH

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O823-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 82k Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R42823A"
         },

@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O123-67
+- name: SMD (0603) 12k Ohm Resistor 1%
 - hexID: R6123A
 - oompSort: 
 - oompClass: Surface Mount

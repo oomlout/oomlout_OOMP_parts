@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-W-PI08-01
+- name: 2.54 mm 8 Pin White Header
 - hexID: H08W
 - oompSort: 
 - oompClass: Through Hole

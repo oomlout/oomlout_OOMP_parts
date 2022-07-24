@@ -1,8 +1,16 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0603-X-O273-01"
+        },
+        {
             "name": "hexID",
             "value": "R6273"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 28k Ohm Resistor"
         },
         {
             "name": "ooPackageMarking",
@@ -86,7 +94,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (0603) 27k Ohm Resistor"
+            "value": "SMD (0603) 28k Ohm Resistor"
         }
     ]
 }

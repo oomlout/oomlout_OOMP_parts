@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-SC8-X-KDS1307-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOIC-8) Real Time Clock (DS1307)"
+        },
+        {
             "name": "hexID",
             "value": "ICS1307"
         },
@@ -50,7 +58,7 @@
         },
         {
             "name": "name",
-            "value": "8 Pin SMD (SOIC) Real Time Clock (DS1307)"
+            "value": "SMD (SOIC-8) Real Time Clock (DS1307)"
         }
     ]
 }

@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [RESE-1206-X--01>SMD (1206) Resistor](#rese-1206-x--01smd-1206-resistor)
+* [RESE-1206-X--01>SMD (1206) 13 Ohm Resistor](#rese-1206-x--01smd-1206-13-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-1206-X--01>SMD (1206) Resistor
+# RESE-1206-X--01>SMD (1206) 13 Ohm Resistor
 
 - ID: RESE-1206-X--01
 - Name: RESE-1206-X--01
@@ -35,7 +35,9 @@ Contents
 
 ## Tags
 
+- oompID: RESE-1206-X-O130-01
 - hexID: R1130
+- name: SMD (1206) 13 Ohm Resistor
 - oompType: RESE
 - oompSize: 1206
 - oompColor: X

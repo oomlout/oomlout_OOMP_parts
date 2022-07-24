@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "VREG-SO23-X-V3-AD"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 3v Voltage Regulator 250 mA"
+        },
+        {
             "name": "hexID",
             "value": "VS33D"
         },

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2x02-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 4 Pin (2x2) Header"
+        },
+        {
             "name": "hexID",
             "value": "H2X02"
         },
@@ -86,7 +98,7 @@
         },
         {
             "name": "name",
-            "value": "2.54 mm Header"
+            "value": "2.54 mm 4 Pin (2x2) Header"
         }
     ]
 }

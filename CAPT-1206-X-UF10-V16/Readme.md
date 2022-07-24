@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPT-1206-X-UF10-V16
+- name: SMD (1206) 10 uF Capacitor (Tantalum) 16v
 - hexID: CTS1U010F
 - oompSort: 12060.00001000000000
 - oompType: CAPT

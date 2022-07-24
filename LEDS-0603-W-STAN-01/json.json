@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "LEDS-0603-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) White LED"
+        },
+        {
             "name": "hexID",
             "value": "L6W"
         },

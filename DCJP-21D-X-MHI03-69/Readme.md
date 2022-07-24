@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [DCJP-21D-X-MHI03-69>2.1 mm (7 mm mounting hole) DC Jack Panel Mount](#dcjp-21d-x-mhi03-6921-mm-7-mm-mounting-hole-dc-jack-panel-mount)
+* [DCJP-21D-X-MHI03-69> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount ](#dcjp-21d-x-mhi03-69-21-mm-7-mm-mounting-hole-dc-jack-panel-mount-)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DCJP-21D-X-MHI03-69>2.1 mm (7 mm mounting hole) DC Jack Panel Mount
+# DCJP-21D-X-MHI03-69> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 
 - ID: DCJP-21D-X-MHI03-69
 - Name: DCJP-21D-X-MHI03-69
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: DCJP-21D-X-MHI03-69
+- name:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 - hexID: GJP3
 - oompSort: DCJP21DMHI03
 - oompType: DCJP

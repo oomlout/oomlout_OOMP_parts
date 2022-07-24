@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-A05D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 500 mA PNP Transistor"
+        },
+        {
             "name": "hexID",
             "value": "TPS25D"
         },

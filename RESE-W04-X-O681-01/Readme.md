@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O681-01
+- name: 1/4 Watt 680 Ohm Resistor
 - hexID: R4681
 - oompSort: 0W040000680
 - oompType: RESE

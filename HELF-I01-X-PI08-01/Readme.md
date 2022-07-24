@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HELF-I01-X-PI08-01
+- name: 2.54 mm 8 Pin Female Header (Long)
 - hexID: HLF08
 - oompSort: HELFI0108PI
 - oompType: HELF

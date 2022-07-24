@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: WIRS-G28-R-STAN-01
+- name: 28 AWG Red Stranded Wire
 - hexID: W2R
 - oompSort: 0G28R
 - oompType: WIRS

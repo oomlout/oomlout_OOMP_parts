@@ -52,8 +52,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O471-01
 - hexID: R6471
 - hexID: R6471
+- name: SMD (0603) 470 Ohm Resistor
 - ooPackageMarking: 471
 - oompDesc: O471
 - oompSort: RESE0603O471

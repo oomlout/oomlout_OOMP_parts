@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-PF47D-V50
+- name: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 - hexID: C6P004
 - oompType: CAPC
 - oompSize: 0603

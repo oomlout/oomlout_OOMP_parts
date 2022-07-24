@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [BUTA-52D-X--01>5.2 mm Pushbutton (Tactile)](#buta-52d-x--0152-mm-pushbutton-tactile)
+* [BUTA-52D-X--01>5.2 mm SMD Pushbutton (Tactile)](#buta-52d-x--0152-mm-smd-pushbutton-tactile)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTA-52D-X--01>5.2 mm Pushbutton (Tactile)
+# BUTA-52D-X--01>5.2 mm SMD Pushbutton (Tactile)
 
 - ID: BUTA-52D-X--01
 - Name: BUTA-52D-X--01
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: BUTA-52D-X-SMDS-01
+- name: 5.2 mm SMD Pushbutton (Tactile)
 - oompType: BUTA
 - oompSize: 52D
 - oompColor: X

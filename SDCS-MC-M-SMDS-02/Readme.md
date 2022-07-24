@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: SDCS-MC-M-SMDS-02
+- name: Micro SMD Metal SD Card Socket
 - hexID: SDMS2
 - oompSort: 
 - oompClass: Surface Mount

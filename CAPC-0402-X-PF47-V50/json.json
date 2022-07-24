@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF47-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 47 pF Capacitor (Ceramic) 50v"
+        },
+        {
             "name": "hexID",
             "value": "C42P047"
         },

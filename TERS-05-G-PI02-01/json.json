@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "TERS-05-G-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 2 Pin Green Screw Terminal"
+        },
+        {
             "name": "hexID",
             "value": "ST502G"
         },

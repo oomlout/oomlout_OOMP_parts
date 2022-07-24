@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O471-01
 - hexID: R42471
 - oompDesc: O471
+- name: SMD (0402) 470 Ohm Resistor
 - oompSort: RESE0402O471
 - oompType: RESE
 - oompSize: 0402

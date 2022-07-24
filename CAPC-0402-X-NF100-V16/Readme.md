@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0402-X-NF100-V16
+- name: SMD (0402) 100 nF Capacitor (Ceramic) 16v
 - hexID: R42N100
 - oompSort: 
 - oompType: CAPC

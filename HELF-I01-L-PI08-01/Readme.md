@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HELF-I01-L-PI08-01
+- name: 2.54 mm 8 Pin Blue Female Header (Long)
 - hexID: HFL08L
 - oompSort: 
 - oompClass: Through Hole

@@ -45,9 +45,11 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O202-01
 - hexID: R85202
 - ooPackageMarking: 202
 - oompDesc: O202
+- name: SMD (0805) 2k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

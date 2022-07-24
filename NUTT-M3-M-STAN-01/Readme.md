@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [NUTT-M3-M-STAN-01>M3 Metal Nut](#nutt-m3-m-stan-01m3-metal-nut)
+* [NUTT-M3-M-STAN-01>M3 Nut](#nutt-m3-m-stan-01m3-nut)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# NUTT-M3-M-STAN-01>M3 Metal Nut
+# NUTT-M3-M-STAN-01>M3 Nut
 
 - ID: NUTT-M3-M-STAN-01
 - Name: NUTT-M3-M-STAN-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NUTT-M3-M-STAN-01
+- name: M3 Nut
 - hexID: NU3
 - oompSort: M3M3
 - oompType: NUTT

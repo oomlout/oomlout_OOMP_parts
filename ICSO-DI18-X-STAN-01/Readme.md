@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICSO-DI18-X-STAN-01
+- name: 18 Pin DIP IC Socket
 - hexID: IS18
 - oompSort: 
 - oompClass: Through Hole

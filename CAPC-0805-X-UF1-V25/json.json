@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "CAPC-0805-X-UF1-V25"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 1 uF Capacitor (Ceramic) 25v"
+        },
+        {
             "name": "hexID",
             "value": "C85U001"
         },

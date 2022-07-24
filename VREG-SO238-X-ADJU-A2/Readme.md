@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-SO238-X-ADJU-A2
+- name: SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
 - hexID: VS8A2
 - oompSort: 
 - oompClass: Surface Mount

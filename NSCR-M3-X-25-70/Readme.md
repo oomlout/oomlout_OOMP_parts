@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NSCR-M3-X-25-70
+- name: M3 x 25 mm Nylon Screw Cross Head
 - hexID: NN25
 - oompSort: M3M325
 - oompType: NSCR

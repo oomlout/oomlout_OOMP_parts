@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "DIOS-S123-X-A05D-V40"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-123) 500 mA Diode (Schottky) 40v"
+        },
+        {
             "name": "hexID",
             "value": "DS35D"
         },

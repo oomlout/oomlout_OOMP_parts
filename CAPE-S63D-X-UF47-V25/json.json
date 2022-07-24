@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-S63D-X-UF47-V25"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v"
+        },
+        {
             "name": "hexID",
             "value": "CESU047"
         },

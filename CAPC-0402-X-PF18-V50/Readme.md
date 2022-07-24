@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0402-X-PF18-V50
+- name: SMD (0402) 18 pF Capacitor (Ceramic) 50v
 - hexID: C42P018
 - oompType: CAPC
 - oompSize: 0402

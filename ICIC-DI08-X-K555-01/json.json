@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-DI08-X-K555-01"
+        },
+        {
+            "name": "name",
+            "value": "8 Pin DIP 555 Timer"
+        },
+        {
             "name": "hexID",
             "value": "IC555"
         },
@@ -90,7 +98,7 @@
         },
         {
             "name": "name",
-            "value": "555 Timer"
+            "value": "8 Pin DIP 555 Timer"
         }
     ]
 }

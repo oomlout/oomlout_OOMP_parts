@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "ICIC-QFP32-X-K8-01"
+        },
+        {
+            "name": "name",
+            "value": "32 Pin SMD (TQFP) AtMega8A"
+        },
+        {
             "name": "hexID",
             "value": "ICS008"
         },

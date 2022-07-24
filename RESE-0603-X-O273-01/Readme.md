@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0603-X-O273-01>SMD (0603) 27k Ohm Resistor](#rese-0603-x-o273-01smd-0603-27k-ohm-resistor)
+* [RESE-0603-X-O273-01>SMD (0603) 28k Ohm Resistor](#rese-0603-x-o273-01smd-0603-28k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -15,7 +15,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0603-X-O273-01>SMD (0603) 27k Ohm Resistor
+# RESE-0603-X-O273-01>SMD (0603) 28k Ohm Resistor
 
 - ID: RESE-0603-X-O273-01
 - Name: RESE-0603-X-O273-01
@@ -52,7 +52,9 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O273-01
 - hexID: R6273
+- name: SMD (0603) 28k Ohm Resistor
 - ooPackageMarking: 273
 - oompType: RESE
 - oompSize: 0603

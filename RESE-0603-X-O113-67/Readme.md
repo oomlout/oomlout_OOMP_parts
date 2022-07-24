@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O113-67
+- name: SMD (0603) 11k Ohm Resistor 1%
 - hexID: R6113A
 - oompDesc: O113
 - oompType: RESE

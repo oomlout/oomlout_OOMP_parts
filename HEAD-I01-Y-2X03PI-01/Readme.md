@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAD-I01-Y-2X03PI-01>2.54 mm Yellow Header](#head-i01-y-2x03pi-01254-mm-yellow-header)
+* [HEAD-I01-Y-2X03PI-01>2.54 mm 6 Pin (2x3) Yellow Header](#head-i01-y-2x03pi-01254-mm-6-pin-2x3-yellow-header)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAD-I01-Y-2X03PI-01>2.54 mm Yellow Header
+# HEAD-I01-Y-2X03PI-01>2.54 mm 6 Pin (2x3) Yellow Header
 
 - ID: HEAD-I01-Y-2X03PI-01
 - Name: HEAD-I01-Y-2X03PI-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-Y-2X03PI-01
+- name: 2.54 mm 6 Pin (2x3) Yellow Header
 - hexID: H2X03Y
 - oompSort: 
 - oompClass: Through Hole

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: JSTS-02-X-PI04-RS
+- name: 2 mm 4 Pin JST Socket Right Angle (SMD)
 - hexID: J204RS
 - oompSort: 
 - oompClass: Surface Mount

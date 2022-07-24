@@ -1,12 +1,20 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O499D-67"
+        },
+        {
             "name": "hexID",
             "value": "R42499A"
         },
         {
             "name": "oompDesc",
             "value": "O499D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 49.9 Ohm Resistor 1%"
         },
         {
             "name": "oompSort",

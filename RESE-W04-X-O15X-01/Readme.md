@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O15X-01
+- name: 1/4 Watt 1.5 Ohm Resistor
 - hexID: R415A
 - oompSort: 0W040000001
 - oompType: RESE

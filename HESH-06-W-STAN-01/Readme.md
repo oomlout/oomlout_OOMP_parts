@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-06-W-STAN-01
+- name: 6 mm White Heat Shrink
 - hexID: HS6W
 - oompSort: 0606W
 - oompType: HESH

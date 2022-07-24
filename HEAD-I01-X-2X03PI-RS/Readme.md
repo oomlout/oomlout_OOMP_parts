@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)](#head-i01-x-2x03pi-rs254-mm-header-right-angle-smd)
+* [HEAD-I01-X-2X03PI-RS>2.54 mm 6 Pin (2x3) Header Right Angle (SMD)](#head-i01-x-2x03pi-rs254-mm-6-pin-2x3-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)
+# HEAD-I01-X-2X03PI-RS>2.54 mm 6 Pin (2x3) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-2X03PI-RS
 - Name: HEAD-I01-X-2X03PI-RS
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAD-I01-X-PI2X03-RS
+- name: 2.54 mm 6 Pin (2x3) Header Right Angle (SMD)
 - oompSort: 
 - oompType: HEAD
 - oompSize: I01

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O221-67
+- name: SMD (0402) 220 Ohm Resistor 1%
 - hexID: R42221A
 - oompDesc: O221
 - oompType: RESE

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: SWIS-7135-X-DPDT-01
+- name: SMD (7135) DPDT Switch (Slide)
 - hexID: SS7135
 - oompSort: SWIS7135DPDT
 - oompType: SWIS

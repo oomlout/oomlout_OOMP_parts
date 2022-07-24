@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-TB-X-THTH-01"
+        },
+        {
+            "name": "name",
+            "value": "Type B Through Hole USB Socket"
+        },
+        {
             "name": "hexID",
             "value": "UTB"
         },

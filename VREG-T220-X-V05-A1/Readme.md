@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: VREG-T220-X-V05-A1
+- name: TO-220 5v Voltage Regulator 1 A
 - hexID: VT251
 - oompSort: T2205.001.000
 - oompType: VREG

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4180"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-B-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Black Stranded Wire"
+        },
+        {
             "name": "hexID",
             "value": "W2B"
         },

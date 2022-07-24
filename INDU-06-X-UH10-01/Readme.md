@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: INDU-06-X-UH10-01
+- name: 6 mm 10 uH Inductor
 - hexID: IN06U10
 - oompSort: 
 - oompClass: Surface Mount

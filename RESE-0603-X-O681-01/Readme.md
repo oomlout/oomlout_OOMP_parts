@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O681-01
+- name: SMD (0603) 680 Ohm Resistor
 - hexID: R6681
 - ooPackageMarking: 681
 - oompDesc: O681

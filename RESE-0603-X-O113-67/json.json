@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0603-X-O113-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 11k Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R6113A"
         },

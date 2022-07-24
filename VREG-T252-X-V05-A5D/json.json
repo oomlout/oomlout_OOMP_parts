@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4324"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T252-X-V05-A5D"
+        },
+        {
+            "name": "name",
+            "value": "TO-252 5v Voltage Regulator 500 mA"
+        },
+        {
             "name": "hexID",
             "value": "VT555"
         },

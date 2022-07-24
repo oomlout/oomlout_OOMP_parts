@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O563-01
+- name: SMD (0603) 56k Ohm Resistor
 - hexID: R6563
 - ooPackageMarking: 563
 - oompDesc: O563

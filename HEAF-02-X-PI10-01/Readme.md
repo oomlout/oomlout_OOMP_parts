@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: HEAF-02-X-PI10-01
+- name: 2 mm 10 Pin Female Header
 - hexID: HF210
 - oompSort: HEAF0210PI
 - oompType: HEAF

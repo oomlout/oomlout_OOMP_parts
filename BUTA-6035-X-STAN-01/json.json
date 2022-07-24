@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "BUTA-6035-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6035) Pushbutton (Tactile)"
+        },
+        {
             "name": "hexID",
             "value": "B6035"
         },
@@ -86,7 +94,7 @@
         },
         {
             "name": "name",
-            "value": "Pushbutton (Tactile)"
+            "value": "SMD (6035) Pushbutton (Tactile)"
         }
     ]
 }

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSP-SO23-X-A02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) 2 Amp P-Ch. MOSFET"
+        },
+        {
             "name": "hexID",
             "value": "MPSS202"
         },

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "MOSP-SO23F-X-A06-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23F) 6 Amp P-Ch. MOSFET"
+        },
+        {
             "name": "hexID",
             "value": "MP2F6"
         },

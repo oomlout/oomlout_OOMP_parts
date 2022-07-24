@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: SCRE-M3-X-06-70
+- name: M3 x 6 mm Machine Screw Cross Head
 - hexID: M36
 - oompSort: SCREM306
 - oompType: SCRE

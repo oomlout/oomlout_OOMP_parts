@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-08-RGB-STAN-CA
+- name: 8 mm RGB LED Common Anode
 - hexID: L8RGB
 - oompSort: 
 - oompClass: Through Hole

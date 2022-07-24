@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O249D2-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 2.49 Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R42249D2A"
         },

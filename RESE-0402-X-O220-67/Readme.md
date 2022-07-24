@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O220-67
+- name: SMD (0402) 22 Ohm Resistor 1%
 - hexID: R42220A
 - oompSort: RESE0402O220
 - oompType: RESE

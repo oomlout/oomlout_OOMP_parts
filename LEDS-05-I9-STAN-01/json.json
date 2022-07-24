@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "LEDS-05-I9-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm IR (940 nm) LED"
+        },
+        {
             "name": "hexID",
             "value": "L5I9"
         },

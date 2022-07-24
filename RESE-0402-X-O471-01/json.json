@@ -1,12 +1,20 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O471-01"
+        },
+        {
             "name": "hexID",
             "value": "R42471"
         },
         {
             "name": "oompDesc",
             "value": "O471"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 470 Ohm Resistor"
         },
         {
             "name": "oompSort",

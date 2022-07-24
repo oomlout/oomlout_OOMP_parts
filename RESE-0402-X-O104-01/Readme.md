@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0402-X-O104-01>SMD (0402) 100k Ohm Resistor](#rese-0402-x-o104-01smd-0402-100k-ohm-resistor)
+* [RESE-0402-X-O104-01>SMD (0402) 110k Ohm Resistor](#rese-0402-x-o104-01smd-0402-110k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0402-X-O104-01>SMD (0402) 100k Ohm Resistor
+# RESE-0402-X-O104-01>SMD (0402) 110k Ohm Resistor
 
 - ID: RESE-0402-X-O104-01
 - Name: RESE-0402-X-O104-01
@@ -45,8 +45,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O104-01
 - hexID: R42104
 - oompDesc: O104
+- name: SMD (0402) 110k Ohm Resistor
 - oompSort: RESE0402O104
 - oompType: RESE
 - oompSize: 0402

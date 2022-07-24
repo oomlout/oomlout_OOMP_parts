@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O510-01
+- name: SMD (0603) 51 Ohm Resistor
 - hexID: R6510
 - ooPackageMarking: 510
 - oompDesc: O510

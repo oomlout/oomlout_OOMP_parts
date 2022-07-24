@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0603-X-O274-01>SMD (0603) 270k Ohm Resistor](#rese-0603-x-o274-01smd-0603-270k-ohm-resistor)
+* [RESE-0603-X-O274-01>SMD (0603) 280k Ohm Resistor](#rese-0603-x-o274-01smd-0603-280k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0603-X-O274-01>SMD (0603) 270k Ohm Resistor
+# RESE-0603-X-O274-01>SMD (0603) 280k Ohm Resistor
 
 - ID: RESE-0603-X-O274-01
 - Name: RESE-0603-X-O274-01
@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O274-01
+- name: SMD (0603) 280k Ohm Resistor
 - hexID: R6274
 - ooPackageMarking: 274
 - oompType: RESE

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SC8-X-KM293-01
+- name: 8 Pin SMD (SOIC) Dual Differential Comparator (LM293)
 - hexID: ICSM293
 - oompSort: 
 - oompClass: Surface Mount

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "SCRE-M3-X-05-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 5 mm Machine Screw Cross Head"
+        },
+        {
             "name": "hexID",
             "value": "M35"
         },

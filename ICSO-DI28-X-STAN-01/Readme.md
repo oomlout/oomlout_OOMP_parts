@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICSO-DI28-X-STAN-01
+- name: 28 Pin DIP IC Socket
 - hexID: IS28
 - oompSort: 0101028
 - oompType: ICSO

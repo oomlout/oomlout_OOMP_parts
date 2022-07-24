@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "JSTS-02-X-PI04-RA"
+        },
+        {
+            "name": "name",
+            "value": "2 mm 4 Pin JST Socket Right Angle"
+        },
+        {
             "name": "hexID",
             "value": "J204R"
         },

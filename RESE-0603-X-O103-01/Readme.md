@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O103-01
+- name: SMD (0603) 10k Ohm Resistor
 - hexID: R6103
 - ooPackageMarking: 103
 - oompDesc: O103

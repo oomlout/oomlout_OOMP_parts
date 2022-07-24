@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-03-E-STAN-01
+- name: 3 mm Grey Heat Shrink
 - hexID: HS3E
 - oompSort: 0303E
 - oompType: HESH

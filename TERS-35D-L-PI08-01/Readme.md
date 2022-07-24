@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: TERS-35D-L-PI08-01
+- name: 3.5 mm 8 Pin Blue Screw Terminal
 - hexID: ST308L
 - oompSort: TERS35D08PI
 - oompClass: Through Hole

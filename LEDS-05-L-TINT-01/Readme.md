@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-L-TINT-01
+- name: 5 mm Tinted Blue LED
 - hexID: LT5L
 - oompSort: 0505ZTINTL
 - oompType: LEDS

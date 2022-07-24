@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4038"
+        },
+        {
+            "name": "oompID",
+            "value": "HESH-06-W-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "6 mm White Heat Shrink"
+        },
+        {
             "name": "hexID",
             "value": "HS6W"
         },

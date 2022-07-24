@@ -63,6 +63,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-10-R-FROS-01
+- name: 10 mm Frosted Red LED
 - hexID: L10R
 - oompSort: 1010R
 - oompType: LEDS

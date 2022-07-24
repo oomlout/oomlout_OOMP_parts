@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: BAPI-06-X-STAN-01
+- name: 6 mm Badge Pin
 - hexID: BAPI
 - oompSort: BAPI06THTH
 - oompType: BAPI

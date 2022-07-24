@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0603-X-UF47D-V10
+- name: SMD (0603) 4.7 uF Capacitor (Ceramic) 10v
 - hexID: C6U004
 - oompType: CAPC
 - oompSize: 0603

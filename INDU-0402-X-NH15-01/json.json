@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "INDU-0402-X-NH15-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 15 nH Inductor"
+        },
+        {
             "name": "hexID",
             "value": "IN42N15"
         },

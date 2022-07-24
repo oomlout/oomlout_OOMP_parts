@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O221-01
+- name: 1/4 Watt 220 Ohm Resistor
 - hexID: R4221
 - oompSort: 0W040000220
 - oompType: RESE

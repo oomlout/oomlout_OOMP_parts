@@ -51,6 +51,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O683-01
+- name: SMD (0603) 68k Ohm Resistor
 - hexID: R6683
 - ooPackageMarking: 683
 - oompDesc: O683

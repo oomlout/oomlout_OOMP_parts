@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4115"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-1268-X-O103X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 10k Ohm (x4) Resistor Array"
+        },
+        {
             "name": "hexID",
             "value": "RA1103"
         },

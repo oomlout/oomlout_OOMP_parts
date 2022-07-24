@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O330-67
+- name: SMD (0603) 33 Ohm Resistor 1%
 - hexID: R6330A
 - oompSort: ZZZ06030000033
 - oompType: RESE

@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4289"
+        },
+        {
+            "name": "oompID",
+            "value": "HEDS-35D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm SMD Headphone Socket"
+        },
+        {
             "name": "hexID",
             "value": "10C1"
         },

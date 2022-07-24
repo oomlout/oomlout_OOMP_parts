@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4199"
+        },
+        {
+            "name": "oompID",
+            "value": "NNUT-M3-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "M3 Nylon Nut"
+        },
+        {
             "name": "hexID",
             "value": "NN3"
         },

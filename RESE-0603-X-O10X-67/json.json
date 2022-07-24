@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0603-X-O10X-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 1 Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R610XA"
         },

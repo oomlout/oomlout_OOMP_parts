@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: NHFF-M3-X-12-01
+- name: M3 x 12 mm Nylon Standoff (F-F)
 - hexID: NFF12
 - oompSort: M3M312
 - oompType: NHFF

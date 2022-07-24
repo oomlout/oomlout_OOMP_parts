@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O152-67
+- name: SMD (0402) 1.5k Ohm Resistor 1%
 - hexID: R42152A
 - oompDesc: O152
 - oompType: RESE

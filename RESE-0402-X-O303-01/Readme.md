@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O303-01
+- name: SMD (0402) 30k Ohm Resistor
 - hexID: R42303
 - oompDesc: O303
 - oompType: RESE

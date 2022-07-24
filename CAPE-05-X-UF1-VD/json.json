@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-05-X-UF1-V63D"
+        },
+        {
+            "name": "name",
+            "value": "5 mm 1 uF Capacitor (Electrolytic) 63v"
+        },
+        {
             "name": "hexID",
             "value": "CEU001"
         },
@@ -66,7 +78,7 @@
         },
         {
             "name": "name",
-            "value": "5 mm 1 uF Capacitor (Electrolytic)"
+            "value": "5 mm 1 uF Capacitor (Electrolytic) 63v"
         }
     ]
 }

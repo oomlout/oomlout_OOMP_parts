@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: DIOS-SO23-X-A02D-01
+- name: SMD (SOT-23) 200 mA Diode (Schottky)
 - hexID: DS22D
 - oompSort: 
 - oompClass: Surface Mount

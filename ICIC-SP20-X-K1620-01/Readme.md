@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [ICIC-SP20-X-K1620-01>20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620)](#icic-sp20-x-k1620-0120-pin-smd-sop-7-segment-8-digit-led-driver-tm1620)
+* [ICIC-SP20-X-K1620-01> 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) ](#icic-sp20-x-k1620-01-20-pin-smd-sop-7-segment-8-digit-led-driver-tm1620-)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SP20-X-K1620-01>20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620)
+# ICIC-SP20-X-K1620-01> 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) 
 
 - ID: ICIC-SP20-X-K1620-01
 - Name: ICIC-SP20-X-K1620-01
@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-SP20-X-K1620-01
+- name:  20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) 
 - hexID: ICS1620
 - oompSort: ICICSP20K1620
 - oompType: ICIC

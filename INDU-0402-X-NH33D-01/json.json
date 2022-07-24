@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "INDU-0402-X-NH33D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 3.3 NH Inductor"
+        },
+        {
             "name": "hexID",
             "value": "IN42N33D"
         },

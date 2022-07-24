@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: WIRS-G28-Y-STAN-01
+- name: 28 AWG Yellow Stranded Wire
 - hexID: W2Y
 - oompSort: 0G28Y
 - oompType: WIRS

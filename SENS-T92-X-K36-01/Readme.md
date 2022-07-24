@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: SENS-T92-X-K36-01
+- name: TO-92 Temperature (TMP36) Sensor
 - hexID: SE36
 - oompSort: SENST92K36
 - oompType: SENS

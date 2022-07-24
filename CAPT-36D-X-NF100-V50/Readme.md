@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPT-36D-X-NF100-V50
+- name: 3.6 mm 100 nF Capacitor (Tantalum) 50v
 - hexID: CTN100
 - oompSort: THTH0.00000010000000
 - oompType: CAPT

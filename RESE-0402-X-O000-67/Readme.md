@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0402-X-O000-67
+- name: SMD (0402) 0 Ohm Resistor 1%
 - hexID: R42000A
 - oompDesc: O000
 - oompType: RESE

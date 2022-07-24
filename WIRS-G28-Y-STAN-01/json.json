@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4174"
+        },
+        {
+            "name": "oompID",
+            "value": "WIRS-G28-Y-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "28 AWG Yellow Stranded Wire"
+        },
+        {
             "name": "hexID",
             "value": "W2Y"
         },

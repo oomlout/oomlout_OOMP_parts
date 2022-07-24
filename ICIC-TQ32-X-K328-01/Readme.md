@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [ICIC-TQ32-X-K328-01>AtMega328P](#icic-tq32-x-k328-01atmega328p)
+* [ICIC-TQ32-X-K328-01>32 Pin SMD (TQFP) AtMega328P](#icic-tq32-x-k328-0132-pin-smd-tqfp-atmega328p)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-TQ32-X-K328-01>AtMega328P
+# ICIC-TQ32-X-K328-01>32 Pin SMD (TQFP) AtMega328P
 
 - ID: ICIC-TQ32-X-K328-01
 - Name: ICIC-TQ32-X-K328-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-TQ32-X-K328-01
+- name: 32 Pin SMD (TQFP) AtMega328P
 - hexID: ICS328
 - oompSort: AtMega 328 SMD
 - oompType: ICIC

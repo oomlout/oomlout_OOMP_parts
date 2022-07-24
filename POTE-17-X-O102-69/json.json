@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "POTE-17-X-O102-69"
+        },
+        {
+            "name": "name",
+            "value": "17 mm 1k Ohm Potentiometer Panel Mount"
+        },
+        {
             "name": "hexID",
             "value": "PT7102"
         },

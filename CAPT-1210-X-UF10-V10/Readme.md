@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPT-1210-X-UF10-V10
+- name: SMD (1210) 10 uF Capacitor (Tantalum) 10v
 - hexID: CTS2U010B
 - oompSort: 12100.00001000000000
 - oompType: CAPT

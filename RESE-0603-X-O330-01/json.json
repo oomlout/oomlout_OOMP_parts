@@ -1,8 +1,16 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0603-X-O330-01"
+        },
+        {
             "name": "hexID",
             "value": "R6330"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 33 Ohm Resistor"
         },
         {
             "name": "oompSort",

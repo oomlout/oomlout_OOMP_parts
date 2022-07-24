@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [ICIC-TS14-X-K125-01>14 Pin SMD (TSSOP) Quad Buffer](#icic-ts14-x-k125-0114-pin-smd-tssop-quad-buffer)
+* [ICIC-TS14-X-K125-01>14 Pin SMD (TSSOP) Quad Buffer (74HC125)](#icic-ts14-x-k125-0114-pin-smd-tssop-quad-buffer-74hc125)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,7 +14,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-TS14-X-K125-01>14 Pin SMD (TSSOP) Quad Buffer
+# ICIC-TS14-X-K125-01>14 Pin SMD (TSSOP) Quad Buffer (74HC125)
 
 - ID: ICIC-TS14-X-K125-01
 - Name: ICIC-TS14-X-K125-01
@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-TS14-X-K125-01
+- name: 14 Pin SMD (TSSOP) Quad Buffer (74HC125)
 - hexID: ICQB
 - oompSort: Quad Buffer
 - oompType: ICIC

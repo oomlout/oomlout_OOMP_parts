@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-05-V-STAN-01
+- name: 5 mm Purple LED
 - hexID: L5V
 - oompSort: 
 - oompClass: Through Hole

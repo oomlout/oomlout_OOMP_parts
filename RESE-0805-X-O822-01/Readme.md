@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O822-01
+- name: SMD (0805) 8.2k Ohm Resistor
 - ooPackageMarking: 822
 - hexID: R85822
 - oompSort: 

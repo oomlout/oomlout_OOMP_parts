@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: HESH-15D-O-STAN-01
+- name: 1.5 mm Orange Heat Shrink
 - hexID: HS1O
 - oompSort: 0101O
 - oompType: HESH

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: ICIC-PS20-X-KL298-A4
+- name: SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 - hexID: ICS298
 - oompSort: 
 - oompClass: Surface Mount

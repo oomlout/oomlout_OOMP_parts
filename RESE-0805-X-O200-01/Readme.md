@@ -35,6 +35,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O200-01
+- name: SMD (0805) 20 Ohm Resistor
 - hexID: R85200
 - ooPackageMarking: 200
 - oompDesc: O200

@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: CAPC-0402-X-PF05D-V50
+- name: SMD (0402) 0.5 pF Capacitor (Ceramic) 50v
 - hexID: C42P0005
 - oompSort: CAPC0402PF05D
 - oompType: CAPC

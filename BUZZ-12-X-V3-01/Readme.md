@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: BUZZ-12-X-V3-01
+- name: 12 mm 3v Buzzer
 - hexID: BZ12
 - oompSort: BUZZ12V3
 - oompType: BUZZ

@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0402-X-O1022-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 10.2k Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R421022A"
         },

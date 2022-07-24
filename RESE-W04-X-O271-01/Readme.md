@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-W04-X-O271-01
+- name: 1/4 Watt 270 Ohm Resistor
 - hexID: R4271
 - oompSort: 0W040000270
 - oompType: RESE

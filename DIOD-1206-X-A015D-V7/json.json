@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-1206-X-A015D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 150 mA Diode 75v"
+        },
+        {
             "name": "hexID",
             "value": "DS115"
         },
@@ -90,7 +102,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (1206) 150 mA Diode"
+            "value": "SMD (1206) 150 mA Diode 75v"
         }
     ]
 }

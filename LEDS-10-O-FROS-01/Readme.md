@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-10-O-FROS-01
+- name: 10 mm Frosted Orange LED
 - hexID: L10O
 - oompSort: 1010O
 - oompType: LEDS

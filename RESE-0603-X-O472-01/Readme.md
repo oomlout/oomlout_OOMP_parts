@@ -52,8 +52,10 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O472-01
 - hexID: R6472
 - hexID: R6472
+- name: SMD (0603) 4.7k Ohm Resistor
 - ooPackageMarking: 472
 - oompDesc: O472
 - oompSort: 06030004700

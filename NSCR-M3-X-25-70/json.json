@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "4210"
+        },
+        {
+            "name": "oompID",
+            "value": "NSCR-M3-X-25-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 25 mm Nylon Screw Cross Head"
+        },
+        {
             "name": "hexID",
             "value": "NN25"
         },

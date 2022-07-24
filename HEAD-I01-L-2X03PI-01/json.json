@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "HEAD-I01-L-2X03PI-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 6 Pin (2x3) Blue Header"
+        },
+        {
             "name": "hexID",
             "value": "H2X03L"
         },
@@ -78,7 +86,7 @@
         },
         {
             "name": "name",
-            "value": "2.54 mm Blue Header"
+            "value": "2.54 mm 6 Pin (2x3) Blue Header"
         }
     ]
 }

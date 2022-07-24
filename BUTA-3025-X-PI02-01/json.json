@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "BUTA-3025-X-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3025) 2 Pin Pushbutton (Tactile)"
+        },
+        {
             "name": "hexID",
             "value": "BT3025"
         },

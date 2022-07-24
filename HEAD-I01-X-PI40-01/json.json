@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI40-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 40 Pin Header"
+        },
+        {
             "name": "hexID",
             "value": "H40"
         },

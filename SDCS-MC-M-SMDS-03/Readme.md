@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: SDCS-MC-M-SMDS-03
+- name: Micro SMD Metal SD Card Socket
 - hexID: SDMS3
 - oompSort: 
 - oompClass: Surface Mount

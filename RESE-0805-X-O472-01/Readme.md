@@ -45,9 +45,11 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0805-X-O472-01
 - hexID: R85472
 - ooPackageMarking: 472
 - oompDesc: O472
+- name: SMD (0805) 4.7k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X

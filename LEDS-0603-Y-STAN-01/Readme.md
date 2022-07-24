@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-0603-Y-STAN-01
+- name: SMD (0603) Yellow LED
 - hexID: L6Y
 - oompSort: 
 - oompClass: Surface Mount

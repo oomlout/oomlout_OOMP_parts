@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: MICR-97D-X-STAN-01
+- name: 9.7 mm Microphone
 - hexID: MI97D
 - oompSort: MICR97DSTAN
 - oompType: MICR

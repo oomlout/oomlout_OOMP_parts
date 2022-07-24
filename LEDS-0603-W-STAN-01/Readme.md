@@ -45,6 +45,8 @@ Contents
 
 ## Tags
 
+- oompID: LEDS-0603-W-STAN-01
+- name: SMD (0603) White LED
 - hexID: L6W
 - oompSort: 
 - oompClass: Surface Mount

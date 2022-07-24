@@ -1,6 +1,14 @@
 {
     "tags": [
         {
+            "name": "oompID",
+            "value": "RESE-0805-X-O301-67"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 300 Ohm Resistor 1%"
+        },
+        {
             "name": "hexID",
             "value": "R85301A"
         },

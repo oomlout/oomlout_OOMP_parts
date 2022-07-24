@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-0603-X-O205-67>SMD (0603) 2M Ohm Resistor 1%](#rese-0603-x-o205-67smd-0603-2m-ohm-resistor-1)
+* [RESE-0603-X-O205-67>SMD (0603) 2.0M Ohm Resistor 1%](#rese-0603-x-o205-67smd-0603-20m-ohm-resistor-1)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -15,7 +15,7 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0603-X-O205-67>SMD (0603) 2M Ohm Resistor 1%
+# RESE-0603-X-O205-67>SMD (0603) 2.0M Ohm Resistor 1%
 
 - ID: RESE-0603-X-O205-67
 - Name: RESE-0603-X-O205-67
@@ -52,6 +52,8 @@ Contents
 
 ## Tags
 
+- oompID: RESE-0603-X-O205-67
+- name: SMD (0603) 2.0M Ohm Resistor 1%
 - hexID: R6205A
 - oompDesc: O205
 - oompType: RESE

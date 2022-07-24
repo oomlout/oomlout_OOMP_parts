@@ -1,6 +1,18 @@
 {
     "tags": [
         {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "SCRE-M3-M-20-70"
+        },
+        {
+            "name": "name",
+            "value": "M3 x 20 mm Metal Machine Screw Cross Head"
+        },
+        {
             "name": "hexID",
             "value": "M320"
         },
