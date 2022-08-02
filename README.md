@@ -49,6 +49,7 @@ Contents
 	* [OPAM > Op Amp](#opam--op-amp)
 	* [PHTR > Phototransistor](#phtr--phototransistor)
 	* [POTE > Potentiometer](#pote--potentiometer)
+	* [PIEZ > Piezo Element](#piez--piezo-element)
 	* [POAD > Power Adapter](#poad--power-adapter)
 	* [PRIV > Plastic Rivet](#priv--plastic-rivet)
 	* [RBCC > Crimped Ribbon Cable](#rbcc--crimped-ribbon-cable)
@@ -60,10 +61,12 @@ Contents
 	* [SCRE > Machine Screw](#scre--machine-screw)
 	* [SDCS > SD Card Socket](#sdcs--sd-card-socket)
 	* [SENS > Sensor](#sens--sensor)
+	* [SERV > Servo](#serv--servo)
 	* [SWIS > Switch (Slide)](#swis--switch-slide)
 	* [TERS > Screw Terminal](#ters--screw-terminal)
 	* [THER > Thermistor](#ther--thermistor)
 	* [TILS > Tilt Switch](#tils--tilt-switch)
+	* [TINB > Tin Box](#tinb--tin-box)
 	* [TRNN > NPN Transistor](#trnn--npn-transistor)
 	* [TRNP > PNP Transistor](#trnp--pnp-transistor)
 	* [USBS > USB Socket](#usbs--usb-socket)
@@ -362,7 +365,7 @@ Contents
 
 |![SMD (SOT-23) 300 mA N-Ch. MOSFET](MOSN-SO23-X-A03D-01/image_140.jpg)<br>[MOSN-SO23-X-A03D-01 <br> SMD (SOT-23) 300 mA N-Ch. MOSFET](MOSN-SO23-X-A03D-01/)<br>[MNS23D](MOSN-SO23-X-A03D-01/)|![SMD (SOT-23) 2.1 Amp N-Ch. MOSFET](MOSN-SO23-X-A21D-01/image_140.jpg)<br>[MOSN-SO23-X-A21D-01 <br> SMD (SOT-23) 2.1 Amp N-Ch. MOSFET](MOSN-SO23-X-A21D-01/)<br>[MNS221D](MOSN-SO23-X-A21D-01/)|![SMD (SOT-323) 200 mA N-Ch. MOSFET](MOSN-SO323-X-A02D-01/image_140.jpg)<br>[MOSN-SO323-X-A02D-01 <br> SMD (SOT-323) 200 mA N-Ch. MOSFET](MOSN-SO323-X-A02D-01/)<br>[MNS22D](MOSN-SO323-X-A02D-01/)|<br>[MOSN-T220-X-A23-01 <br> TO-220 23 Amp N-Ch. MOSFET](MOSN-T220-X-A23-01/)<br>[MN220A23](MOSN-T220-X-A23-01/)|
 | :---: | :---: | :---: | :---: |
-|||||
+|<br>[MOSN-T252-X-A50-01 <br> TO-252 50 Amp N-Ch. MOSFET](MOSN-T252-X-A50-01/)<br>[MNAOD4184A](MOSN-T252-X-A50-01/)||||
 
 ## MOSP > P-Ch. MOSFET
   
@@ -423,6 +426,12 @@ Contents
 | :---: | :---: | :---: | :---: |
 |![17 mm 10k Ohm Potentiometer Panel Mount](POTE-17-X-O103-69/image_140.jpg)<br>[POTE-17-X-O103-69 <br> 17 mm 10k Ohm Potentiometer Panel Mount](POTE-17-X-O103-69/)<br>[PT7103](POTE-17-X-O103-69/)|![17 mm 100k Ohm Potentiometer Panel Mount](POTE-17-X-O104-69/image_140.jpg)<br>[POTE-17-X-O104-69 <br> 17 mm 100k Ohm Potentiometer Panel Mount](POTE-17-X-O104-69/)<br>[PT7104](POTE-17-X-O104-69/)|![17 mm 1M Ohm Potentiometer Panel Mount](POTE-17-X-O105-69/image_140.jpg)<br>[POTE-17-X-O105-69 <br> 17 mm 1M Ohm Potentiometer Panel Mount](POTE-17-X-O105-69/)<br>[PT7105](POTE-17-X-O105-69/)|![9.5 mm 10k Ohm Blue Potentiometer](POTE-95D-L-O103-01/image_140.jpg)<br>[POTE-95D-L-O103-01 <br> 9.5 mm 10k Ohm Blue Potentiometer](POTE-95D-L-O103-01/)<br>[PTA103](POTE-95D-L-O103-01/)|
 |![9.5 mm 10k Ohm Potentiometer](POTE-95D-X-O103-01/image_140.jpg)<br>[POTE-95D-X-O103-01 <br> 9.5 mm 10k Ohm Potentiometer](POTE-95D-X-O103-01/)<br>[PT95103](POTE-95D-X-O103-01/)|![9.8 mm 10k Ohm Potentiometer](POTE-98D-X-O103-01/image_140.jpg)<br>[POTE-98D-X-O103-01 <br> 9.8 mm 10k Ohm Potentiometer](POTE-98D-X-O103-01/)<br>[PT98103](POTE-98D-X-O103-01/)|||
+
+## PIEZ > Piezo Element
+  
+
+|<br>[PIEZ-14-B-STAN-01 <br> 14 mm Black Piezo Element](PIEZ-14-B-STAN-01/)<br>[PZ14](PIEZ-14-B-STAN-01/)||||
+| :---: | :---: | :---: | :---: |
 
 ## POAD > Power Adapter
   
@@ -569,6 +578,12 @@ Contents
 |<br>[SENS-3528-X-UVUV-01 <br> SMD (3528) Ultraviolet Sensor](SENS-3528-X-UVUV-01/)<br>[SEUV](SENS-3528-X-UVUV-01/)|<br>[SENS-87DX45D-X-K1550-01 <br> 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor](SENS-87DX45D-X-K1550-01/)<br>[SEPR](SENS-87DX45D-X-K1550-01/)|<br>[SENS-92D-X-PIRS-01 <br> 9.2 mm PIRS Sensor](SENS-92D-X-PIRS-01/)<br>[SEPI](SENS-92D-X-PIRS-01/)|<br>[SENS-SO235-X--01 <br> SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor](SENS-SO235-X--01/)<br>|
 |<br>[SENS-T92-X-K36-01 <br> TO-92 Temperature (TMP36) Sensor](SENS-T92-X-K36-01/)<br>[SE36](SENS-T92-X-K36-01/)||||
 
+## SERV > Servo
+  
+
+|<br>[SERV-MC-X-STAN-01 <br> Micro Servo](SERV-MC-X-STAN-01/)<br>[SVM](SERV-MC-X-STAN-01/)||||
+| :---: | :---: | :---: | :---: |
+
 ## SWIS > Switch (Slide)
   
 
@@ -586,7 +601,7 @@ Contents
 ## THER > Thermistor
   
 
-|<br>[THER-0603-X-O104-01 <br> SMD (0603) 100k Ohm Thermistor](THER-0603-X-O104-01/)<br>[TH6](THER-0603-X-O104-01/)|![6.5 mm Thermistor](THER-65D-X-STAN-01/image_140.jpg)<br>[THER-65D-X-STAN-01 <br> 6.5 mm Thermistor](THER-65D-X-STAN-01/)<br>[TH65D](THER-65D-X-STAN-01/)|||
+|<br>[THER-0603-X-O104-01 <br> SMD (0603) 100k Ohm Thermistor](THER-0603-X-O104-01/)<br>[TH6](THER-0603-X-O104-01/)|<br>[THER-175D-X-O103-TC3590 <br> 1.75 mm 10k Ohm Thermistor (3590)](THER-175D-X-O103-TC3590/)<br>[TH1033](THER-175D-X-O103-TC3590/)|![6.5 mm Thermistor](THER-65D-X-STAN-01/image_140.jpg)<br>[THER-65D-X-STAN-01 <br> 6.5 mm Thermistor](THER-65D-X-STAN-01/)<br>[TH65D](THER-65D-X-STAN-01/)||
 | :---: | :---: | :---: | :---: |
 
 ## TILS > Tilt Switch
@@ -595,12 +610,19 @@ Contents
 |![11 mm Tilt Switch](TILS-11-X-STAN-01/image_140.jpg)<br>[TILS-11-X-STAN-01 <br> 11 mm Tilt Switch](TILS-11-X-STAN-01/)<br>[TS11](TILS-11-X-STAN-01/)||||
 | :---: | :---: | :---: | :---: |
 
+## TINB > Tin Box
+  
+
+|<br>[TINB-L169W130H18-X-HINGE-01 <br> 169 mm x 130 mm x 18 mm Hinged Tin Box](TINB-L169W130H18-X-HINGE-01/)<br>[TB01](TINB-L169W130H18-X-HINGE-01/)||||
+| :---: | :---: | :---: | :---: |
+
 ## TRNN > NPN Transistor
   
 
 |![SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/image_140.jpg)<br>[TRNN-SO23-X-A01D-01 <br> SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/)<br>[TNS21D](TRNN-SO23-X-A01D-01/)|![SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/image_140.jpg)<br>[TRNN-SO23-X-A02D-01 <br> SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/)<br>[TNS22D](TRNN-SO23-X-A02D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/image_140.jpg)<br>[TRNN-SO23-X-A05D-01 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/)<br>[TNS25D](TRNN-SO23-X-A05D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/image_140.jpg)<br>[TRNN-SO23-X-A05D-02 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/)<br>[TNS25D2](TRNN-SO23-X-A05D-02/)|
 | :---: | :---: | :---: | :---: |
-|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)||
+|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)|<br>[TRNN-T92-X-K8050-01 <br> TO-92 8050 NPN Transistor](TRNN-T92-X-K8050-01/)<br>[TN98050](TRNN-T92-X-K8050-01/)|
+|||||
 
 ## TRNP > PNP Transistor
   

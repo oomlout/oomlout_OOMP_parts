@@ -1,0 +1,72 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "3971"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-08-RGB-FROS-WS2811"
+        },
+        {
+            "name": "hexID",
+            "value": "L8RGB21"
+        },
+        {
+            "name": "oompSort",
+            "value": "0808RGBWS2811"
+        },
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "08"
+        },
+        {
+            "name": "oompColor",
+            "value": "RGB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "FROS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WS2811"
+        },
+        {
+            "name": "oompVersion",
+            "value": "20"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooLensColor",
+            "value": "Frosted"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-08-RGB-FROS-WS2811"
+        },
+        {
+            "name": "name",
+            "value": "8 mm Frosted RGB LED (WS2811)"
+        }
+    ]
+}

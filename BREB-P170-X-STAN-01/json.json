@@ -1,0 +1,88 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "4128"
+        },
+        {
+            "name": "oompID",
+            "value": "BREB-P170-X-STAN-01"
+        },
+        {
+            "name": "hexID",
+            "value": "BB1"
+        },
+        {
+            "name": "oompSort",
+            "value": "P170"
+        },
+        {
+            "name": "oompType",
+            "value": "BREB"
+        },
+        {
+            "name": "oompSize",
+            "value": "P170"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "35 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "47 mm"
+        },
+        {
+            "name": "ooDepth",
+            "value": "10 mm"
+        },
+        {
+            "name": "useTitle",
+            "value": "Prototyping"
+        },
+        {
+            "name": "useDescription",
+            "value": "a base for prototyping new circuits."
+        },
+        {
+            "name": "oompAbout",
+            "value": "The start of any project. Great for quickly prototyping a new ciruit. Compatible with most 2.54 mm (0.1\") components."
+        },
+        {
+            "name": "oompClass",
+            "value": "Wiring"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "WIRE"
+        },
+        {
+            "name": "oompID",
+            "value": "BREB-P170-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "170 Point Breadboard"
+        }
+    ]
+}
