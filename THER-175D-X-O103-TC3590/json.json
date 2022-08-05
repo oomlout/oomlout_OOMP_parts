@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "THER"
+        },
+        {
+            "name": "oompSize",
+            "value": "175D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O103"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TC3590"
+        },
+        {
+            "name": "hexID",
+            "value": "TH1033"
+        },
+        {
+            "name": "oompID",
+            "value": "THER-175D-X-O103-TC3590"
+        },
+        {
+            "name": "name",
+            "value": "1.75 mm 10k Ohm Thermistor (3590)"
+        }
+    ]
+}

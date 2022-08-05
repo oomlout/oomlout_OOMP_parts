@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TINB"
+        },
+        {
+            "name": "oompSize",
+            "value": "L169W130H18"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "HINGE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "manufacturersPartNumber",
+            "value": "Tinware,T4066"
+        },
+        {
+            "name": "hexID",
+            "value": "TB01"
+        },
+        {
+            "name": "oompID",
+            "value": "TINB-L169W130H18-X-HINGE-01"
+        },
+        {
+            "name": "name",
+            "value": "169 mm x 130 mm x 18 mm Hinged Tin Box"
+        }
+    ]
+}

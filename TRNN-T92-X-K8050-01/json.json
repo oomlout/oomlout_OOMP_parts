@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TRNN"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K8050"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "TN98050"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-T92-X-K8050-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 8050 NPN Transistor"
+        }
+    ]
+}
