@@ -26,7 +26,6 @@ Contents
 	* [DISP > Display](#disp--display)
 	* [FERB > Ferrite Bead](#ferb--ferrite-bead)
 	* [HEAD > Header](#head--header)
-	* [HEAF > Female Header](#heaf--female-header)
 	* [HEAL > Header (Long)](#heal--header-long)
 	* [HEDS > Headphone Socket](#heds--headphone-socket)
 	* [HELF > Female Header (Long)](#helf--female-header-long)
@@ -42,6 +41,7 @@ Contents
 	* [MOSN > N-Ch. MOSFET](#mosn--n-ch-mosfet)
 	* [MOSP > P-Ch. MOSFET](#mosp--p-ch-mosfet)
 	* [MOTO > Motor](#moto--motor)
+	* [MOTV > Motor (Vibrating)](#motv--motor-vibrating)
 	* [NHFF > Nylon Standoff (F-F)](#nhff--nylon-standoff-f-f)
 	* [NNUT > Nylon Nut](#nnut--nylon-nut)
 	* [NSCR > Nylon Screw](#nscr--nylon-screw)
@@ -246,15 +246,6 @@ Contents
 |![2.54 mm 18 Pin Header](HEAD-I01-X-PI18-01/image_140.jpg)<br>[HEAD-I01-X-PI18-01 <br> 2.54 mm 18 Pin Header](HEAD-I01-X-PI18-01/)<br>[H18](HEAD-I01-X-PI18-01/)|![2.54 mm 20 Pin Header](HEAD-I01-X-PI20-01/image_140.jpg)<br>[HEAD-I01-X-PI20-01 <br> 2.54 mm 20 Pin Header](HEAD-I01-X-PI20-01/)<br>[H20](HEAD-I01-X-PI20-01/)|![2.54 mm 36 Pin Header](HEAD-I01-X-PI36-01/image_140.jpg)<br>[HEAD-I01-X-PI36-01 <br> 2.54 mm 36 Pin Header](HEAD-I01-X-PI36-01/)<br>[H36](HEAD-I01-X-PI36-01/)|<br>[HEAD-I01-X-3X03PI-01 <br>  2.54 mm 9 Pin (3x3) Header ](HEAD-I01-X-3X03PI-01/)<br>[H3X03](HEAD-I01-X-3X03PI-01/)|
 |![2.54 mm 40 Pin Header](HEAD-I01-X-PI40-01/image_140.jpg)<br>[HEAD-I01-X-PI40-01 <br> 2.54 mm 40 Pin Header](HEAD-I01-X-PI40-01/)<br>[H40](HEAD-I01-X-PI40-01/)|![2.54 mm 6 Pin (2x3) Yellow Header](HEAD-I01-Y-2X03PI-01/image_140.jpg)<br>[HEAD-I01-Y-2X03PI-01 <br> 2.54 mm 6 Pin (2x3) Yellow Header](HEAD-I01-Y-2X03PI-01/)<br>[H2X03Y](HEAD-I01-Y-2X03PI-01/)|||
 
-## HEAF > Female Header
-  
-
-|![2 mm 10 Pin Blue Female Header](HEAF-02-L-PI10-01/image_140.jpg)<br>[HEAF-02-L-PI10-01 <br> 2 mm 10 Pin Blue Female Header](HEAF-02-L-PI10-01/)<br>[H210](HEAF-02-L-PI10-01/)|<br>[HEAF-02-W-PI10-01 <br> 2 mm 10 Pin White Female Header](HEAF-02-W-PI10-01/)<br>[HF210W](HEAF-02-W-PI10-01/)|<br>[HEAF-02-X-PI10-01 <br> 2 mm 10 Pin Female Header](HEAF-02-X-PI10-01/)<br>[HF210](HEAF-02-X-PI10-01/)|<br>[HEAF-02-X-PI10-SM <br> 2 mm 10 Pin Female Header (SMD)](HEAF-02-X-PI10-SM/)<br>[HF210S](HEAF-02-X-PI10-SM/)|
-| :---: | :---: | :---: | :---: |
-|![2.54 mm 6 Pin White Female Header](HEAF-I01-W-PI06-01/image_140.jpg)<br>[HEAF-I01-W-PI06-01 <br> 2.54 mm 6 Pin White Female Header](HEAF-I01-W-PI06-01/)<br>[H6W](HEAF-I01-W-PI06-01/)|![2.54 mm 8 Pin White Female Header](HEAF-I01-W-PI08-01/image_140.jpg)<br>[HEAF-I01-W-PI08-01 <br> 2.54 mm 8 Pin White Female Header](HEAF-I01-W-PI08-01/)<br>[HF08W](HEAF-I01-W-PI08-01/)|![2.54 mm 8 Pin (2x4) Female Header](HEAF-I01-X-2X04PI-01/image_140.jpg)<br>[HEAF-I01-X-2X04PI-01 <br> 2.54 mm 8 Pin (2x4) Female Header](HEAF-I01-X-2X04PI-01/)<br>[HFX4](HEAF-I01-X-2X04PI-01/)|![2.54 mm 2 Pin Female Header (Round)](HEAF-I01-X-PI02-RO/image_140.jpg)<br>[HEAF-I01-X-PI02-RO <br> 2.54 mm 2 Pin Female Header (Round)](HEAF-I01-X-PI02-RO/)<br>[HF2R](HEAF-I01-X-PI02-RO/)|
-|![2.54 mm 4 Pin Female Header](HEAF-I01-X-PI04-01/image_140.jpg)<br>[HEAF-I01-X-PI04-01 <br> 2.54 mm 4 Pin Female Header](HEAF-I01-X-PI04-01/)<br>[HF04](HEAF-I01-X-PI04-01/)|![2.54 mm 6 Pin Female Header](HEAF-I01-X-PI06-01/image_140.jpg)<br>[HEAF-I01-X-PI06-01 <br> 2.54 mm 6 Pin Female Header](HEAF-I01-X-PI06-01/)<br>[HF06](HEAF-I01-X-PI06-01/)|![2.54 mm 8 Pin Yellow Female Header](HEAF-I01-Y-PI08-01/image_140.jpg)<br>[HEAF-I01-Y-PI08-01 <br> 2.54 mm 8 Pin Yellow Female Header](HEAF-I01-Y-PI08-01/)<br>[10C2](HEAF-I01-Y-PI08-01/)|<br>[HEAF-I01-X-PI10-01 <br> 2.54 mm 10 Pin Female Header](HEAF-I01-X-PI10-01/)<br>[HF10](HEAF-I01-X-PI10-01/)|
-|![2.54 mm 6 Pin Yellow Female Header](HEAF-I01-Y-PI06-01/image_140.jpg)<br>[HEAF-I01-Y-PI06-01 <br> 2.54 mm 6 Pin Yellow Female Header](HEAF-I01-Y-PI06-01/)<br>[HF06Y](HEAF-I01-Y-PI06-01/)|![2.54 mm 6 Pin Yellow Female Header](HEAF-I01-Y-PI06-01/image_140.jpg)<br>[HEAF-I01-Y-PI06-01 <br> 2.54 mm 6 Pin Yellow Female Header](HEAF-I01-Y-PI06-01/)<br>[HF06Y](HEAF-I01-Y-PI06-01/)|![2.54 mm 10 Pin Yellow Female Header](HEAF-I01-Y-PI10-01/image_140.jpg)<br>[HEAF-I01-Y-PI10-01 <br> 2.54 mm 10 Pin Yellow Female Header](HEAF-I01-Y-PI10-01/)<br>[HF10Y](HEAF-I01-Y-PI10-01/)||
-
 ## HEAL > Header (Long)
   
 
@@ -378,6 +369,12 @@ Contents
   
 
 |<br>[MOTO-24-X-STAN-01 <br> 24 mm Motor](MOTO-24-X-STAN-01/)<br>[MT24](MOTO-24-X-STAN-01/)||||
+| :---: | :---: | :---: | :---: |
+
+## MOTV > Motor (Vibrating)
+  
+
+|<br>[MOTV-10-X-FLAT-01 <br> 10 mm Flat Motor (Vibrating)](MOTV-10-X-FLAT-01/)<br>[MVF10](MOTV-10-X-FLAT-01/)||||
 | :---: | :---: | :---: | :---: |
 
 ## NHFF > Nylon Standoff (F-F)
@@ -621,8 +618,8 @@ Contents
 
 |![SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/image_140.jpg)<br>[TRNN-SO23-X-A01D-01 <br> SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/)<br>[TNS21D](TRNN-SO23-X-A01D-01/)|![SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/image_140.jpg)<br>[TRNN-SO23-X-A02D-01 <br> SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/)<br>[TNS22D](TRNN-SO23-X-A02D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/image_140.jpg)<br>[TRNN-SO23-X-A05D-01 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/)<br>[TNS25D](TRNN-SO23-X-A05D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/image_140.jpg)<br>[TRNN-SO23-X-A05D-02 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/)<br>[TNS25D2](TRNN-SO23-X-A05D-02/)|
 | :---: | :---: | :---: | :---: |
-|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)|<br>[TRNN-T92-X-K8050-01 <br> TO-92 8050 NPN Transistor](TRNN-T92-X-K8050-01/)<br>[TN98050](TRNN-T92-X-K8050-01/)|
-|||||
+|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)|<br>[TRNN-T92-X-KBC337-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KBC337-01/)<br>[TN9337](TRNN-T92-X-KBC337-01/)|
+|<br>[TRNN-T92-X-KBC337-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KBC337-01/)<br>[TN9337](TRNN-T92-X-KBC337-01/)|<br>[TRNN-T92-X-KS8050-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KS8050-01/)<br>[TN98050](TRNN-T92-X-KS8050-01/)|||
 
 ## TRNP > PNP Transistor
   
