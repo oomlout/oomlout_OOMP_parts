@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TRNP"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KA1015"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "TP9A15"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-T92-X-KA1015-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 A1015 PNP Transistor"
+        }
+    ]
+}

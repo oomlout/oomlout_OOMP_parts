@@ -7,7 +7,6 @@ newPart = OOMP.oompItem()
 pitch = 2.54 
 pins = 20
 newPart.addTag('oompID','HEAS-I01-X-PI20-01')
-newPart.addTag('name','2.54 mm 20 Pin Female Header')
 newPart.addTag('hexID','HS20')
 newPart.addTag('oompSort','A010120')
 newPart.addTag('oompType','HEAS')

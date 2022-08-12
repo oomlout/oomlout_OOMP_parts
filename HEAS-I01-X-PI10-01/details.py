@@ -8,8 +8,7 @@ pitch = 2.54
 pins = 10
 newPart.addTag('index','9876')
 newPart.addTag('oompID','HEAS-I01-X-PI10-01')
-newPart.addTag('name','2.54 mm 10 Pin Female Header')
-newPart.addTag('hexID','HF10')
+newPart.addTag('hexID','HS10')
 newPart.addTag('oompSort','A010110')
 newPart.addTag('oompType','HEAS')
 newPart.addTag('oompSize','I01')

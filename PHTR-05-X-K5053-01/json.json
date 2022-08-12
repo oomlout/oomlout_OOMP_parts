@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "PHTR"
+        },
+        {
+            "name": "oompSize",
+            "value": "05"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K5053"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "PT55053"
+        },
+        {
+            "name": "oompID",
+            "value": "PHTR-05-X-K5053-01"
+        },
+        {
+            "name": "name",
+            "value": "5 mm SGPT5053C Phototransistor"
+        }
+    ]
+}

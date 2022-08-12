@@ -26,6 +26,7 @@ Contents
 	* [DISP > Display](#disp--display)
 	* [FERB > Ferrite Bead](#ferb--ferrite-bead)
 	* [HEAD > Header](#head--header)
+	* [HEAS > Header (Socket)](#heas--header-socket)
 	* [HEAL > Header (Long)](#heal--header-long)
 	* [HEDS > Headphone Socket](#heds--headphone-socket)
 	* [HELF > Female Header (Long)](#helf--female-header-long)
@@ -246,6 +247,16 @@ Contents
 |![2.54 mm 18 Pin Header](HEAD-I01-X-PI18-01/image_140.jpg)<br>[HEAD-I01-X-PI18-01 <br> 2.54 mm 18 Pin Header](HEAD-I01-X-PI18-01/)<br>[H18](HEAD-I01-X-PI18-01/)|![2.54 mm 20 Pin Header](HEAD-I01-X-PI20-01/image_140.jpg)<br>[HEAD-I01-X-PI20-01 <br> 2.54 mm 20 Pin Header](HEAD-I01-X-PI20-01/)<br>[H20](HEAD-I01-X-PI20-01/)|![2.54 mm 36 Pin Header](HEAD-I01-X-PI36-01/image_140.jpg)<br>[HEAD-I01-X-PI36-01 <br> 2.54 mm 36 Pin Header](HEAD-I01-X-PI36-01/)<br>[H36](HEAD-I01-X-PI36-01/)|<br>[HEAD-I01-X-3X03PI-01 <br>  2.54 mm 9 Pin (3x3) Header ](HEAD-I01-X-3X03PI-01/)<br>[H3X03](HEAD-I01-X-3X03PI-01/)|
 |![2.54 mm 40 Pin Header](HEAD-I01-X-PI40-01/image_140.jpg)<br>[HEAD-I01-X-PI40-01 <br> 2.54 mm 40 Pin Header](HEAD-I01-X-PI40-01/)<br>[H40](HEAD-I01-X-PI40-01/)|![2.54 mm 6 Pin (2x3) Yellow Header](HEAD-I01-Y-2X03PI-01/image_140.jpg)<br>[HEAD-I01-Y-2X03PI-01 <br> 2.54 mm 6 Pin (2x3) Yellow Header](HEAD-I01-Y-2X03PI-01/)<br>[H2X03Y](HEAD-I01-Y-2X03PI-01/)|||
 
+## HEAS > Header (Socket)
+  
+
+|![2 mm 10 Pin Blue Header (Socket)](HEAS-02-L-PI10-01/image_140.jpg)<br>[HEAS-02-L-PI10-01 <br> 2 mm 10 Pin Blue Header (Socket)](HEAS-02-L-PI10-01/)<br>[HS210](HEAS-02-L-PI10-01/)|<br>[HEAS-02-W-PI10-01 <br> 2 mm 10 Pin White Header (Socket)](HEAS-02-W-PI10-01/)<br>[HS210W](HEAS-02-W-PI10-01/)|<br>[HEAS-02-X-PI10-01 <br> 2 mm 10 Pin Header (Socket)](HEAS-02-X-PI10-01/)<br>[HS210](HEAS-02-X-PI10-01/)|<br>[HEAS-02-X-PI10-SM <br> 2 mm 10 Pin Header (Socket) SMD](HEAS-02-X-PI10-SM/)<br>[HS210S](HEAS-02-X-PI10-SM/)|
+| :---: | :---: | :---: | :---: |
+|![2.54 mm 6 Pin White Header (Socket)](HEAS-I01-W-PI06-01/image_140.jpg)<br>[HEAS-I01-W-PI06-01 <br> 2.54 mm 6 Pin White Header (Socket)](HEAS-I01-W-PI06-01/)<br>[HS6W](HEAS-I01-W-PI06-01/)|![2.54 mm 8 Pin White Header (Socket)](HEAS-I01-W-PI08-01/image_140.jpg)<br>[HEAS-I01-W-PI08-01 <br> 2.54 mm 8 Pin White Header (Socket)](HEAS-I01-W-PI08-01/)<br>[HS08W](HEAS-I01-W-PI08-01/)|![2.54 mm Header (Socket)](HEAS-I01-X-2X04PI-01/image_140.jpg)<br>[HEAS-I01-X-2X04PI-01 <br> 2.54 mm Header (Socket)](HEAS-I01-X-2X04PI-01/)<br>[HSX4](HEAS-I01-X-2X04PI-01/)|![2.54 mm 2 Pin Header (Socket) (Round)](HEAS-I01-X-PI02-RO/image_140.jpg)<br>[HEAS-I01-X-PI02-RO <br> 2.54 mm 2 Pin Header (Socket) (Round)](HEAS-I01-X-PI02-RO/)<br>[HS2R](HEAS-I01-X-PI02-RO/)|
+|![2.54 mm 4 Pin Header (Socket)](HEAS-I01-X-PI04-01/image_140.jpg)<br>[HEAS-I01-X-PI04-01 <br> 2.54 mm 4 Pin Header (Socket)](HEAS-I01-X-PI04-01/)<br>[HS04](HEAS-I01-X-PI04-01/)|![2.54 mm 6 Pin Header (Socket)](HEAS-I01-X-PI06-01/image_140.jpg)<br>[HEAS-I01-X-PI06-01 <br> 2.54 mm 6 Pin Header (Socket)](HEAS-I01-X-PI06-01/)<br>[HS06](HEAS-I01-X-PI06-01/)|![2.54 mm 8 Pin Yellow Header (Socket)](HEAS-I01-Y-PI08-01/image_140.jpg)<br>[HEAS-I01-Y-PI08-01 <br> 2.54 mm 8 Pin Yellow Header (Socket)](HEAS-I01-Y-PI08-01/)<br>[HS8Y](HEAS-I01-Y-PI08-01/)|<br>[HEAS-I01-X-PI10-01 <br> 2.54 mm 10 Pin Header (Socket)](HEAS-I01-X-PI10-01/)<br>[HS10](HEAS-I01-X-PI10-01/)|
+|<br>[HEAS-I01-X-PI15-01 <br> 2.54 mm 15 Pin Header (Socket)](HEAS-I01-X-PI15-01/)<br>[HS15](HEAS-I01-X-PI15-01/)|<br>[HEAS-I01-X-PI20-01 <br> 2.54 mm 20 Pin Header (Socket)](HEAS-I01-X-PI20-01/)<br>[HS20](HEAS-I01-X-PI20-01/)|![2.54 mm 6 Pin Yellow Header (Socket)](HEAS-I01-Y-PI06-01/image_140.jpg)<br>[HEAS-I01-Y-PI06-01 <br> 2.54 mm 6 Pin Yellow Header (Socket)](HEAS-I01-Y-PI06-01/)<br>[HS06Y](HEAS-I01-Y-PI06-01/)|![2.54 mm 6 Pin Yellow Header (Socket)](HEAS-I01-Y-PI06-01/image_140.jpg)<br>[HEAS-I01-Y-PI06-01 <br> 2.54 mm 6 Pin Yellow Header (Socket)](HEAS-I01-Y-PI06-01/)<br>[HS06Y](HEAS-I01-Y-PI06-01/)|
+|![2.54 mm 10 Pin Yellow Header (Socket)](HEAS-I01-Y-PI10-01/image_140.jpg)<br>[HEAS-I01-Y-PI10-01 <br> 2.54 mm 10 Pin Yellow Header (Socket)](HEAS-I01-Y-PI10-01/)<br>[HS10Y](HEAS-I01-Y-PI10-01/)||||
+
 ## HEAL > Header (Long)
   
 
@@ -413,7 +424,7 @@ Contents
 ## PHTR > Phototransistor
   
 
-|![5 mm IR (940 nm) Phototransistor](PHTR-05-I9-STAN-01/image_140.jpg)<br>[PHTR-05-I9-STAN-01 <br> 5 mm IR (940 nm) Phototransistor](PHTR-05-I9-STAN-01/)<br>[PT5I9](PHTR-05-I9-STAN-01/)||||
+|![5 mm IR (940 nm) Phototransistor](PHTR-05-I9-STAN-01/image_140.jpg)<br>[PHTR-05-I9-STAN-01 <br> 5 mm IR (940 nm) Phototransistor](PHTR-05-I9-STAN-01/)<br>[PT5I9](PHTR-05-I9-STAN-01/)|<br>[PHTR-05-X-K5053-01 <br> 5 mm SGPT5053C Phototransistor](PHTR-05-X-K5053-01/)<br>[PT55053](PHTR-05-X-K5053-01/)|||
 | :---: | :---: | :---: | :---: |
 
 ## POTE > Potentiometer
@@ -618,14 +629,16 @@ Contents
 
 |![SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/image_140.jpg)<br>[TRNN-SO23-X-A01D-01 <br> SMD (SOT-23) 100 mA NPN Transistor](TRNN-SO23-X-A01D-01/)<br>[TNS21D](TRNN-SO23-X-A01D-01/)|![SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/image_140.jpg)<br>[TRNN-SO23-X-A02D-01 <br> SMD (SOT-23) 200 mA NPN Transistor](TRNN-SO23-X-A02D-01/)<br>[TNS22D](TRNN-SO23-X-A02D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/image_140.jpg)<br>[TRNN-SO23-X-A05D-01 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-01/)<br>[TNS25D](TRNN-SO23-X-A05D-01/)|![SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/image_140.jpg)<br>[TRNN-SO23-X-A05D-02 <br> SMD (SOT-23) 500 mA NPN Transistor](TRNN-SO23-X-A05D-02/)<br>[TNS25D2](TRNN-SO23-X-A05D-02/)|
 | :---: | :---: | :---: | :---: |
-|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)|<br>[TRNN-T92-X-KBC337-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KBC337-01/)<br>[TN9337](TRNN-T92-X-KBC337-01/)|
-|<br>[TRNN-T92-X-KBC337-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KBC337-01/)<br>[TN9337](TRNN-T92-X-KBC337-01/)|<br>[TRNN-T92-X-KS8050-01 <br> TO-92 NPN Transistor](TRNN-T92-X-KS8050-01/)<br>[TN98050](TRNN-T92-X-KS8050-01/)|||
+|<br>[TRNN-T220-BCE-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-BCE-A05-01/)<br>[TN120](TRNN-T220-BCE-A05-01/)|<br>[TRNN-T220-X-A05-01 <br> TO-220 5 Amp NPN Transistor](TRNN-T220-X-A05-01/)<br>[TN120](TRNN-T220-X-A05-01/)|![TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/image_140.jpg)<br>[TRNN-T92-X-K222-01 <br> TO-92 2222A NPN Transistor](TRNN-T92-X-K222-01/)<br>[NT92222](TRNN-T92-X-K222-01/)|<br>[TRNN-T92-X-K2N2222-01 <br> TO-92 2N2222 NPN Transistor](TRNN-T92-X-K2N2222-01/)<br>[TN92N2](TRNN-T92-X-K2N2222-01/)|
+|<br>[TRNN-T92-X-K2N3904-01 <br> TO-92 2N3904 NPN Transistor](TRNN-T92-X-K2N3904-01/)<br>[TN92N34](TRNN-T92-X-K2N3904-01/)|<br>[TRNN-T92-X-KBC337-01 <br> TO-92 BC337 NPN Transistor](TRNN-T92-X-KBC337-01/)<br>[TN9337](TRNN-T92-X-KBC337-01/)|<br>[TRNN-T92-X-KC1815-01 <br> TO-92 C1815 NPN Transistor](TRNN-T92-X-KC1815-01/)<br>[TN91815](TRNN-T92-X-KC1815-01/)|<br>[TRNN-T92-X-KS8050-01 <br> TO-92 S8050 NPN Transistor](TRNN-T92-X-KS8050-01/)<br>[TN98050](TRNN-T92-X-KS8050-01/)|
+|||||
 
 ## TRNP > PNP Transistor
   
 
-|<br>[TRNP-SO23-X-A02D-01 <br> SMD (SOT-23) 200 mA PNP Transistor](TRNP-SO23-X-A02D-01/)<br>[TPS22D](TRNP-SO23-X-A02D-01/)|![SMD (SOT-23) 500 mA PNP Transistor](TRNP-SO23-X-A05D-01/image_140.jpg)<br>[TRNP-SO23-X-A05D-01 <br> SMD (SOT-23) 500 mA PNP Transistor](TRNP-SO23-X-A05D-01/)<br>[TPS25D](TRNP-SO23-X-A05D-01/)|||
+|<br>[TRNP-SO23-X-A02D-01 <br> SMD (SOT-23) 200 mA PNP Transistor](TRNP-SO23-X-A02D-01/)<br>[TPS22D](TRNP-SO23-X-A02D-01/)|![SMD (SOT-23) 500 mA PNP Transistor](TRNP-SO23-X-A05D-01/image_140.jpg)<br>[TRNP-SO23-X-A05D-01 <br> SMD (SOT-23) 500 mA PNP Transistor](TRNP-SO23-X-A05D-01/)<br>[TPS25D](TRNP-SO23-X-A05D-01/)|<br>[TRNP-T92-X-K2N2907-01 <br> TO-92 2N2907 PNP Transistor](TRNP-T92-X-K2N2907-01/)<br>[TP92N27](TRNP-T92-X-K2N2907-01/)|<br>[TRNP-T92-X-K2N3906-01 <br> TO-92 2N3906 PNP Transistor](TRNP-T92-X-K2N3906-01/)<br>[TP92N36](TRNP-T92-X-K2N3906-01/)|
 | :---: | :---: | :---: | :---: |
+|<br>[TRNP-T92-X-KA1015-01 <br> TO-92 A1015 PNP Transistor](TRNP-T92-X-KA1015-01/)<br>[TP9A15](TRNP-T92-X-KA1015-01/)|<br>[TRNP-T92-X-KBC327-01 <br> TO-92 BC327 PNP Transistor](TRNP-T92-X-KBC327-01/)<br>[TP9BC327](TRNP-T92-X-KBC327-01/)|<br>[TRNP-T92-X-KS8550-01 <br> TO-92 S8550 PNP Transistor](TRNP-T92-X-KS8550-01/)<br>[TP985](TRNP-T92-X-KS8550-01/)||
 
 ## USBS > USB Socket
   

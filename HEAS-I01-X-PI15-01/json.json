@@ -1,0 +1,156 @@
+{
+    "tags": [
+        {
+            "name": "oompID",
+            "value": "HEAS-I01-X-PI15-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 15 Pin Female Header"
+        },
+        {
+            "name": "hexID",
+            "value": "HS15"
+        },
+        {
+            "name": "oompSort",
+            "value": "A010115"
+        },
+        {
+            "name": "oompType",
+            "value": "HEAS"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI15"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "38.1 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11.65mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI15-01"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "15"
+        },
+        {
+            "name": "oompAbout",
+            "value": "A commonly used 15 pin 2.54 mm spaced female header. Nice to use for a connector to another PCB (via a header like <a href=\"http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-PI10-01\">2.54 mm 10 Pin Header</a>) or to connect jumper wires to your project."
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompBbls",
+            "value": "variable;pins;15"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-I01-X-XX-01-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompDiag",
+            "value": "variable;pins;15"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;HEAS-I01-X-XX-01-diag"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "drawItem",
+            "value": "variable;pins;15"
+        },
+        {
+            "name": "drawItem",
+            "value": "template;XXXX-I01-X-XX-01-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSchem",
+            "value": "variable;pins;15"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;XXXX-XX-X-XX-01-PINS-ODD-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;clear"
+        },
+        {
+            "name": "oompSimp",
+            "value": "variable;pins;15"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-I01-X-XX-01-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAS-I01-X-PI15-01"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 15 Pin Female Header"
+        }
+    ]
+}

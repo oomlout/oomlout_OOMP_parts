@@ -6,8 +6,7 @@ import OOMPtags
 newPart = OOMP.oompItem()
 pins = 8
 newPart.addTag('oompID','HEAS-I01-W-PI08-01')
-newPart.addTag('name','2.54 mm 8 Pin White Female Header')
-newPart.addTag('hexID','HF08W')
+newPart.addTag('hexID','HS08W')
 newPart.addTag('oompSort','')
 newPart.addTag('oompClass','Through Hole')
 newPart.addTag('oompClassCode','THTH')

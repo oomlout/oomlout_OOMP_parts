@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MOTV"
+        },
+        {
+            "name": "oompSize",
+            "value": "10"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "FLAT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MVF10"
+        },
+        {
+            "name": "oompID",
+            "value": "MOTV-10-X-FLAT-01"
+        },
+        {
+            "name": "name",
+            "value": "10 mm Flat Motor (Vibrating)"
+        }
+    ]
+}

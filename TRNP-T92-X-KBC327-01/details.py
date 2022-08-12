@@ -8,9 +8,9 @@ newPart = OOMP.oompItem()
 oType = "TRNP"
 oSize = "T92"
 oColor = "X"
-oDesc = "KA1015"
+oDesc = "KBC327"
 oIndex = "01"
-hexId = "TP9A15"
+hexId = "TP9BC327"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

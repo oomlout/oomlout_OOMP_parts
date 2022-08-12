@@ -484,7 +484,7 @@
    id="text301"
    class="fil0 fnt8"
    y="339.30099"
-   x="86.596222">Female Header</text>
+   x="86.596222">Header (Socket)</text>
 <text
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.6669px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#000000"
    id="text303"
@@ -527,7 +527,7 @@
      id="tspan3148"
      x="138.88373"
      y="643.69379"
-     style="font-size:130px;line-height:1.25">HF210W</tspan></text>
+     style="font-size:130px;line-height:1.25">HS210W</tspan></text>
 
 
 </g><rect
@@ -548,7 +548,7 @@
    id="text3168"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.6316px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;text-anchor:start;fill:#ffffff"><tspan
      id="tspan3170"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ffffff">HF210W</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ffffff">HS210W</tspan></text>
 
 
 
@@ -569,7 +569,7 @@
      id="tspan3152"
      x="166.25604"
      y="503.29153"
-     style="font-size:60px;line-height:1.25">HF210W</tspan></text>
+     style="font-size:60px;line-height:1.25">HS210W</tspan></text>
 
 
 <rect
@@ -590,7 +590,7 @@
    y="300"
    x="446.65558"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:center;text-anchor:middle"
-     id="tspan3326">HEAF</tspan></text>
+     id="tspan3326">HEAS</tspan></text>
 
 
 
@@ -617,7 +617,7 @@
    y="300"
    x="449.18655"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.4647px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;text-anchor:middle"
-     id="tspan3314">HEAF-02-W-PI10-01</tspan></text>
+     id="tspan3314">HEAS-02-W-PI10-01</tspan></text>
 
 
 
@@ -640,7 +640,7 @@
    y="261.95001"
    x="448.76749"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:center;text-anchor:middle"
-     id="tspan3318">2 mm 10 Pin White Female Header</tspan></text>
+     id="tspan3318">2 mm 10 Pin White Header (Socket)</tspan></text>
 
 
 
@@ -786,7 +786,7 @@
    id="text3152"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:92.6316px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;text-anchor:start;fill:#ffffff"><tspan
      id="tspan3154"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.7135px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ffffff">http://oom.lt/HF210W</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.7135px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start;fill:#ffffff">http://oom.lt/HS210W</tspan></text>
 
 
 
@@ -821,7 +821,7 @@
    y="300"
    x="450.54355"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;text-anchor:start"
-     id="tspan3324">HEAF-02-W-PI10-01</tspan></text>
+     id="tspan3324">HEAS-02-W-PI10-01</tspan></text>
 
 
 
@@ -850,7 +850,7 @@
    x="508.27966"
    transform="scale(0.88047104,1.1357557)"><tspan
      style="text-align:center;text-anchor:middle"
-     id="tspan3316">*HF210W*</tspan></text>
+     id="tspan3316">*HS210W*</tspan></text>
 
 
 

@@ -5,8 +5,7 @@ import OOMPtags
 
 newPart = OOMP.oompItem()
 newPart.addTag('oompID','HEAS-I01-X-PI02-RO')
-newPart.addTag('name','2.54 mm 2 Pin Female Header (Round)')
-newPart.addTag('hexID','HF2R')
+newPart.addTag('hexID','HS2R')
 newPart.addTag('oompSort','HEASI0102PI')
 newPart.addTag('oompType','HEAS')
 newPart.addTag('oompSize','I01')

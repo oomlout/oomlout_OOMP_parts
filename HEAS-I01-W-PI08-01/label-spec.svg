@@ -537,7 +537,7 @@
    id="text242"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9909px;line-height:0%;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:start;text-anchor:start;fill:#1f1a17"><tspan
      style="font-size:12.7px"
-     id="tspan3235">HEAF-I01-W-PI08-01</tspan></text>
+     id="tspan3235">HEAS-I01-W-PI08-01</tspan></text>
 
 
 <rect
@@ -598,7 +598,7 @@
    id="text248"
    style="font-weight:bold;font-size:4.87966px;line-height:0%;font-family:Tahoma;text-align:center;text-anchor:middle;fill:#1f1a17"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.68111px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
-     id="tspan3174">HF08W</tspan></text>
+     id="tspan3174">HS08W</tspan></text>
 
 
 
@@ -643,7 +643,7 @@
    y="66.5383"
    x="19.603983"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
-     id="tspan3237">HF08W</tspan></text>
+     id="tspan3237">HS08W</tspan></text>
 
 
 
@@ -1071,7 +1071,7 @@
    id="text272-0"
    style="font-weight:bold;font-size:2.8222px;line-height:0%;font-family:Tahoma;text-align:end;text-anchor:end;fill:#1f1a17;fill-rule:evenodd"><tspan
      style="font-size:1.83444px"
-     id="tspan3244">Female Header</tspan></text>
+     id="tspan3244">Header (Socket)</tspan></text>
 
 
 <text
@@ -1243,7 +1243,7 @@
        y="9.7342291"
        style="fill:#ffffff" /></flowRegion><flowPara
      id="flowPara3203"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">2.54 mm 8 Pin White Female Header</flowPara></flowRoot><flowRoot
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">2.54 mm 8 Pin White Header (Socket)</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot3217"
    style="font-style:normal;font-weight:bold;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1268,5 +1268,5 @@
        x="60.948315"
        y="131.96031" /></flowRegion><flowPara
      id="flowPara3231"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#ffffff">HEAF-I01-W-PI08-01</flowPara></flowRoot></g>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#ffffff">HEAS-I01-W-PI08-01</flowPara></flowRoot></g>
 </svg>
