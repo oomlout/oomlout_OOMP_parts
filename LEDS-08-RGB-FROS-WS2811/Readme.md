@@ -6,7 +6,6 @@ Contents
 ========
 
 * [LEDS-08-RGB-FROS-WS2811>8 mm Frosted RGB LED (WS2811)](#leds-08-rgb-fros-ws28118-mm-frosted-rgb-led-ws2811)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -17,17 +16,13 @@ Contents
 - ID: LEDS-08-RGB-FROS-WS2811
 - Name: LEDS-08-RGB-FROS-WS2811
 
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
-
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

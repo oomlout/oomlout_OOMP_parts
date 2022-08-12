@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header (SMD)](#heaf-02-x-pi10-sm2-mm-10-pin-female-header-smd)
+* [HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) SMD](#heas-02-x-pi10-sm2-mm-10-pin-header-socket-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAF-02-X-PI10-SM>2 mm 10 Pin Female Header (SMD)
+# HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) SMD
 
-- ID: HEAF-02-X-PI10-SM
-- Name: HEAF-02-X-PI10-SM
+- ID: HEAS-02-X-PI10-SM
+- Name: HEAS-02-X-PI10-SM
 
 ## Datasheets
 
@@ -25,9 +25,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -35,11 +35,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-02-X-PI10-SM
-- name: 2 mm 10 Pin Female Header (SMD)
-- hexID: HF210S
-- oompSort: HEAF0210PI
-- oompType: HEAF
+- oompID: HEAS-02-X-PI10-SM
+- hexID: HS210S
+- oompSort: HEAS0210PI
+- oompType: HEAS
 - oompSize: 02
 - oompColor: X
 - oompDesc: PI10

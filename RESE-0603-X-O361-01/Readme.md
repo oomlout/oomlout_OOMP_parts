@@ -7,7 +7,6 @@ Contents
 
 * [RESE-0603-X-O361-01>SMD (0603) 360 Ohm Resistor](#rese-0603-x-o361-01smd-0603-360-ohm-resistor)
 	* [Images](#images)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
@@ -23,21 +22,17 @@ Contents
   
   
 
-|Reference|Bottom|
+|image_RE|image_BOTTOM|
 | :---: | :---: |
-|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
-
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
 
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

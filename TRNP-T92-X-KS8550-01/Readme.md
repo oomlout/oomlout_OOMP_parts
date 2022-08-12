@@ -6,7 +6,7 @@ Contents
 ========
 
 * [TRNP-T92-X-KS8550-01>TO-92 S8550 PNP Transistor](#trnp-t92-x-ks8550-01to-92-s8550-pnp-transistor)
-	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -16,9 +16,13 @@ Contents
 - ID: TRNP-T92-X-KS8550-01
 - Name: TRNP-T92-X-KS8550-01
 
-## Datasheets
+## Labels
+  
+  
 
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

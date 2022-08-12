@@ -6,15 +6,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-Y-PI08-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 8 Pin Yellow Female Header"
+            "value": "HEAS-I01-Y-PI08-01"
         },
         {
             "name": "hexID",
-            "value": "10C2"
+            "value": "HS8Y"
         },
         {
             "name": "oompSort",
@@ -22,7 +18,7 @@
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -94,7 +90,7 @@
         },
         {
             "name": "oompDiag",
-            "value": "template;HEAF-I01-X-XX-01-diag"
+            "value": "template;HEAS-I01-X-XX-01-diag"
         },
         {
             "name": "drawItem",
@@ -138,11 +134,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-Y-PI08-01"
+            "value": "HEAS-I01-Y-PI08-01"
         },
         {
             "name": "name",
-            "value": "2.54 mm 8 Pin Yellow Female Header"
+            "value": "2.54 mm 8 Pin Yellow Header (Socket)"
         }
     ]
 }

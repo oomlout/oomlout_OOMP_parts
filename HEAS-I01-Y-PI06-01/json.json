@@ -2,23 +2,19 @@
     "tags": [
         {
             "name": "oompID",
-            "value": "HEAF-I01-Y-PI06-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 6 Pin Yellow Female Header"
+            "value": "HEAS-I01-Y-PI06-01"
         },
         {
             "name": "hexID",
-            "value": "HF06Y"
+            "value": "HS06Y"
         },
         {
             "name": "oompSort",
-            "value": "HEAFI0106PI"
+            "value": "HEASI0106PI"
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -70,7 +66,7 @@
         },
         {
             "name": "oompDiag",
-            "value": "template;HEAF-I01-X-XX-01-diag"
+            "value": "template;HEAS-I01-X-XX-01-diag"
         },
         {
             "name": "drawItem",
@@ -114,11 +110,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-Y-PI06-01"
+            "value": "HEAS-I01-Y-PI06-01"
         },
         {
             "name": "name",
-            "value": "2.54 mm 6 Pin Yellow Female Header"
+            "value": "2.54 mm 6 Pin Yellow Header (Socket)"
         }
     ]
 }

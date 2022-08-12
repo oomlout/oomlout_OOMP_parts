@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-02-L-PI10-01>2 mm 10 Pin Blue Female Header](#heaf-02-l-pi10-012-mm-10-pin-blue-female-header)
+* [HEAS-02-L-PI10-01>2 mm 10 Pin Blue Header (Socket)](#heas-02-l-pi10-012-mm-10-pin-blue-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-02-L-PI10-01>2 mm 10 Pin Blue Female Header
+# HEAS-02-L-PI10-01>2 mm 10 Pin Blue Header (Socket)
 
-- ID: HEAF-02-L-PI10-01
-- Name: HEAF-02-L-PI10-01
+- ID: HEAS-02-L-PI10-01
+- Name: HEAS-02-L-PI10-01
 
 ## Images
   
   
 
-|Main|
+|image|
 | :---: |
-|[![Main](image.jpg)](image.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,13 +45,12 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-02-L-PI10-01
-- name: 2 mm 10 Pin Blue Female Header
-- hexID: H210
+- oompID: HEAS-02-L-PI10-01
+- hexID: HS210
 - oompSort: 
 - oompClass: Through Hole
 - oompClassCode: THTH
-- oompType: HEAF
+- oompType: HEAS
 - oompSize: 02
 - oompColor: L
 - oompDesc: PI10

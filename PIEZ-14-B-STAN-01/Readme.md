@@ -7,6 +7,7 @@ Contents
 
 * [PIEZ-14-B-STAN-01>14 mm Black Piezo Element](#piez-14-b-stan-0114-mm-black-piezo-element)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

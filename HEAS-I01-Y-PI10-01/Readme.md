@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-Y-PI10-01>2.54 mm 10 Pin Yellow Female Header](#heaf-i01-y-pi10-01254-mm-10-pin-yellow-female-header)
+* [HEAS-I01-Y-PI10-01>2.54 mm 10 Pin Yellow Header (Socket)](#heas-i01-y-pi10-01254-mm-10-pin-yellow-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-Y-PI10-01>2.54 mm 10 Pin Yellow Female Header
+# HEAS-I01-Y-PI10-01>2.54 mm 10 Pin Yellow Header (Socket)
 
-- ID: HEAF-I01-Y-PI10-01
-- Name: HEAF-I01-Y-PI10-01
+- ID: HEAS-I01-Y-PI10-01
+- Name: HEAS-I01-Y-PI10-01
 
 ## Images
   
   
 
-|Main|
+|image|
 | :---: |
-|[![Main](image.jpg)](image.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,11 +45,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-Y-PI10-01
-- name: 2.54 mm 10 Pin Yellow Female Header
-- hexID: HF10Y
+- oompID: HEAS-I01-Y-PI10-01
+- hexID: HS10Y
 - oompSort: 011003
-- oompType: HEAF
+- oompType: HEAS
 - oompSize: I01
 - oompColor: Y
 - oompDesc: PI10
@@ -67,7 +66,7 @@ Contents
 - oompBbls: template;XXXX-I01-X-XX-01-bbls
 - oompDiag: variable;clear
 - oompDiag: variable;pins;10
-- oompDiag: template;HEAF-I01-X-XX-01-diag
+- oompDiag: template;HEAS-I01-X-XX-01-diag
 - drawItem: variable;clear
 - drawItem: variable;pins;10
 - drawItem: template;XXXX-I01-X-XX-01-iden

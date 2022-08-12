@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-X-PI04-01>2.54 mm 4 Pin Female Header](#heaf-i01-x-pi04-01254-mm-4-pin-female-header)
+* [HEAS-I01-X-PI04-01>2.54 mm 4 Pin Header (Socket)](#heas-i01-x-pi04-01254-mm-4-pin-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-X-PI04-01>2.54 mm 4 Pin Female Header
+# HEAS-I01-X-PI04-01>2.54 mm 4 Pin Header (Socket)
 
-- ID: HEAF-I01-X-PI04-01
-- Name: HEAF-I01-X-PI04-01
+- ID: HEAS-I01-X-PI04-01
+- Name: HEAS-I01-X-PI04-01
 
 ## Images
   
   
 
-|Main|Reference|
+|image|image_RE|
 | :---: | :---: |
-|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,11 +45,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-PI04-01
-- name: 2.54 mm 4 Pin Female Header
-- hexID: HF04
-- oompSort: HEAFI0104PI
-- oompType: HEAF
+- oompID: HEAS-I01-X-PI04-01
+- hexID: HS04
+- oompSort: HEASI0104PI
+- oompType: HEAS
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI04
@@ -62,7 +61,7 @@ Contents
 - oompBbls: template;XXXX-I01-X-XX-01-bbls
 - oompDiag: variable;clear
 - oompDiag: variable;pins;4
-- oompDiag: template;HEAF-I01-X-XX-01-diag
+- oompDiag: template;HEAS-I01-X-XX-01-diag
 - drawItem: variable;clear
 - drawItem: variable;pins;4
 - drawItem: template;XXXX-I01-X-XX-01-iden

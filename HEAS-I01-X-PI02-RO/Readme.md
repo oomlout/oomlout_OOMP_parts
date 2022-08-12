@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-X-PI02-RO>2.54 mm 2 Pin Female Header (Round)](#heaf-i01-x-pi02-ro254-mm-2-pin-female-header-round)
+* [HEAS-I01-X-PI02-RO>2.54 mm 2 Pin Header (Socket) (Round)](#heas-i01-x-pi02-ro254-mm-2-pin-header-socket-round)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-X-PI02-RO>2.54 mm 2 Pin Female Header (Round)
+# HEAS-I01-X-PI02-RO>2.54 mm 2 Pin Header (Socket) (Round)
 
-- ID: HEAF-I01-X-PI02-RO
-- Name: HEAF-I01-X-PI02-RO
+- ID: HEAS-I01-X-PI02-RO
+- Name: HEAS-I01-X-PI02-RO
 
 ## Images
   
   
 
-|Main|Reference|
+|image|image_RE|
 | :---: | :---: |
-|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,11 +45,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-PI02-RO
-- name: 2.54 mm 2 Pin Female Header (Round)
-- hexID: HF2R
-- oompSort: HEAFI0102PI
-- oompType: HEAF
+- oompID: HEAS-I01-X-PI02-RO
+- hexID: HS2R
+- oompSort: HEASI0102PI
+- oompType: HEAS
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI02

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [HEAD-I01-X-3X03PI-01> 2.54 mm 9 Pin (3x3) Header ](#head-i01-x-3x03pi-01-254-mm-9-pin-3x3-header-)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -17,17 +16,13 @@ Contents
 - ID: HEAD-I01-X-3X03PI-01
 - Name: HEAD-I01-X-3X03PI-01
 
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
-
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

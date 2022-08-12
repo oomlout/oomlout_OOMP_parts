@@ -7,7 +7,6 @@ Contents
 
 * [CAPC-0402-X-NF47D-V63D>SMD (0402) 4.7 nF Capacitor (Ceramic) 6.3v](#capc-0402-x-nf47d-v63dsmd-0402-47-nf-capacitor-ceramic-63v)
 	* [Images](#images)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -23,21 +22,17 @@ Contents
   
   
 
-|Main|
+|image|
 | :---: |
-|[![Main](image.jpg)](image.jpg)|
-
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|[![image](image_140.jpg)](image_600.jpg)|
 
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

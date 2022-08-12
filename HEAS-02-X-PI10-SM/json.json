@@ -2,23 +2,19 @@
     "tags": [
         {
             "name": "oompID",
-            "value": "HEAF-02-X-PI10-SM"
-        },
-        {
-            "name": "name",
-            "value": "2 mm 10 Pin Female Header (SMD)"
+            "value": "HEAS-02-X-PI10-SM"
         },
         {
             "name": "hexID",
-            "value": "HF210S"
+            "value": "HS210S"
         },
         {
             "name": "oompSort",
-            "value": "HEAF0210PI"
+            "value": "HEAS0210PI"
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -54,11 +50,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-02-X-PI10-SM"
+            "value": "HEAS-02-X-PI10-SM"
         },
         {
             "name": "name",
-            "value": "2 mm 10 Pin Female Header (SMD)"
+            "value": "2 mm 10 Pin Header (Socket) SMD"
         }
     ]
 }

@@ -6,7 +6,6 @@ Contents
 ========
 
 * [HEAD-I01-X-2X09PI-RS>2.54 mm 18 Pin (2x9) Header Right Angle (SMD)](#head-i01-x-2x09pi-rs254-mm-18-pin-2x9-header-right-angle-smd)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -17,17 +16,13 @@ Contents
 - ID: HEAD-I01-X-2X09PI-RS
 - Name: HEAD-I01-X-2X09PI-RS
 
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
-
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

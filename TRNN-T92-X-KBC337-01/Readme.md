@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [TRNN-T92-X-KBC337-01>TO-92 NPN Transistor](#trnn-t92-x-kbc337-01to-92-npn-transistor)
+* [TRNN-T92-X-KBC337-01>TO-92 BC337 NPN Transistor](#trnn-t92-x-kbc337-01to-92-bc337-npn-transistor)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNN-T92-X-KBC337-01>TO-92 NPN Transistor
+# TRNN-T92-X-KBC337-01>TO-92 BC337 NPN Transistor
 
 - ID: TRNN-T92-X-KBC337-01
 - Name: TRNN-T92-X-KBC337-01
@@ -19,6 +20,14 @@ Contents
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
+
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

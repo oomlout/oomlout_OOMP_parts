@@ -5,13 +5,14 @@
 Contents
 ========
 
-* [HEAS-I01-X-PI20-01>2.54 mm 20 Pin Female Header](#heas-i01-x-pi20-01254-mm-20-pin-female-header)
+* [HEAS-I01-X-PI20-01>2.54 mm 20 Pin Header (Socket)](#heas-i01-x-pi20-01254-mm-20-pin-header-socket)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAS-I01-X-PI20-01>2.54 mm 20 Pin Female Header
+# HEAS-I01-X-PI20-01>2.54 mm 20 Pin Header (Socket)
 
 - ID: HEAS-I01-X-PI20-01
 - Name: HEAS-I01-X-PI20-01
@@ -20,6 +21,14 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+
 ## EDA
 
 ### Symbols
@@ -27,7 +36,6 @@ Contents
 ## Tags
 
 - oompID: HEAS-I01-X-PI20-01
-- name: 2.54 mm 20 Pin Female Header
 - hexID: HS20
 - oompSort: A010120
 - oompType: HEAS

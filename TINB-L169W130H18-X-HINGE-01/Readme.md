@@ -6,7 +6,7 @@ Contents
 ========
 
 * [TINB-L169W130H18-X-HINGE-01>169 mm x 130 mm x 18 mm Hinged Tin Box](#tinb-l169w130h18-x-hinge-01169-mm-x-130-mm-x-18-mm-hinged-tin-box)
-	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -16,9 +16,13 @@ Contents
 - ID: TINB-L169W130H18-X-HINGE-01
 - Name: TINB-L169W130H18-X-HINGE-01
 
-## Datasheets
+## Labels
+  
+  
 
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

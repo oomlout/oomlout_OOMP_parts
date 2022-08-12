@@ -6,7 +6,6 @@ Contents
 ========
 
 * [SENS-SO235-X--01>SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor](#sens-so235-x--01smd-sot-23-5-3-axis-accelerometer-mma7660fcr1-sensor)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -17,17 +16,13 @@ Contents
 - ID: SENS-SO235-X--01
 - Name: SENS-SO235-X--01
 
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
-
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

@@ -5,17 +5,17 @@
 Contents
 ========
 
-* [HEAF-I01-X-PI10-01>2.54 mm 10 Pin Female Header](#heaf-i01-x-pi10-01254-mm-10-pin-female-header)
+* [HEAS-I01-X-PI10-01>2.54 mm 10 Pin Header (Socket)](#heas-i01-x-pi10-01254-mm-10-pin-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAF-I01-X-PI10-01>2.54 mm 10 Pin Female Header
+# HEAS-I01-X-PI10-01>2.54 mm 10 Pin Header (Socket)
 
-- ID: HEAF-I01-X-PI10-01
-- Name: HEAF-I01-X-PI10-01
+- ID: HEAS-I01-X-PI10-01
+- Name: HEAS-I01-X-PI10-01
 
 ## Datasheets
 
@@ -25,9 +25,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -35,11 +35,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-PI10-01
-- name: 2.54 mm 10 Pin Female Header
-- hexID: HF10
+- oompID: HEAS-I01-X-PI10-01
+- hexID: HS10
 - oompSort: A010110
-- oompType: HEAF
+- oompType: HEAS
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI10
@@ -64,7 +63,7 @@ Contents
 - oompBbls: template;XXXX-I01-X-XX-01-bbls
 - oompDiag: variable;clear
 - oompDiag: variable;pins;10
-- oompDiag: template;HEAF-I01-X-XX-01-diag
+- oompDiag: template;HEAS-I01-X-XX-01-diag
 - drawItem: variable;clear
 - drawItem: variable;pins;10
 - drawItem: template;XXXX-I01-X-XX-01-iden

@@ -6,7 +6,7 @@ Contents
 ========
 
 * [MOTV-10-X-FLAT-01>10 mm Flat Motor (Vibrating)](#motv-10-x-flat-0110-mm-flat-motor-vibrating)
-	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
@@ -16,9 +16,13 @@ Contents
 - ID: MOTV-10-X-FLAT-01
 - Name: MOTV-10-X-FLAT-01
 
-## Datasheets
+## Labels
+  
+  
 
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

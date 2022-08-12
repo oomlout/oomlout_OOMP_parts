@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-W-PI06-01>2.54 mm 6 Pin White Female Header](#heaf-i01-w-pi06-01254-mm-6-pin-white-female-header)
+* [HEAS-I01-W-PI06-01>2.54 mm 6 Pin White Header (Socket)](#heas-i01-w-pi06-01254-mm-6-pin-white-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-W-PI06-01>2.54 mm 6 Pin White Female Header
+# HEAS-I01-W-PI06-01>2.54 mm 6 Pin White Header (Socket)
 
-- ID: HEAF-I01-W-PI06-01
-- Name: HEAF-I01-W-PI06-01
+- ID: HEAS-I01-W-PI06-01
+- Name: HEAS-I01-W-PI06-01
 
 ## Images
   
   
 
-|Main|
+|image|
 | :---: |
-|[![Main](image.jpg)](image.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,13 +45,12 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-W-PI06-01
-- name: 2.54 mm 6 Pin White Female Header
-- hexID: H6W
+- oompID: HEAS-I01-W-PI06-01
+- hexID: HS6W
 - oompSort: 
 - oompClass: Through Hole
 - oompClassCode: THTH
-- oompType: HEAF
+- oompType: HEAS
 - oompSize: I01
 - oompColor: W
 - oompDesc: PI06
@@ -64,7 +63,7 @@ Contents
 - oompBbls: template;XXXX-I01-X-XX-01-bbls
 - oompDiag: variable;clear
 - oompDiag: variable;pins;6
-- oompDiag: template;HEAF-I01-X-XX-01-diag
+- oompDiag: template;HEAS-I01-X-XX-01-diag
 - drawItem: variable;clear
 - drawItem: variable;pins;6
 - drawItem: template;XXXX-I01-X-XX-01-iden

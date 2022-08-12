@@ -2,23 +2,19 @@
     "tags": [
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-2X04PI-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 8 Pin (2x4) Female Header"
+            "value": "HEAS-I01-X-2X04PI-01"
         },
         {
             "name": "hexID",
-            "value": "HFX4"
+            "value": "HSX4"
         },
         {
             "name": "oompSort",
-            "value": "HEAF012X04PI"
+            "value": "HEAS012X04PI"
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -54,11 +50,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-2X04PI-01"
+            "value": "HEAS-I01-X-2X04PI-01"
         },
         {
             "name": "name",
-            "value": "2.54 mm 8 Pin (2x4) Female Header"
+            "value": "2.54 mm Header (Socket)"
         }
     ]
 }

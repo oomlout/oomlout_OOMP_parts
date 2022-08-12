@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HEAF-I01-X-2X04PI-01>2.54 mm 8 Pin (2x4) Female Header](#heaf-i01-x-2x04pi-01254-mm-8-pin-2x4-female-header)
+* [HEAS-I01-X-2X04PI-01>2.54 mm Header (Socket)](#heas-i01-x-2x04pi-01254-mm-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,18 +14,18 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HEAF-I01-X-2X04PI-01>2.54 mm 8 Pin (2x4) Female Header
+# HEAS-I01-X-2X04PI-01>2.54 mm Header (Socket)
 
-- ID: HEAF-I01-X-2X04PI-01
-- Name: HEAF-I01-X-2X04PI-01
+- ID: HEAS-I01-X-2X04PI-01
+- Name: HEAS-I01-X-2X04PI-01
 
 ## Images
   
   
 
-|Main|Reference|
+|image|image_RE|
 | :---: | :---: |
-|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
@@ -45,11 +45,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAF-I01-X-2X04PI-01
-- name: 2.54 mm 8 Pin (2x4) Female Header
-- hexID: HFX4
-- oompSort: HEAF012X04PI
-- oompType: HEAF
+- oompID: HEAS-I01-X-2X04PI-01
+- hexID: HSX4
+- oompSort: HEAS012X04PI
+- oompType: HEAS
 - oompSize: I01
 - oompColor: X
 - oompDesc: 2X04PI

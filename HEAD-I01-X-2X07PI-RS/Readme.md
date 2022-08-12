@@ -6,7 +6,6 @@ Contents
 ========
 
 * [HEAD-I01-X-2X07PI-RS>2.54 mm 14 Pin (2x7)Header Right Angle (SMD)](#head-i01-x-2x07pi-rs254-mm-14-pin-2x7header-right-angle-smd)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -17,17 +16,13 @@ Contents
 - ID: HEAD-I01-X-2X07PI-RS
 - Name: HEAD-I01-X-2X07PI-RS
 
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
-
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

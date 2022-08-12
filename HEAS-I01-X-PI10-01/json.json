@@ -6,15 +6,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-PI10-01"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 10 Pin Female Header"
+            "value": "HEAS-I01-X-PI10-01"
         },
         {
             "name": "hexID",
-            "value": "HF10"
+            "value": "HS10"
         },
         {
             "name": "oompSort",
@@ -22,7 +18,7 @@
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -122,7 +118,7 @@
         },
         {
             "name": "oompDiag",
-            "value": "template;HEAF-I01-X-XX-01-diag"
+            "value": "template;HEAS-I01-X-XX-01-diag"
         },
         {
             "name": "drawItem",
@@ -166,11 +162,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-PI10-01"
+            "value": "HEAS-I01-X-PI10-01"
         },
         {
             "name": "name",
-            "value": "2.54 mm 10 Pin Female Header"
+            "value": "2.54 mm 10 Pin Header (Socket)"
         }
     ]
 }

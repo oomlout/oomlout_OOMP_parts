@@ -14,7 +14,7 @@
         },
         {
             "name": "oompDesc",
-            "value": "K8050"
+            "value": "KS8050"
         },
         {
             "name": "oompIndex",
@@ -26,11 +26,11 @@
         },
         {
             "name": "oompID",
-            "value": "TRNN-T92-X-K8050-01"
+            "value": "TRNN-T92-X-KS8050-01"
         },
         {
             "name": "name",
-            "value": "TO-92 8050 NPN Transistor"
+            "value": "TO-92 S8050 NPN Transistor"
         }
     ]
 }

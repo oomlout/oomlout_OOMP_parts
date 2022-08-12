@@ -7,7 +7,6 @@ Contents
 
 * [DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) ](#disp-16x2-g-lcd-i2-16-x-2-character-lcd-green-display-i2c-)
 	* [Images](#images)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
@@ -23,21 +22,17 @@ Contents
   
   
 
-|Main|
+|image|
 | :---: |
-|[![Main](image.jpg)](image.jpg)|
-
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|[![image](image_140.jpg)](image_600.jpg)|
 
 ## Labels
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

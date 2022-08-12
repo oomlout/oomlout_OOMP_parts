@@ -2,23 +2,19 @@
     "tags": [
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-PI02-RO"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 2 Pin Female Header (Round)"
+            "value": "HEAS-I01-X-PI02-RO"
         },
         {
             "name": "hexID",
-            "value": "HF2R"
+            "value": "HS2R"
         },
         {
             "name": "oompSort",
-            "value": "HEAFI0102PI"
+            "value": "HEASI0102PI"
         },
         {
             "name": "oompType",
-            "value": "HEAF"
+            "value": "HEAS"
         },
         {
             "name": "oompSize",
@@ -46,11 +42,11 @@
         },
         {
             "name": "oompID",
-            "value": "HEAF-I01-X-PI02-RO"
+            "value": "HEAS-I01-X-PI02-RO"
         },
         {
             "name": "name",
-            "value": "2.54 mm 2 Pin Female Header (Round)"
+            "value": "2.54 mm 2 Pin Header (Socket) (Round)"
         }
     ]
 }

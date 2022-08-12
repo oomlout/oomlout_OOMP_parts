@@ -23,9 +23,9 @@ Contents
   
   
 
-|Main|Reference|Bottom|
+|image|image_RE|image_BOTTOM|
 | :---: | :---: | :---: |
-|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
 
 ## Datasheets
 
@@ -35,9 +35,9 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 

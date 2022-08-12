@@ -5,20 +5,24 @@
 Contents
 ========
 
-* [TRNP-T92-X-KBC327-01>TO-92 PNP Transistor](#trnp-t92-x-kbc327-01to-92-pnp-transistor)
-	* [Datasheets](#datasheets)
+* [TRNP-T92-X-KBC327-01>TO-92 BC327 PNP Transistor](#trnp-t92-x-kbc327-01to-92-bc327-pnp-transistor)
+	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNP-T92-X-KBC327-01>TO-92 PNP Transistor
+# TRNP-T92-X-KBC327-01>TO-92 BC327 PNP Transistor
 
 - ID: TRNP-T92-X-KBC327-01
 - Name: TRNP-T92-X-KBC327-01
 
-## Datasheets
+## Labels
+  
+  
 
-- Datasheet: [datasheet.pdf](datasheet.pdf)
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
 
 ## EDA
 
