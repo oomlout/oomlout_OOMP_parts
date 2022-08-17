@@ -5,11 +5,11 @@ import OOMPtags
 
 newPart = OOMP.oompItem()
 
-oType = ""
-oSize = ""
-oColor = ""
-oDesc = ""
-oIndex = ""
+oType = "LEDS"
+oSize = "XHP70"
+oColor = "W"
+oDesc = "CREE"
+oIndex = "01"
 hexId = ""
 
 newPart.addTag('oompType',oType)
@@ -45,7 +45,8 @@ newPart.addTag('hexID',hexId)
 #newPart.addTag('oompBbls','')
 
 ######  EDA
-#newPart.addTag("footprintKicad","")  
+newPart.addTag("footprintKicad","FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V")  
+newPart.addTag("footprintKicad","FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V")  
 #newPart.addTag("symbolKicad","")  
 
 ######  Housekeeping

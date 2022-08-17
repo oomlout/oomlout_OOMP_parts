@@ -5,12 +5,12 @@ import OOMPtags
 
 newPart = OOMP.oompItem()
 
-oType = ""
-oSize = ""
-oColor = ""
-oDesc = ""
-oIndex = ""
-hexId = ""
+oType = "TRNN"
+oSize = "SO23"
+oColor = "X"
+oDesc = "KS8050"
+oIndex = "01"
+hexId = "TN98050"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -21,10 +21,7 @@ oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex
 
 
 ######  Specs
-#manufacturersPartNumber = ''
-#newPart.addTag('manufacturersPartNumber',manufacturersPartNumber)
 #pitch = 2.54 
-#newPart.addTag('ooPitch',str(pitch))
 
 ######  Common
 newPart.addTag('hexID',hexId)
@@ -38,15 +35,16 @@ newPart.addTag('hexID',hexId)
 
 
 ######  Dimensions
-
+#newPart.addTag('ooPitch',str(pitch))
 #newPart.addTag('ooWidth','')
 #newPart.addTag('ooHeight','')
 #newPart.addTag('ooDepth','')
-#newPart.addTag('oompBbls','')
+#newPart.addTag('oompBbls','template;BREB-P400-C-STAN-01-bbls')
+
 
 ######  EDA
-#newPart.addTag("footprintKicad","")  
-#newPart.addTag("symbolKicad","")  
+newPart.addTag("footprintKicad","FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23")  
+#newPart.addTag("symbolKicad","") 
 
 ######  Housekeeping
 newPart = OOMPtags.addTags(newPart,oompId)

@@ -21,6 +21,9 @@ newPart.addTag('ooPin2','D')
 newPart.addTag('ooPin3','S')
 newPart.addTag('ooDesignator','Q1')
 
+######  EDA
+newPart.addTag("footprintKicad","FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2")  
+#newPart.addTag("symbolKicad","")  
 
 newPart.addTag('manufacturerPartNumber','AOD4184A')
 
