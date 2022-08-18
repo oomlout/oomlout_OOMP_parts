@@ -1,0 +1,36 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TRNP"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KS8550"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "TP985"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNP-SO23-X-KS8550-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) S8550 PNP Transistor"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TRNN"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO23"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KS8050"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "TN98050"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23"
+        },
+        {
+            "name": "oompID",
+            "value": "TRNN-SO23-X-KS8050-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23) S8050 NPN Transistor"
+        }
+    ]
+}

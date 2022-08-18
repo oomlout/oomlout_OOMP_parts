@@ -34,7 +34,7 @@
         },
         {
             "name": "oompDesc",
-            "value": "A50"
+            "value": "K4184"
         },
         {
             "name": "oompIndex",
@@ -61,16 +61,20 @@
             "value": "Q1"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2"
+        },
+        {
             "name": "manufacturerPartNumber",
             "value": "AOD4184A"
         },
         {
             "name": "oompID",
-            "value": "MOSN-T252-X-A50-01"
+            "value": "MOSN-T252-X-K4184-01"
         },
         {
             "name": "name",
-            "value": "TO-252 50 Amp N-Ch. MOSFET"
+            "value": "TO-252 MNAOD4184A N-Ch. MOSFET"
         }
     ]
 }
