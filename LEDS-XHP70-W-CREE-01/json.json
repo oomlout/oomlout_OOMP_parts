@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "XHP70"
+        },
+        {
+            "name": "oompColor",
+            "value": "W"
+        },
+        {
+            "name": "oompDesc",
+            "value": "CREE"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": ""
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-XHP70-W-CREE-01"
+        },
+        {
+            "name": "name",
+            "value": "XHP 70 Cree White LED"
+        }
+    ]
+}
