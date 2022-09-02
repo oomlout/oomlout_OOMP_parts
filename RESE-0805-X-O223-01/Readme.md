@@ -25,7 +25,7 @@ Contents
 
 |image|image_RE|image_BOTTOM|
 | :---: | :---: | :---: |
-|[![image](image_140.png)](image_600.png)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
+|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
 
 ## Datasheets
 

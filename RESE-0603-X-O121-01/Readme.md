@@ -24,7 +24,7 @@ Contents
 
 |image_RE|image_BOTTOM|
 | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
+|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
 
 ## Labels
   

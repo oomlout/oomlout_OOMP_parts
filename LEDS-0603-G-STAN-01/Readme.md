@@ -24,7 +24,7 @@ Contents
 
 |image_BOTTOM|
 | :---: |
-|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
+|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
 
 ## Datasheets
 

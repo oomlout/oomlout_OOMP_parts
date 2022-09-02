@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) SMD](#heas-02-x-pi10-sm2-mm-10-pin-header-socket-smd)
+* [HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) (SMD)](#heas-02-x-pi10-sm2-mm-10-pin-header-socket-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) SMD
+# HEAS-02-X-PI10-SM>2 mm 10 Pin Header (Socket) (SMD)
 
 - ID: HEAS-02-X-PI10-SM
 - Name: HEAS-02-X-PI10-SM
