@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESSQFPS7X772"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SQFP-S-7X7-72"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SQFP-S-7X7-72"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFP72&lt;/b&gt;&lt;p&gt;&#xD;\nshrink quad flat pack, square"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-7X7-72"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SQFP-S-7X7-72"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

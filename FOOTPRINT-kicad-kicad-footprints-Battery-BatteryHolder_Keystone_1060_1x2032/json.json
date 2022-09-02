@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKBATBATHOLDERKEYSTONE161X232"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BatteryHolder_Keystone_1060_1x2032"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Battery/BatteryHolder_Keystone_1060_1x2032"
+        },
+        {
+            "name": "description",
+            "value": "http://www.keyelco.com/product-pdf.cfm?p=726"
+        },
+        {
+            "name": "tags",
+            "value": "CR2032 BR2032 BatteryHolder Battery"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_1060_1x2032.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1060_1x2032"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Battery-BatteryHolder_Keystone_1060_1x2032"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

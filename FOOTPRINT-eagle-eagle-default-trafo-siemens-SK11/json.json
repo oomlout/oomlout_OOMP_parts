@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRAFOSIEMENSSK11"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trafo-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SK11"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trafo-siemens/SK11"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-SK11"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trafo-siemens-SK11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

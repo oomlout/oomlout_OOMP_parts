@@ -29,6 +29,10 @@
             "value": "TRNP-T92-X-KBC327-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNP-T92-X-KBC327-01"
+        },
+        {
             "name": "name",
             "value": "TO-92 BC327 PNP Transistor"
         }

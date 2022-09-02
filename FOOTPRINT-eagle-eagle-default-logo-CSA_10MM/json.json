@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELCSA1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "logo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CSA_10MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/logo/CSA_10MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-CSA_10MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-logo-CSA_10MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSISTSS284"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Special-Function"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP-28_4MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/TSSOP-28_4MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-TSSOP-28_4MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-TSSOP-28_4MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

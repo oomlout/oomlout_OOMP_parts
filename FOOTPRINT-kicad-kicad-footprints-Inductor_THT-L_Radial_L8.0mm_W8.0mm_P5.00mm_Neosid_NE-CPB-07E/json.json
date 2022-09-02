@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINLRL8W8P5NEOSIDNECPB7E"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E"
+        },
+        {
+            "name": "description",
+            "value": "Inductor, Radial series, Radial, pin pitch=5.00mm, , length*width=8*8mm^2, Neosid, NE-CPB-07E, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_NE_CPB07E.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Inductor Radial series Radial pin pitch 5.00mm  length 8mm width 8mm Neosid NE-CPB-07E"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

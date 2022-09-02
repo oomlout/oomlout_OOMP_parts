@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPGESP12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gee_s"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESP12"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/gee_s/ESP12"
+        },
+        {
+            "name": "description",
+            "value": "ESP8266 Module 12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-ESP12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-ESP12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

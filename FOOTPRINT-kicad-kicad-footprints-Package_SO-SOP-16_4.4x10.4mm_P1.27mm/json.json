@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSOS1644X14P127"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP-16_4.4x10.4mm_P1.27mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/SOP-16_4.4x10.4mm_P1.27mm"
+        },
+        {
+            "name": "description",
+            "value": "16-Lead Plastic Small Outline http://www.vishay.com/docs/49633/sg2098.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "SOP 1.27"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOP-16_4.4x10.4mm_P1.27mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-16_4.4x10.4mm_P1.27mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-SOP-16_4.4x10.4mm_P1.27mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNDISFPC541724"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Displays"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FPC05040-17204"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Displays/FPC05040-17204"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;FPC05040 - This is a 0.5mm pitch FPC connector with 40 positions &lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 40&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.5mm&lt;/li&gt;\n&lt;li&gt;Area: 20mm x 5mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://sparkle.sparkfun.com/sparkle/file_store/parts/13272/15/2018-12-18_16:19:15/FPC05040-17204.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-FPC05040-17204"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

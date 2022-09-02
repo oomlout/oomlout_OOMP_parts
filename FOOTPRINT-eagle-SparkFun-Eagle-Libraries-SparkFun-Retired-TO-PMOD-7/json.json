@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTTOPMOD7"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-PMOD-7"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/TO-PMOD-7"
+        },
+        {
+            "name": "description",
+            "value": "7-Lead package for National voltage switchers (LMZ14203)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-PMOD-7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TO-PMOD-7"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

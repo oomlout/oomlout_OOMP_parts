@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINDUCTORSMLBOURNSSRN645TA"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Bourns_SRN6045TA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Bourns_SRN6045TA"
+        },
+        {
+            "name": "description",
+            "value": "http://www.bourns.com/docs/product-datasheets/srn6045ta.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Semi-shielded Power Inductor"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRN6045TA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Bourns_SRN6045TA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOCSOCSSMTCXOG158"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Oscillator"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Oscillator_SMD_TCXO_G158"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Oscillator/Oscillator_SMD_TCXO_G158"
+        },
+        {
+            "name": "description",
+            "value": "TCXO"
+        },
+        {
+            "name": "tags",
+            "value": "TCXO"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_TCXO_G158.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Oscillator-Oscillator_SMD_TCXO_G158"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

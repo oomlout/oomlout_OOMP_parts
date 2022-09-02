@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOESP32THINGNOANT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESP32_THING_NO_ANT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/ESP32_THING_NO_ANT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING_NO_ANT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING_NO_ANT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

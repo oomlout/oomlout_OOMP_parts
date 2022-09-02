@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKVAVAECC831"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Valve"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Valve_ECC-83-1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Valve/Valve_ECC-83-1"
+        },
+        {
+            "name": "description",
+            "value": "Valve ECC-83-1 round pins"
+        },
+        {
+            "name": "tags",
+            "value": "Valve ECC-83-1 round pins"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Valve.3dshapes/Valve_ECC-83-1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Valve-Valve_ECC-83-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

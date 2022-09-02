@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCPCI914797I"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-cpci"
+        },
+        {
+            "name": "oompIndex",
+            "value": "914797I"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-cpci/914797I"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cpci-914797I"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cpci-914797I"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

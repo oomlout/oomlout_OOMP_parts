@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMNASPLQFP641"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micronas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLQFP64-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micronas/PLQFP64-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micronas-PLQFP64-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micronas-PLQFP64-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

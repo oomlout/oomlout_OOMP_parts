@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESSSOT6"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOT6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SSOT6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SuperSOT-6&lt;/b&gt;&lt;p&gt;&#xD;\nSource:  Fairchild Semiconductor International ssot6_dim.pdf&lt;br&gt;&#xD;\n  September 1998, Rev. A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SSOT6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SSOT6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

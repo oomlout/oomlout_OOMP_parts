@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLRGBBARGRAPH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RGB_BAR_GRAPH"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/RGB_BAR_GRAPH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-RGB_BAR_GRAPH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-RGB_BAR_GRAPH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

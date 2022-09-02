@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESLONGPADC25535X75>eagle-default/ref-packages-longpad/C025_050-035X075](#fzerefpackageslongpadc25535x75eagle-defaultref-packages-longpadc025_050-035x075)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESLONGPADC25535X75>eagle-default/ref-packages-longpad/C025_050-035X075
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-035X075
+- Hex ID: FZEREFPACKAGESLONGPADC25535X75
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESLONGPADC25535X75
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-longpad
+- oompIndex: C025_050-035X075
+- oompName: eagle-default/ref-packages-longpad/C025_050-035X075
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-C025_050-035X075

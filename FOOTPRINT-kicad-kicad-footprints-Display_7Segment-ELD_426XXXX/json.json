@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDI7SELD426XXXX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ELD_426XXXX"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/ELD_426XXXX"
+        },
+        {
+            "name": "description",
+            "value": "http://www.everlight.com/file/ProductFile/D426SYGWA-S530-E2.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Double digit 7 segment brilliant yellow green LED"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/ELD_426XXXX.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-ELD_426XXXX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

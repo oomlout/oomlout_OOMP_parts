@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLAPA1255"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "APA102-5050"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/APA102-5050"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;APA102C&lt;/h3&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;li&gt;Size: 5.0 x 5.0 mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Components/LED/APA102C.pdf&quot;&gt;APA102C&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-5050"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-APA102-5050"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKLLD3IRGREY>kicad-footprints/LED_THT/LED_D3.0mm_IRGrey](#fzklld3irgreykicad-footprintsled_thtled_d30mm_irgrey)
+	* [Tags](#tags)
+
+# FZKLLD3IRGREY>kicad-footprints/LED_THT/LED_D3.0mm_IRGrey
+
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_IRGrey
+- Hex ID: FZKLLD3IRGREY
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKLLD3IRGREY
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: LED_THT
+- oompIndex: LED_D3.0mm_IRGrey
+- oompName: kicad-footprints/LED_THT/LED_D3.0mm_IRGrey
+- description: IR-LED, diameter 3.0mm, 2 pins, color: grey
+- tags: IR infrared LED diameter 3.0mm 2 pins grey
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D3.0mm_IRGrey.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_IRGrey

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEALLEGROACS755"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "allegro"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ACS75050"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/allegro/ACS75050"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-allegro-ACS75050"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-allegro-ACS75050"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

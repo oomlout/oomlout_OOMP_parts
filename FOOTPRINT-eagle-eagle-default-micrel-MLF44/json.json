@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMICRELMLF44"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micrel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLF44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micrel/MLF44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micrel-MLF44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micrel-MLF44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

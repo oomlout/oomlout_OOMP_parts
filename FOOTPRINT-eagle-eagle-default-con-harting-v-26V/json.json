@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONHARTINGV26V"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting-v"
+        },
+        {
+            "name": "oompIndex",
+            "value": "26V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting-v/26V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-v-26V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-v-26V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

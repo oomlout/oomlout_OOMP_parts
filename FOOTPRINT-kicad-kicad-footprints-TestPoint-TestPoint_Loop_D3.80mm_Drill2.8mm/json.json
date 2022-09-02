@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKTPTPLOOPD38DRILL28"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Loop_D3.80mm_Drill2.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Loop_D3.80mm_Drill2.8mm"
+        },
+        {
+            "name": "description",
+            "value": "wire loop as test point, loop diameter 3.8mm, hole diameter 2.8mm"
+        },
+        {
+            "name": "tags",
+            "value": "test point wire loop bead"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/TestPoint.3dshapes/TestPoint_Loop_D3.80mm_Drill2.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.8mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Loop_D3.80mm_Drill2.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

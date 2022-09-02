@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCCRECTL46W46P25MKS2FKP2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02"
+        },
+        {
+            "name": "description",
+            "value": "C, Rect series, Radial, pin pitch=2.50mm, , length*width=4.6*4.6mm^2, Capacitor, http://www.wima.de/DE/WIMA_MKS_02.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "C Rect series Radial pin pitch 2.50mm  length 4.6mm width 4.6mm Capacitor"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Rect_L4.6mm_W4.6mm_P2.50mm_MKS02_FKP02"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

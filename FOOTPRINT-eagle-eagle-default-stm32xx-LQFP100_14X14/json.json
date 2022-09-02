@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESTM32XXLQFP114X14"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "stm32xx"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP100_14X14"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/stm32xx/LQFP100_14X14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-stm32xx-LQFP100_14X14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-stm32xx-LQFP100_14X14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

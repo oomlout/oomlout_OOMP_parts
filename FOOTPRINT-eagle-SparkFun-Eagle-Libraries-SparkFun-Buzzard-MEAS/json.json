@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBUMEAS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Buzzard"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MEAS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Buzzard/MEAS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Measure Label&lt;/h3&gt;\n&lt;p&gt;Rounded&lt;/p&gt;\n&lt;p&gt;Eagle Scale Factor: 0.032&lt;/p&gt;\n\nUseful near the combination 2 PTH pin + solder jumper component for measuring current paths."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MEAS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

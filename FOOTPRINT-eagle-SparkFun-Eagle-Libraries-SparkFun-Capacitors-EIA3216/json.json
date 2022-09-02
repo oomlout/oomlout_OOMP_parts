@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCEIA3216"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Capacitors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EIA3216"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Capacitors/EIA3216"
+        },
+        {
+            "name": "description",
+            "value": "Generic EIA 3216 (1206) polarized tantalum capacitor"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-EIA3216"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

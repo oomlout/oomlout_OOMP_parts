@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBUBYP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Buzzard"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BYP"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Buzzard/BYP"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Bypass Label&lt;/h3&gt;\n&lt;p&gt;Rounded&lt;/p&gt;\n&lt;p&gt;Eagle Scale Factor: 0.04&lt;/p&gt;\n\nUseful near a bypass jumper."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-BYP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

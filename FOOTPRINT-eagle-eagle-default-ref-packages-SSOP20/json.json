@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESSS2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SSOP20"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Plastic Shrink Small Outline Package&lt;/B&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SSOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SSOP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

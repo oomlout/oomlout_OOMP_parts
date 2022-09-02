@@ -1,0 +1,52 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOB\\FIDFIDCLASSICBIGSILKSCREENTOPTYPE1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Obsolete\\Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_classic_big_SilkscreenTop_Type1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Obsolete\\Fiducial/Fiducial_classic_big_SilkscreenTop_Type1"
+        },
+        {
+            "name": "description",
+            "value": "Fiducial, Classic, Big, Silkscreen Top, Type 1"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_classic_big_SilkscreenTop_Type1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_classic_big_SilkscreenTop_Type1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

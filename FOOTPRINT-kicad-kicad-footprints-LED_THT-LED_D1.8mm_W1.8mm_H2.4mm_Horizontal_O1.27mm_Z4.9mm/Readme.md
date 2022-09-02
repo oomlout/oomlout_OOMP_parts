@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKLLD18W18H24HORIZONTALO127Z49MM>kicad-footprints/LED_THT/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm](#fzklld18w18h24horizontalo127z49mmkicad-footprintsled_thtled_d18mm_w18mm_h24mm_horizontal_o127mm_z49mm)
+	* [Tags](#tags)
+
+# FZKLLD18W18H24HORIZONTALO127Z49MM>kicad-footprints/LED_THT/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+- Hex ID: FZKLLD18W18H24HORIZONTALO127Z49MM
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKLLD18W18H24HORIZONTALO127Z49MM
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: LED_THT
+- oompIndex: LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+- oompName: kicad-footprints/LED_THT/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm
+- description: LED, ,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm, 2 pins,  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm, 2 pins
+- tags: LED   diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 1.6mm 2 pins  diameter 1.8mm size 1.8x2.4mm^2 z-position of LED center 4.9mm 2 pins
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z4.9mm

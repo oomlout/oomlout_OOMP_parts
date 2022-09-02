@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSML8511"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML8511"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/ML8511"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ML8511 UV Sensor 12-Pin (4 x 3.7 mm)&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Sensors/LightImaging/ML8511_3-8-13.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 12&lt;/li&gt;\n&lt;li&gt;Dimensions: 4.0 x 3.7 x0.73 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1.0 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ML8511&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ML8511"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ML8511"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

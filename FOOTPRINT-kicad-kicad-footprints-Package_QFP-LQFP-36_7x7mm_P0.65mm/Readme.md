@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKQFPLQFP367X7P65>kicad-footprints/Package_QFP/LQFP-36_7x7mm_P0.65mm](#fzkqfplqfp367x7p65kicad-footprintspackage_qfplqfp-36_7x7mm_p065mm)
+	* [Tags](#tags)
+
+# FZKQFPLQFP367X7P65>kicad-footprints/Package_QFP/LQFP-36_7x7mm_P0.65mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-36_7x7mm_P0.65mm
+- Hex ID: FZKQFPLQFP367X7P65
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKQFPLQFP367X7P65
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_QFP
+- oompIndex: LQFP-36_7x7mm_P0.65mm
+- oompName: kicad-footprints/Package_QFP/LQFP-36_7x7mm_P0.65mm
+- description: LQFP, 36 Pin (https://www.onsemi.com/pub/Collateral/561AV.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+- tags: LQFP QFP
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-36_7x7mm_P0.65mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_QFP-LQFP-36_7x7mm_P0.65mm

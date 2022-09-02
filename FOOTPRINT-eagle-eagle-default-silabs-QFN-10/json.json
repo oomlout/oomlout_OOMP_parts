@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESILABSQFN1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "silabs"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/silabs/QFN-10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-silabs-QFN-10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-silabs-QFN-10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

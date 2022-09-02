@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PIMORONILOGO"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni/PIMORONILOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-PIMORONILOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-PIMORONILOGO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

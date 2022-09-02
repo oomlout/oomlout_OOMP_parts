@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRFMOE18MS1PCB"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "E18-MS1-PCB"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Module/E18-MS1-PCB"
+        },
+        {
+            "name": "description",
+            "value": "http://www.cdebyte.com/en/downpdf.aspx?id=122"
+        },
+        {
+            "name": "tags",
+            "value": "Zigbee"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/E18-MS1-PCB.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-E18-MS1-PCB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Module-E18-MS1-PCB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

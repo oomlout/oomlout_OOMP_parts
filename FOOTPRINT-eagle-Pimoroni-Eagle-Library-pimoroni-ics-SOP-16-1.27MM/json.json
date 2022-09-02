@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPICSS16127"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-ics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP-16-1.27MM"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-ics/SOP-16-1.27MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-SOP-16-1.27MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-SOP-16-1.27MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

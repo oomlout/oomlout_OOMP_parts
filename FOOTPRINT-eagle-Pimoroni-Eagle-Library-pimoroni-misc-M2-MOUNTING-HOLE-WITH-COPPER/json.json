@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPMISCM2MOUNTINGHOLEWITHC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M2-MOUNTING-HOLE-WITH-COPPER"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-misc/M2-MOUNTING-HOLE-WITH-COPPER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-misc-M2-MOUNTING-HOLE-WITH-COPPER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-misc-M2-MOUNTING-HOLE-WITH-COPPER"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

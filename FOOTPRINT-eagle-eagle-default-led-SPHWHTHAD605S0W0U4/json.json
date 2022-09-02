@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELSPHWHTHAD65SWU4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPHWHTHAD605S0W0U4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/SPHWHTHAD605S0W0U4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SPHWHTHAD605S0W0U4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SPHWHTHAD605S0W0U4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

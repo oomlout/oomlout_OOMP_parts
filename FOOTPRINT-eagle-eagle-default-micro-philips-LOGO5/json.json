@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMPHILIPSL5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-philips"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LOGO5"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-philips/LOGO5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-LOGO5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-LOGO5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

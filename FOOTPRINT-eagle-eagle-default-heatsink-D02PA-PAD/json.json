@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEHD2PAPAD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D02PA-PAD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/heatsink/D02PA-PAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-D02PA-PAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-D02PA-PAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

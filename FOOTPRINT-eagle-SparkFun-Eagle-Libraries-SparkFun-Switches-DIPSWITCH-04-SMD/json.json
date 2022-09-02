@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWDIPSWITCH4SM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIPSWITCH-04-SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/DIPSWITCH-04-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;4-Position DIP Switch - SMD, 0.1&quot;-Pitch&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.ctscorp.com/wp-content/uploads/2015/11/219.pdf&quot;&gt;Datasheet&lt;/a&gt; (219-4MST)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-DIPSWITCH-04-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-DIPSWITCH-04-SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

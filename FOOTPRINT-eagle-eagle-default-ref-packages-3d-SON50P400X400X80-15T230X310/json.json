@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGES3DSON5P4X4X815T23X31"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SON50P400X400X80-15T230X310"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/SON50P400X400X80-15T230X310"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON50P400X400X80-15T230X310"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-SON50P400X400X80-15T230X310"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPCNSFPC3X15"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FPC_0.3X15"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-connectors/FPC_0.3X15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-connectors-FPC_0.3X15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-connectors-FPC_0.3X15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

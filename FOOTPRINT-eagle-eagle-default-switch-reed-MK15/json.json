@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESWITCHREEDMK15"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-reed"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MK15"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-reed/MK15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-reed-MK15"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-reed-MK15"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSTMF882X"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TMF882X"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/TMF882X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;OLGA12&lt;/h3&gt;\n&lt;p&gt;Mechanical Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pad Size:.5mm x .3mm&lt;/li&gt;\n&lt;li&gt;Pin count: 12&lt;/li&gt;\n&lt;li&gt;Pin pitch: .82mm&lt;/li&gt;\n&lt;li&gt;Package Size: 1.4mm x 2mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://ams.com/documents/20143/6015057/TMF882X_DS000693_4-00.pdf&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMF882X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TMF882X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

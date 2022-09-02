@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDI7SDA411SURKWA"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DA04-11SURKWA"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/DA04-11SURKWA"
+        },
+        {
+            "name": "description",
+            "value": "http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11SURKWA(Ver.10A).pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Dubble digit hyper red 7 segment LED display"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/DA04-11SURKWA.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11SURKWA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-DA04-11SURKWA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

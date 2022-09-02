@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONTHOMASBETTSHXR12ST"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-thomas-betts"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HXR120ST"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-thomas-betts/HXR120ST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR120ST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-thomas-betts-HXR120ST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

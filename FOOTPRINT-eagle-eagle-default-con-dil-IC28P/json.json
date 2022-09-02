@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONDILIC28P"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IC28P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-dil/IC28P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-dil-IC28P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-dil-IC28P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

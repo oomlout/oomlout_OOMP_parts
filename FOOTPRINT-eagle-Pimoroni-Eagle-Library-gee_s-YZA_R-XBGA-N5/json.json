@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPGYZARXBGAN5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gee_s"
+        },
+        {
+            "name": "oompIndex",
+            "value": "YZA_R-XBGA-N5"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/gee_s/YZA_R-XBGA-N5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;YZA (R-XBGA-N5)&lt;/b&gt; DIE-SIZE BALL GRID ARRAY&lt;p&gt;\nNanoStar TM - WCSP (DSBG A)0.23-mm Large Bump - YZA&lt;br&gt;\nSource: http://focus.ti.com/lit/ds/symlink/sn74lvc1g66.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-YZA_R-XBGA-N5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-YZA_R-XBGA-N5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

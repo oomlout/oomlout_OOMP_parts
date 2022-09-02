@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFREESCALETQFP487X7"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "freescale"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP48_7X7"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/freescale/TQFP48_7X7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-freescale-TQFP48_7X7"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

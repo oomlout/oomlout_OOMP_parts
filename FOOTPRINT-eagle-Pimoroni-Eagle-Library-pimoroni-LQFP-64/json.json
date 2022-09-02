@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPLQFP64"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP-64"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni/LQFP-64"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;64-Lead Low Profile Quad Flat Package [LQFP] (ST-64-2)&lt;/b&gt;&lt;p&gt;\nCOMPLIANT TO JEDEC STANDARDS MS-026-BCD&lt;br&gt;\nSource: http://www.analog.com/UploadedFiles/Data_Sheets/288945048AD7C7019_20_1_2_4_5_6_7_0.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-LQFP-64"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-LQFP-64"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

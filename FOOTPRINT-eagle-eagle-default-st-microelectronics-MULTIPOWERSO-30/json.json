@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESTMELECTRONICSMULTIPOWERSO3"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "st-microelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MULTIPOWERSO-30"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/st-microelectronics/MULTIPOWERSO-30"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIPOWERSO-30"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-st-microelectronics-MULTIPOWERSO-30"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

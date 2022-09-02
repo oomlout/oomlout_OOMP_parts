@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRANSISTORNPNTO92CBE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-npn"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO92-CBE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-npn/TO92-CBE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CBE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO92-CBE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

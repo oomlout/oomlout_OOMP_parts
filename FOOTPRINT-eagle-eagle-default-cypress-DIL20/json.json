@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECYPRESSDIL2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "cypress"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/cypress/DIL20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-DIL20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-DIL20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

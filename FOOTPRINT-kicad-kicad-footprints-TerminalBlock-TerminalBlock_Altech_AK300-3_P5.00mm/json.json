@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKTBTBALTECHAK33P5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TerminalBlock"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TerminalBlock_Altech_AK300-3_P5.00mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TerminalBlock/TerminalBlock_Altech_AK300-3_P5.00mm"
+        },
+        {
+            "name": "description",
+            "value": "Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Altech AK300 terminal block pitch 5.0mm"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-3_P5.00mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock-TerminalBlock_Altech_AK300-3_P5.00mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKLGABOSCHLGA83X3P8CLWISEPINNUMBERING"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "description",
+            "value": "Bosch  LGA, 8 Pin (https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py"
+        },
+        {
+            "name": "tags",
+            "value": "Bosch LGA NoLead"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

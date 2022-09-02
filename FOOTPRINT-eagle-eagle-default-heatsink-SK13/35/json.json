@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEHSK1335"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SK13/35"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/heatsink/SK13/35"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-SK13/35"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-heatsink-SK13/35"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

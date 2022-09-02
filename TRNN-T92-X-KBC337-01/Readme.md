@@ -41,3 +41,4 @@ Contents
 - oompDesc: KBC337
 - oompIndex: 01
 - hexID: TN9337
+- oompID: TRNN-T92-X-KBC337-01

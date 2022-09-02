@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRANSISTORNPNTO18"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-npn"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO18-"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-npn/TO18-"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO18-"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-npn-TO18-"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

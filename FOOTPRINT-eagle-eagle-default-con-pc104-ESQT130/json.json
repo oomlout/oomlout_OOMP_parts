@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPC14ESQT13"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc104"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESQT130"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc104/ESQT130"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc104-ESQT130"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

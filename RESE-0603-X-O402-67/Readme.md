@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [RESE-0603-X-O402-67>SMD (0603) 40k Ohm Resistor 1%](#rese-0603-x-o402-67smd-0603-40k-ohm-resistor-1)
+* [RESE-0603-X-O402-67>SMD (0603) 4k Ohm Resistor 1%](#rese-0603-x-o402-67smd-0603-4k-ohm-resistor-1)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0603-X-O402-67>SMD (0603) 40k Ohm Resistor 1%
+# RESE-0603-X-O402-67>SMD (0603) 4k Ohm Resistor 1%
 
 - ID: RESE-0603-X-O402-67
 - Name: RESE-0603-X-O402-67
@@ -37,8 +37,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O4022-67
-- name: SMD (0603) 40k Ohm Resistor 1%
 - hexID: R6402
 - ooPackageMarking: 402
 - oompDesc: O402
@@ -60,3 +58,4 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompID: RESE-0603-X-O402-67

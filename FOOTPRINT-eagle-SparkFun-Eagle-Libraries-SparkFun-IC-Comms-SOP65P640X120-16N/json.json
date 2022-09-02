@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSICS65P64X1216N"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Comms"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP65P640X120-16N"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Comms/SOP65P640X120-16N"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PW0016A&lt;/b&gt;&lt;br&gt;\n"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SOP65P640X120-16N"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-SOP65P640X120-16N"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

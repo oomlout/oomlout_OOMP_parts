@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZECONOMRONXF2J222412>eagle-default/con-omron/XF2J-2224-12](#fzeconomronxf2j222412eagle-defaultcon-omronxf2j-2224-12)
+	* [Tags](#tags)
+
+# FZECONOMRONXF2J222412>eagle-default/con-omron/XF2J-2224-12
+
+- ID: FOOTPRINT-eagle-eagle-default-con-omron-XF2J-2224-12
+- Hex ID: FZECONOMRONXF2J222412
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZECONOMRONXF2J222412
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: con-omron
+- oompIndex: XF2J-2224-12
+- oompName: eagle-default/con-omron/XF2J-2224-12
+- oompID: FOOTPRINT-eagle-eagle-default-con-omron-XF2J-2224-12

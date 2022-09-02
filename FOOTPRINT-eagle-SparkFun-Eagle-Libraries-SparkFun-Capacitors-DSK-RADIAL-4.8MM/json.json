@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCDSKR48"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Capacitors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSK-RADIAL-4.8MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Capacitors/DSK-RADIAL-4.8MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;DSK-621 - 6.8mm Radial package for SuperCapacitor&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;\n&lt;li&gt;Pin pitch: 10.15mm&lt;/li&gt;\n&lt;li&gt;Area: 6.8mm x 11.7mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://media.digikey.com/pdf/Data%20Sheets/Elna%20America%20Inc/DS,DSK.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-DSK-RADIAL-4.8MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

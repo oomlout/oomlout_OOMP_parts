@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESTOP3L2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TOP3L-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TOP3L-2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TOP 3&lt;/b&gt; horizontal (Cathode; Anode; Gate)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TOP3L-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TOP3L-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

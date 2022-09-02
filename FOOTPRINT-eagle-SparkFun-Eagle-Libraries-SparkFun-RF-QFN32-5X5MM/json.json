@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFQFN325X5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN32-5X5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/QFN32-5X5MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;32-pin QFN 5.0 x 5.0 mm, 0.5mm pitch&lt;/h3&gt;\n&lt;p&gt;Used by ESP8266&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://espressif.com/sites/default/files/documentation/0a-esp8266_datasheet_en_v4.4.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN32-5X5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN32-5X5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

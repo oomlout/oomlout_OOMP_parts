@@ -36,3 +36,4 @@ Contents
 - oompDesc: KBC327
 - oompIndex: 01
 - hexID: TP9BC327
+- oompID: TRNP-T92-X-KBC327-01

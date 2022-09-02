@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEZETEXSO16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "zetex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/zetex/SO16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-zetex-SO16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-zetex-SO16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

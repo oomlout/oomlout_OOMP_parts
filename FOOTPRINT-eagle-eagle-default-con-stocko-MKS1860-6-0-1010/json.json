@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONSTOCKOMKS186611"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-stocko"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MKS1860-6-0-1010"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-stocko/MKS1860-6-0-1010"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-stocko-MKS1860-6-0-1010"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-stocko-MKS1860-6-0-1010"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

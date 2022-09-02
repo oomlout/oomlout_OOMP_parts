@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEGENNUMQFN164X4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gennum"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN16-4X4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/gennum/QFN16-4X4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-gennum-QFN16-4X4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-gennum-QFN16-4X4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEONSEMICONDUCTORDIL16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "on-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/on-semiconductor/DIL16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-on-semiconductor-DIL16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

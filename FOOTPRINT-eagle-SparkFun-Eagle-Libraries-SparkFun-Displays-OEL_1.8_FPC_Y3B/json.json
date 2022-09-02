@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNDISOEL18FPCY3B"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Displays"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OEL_1.8_FPC_Y3B"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Displays/OEL_1.8_FPC_Y3B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;1.81&quot; Greyscale OLED&lt;/h3&gt;\n&lt;p&gt;Includes Panasonic Y3B FPC connector on bottom side and dimensions of display.&lt;/p&gt;\n&lt;p&gt;bDoc outline indicates approximate location of the FPC cable.&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 13&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.6mm&lt;/li&gt;\n&lt;li&gt;Area: 5.8 mm x 3.35 mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/assets/d/b/1/f/d/SSD1320_1.0__to_Wisechip_.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC_Y3B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OEL_1.8_FPC_Y3B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

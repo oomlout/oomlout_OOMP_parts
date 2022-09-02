@@ -41,3 +41,4 @@ Contents
 - oompDesc: KS8550
 - oompIndex: 01
 - hexID: TP985
+- oompID: TRNP-SO23-X-KS8550-01

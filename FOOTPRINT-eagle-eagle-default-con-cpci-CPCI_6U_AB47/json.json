@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCPCICPCI6UAB47"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-cpci"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CPCI_6U_AB47"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-cpci/CPCI_6U_AB47"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cpci-CPCI_6U_AB47"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-cpci-CPCI_6U_AB47"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

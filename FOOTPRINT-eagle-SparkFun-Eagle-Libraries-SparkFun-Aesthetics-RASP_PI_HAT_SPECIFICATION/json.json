@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSARASPPIHATSPECIFICATION"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Aesthetics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RASP_PI_HAT_SPECIFICATION"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Aesthetics/RASP_PI_HAT_SPECIFICATION"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Pi Hat Mechanical Specification&lt;/h3&gt;\n\nMin Hat Requirements:\n&lt;ul&gt;\n&lt;li&gt;Board must be 65x56 (PTH 40 Pin) or 65x56.5(SMD 40 pin)\n&lt;li&gt;3mm Radius Corners\n&lt;li&gt;Four mounting holes\n&lt;li&gt;40 pin header\n&lt;/ul&gt;\nMounting Holes:\n&lt;ul&gt;\n&lt;li&gt;Non Plated Landing around mounting holes: 6.2mm\n&lt;li&gt;Mounting holes: 2.75mm\n&lt;/ul&gt;\n\nReference: https://github.com/raspberrypi/hats/blob/master/hat-board-mechanical.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-RASP_PI_HAT_SPECIFICATION"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-RASP_PI_HAT_SPECIFICATION"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

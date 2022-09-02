@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNCARDMSIMJAESF53S6VCBR2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Card"
+        },
+        {
+            "name": "oompIndex",
+            "value": "microSIM_JAE_SF53S006VCBR2000"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Card/microSIM_JAE_SF53S006VCBR2000"
+        },
+        {
+            "name": "description",
+            "value": "https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "microSIM GSM Card"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSIM_JAE_SF53S006VCBR2000.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Card-microSIM_JAE_SF53S006VCBR2000"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

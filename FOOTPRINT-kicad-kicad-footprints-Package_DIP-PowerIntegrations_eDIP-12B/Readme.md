@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKDIPPOWERINTEGRATIONSEDIP12B>kicad-footprints/Package_DIP/PowerIntegrations_eDIP-12B](#fzkdippowerintegrationsedip12bkicad-footprintspackage_dippowerintegrations_edip-12b)
+	* [Tags](#tags)
+
+# FZKDIPPOWERINTEGRATIONSEDIP12B>kicad-footprints/Package_DIP/PowerIntegrations_eDIP-12B
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_eDIP-12B
+- Hex ID: FZKDIPPOWERINTEGRATIONSEDIP12B
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKDIPPOWERINTEGRATIONSEDIP12B
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DIP
+- oompIndex: PowerIntegrations_eDIP-12B
+- oompName: kicad-footprints/Package_DIP/PowerIntegrations_eDIP-12B
+- description: Power Integrations eDIP-12B, see https://www.power.com/sites/default/files/product-docs/linkswitch-pl_family_datasheet.pdf
+- tags: THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/PowerIntegrations_eDIP-12B.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_DIP-PowerIntegrations_eDIP-12B

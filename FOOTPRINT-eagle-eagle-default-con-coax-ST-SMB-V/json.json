@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCOAXSTSMBV"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-coax"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST-SMB-V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-coax/ST-SMB-V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-ST-SMB-V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -41,6 +41,10 @@
             "value": "PIEZ-14-B-STAN-01"
         },
         {
+            "name": "oompID",
+            "value": "PIEZ-14-B-STAN-01"
+        },
+        {
             "name": "name",
             "value": "14 mm Black Piezo Element"
         }

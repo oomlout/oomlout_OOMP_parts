@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPTR5AK37"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-ptr500"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AK300/7"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-ptr500/AK300/7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ptr500-AK300/7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ptr500-AK300/7"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

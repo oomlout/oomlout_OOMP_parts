@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESMLP322"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLP322"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/MLP322"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MLP322 Package&lt;/b&gt;&lt;p&gt;&#xD;\nSource: www.zetex.com/ .. zxtam322.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MLP322"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MLP322"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

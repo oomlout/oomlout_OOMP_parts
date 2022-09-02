@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNHARWINHARWINGECKOG125MVX345L1X2X17P125VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harwin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "Harwin Gecko Connector, 34 pins, dual row male, vertical entry, with latches, PN:G125-MVX3405L1X"
+        },
+        {
+            "name": "tags",
+            "value": "connector harwin gecko"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-MVX3405L1X_2x17_P1.25mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCNIC1X15CAP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Capacitors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NIC_10X10.5_CAP"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Capacitors/NIC_10X10.5_CAP"
+        },
+        {
+            "name": "description",
+            "value": "Some old package in our library"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-NIC_10X10.5_CAP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

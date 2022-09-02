@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLPLCC6L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-6-LED"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/PLCC-6-LED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;PLCC-6-LED&lt;/h3&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;li&gt;Size: 3.2*2.8*1.39mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;http://www.osram-os.com/Graphics/XPic9/00134830_0.pdf&quot;&gt;LTRB GFSF&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device:\n&lt;ul&gt;&lt;li&gt;RGB-LED-PLCC&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-6-LED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-PLCC-6-LED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

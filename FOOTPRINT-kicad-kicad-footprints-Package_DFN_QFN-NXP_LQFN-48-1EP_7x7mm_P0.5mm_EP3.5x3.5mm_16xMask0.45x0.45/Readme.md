@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45>kicad-footprints/Package_DFN_QFN/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45](#fzkdfnnxplqfn481ep7x7p5ep35x3516xmask45x45kicad-footprintspackage_dfn_qfnnxp_lqfn-48-1ep_7x7mm_p05mm_ep35x35mm_16xmask045x045)
+	* [Tags](#tags)
+
+# FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45>kicad-footprints/Package_DFN_QFN/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
+- Hex ID: FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKDFNNXPLQFN481EP7X7P5EP35X3516XMASK45X45
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
+- oompName: kicad-footprints/Package_DFN_QFN/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
+- description: LQFN, 48 Pin (https://www.nxp.com/docs/en/package-information/98ASA00694D.pdf)
+- tags: NXP LQFN NoLead
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45

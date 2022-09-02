@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFSDTR113HF2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SDTR1103-HF2"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/SDTR1103-HF2"
+        },
+        {
+            "name": "description",
+            "value": "SDTR1103-HF2 RFID Antenna"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SDTR1103-HF2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SDTR1103-HF2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

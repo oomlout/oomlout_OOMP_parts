@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSAGESTURESENSETEXT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Aesthetics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GESTURESENSE_TEXT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Aesthetics/GESTURESENSE_TEXT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;GestureSense Logo (w/ Text) Silkscreen&lt;/h3&gt;\n&lt;p&gt;Used on the &lt;a href=&quot;https://www.sparkfun.com/products/12780&quot;&gt;ZX Distance and Gesture Sensor&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Devices using:\n&lt;ul&gt;&lt;li&gt;GESTURESENSE_LOGOS&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_TEXT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-GESTURESENSE_TEXT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

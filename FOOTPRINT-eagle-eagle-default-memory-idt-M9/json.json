@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYIDTM9"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-idt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M9"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-idt/M9"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-idt-M9"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-idt-M9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

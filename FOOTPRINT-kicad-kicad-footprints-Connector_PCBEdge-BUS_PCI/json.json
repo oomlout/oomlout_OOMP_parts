@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNPCBEDGEBUSPCI"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PCBEdge"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUS_PCI"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PCBEdge/BUS_PCI"
+        },
+        {
+            "name": "description",
+            "value": "PCI bus Edge Connector"
+        },
+        {
+            "name": "tags",
+            "value": "PCI bus Edge Connector"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PCBEdge-BUS_PCI"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

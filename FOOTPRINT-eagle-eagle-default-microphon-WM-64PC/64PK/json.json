@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMPHONWM64PC64PK"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "microphon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WM-64PC/64PK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/microphon/WM-64PC/64PK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-WM-64PC/64PK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-microphon-WM-64PC/64PK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

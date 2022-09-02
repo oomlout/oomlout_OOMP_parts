@@ -1,0 +1,108 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-1206-X-A015D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 150 mA Diode 75v"
+        },
+        {
+            "name": "hexID",
+            "value": "DS115"
+        },
+        {
+            "name": "oompSort",
+            "value": "12060.150"
+        },
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A015D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V7"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "3 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "0.95 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompBbls",
+            "value": "template;XXXX-1206-X-XXXX-XX-bbls"
+        },
+        {
+            "name": "oompDiag",
+            "value": "template;XXXX-1206-X-XXXX-XX-diag"
+        },
+        {
+            "name": "oompIden",
+            "value": "template;XXXX-1206-X-XXXX-XX-iden"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;DIOD-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "oompSimp",
+            "value": "template;XXXX-1206-X-XXXX-XX-simp"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "D1"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-1206-X-A015D-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 150 mA Diode 75v"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLINDUCTORL54S"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Inductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L5040S"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Inductor/L5040S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Inductor-L5040S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Inductor-L5040S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

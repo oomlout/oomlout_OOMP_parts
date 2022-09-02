@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZE19INCHVG64K"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "19inch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VG64K"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/19inch/VG64K"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-VG64K"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-19inch-VG64K"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEALLEGROSIP4KT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "allegro"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP4-KT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/allegro/SIP4-KT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-allegro-SIP4-KT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-allegro-SIP4-KT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

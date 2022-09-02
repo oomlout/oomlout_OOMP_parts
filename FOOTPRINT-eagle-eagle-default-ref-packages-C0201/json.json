@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESC21"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C0201"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/C0201"
+        },
+        {
+            "name": "description",
+            "value": "Source: http://www.avxcorp.com/docs/catalogs/cx5r.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-C0201"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-C0201"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

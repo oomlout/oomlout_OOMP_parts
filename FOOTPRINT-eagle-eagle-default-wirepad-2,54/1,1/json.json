@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEWIREPAD25411"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "wirepad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2,54/1,1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/wirepad/2,54/1,1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wirepad-2,54/1,1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wirepad-2,54/1,1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

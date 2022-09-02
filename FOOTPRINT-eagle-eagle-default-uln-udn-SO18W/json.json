@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEULNUDNSO18W"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "uln-udn"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO18W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/uln-udn/SO18W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-uln-udn-SO18W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-uln-udn-SO18W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

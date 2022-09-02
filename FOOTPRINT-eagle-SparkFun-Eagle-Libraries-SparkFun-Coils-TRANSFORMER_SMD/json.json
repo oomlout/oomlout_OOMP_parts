@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCOTRSM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Coils"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRANSFORMER_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Coils/TRANSFORMER_SMD"
+        },
+        {
+            "name": "description",
+            "value": "TTC-5023"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-TRANSFORMER_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

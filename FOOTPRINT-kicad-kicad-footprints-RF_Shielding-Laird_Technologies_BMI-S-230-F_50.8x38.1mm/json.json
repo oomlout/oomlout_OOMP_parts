@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRFSLAIRDTECHNOLOGIESBMIS23F58X381"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Shielding"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Laird_Technologies_BMI-S-230-F_50.8x38.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Shielding/Laird_Technologies_BMI-S-230-F_50.8x38.1mm"
+        },
+        {
+            "name": "description",
+            "value": "Laird Technologies BMI-S-230-F Shielding Cabinet Two Piece SMD 50.8x38.1mm"
+        },
+        {
+            "name": "tags",
+            "value": "Shielding Cabinet"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_Shielding.3dshapes/Laird_Technologies_BMI-S-230-F_50.8x38.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Shielding-Laird_Technologies_BMI-S-230-F_50.8x38.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

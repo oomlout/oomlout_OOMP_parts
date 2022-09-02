@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "HR2X03"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X36"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RA"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumRows",
+            "value": "2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "72"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI2x36-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X36-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X36-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 72 Pin (2x36) Header Right Angle"
+        }
+    ]
+}

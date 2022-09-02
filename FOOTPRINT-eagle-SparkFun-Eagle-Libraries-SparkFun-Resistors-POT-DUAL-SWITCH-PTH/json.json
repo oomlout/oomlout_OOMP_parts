@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRPOTDUALSWITCHP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POT-DUAL-SWITCH-PTH"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-DUAL-SWITCH-PTH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-SWITCH-PTH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-SWITCH-PTH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

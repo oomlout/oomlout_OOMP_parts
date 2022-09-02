@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCOMA5532AE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Coils"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MA5532-AE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Coils/MA5532-AE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;MA5532-AE&lt;/h3&gt;\n\n&lt;p&gt;Physical Characteristics&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;.461in x .138in x .102in&lt;/li&gt;\n&lt;li&gt;Pads on part surrounded by housing.&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-MA5532-AE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

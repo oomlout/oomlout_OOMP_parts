@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSDSDIODE1N4148K"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-DiscreteSemi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIODE-1N4148-KIT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/DIODE-1N4148-KIT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-DIODE-1N4148-KIT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERCLUD4X58NICHICON"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rcl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UD-4X5,8_NICHICON"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rcl/UD-4X5,8_NICHICON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-UD-4X5,8_NICHICON"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rcl-UD-4X5,8_NICHICON"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

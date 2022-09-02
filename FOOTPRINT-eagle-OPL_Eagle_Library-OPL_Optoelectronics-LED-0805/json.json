@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLOPTOELECTRONICSL85"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Optoelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-0805"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Optoelectronics/LED-0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Optoelectronics-LED-0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Optoelectronics-LED-0805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

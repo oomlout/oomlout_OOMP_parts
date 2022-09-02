@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPHENOLC771M65122"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amphenol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C707_10M006_512_2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amphenol/C707_10M006_512_2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amphenol-C707_10M006_512_2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amphenol-C707_10M006_512_2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+
+
+
+
+Contents
+========
+
+* [FZSSPARKFUNCNS1X7L>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X07_LOCK](#fzssparkfuncns1x7lsparkfun-eagle-librariessparkfun-connectors1x07_lock)
+	* [Tags](#tags)
+
+# FZSSPARKFUNCNS1X7L>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X07_LOCK
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07_LOCK
+- Hex ID: FZSSPARKFUNCNS1X7L
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZSSPARKFUNCNS1X7L
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: SparkFun-Eagle-Libraries
+- oompDesc: Sparkfun-Connectors
+- oompIndex: 1X07_LOCK
+- oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X07_LOCK
+- description: &lt;h3&gt;Plated Through Hole -7 Pin Locking Footprint&lt;/h3&gt;
+Holes are offset 0.005&quot; from center, locking pins in place during soldering.
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:7&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_07&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+- oompID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07_LOCK

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONDILIC4PL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-dil"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IC40PL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-dil/IC40PL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-dil-IC40PL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-dil-IC40PL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

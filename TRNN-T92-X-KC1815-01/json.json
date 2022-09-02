@@ -29,6 +29,10 @@
             "value": "TRNN-T92-X-KC1815-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNN-T92-X-KC1815-01"
+        },
+        {
             "name": "name",
             "value": "TO-92 C1815 NPN Transistor"
         }

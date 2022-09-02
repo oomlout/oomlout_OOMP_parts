@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSDSSOD323"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-DiscreteSemi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOD-323"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-DiscreteSemi/SOD-323"
+        },
+        {
+            "name": "description",
+            "value": "SOD-323 (Small Outline Diode)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOD-323"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-DiscreteSemi-SOD-323"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

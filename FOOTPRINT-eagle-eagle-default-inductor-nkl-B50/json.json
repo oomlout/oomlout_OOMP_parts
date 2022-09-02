@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEINDUCTORNKLB5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "inductor-nkl"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B50"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/inductor-nkl/B50"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-B50"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-inductor-nkl-B50"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

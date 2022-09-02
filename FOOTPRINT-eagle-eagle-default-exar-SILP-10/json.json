@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEEXARSILP1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "exar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SILP-10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/exar/SILP-10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-exar-SILP-10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-exar-SILP-10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

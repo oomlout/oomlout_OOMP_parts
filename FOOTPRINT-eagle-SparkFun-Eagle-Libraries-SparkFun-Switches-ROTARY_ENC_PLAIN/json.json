@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWROTARYENCPLAIN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ROTARY_ENC_PLAIN"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/ROTARY_ENC_PLAIN"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Rotary Encoder w/ Select Switch&lt;/h3&gt;\n&lt;p&gt;Encoders rotate similarly to potentiometers, but theyre different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.&lt;/p&gt;\n&lt;p&gt;This encoder includes a push-down select switch built into the shaft.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.sparkfun.com/datasheets/Components/TW-700198.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_ENC_PLAIN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ROTARY_ENC_PLAIN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

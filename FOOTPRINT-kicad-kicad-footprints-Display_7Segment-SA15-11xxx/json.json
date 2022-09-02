@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDI7SSA1511XXX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SA15-11xxx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/SA15-11xxx"
+        },
+        {
+            "name": "description",
+            "value": "http://www.kingbrightusa.com/images/catalog/SPEC/SA15-11SRWA.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "SA15-11xxx single digit 7 segment display 38.1mm 1.5inch"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/SA15-11xxx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-SA15-11xxx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

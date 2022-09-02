@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZENATIONALSEMICONDUCTORSO16DW"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "national-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO16DW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/national-semiconductor/SO16DW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-national-semiconductor-SO16DW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-national-semiconductor-SO16DW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

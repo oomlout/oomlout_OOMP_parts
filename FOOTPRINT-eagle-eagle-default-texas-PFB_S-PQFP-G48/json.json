@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETEXASPFBSPQFPG48"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PFB_S-PQFP-G48"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/PFB_S-PQFP-G48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-PFB_S-PQFP-G48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-PFB_S-PQFP-G48"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

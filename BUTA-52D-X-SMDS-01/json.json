@@ -1,0 +1,72 @@
+{
+    "tags": [
+        {
+            "name": "oompID",
+            "value": "BUTA-52D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "5.2 mm SMD Pushbutton (Tactile)"
+        },
+        {
+            "name": "oompType",
+            "value": "BUTA"
+        },
+        {
+            "name": "oompSize",
+            "value": "52D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "ooWidth",
+            "value": "4.8mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "1.5mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "4.8mm"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;BUTA-XXXX-X-PI02-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "S"
+        },
+        {
+            "name": "oompSymbol",
+            "value": "twoSidedPackage;##ooNumPins@@/2"
+        },
+        {
+            "name": "ooPin1",
+            "value": "."
+        },
+        {
+            "name": "ooPin2",
+            "value": "."
+        },
+        {
+            "name": "oompID",
+            "value": "BUTA-52D-X-SMDS-01"
+        },
+        {
+            "name": "name",
+            "value": "5.2 mm SMD Pushbutton (Tactile)"
+        }
+    ]
+}

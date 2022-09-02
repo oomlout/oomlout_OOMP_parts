@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELSICOMPUTERSYSTEMSTSS48"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lsi-computer-systems"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP48"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lsi-computer-systems/TSSOP48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP48"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP48"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

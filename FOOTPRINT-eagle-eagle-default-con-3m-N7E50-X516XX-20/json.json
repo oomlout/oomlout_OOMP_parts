@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECON3MN7E5X516XX2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-3m"
+        },
+        {
+            "name": "oompIndex",
+            "value": "N7E50-X516XX-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-3m/N7E50-X516XX-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-3m-N7E50-X516XX-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-3m-N7E50-X516XX-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

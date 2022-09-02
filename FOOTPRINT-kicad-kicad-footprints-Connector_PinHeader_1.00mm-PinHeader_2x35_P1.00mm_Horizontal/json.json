@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNPINHEADER1PINHEADER2X35P1HORIZONTAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinHeader_1.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinHeader_2x35_P1.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x35_P1.00mm_Horizontal"
+        },
+        {
+            "name": "description",
+            "value": "Through hole angled pin header, 2x35, 1.00mm pitch, 2.0mm pin length, double rows"
+        },
+        {
+            "name": "tags",
+            "value": "Through hole angled pin header THT 2x35 1.00mm double row"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x35_P1.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x35_P1.00mm_Horizontal"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x35_P1.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

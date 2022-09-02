@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCOMMCON16395"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-commcon"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1630-95"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-commcon/1630-95"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-commcon-1630-95"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-commcon-1630-95"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

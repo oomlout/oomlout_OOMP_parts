@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCLHC49UP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Clocks"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HC49UP"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Clocks/HC49UP"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;HC-49/UP 11.4x4.8mm SMD Crystal&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.standardcrystalcorp.com/pdf%5Cc-3.pdf&quot;&gt;Example Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49UP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-HC49UP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

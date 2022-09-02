@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFULITTLEFU"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LITTLEFUSE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/LITTLEFUSE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-LITTLEFUSE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

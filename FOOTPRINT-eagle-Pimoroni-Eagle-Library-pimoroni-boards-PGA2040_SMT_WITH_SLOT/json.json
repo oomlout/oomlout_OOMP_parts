@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPBOARDSPGA24SWITHSLOT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PGA2040_SMT_WITH_SLOT"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-boards/PGA2040_SMT_WITH_SLOT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-boards-PGA2040_SMT_WITH_SLOT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-boards-PGA2040_SMT_WITH_SLOT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

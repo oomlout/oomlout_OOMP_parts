@@ -141,6 +141,10 @@
             "value": "HEAD-I01-X-PI03-OOEB"
         },
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI03-OOEB"
+        },
+        {
             "name": "name",
             "value": "2.54 mm 3 Pin Header (OOEB)"
         }

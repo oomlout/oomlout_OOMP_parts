@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPFLOTILLAFLOTILLACNDEVICE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-flotilla"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FLOTILLA-CONNECTOR-DEVICE"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-flotilla/FLOTILLA-CONNECTOR-DEVICE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-flotilla-FLOTILLA-CONNECTOR-DEVICE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-flotilla-FLOTILLA-CONNECTOR-DEVICE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

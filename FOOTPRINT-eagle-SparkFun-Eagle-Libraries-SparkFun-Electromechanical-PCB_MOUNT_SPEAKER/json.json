@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSEPCBMOUNTSPEAKER"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Electromechanical"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PCB_MOUNT_SPEAKER"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Electromechanical/PCB_MOUNT_SPEAKER"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Speaker - PCB Mount&lt;/h3&gt;\n&lt;p&gt;PTH speaker. 30mm diameter.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Components/General/PCBspeaker.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;h4&gt;Devices Using&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;SPEAKER&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCB_MOUNT_SPEAKER"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

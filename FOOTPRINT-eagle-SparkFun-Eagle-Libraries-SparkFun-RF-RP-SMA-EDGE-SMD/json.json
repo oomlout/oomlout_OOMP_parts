@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFRPSEDGESM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RP-SMA-EDGE-SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/RP-SMA-EDGE-SMD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMA Antenna Connector&lt;/b&gt;&lt;p&gt;\nThis is a footprint for an edge mount SMD SMA connector. Works pretty well with SMA type connectors but may also work with other edge mount RF connectors."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RP-SMA-EDGE-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RP-SMA-EDGE-SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

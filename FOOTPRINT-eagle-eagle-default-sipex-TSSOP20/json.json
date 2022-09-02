@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESIPEXTSS2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "sipex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/sipex/TSSOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-sipex-TSSOP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-sipex-TSSOP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

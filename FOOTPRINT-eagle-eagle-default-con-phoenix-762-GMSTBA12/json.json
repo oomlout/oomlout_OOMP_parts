@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPHOENIX762GMSTBA12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-762"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GMSTBA12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-762/GMSTBA12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBA12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMSTBA12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

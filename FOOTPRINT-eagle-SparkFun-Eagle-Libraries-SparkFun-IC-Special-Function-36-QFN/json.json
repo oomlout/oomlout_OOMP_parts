@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSIS36QFN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Special-Function"
+        },
+        {
+            "name": "oompIndex",
+            "value": "36-QFN"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/36-QFN"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;36-QFN&lt;/b&gt;&lt;br&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-36-QFN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-36-QFN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

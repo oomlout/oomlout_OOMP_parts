@@ -45,6 +45,10 @@
             "value": "POTE-95D-L-O103-01"
         },
         {
+            "name": "oompID",
+            "value": "POTE-95D-L-O103-01"
+        },
+        {
             "name": "name",
             "value": "9.5 mm 10k Ohm Blue Potentiometer"
         }

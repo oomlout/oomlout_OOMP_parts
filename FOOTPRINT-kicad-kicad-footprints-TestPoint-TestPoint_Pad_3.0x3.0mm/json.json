@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKTPTPPAD3X3"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_Pad_3.0x3.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_Pad_3.0x3.0mm"
+        },
+        {
+            "name": "description",
+            "value": "SMD rectangular pad as test Point, square 3.0mm side length"
+        },
+        {
+            "name": "tags",
+            "value": "test point SMD pad rectangle square"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_3.0x3.0mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_Pad_3.0x3.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

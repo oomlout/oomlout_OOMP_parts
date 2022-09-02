@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKLGALGA83X5P125"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-8_3x5mm_P1.25mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/LGA-8_3x5mm_P1.25mm"
+        },
+        {
+            "name": "description",
+            "value": "LGA-8"
+        },
+        {
+            "name": "tags",
+            "value": "lga land grid array"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-8_3x5mm_P1.25mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-8_3x5mm_P1.25mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-8_3x5mm_P1.25mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

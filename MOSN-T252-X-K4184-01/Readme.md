@@ -35,7 +35,6 @@ Contents
 
 ## Tags
 
-- oompID: MOSN-T252-X-A50-01
 - hexID: MNAOD4184A
 - oompSort: 
 - oompClass: Surface Mount
@@ -52,3 +51,4 @@ Contents
 - ooDesignator: Q1
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2
 - manufacturerPartNumber: AOD4184A
+- oompID: MOSN-T252-X-K4184-01

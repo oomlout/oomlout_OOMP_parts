@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRELAYSMRELAYDPDTOMRONG6H2F"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_Omron_G6H-2F"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6H-2F"
+        },
+        {
+            "name": "description",
+            "value": "package for Omron G6H-2F relais, see http://cdn-reichelt.de/documents/datenblatt/C300/G6H%23OMR.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Omron G6H-2F relais"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6H-2F.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6H-2F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6H-2F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

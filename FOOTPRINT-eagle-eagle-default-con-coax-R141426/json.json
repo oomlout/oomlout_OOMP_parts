@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCOAXR141426"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-coax"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R141426"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-coax/R141426"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-R141426"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-coax-R141426"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

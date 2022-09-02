@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "MCUU-QFP100-X-K2560-01"
-        },
-        {
-            "name": "name",
-            "value": "100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU"
-        },
-        {
             "name": "oompType",
             "value": "MCUU"
         },
@@ -45,8 +37,12 @@
             "value": "MCUU-QFP100-X--01"
         },
         {
+            "name": "oompID",
+            "value": "MCUU-QFP100-X--01"
+        },
+        {
             "name": "name",
-            "value": "100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU"
+            "value": "100 Pin SMD (TQFP) MCU"
         }
     ]
 }

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFQFN23X3"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-20-3X3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/QFN-20-3X3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;20-Pin QFN Package 3 x 3 mm&lt;/h3&gt;\n&lt;p&gt;Used by Silicon Labs Si470x (Si4703, Si4707, etc.) FM Recievier&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/assets/learn_tutorials/2/7/4/Si4703_datasheet.pdf&quot;&gt;Example Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-20-3X3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-20-3X3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

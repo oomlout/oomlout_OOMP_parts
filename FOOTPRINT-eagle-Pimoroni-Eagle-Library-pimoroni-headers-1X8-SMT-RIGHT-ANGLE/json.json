@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPHEADERS1X8SRIGHTANGLE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-headers"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1X8-SMT-RIGHT-ANGLE"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-headers/1X8-SMT-RIGHT-ANGLE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X8-SMT-RIGHT-ANGLE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X8-SMT-RIGHT-ANGLE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

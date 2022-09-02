@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKGSMTELITXL865"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GSM"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Telit_xL865"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GSM/Telit_xL865"
+        },
+        {
+            "name": "description",
+            "value": "Telit xL865 familly footprint, http://www.telit.com/fileadmin/user_upload/products/Downloads/3G/Telit_UL865_Hardware_User_Guide_r8.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "xL865 gsm umts"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/Telit_xL865.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-Telit_xL865"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

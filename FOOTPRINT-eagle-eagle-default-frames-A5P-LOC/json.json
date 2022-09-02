@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFRAMESA5PLOC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "frames"
+        },
+        {
+            "name": "oompIndex",
+            "value": "A5P-LOC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/frames/A5P-LOC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-A5P-LOC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-A5P-LOC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

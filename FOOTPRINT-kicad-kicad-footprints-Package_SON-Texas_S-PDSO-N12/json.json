@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSONTEXASSPDSON12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SON"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_S-PDSO-N12"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SON/Texas_S-PDSO-N12"
+        },
+        {
+            "name": "description",
+            "value": "http://www.ti.com/lit/ds/symlink/bq27441-g1.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "SON thermal pads"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_S-PDSO-N12.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SON-Texas_S-PDSO-N12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

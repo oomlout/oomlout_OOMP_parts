@@ -1,10 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "MOSN-T252-X-A50-01"
-        },
-        {
             "name": "hexID",
             "value": "MNAOD4184A"
         },
@@ -67,6 +63,10 @@
         {
             "name": "manufacturerPartNumber",
             "value": "AOD4184A"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-T252-X-K4184-01"
         },
         {
             "name": "oompID",

@@ -41,3 +41,4 @@ Contents
 - oompDesc: KS8050
 - oompIndex: 01
 - hexID: TN98050
+- oompID: TRNN-T92-X-KS8050-01

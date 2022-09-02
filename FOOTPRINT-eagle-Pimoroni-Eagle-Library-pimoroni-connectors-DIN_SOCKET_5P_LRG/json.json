@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPCNSDINSO5PLRG"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-connectors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIN_SOCKET_5P_LRG"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-connectors/DIN_SOCKET_5P_LRG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-connectors-DIN_SOCKET_5P_LRG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-connectors-DIN_SOCKET_5P_LRG"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

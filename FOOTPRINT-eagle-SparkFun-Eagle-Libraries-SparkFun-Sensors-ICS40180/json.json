@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSICS418"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ICS40180"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/ICS40180"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ADMP401 Bottom Port Microphone&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.analog.com/media/en/technical-documentation/obsolete-data-sheets/ADMP401.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 6&lt;/li&gt;\n&lt;li&gt;Area: 4.72 x 3.76 x 1.0 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ADMP401&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ICS40180"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-ICS40180"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFRAMESFRAMEA3L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "frames"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FRAMEA3L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/frames/FRAMEA3L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-FRAMEA3L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-frames-FRAMEA3L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

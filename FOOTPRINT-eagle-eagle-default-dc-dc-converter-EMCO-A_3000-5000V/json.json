@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDCDCCONVERTEREMCOA35V"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "dc-dc-converter"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EMCO-A_3000-5000V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/dc-dc-converter/EMCO-A_3000-5000V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_3000-5000V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-dc-dc-converter-EMCO-A_3000-5000V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

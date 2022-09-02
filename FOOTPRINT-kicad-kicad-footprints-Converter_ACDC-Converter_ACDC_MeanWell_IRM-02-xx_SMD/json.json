@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCONCONMEANWELLIRM2XXSM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_ACDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_ACDC_MeanWell_IRM-02-xx_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_ACDC/Converter_ACDC_MeanWell_IRM-02-xx_SMD"
+        },
+        {
+            "name": "description",
+            "value": "ACDC-Converter, 3W, Meanwell, IRM-02, SMD, https://www.meanwell.com/Upload/PDF/IRM-02/IRM-02-SPEC.PDF"
+        },
+        {
+            "name": "tags",
+            "value": "ACDC-Converter 3W"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_ACDC.3dshapes/Converter_ACDC_MeanWell_IRM-02-xx_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_ACDC-Converter_ACDC_MeanWell_IRM-02-xx_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSHMAGNET18"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Hardware"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAGNET-18MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Hardware/MAGNET-18MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Magnet Disk - 0.709&quot;&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/8890&quot;&gt;Product Page&lt;/a&gt;&lt;/p&gt;\n&lt;h4&gt;Devices Using&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;MAGNET&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-MAGNET-18MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

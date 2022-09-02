@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSIUTQFP6414X14"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Microcontroller"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP64_14X14MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Microcontroller/TQFP64_14X14MM"
+        },
+        {
+            "name": "description",
+            "value": "64-Lead TQFP Plastic Thin Quad Flatpack - 14x14x1mm Body"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP64_14X14MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Microcontroller-TQFP64_14X14MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

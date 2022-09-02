@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFTRACEANTENNA24GHZ257"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRACE_ANTENNA_2.4GHZ_25.7MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/TRACE_ANTENNA_2.4GHZ_25.7MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;2.4GHz Inverted F PCB Trace Antenna&lt;/h3&gt;\n&lt;p&gt;PCB trace antenna with a 25.7 x 7.5 mm footprint.&lt;/p&gt;\n&lt;p&gt;Based on layout from &lt;a href=&quot;http://www.ti.com/lit/an/swru120b/swru120b.pdf&quot;&gt;TI design note DN0007&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_25.7MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_25.7MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWSWITCHDPDTSMAYZ22"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SWITCH_DPDT_SMD_AYZ0202"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_DPDT_SMD_AYZ0202"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ITT Industries AYZ0202 DPDT Switch - SMD&lt;/h3&gt;\n&lt;p&gt;Double-pole, double-throw switches.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Components/SW_slide_ayz.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_AYZ0202"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_DPDT_SMD_AYZ0202"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

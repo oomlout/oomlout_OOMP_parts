@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERESISTORBOURNS4816P"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-bourns"
+        },
+        {
+            "name": "oompIndex",
+            "value": "4816P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-bourns/4816P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-bourns-4816P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-bourns-4816P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

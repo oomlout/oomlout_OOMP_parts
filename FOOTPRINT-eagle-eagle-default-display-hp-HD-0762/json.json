@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDIHPHD762"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HD-0762"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-hp/HD-0762"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HD-0762"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HD-0762"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

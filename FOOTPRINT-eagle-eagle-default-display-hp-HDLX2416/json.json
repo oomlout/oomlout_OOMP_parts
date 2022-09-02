@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDIHPHDLX2416"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDLX2416"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-hp/HDLX2416"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HDLX2416"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

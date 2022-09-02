@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKICADCEKICADLIBFOOTPRINT\\CERESISTORR85"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "CE_KiCadLib"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Footprint\\CE_Resistor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "R_0805"
+        },
+        {
+            "name": "oompName",
+            "value": "CE_KiCadLib/Footprint\\CE_Resistor/R_0805"
+        },
+        {
+            "name": "description",
+            "value": "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)"
+        },
+        {
+            "name": "tags",
+            "value": "resistor 0805"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Resistor-R_0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Resistor-R_0805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

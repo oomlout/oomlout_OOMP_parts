@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGES3DBGA576C65P24X2417X17X17"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA576C65P24X24_1700X1700X170"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/BGA576C65P24X24_1700X1700X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA576C65P24X24_1700X1700X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA576C65P24X24_1700X1700X170"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

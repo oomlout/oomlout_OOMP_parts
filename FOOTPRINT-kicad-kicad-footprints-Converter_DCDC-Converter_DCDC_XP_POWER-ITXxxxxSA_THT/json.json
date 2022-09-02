@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCONCONXPPOWERITXXXXXSATHT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_XP_POWER-ITXxxxxSA_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_XP_POWER-ITXxxxxSA_THT"
+        },
+        {
+            "name": "description",
+            "value": "XP_POWER  ITXxxxxSA, SIP, (https://www.xppower.com/pdfs/SF_ITX.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "XP_POWER  ITXxxxxSA SIP DCDC-Converter"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_XP_POWER-ITXxxxxSA_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ITXxxxxSA_THT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_XP_POWER-ITXxxxxSA_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKDFNTDFN122X3P5>kicad-footprints/Package_DFN_QFN/TDFN-12_2x3mm_P0.5mm](#fzkdfntdfn122x3p5kicad-footprintspackage_dfn_qfntdfn-12_2x3mm_p05mm)
+	* [Tags](#tags)
+
+# FZKDFNTDFN122X3P5>kicad-footprints/Package_DFN_QFN/TDFN-12_2x3mm_P0.5mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm
+- Hex ID: FZKDFNTDFN122X3P5
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKDFNTDFN122X3P5
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: TDFN-12_2x3mm_P0.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/TDFN-12_2x3mm_P0.5mm
+- description: TDFN, 12 Pads, No exposed, http://www.st.com/resource/en/datasheet/stm6600.pdf
+- tags: DFN
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/TDFN-12_2x3mm_P0.5mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-TDFN-12_2x3mm_P0.5mm

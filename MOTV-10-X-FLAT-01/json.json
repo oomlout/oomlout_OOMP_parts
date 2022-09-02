@@ -29,6 +29,10 @@
             "value": "MOTV-10-X-FLAT-01"
         },
         {
+            "name": "oompID",
+            "value": "MOTV-10-X-FLAT-01"
+        },
+        {
             "name": "name",
             "value": "10 mm Flat Motor (Vibrating)"
         }

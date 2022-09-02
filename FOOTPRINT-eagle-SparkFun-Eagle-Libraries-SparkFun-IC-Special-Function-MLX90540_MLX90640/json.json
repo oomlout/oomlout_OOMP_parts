@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSISMLX954MLX964"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Special-Function"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLX90540_MLX90640"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/MLX90540_MLX90640"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Melexis MLX90640 Infrared Array&lt;/h3&gt;\n&lt;p&gt;\nThe MLX90640 is a fully calibrated 32x24 pixels\nthermal IR array in an industry standard 4-lead TO39\npackage with digital interface.&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/assets/7/b/f/2/d/MLX90640-Datasheet-Melexis.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MLX90540_MLX90640"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-MLX90540_MLX90640"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

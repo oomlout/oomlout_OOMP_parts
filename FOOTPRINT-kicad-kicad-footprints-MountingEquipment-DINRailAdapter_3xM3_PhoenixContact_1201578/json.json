@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKMONDINRAILADAPTER3XM3PHOENIXCONTACT121578"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "MountingEquipment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DINRailAdapter_3xM3_PhoenixContact_1201578"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/MountingEquipment/DINRailAdapter_3xM3_PhoenixContact_1201578"
+        },
+        {
+            "name": "description",
+            "value": "https://www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1201578&library=usen&tab=1"
+        },
+        {
+            "name": "tags",
+            "value": "DIN rail adapter universal three M3 clearance holes"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/MountingEquipment.3dshapes/DINRailAdapter_3xM3_PhoenixContact_1201578.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingEquipment-DINRailAdapter_3xM3_PhoenixContact_1201578"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-MountingEquipment-DINRailAdapter_3xM3_PhoenixContact_1201578"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

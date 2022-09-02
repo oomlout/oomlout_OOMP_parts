@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWSWITCHSPDT86X43"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SWITCH_SPDT_8.6X4.3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SPDT_8.6X4.3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SPDT PTH Slide Switch&lt;/h3&gt;\n&lt;p&gt;Single-pole, double-throw (SPDT) switch.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://dznh3ojzb2azq.cloudfront.net/products/Slide/OS/documents/datasheet.pdf&quot;&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_8.6X4.3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

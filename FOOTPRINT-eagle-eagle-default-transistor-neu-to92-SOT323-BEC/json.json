@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRANSISTORNEUTO92SOT323BEC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-neu-to92"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT323-BEC"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-neu-to92/SOT323-BEC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT323-BEC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-neu-to92-SOT323-BEC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

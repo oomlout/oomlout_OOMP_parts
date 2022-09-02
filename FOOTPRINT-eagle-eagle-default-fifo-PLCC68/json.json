@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFIFOPLCC68"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fifo"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC68"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fifo/PLCC68"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fifo-PLCC68"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fifo-PLCC68"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

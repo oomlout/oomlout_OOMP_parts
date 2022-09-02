@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONHARTING61685232"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting"
+        },
+        {
+            "name": "oompIndex",
+            "value": "60010685232"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting/60010685232"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-60010685232"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-60010685232"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

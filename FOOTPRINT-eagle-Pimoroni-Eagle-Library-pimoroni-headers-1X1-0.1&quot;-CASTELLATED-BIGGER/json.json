@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPHEADERS1X11&QUOT;CASTELLATEDBGER"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-headers"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1X1-0.1&quot;-CASTELLATED-BIGGER"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-headers/1X1-0.1&quot;-CASTELLATED-BIGGER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X1-0.1&quot;-CASTELLATED-BIGGER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X1-0.1&quot;-CASTELLATED-BIGGER"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

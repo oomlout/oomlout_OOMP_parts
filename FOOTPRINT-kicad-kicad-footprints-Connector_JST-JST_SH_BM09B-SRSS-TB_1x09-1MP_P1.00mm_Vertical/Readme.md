@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCNJSTJSTSHBM9BSRSSTB1X91MPP1VERTICAL>kicad-footprints/Connector_JST/JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical](#fzkcnjstjstshbm9bsrsstb1x91mpp1verticalkicad-footprintsconnector_jstjst_sh_bm09b-srss-tb_1x09-1mp_p100mm_vertical)
+	* [Tags](#tags)
+
+# FZKCNJSTJSTSHBM9BSRSSTB1X91MPP1VERTICAL>kicad-footprints/Connector_JST/JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical
+- Hex ID: FZKCNJSTJSTSHBM9BSRSSTB1X91MPP1VERTICAL
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCNJSTJSTSHBM9BSRSSTB1X91MPP1VERTICAL
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_JST
+- oompIndex: JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical
+- oompName: kicad-footprints/Connector_JST/JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical
+- description: JST SH series connector, BM09B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+- tags: connector JST SH side entry
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical

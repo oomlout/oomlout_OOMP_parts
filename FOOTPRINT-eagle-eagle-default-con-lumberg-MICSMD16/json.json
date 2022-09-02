@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONLUMBERGMICSM16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lumberg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICSMD16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lumberg/MICSMD16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lumberg-MICSMD16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

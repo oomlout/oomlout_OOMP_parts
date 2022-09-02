@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELPRSSIL9"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lprs"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIL9"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lprs/SIL9"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lprs-SIL9"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lprs-SIL9"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

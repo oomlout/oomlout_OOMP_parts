@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDIHPHDSPC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDSP-C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-hp/HDSP-C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HDSP-C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HDSP-C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

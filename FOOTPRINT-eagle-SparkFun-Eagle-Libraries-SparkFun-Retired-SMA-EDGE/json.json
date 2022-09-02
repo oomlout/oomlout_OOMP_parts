@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTSEDGE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMA-EDGE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/SMA-EDGE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SMA Antenna Connector&lt;/b&gt;&lt;p&gt;\nThis is a footprint for an edge mount RF antenna. Works pretty well with SMA type connectors but may also work with other edge mount RF connectors. Keep in mind, these edge mount connectors assume you are using a 0.062&quot; PCB thickness."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SMA-EDGE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SMA-EDGE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

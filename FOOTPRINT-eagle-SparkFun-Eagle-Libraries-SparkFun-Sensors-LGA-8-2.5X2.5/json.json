@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSLGA825X25"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-8-2.5X2.5"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-8-2.5X2.5"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LGA 8-Pin &amp;ndash;  2.5mm x 2.5mm, 0.65mm Pitch&lt;/h3&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/assets/learn_tutorials/4/1/9/BST-BME280_DS001-10.pdf&gt;Example Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 8&lt;/li&gt;\n&lt;li&gt;Dimensions: 2.5 x 2.5 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 0.65 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/p&gt;\n&lt;p&gt;Used by:\n&lt;ul&gt;&lt;li&gt;BME280&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-8-2.5X2.5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-8-2.5X2.5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

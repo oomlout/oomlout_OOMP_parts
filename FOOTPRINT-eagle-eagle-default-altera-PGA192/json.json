@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEALTERAPGA192"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "altera"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PGA192"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/altera/PGA192"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-PGA192"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-altera-PGA192"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

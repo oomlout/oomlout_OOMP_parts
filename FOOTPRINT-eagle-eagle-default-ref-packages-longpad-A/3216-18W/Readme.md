@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESLONGPADA321618W>eagle-default/ref-packages-longpad/A/3216-18W](#fzerefpackageslongpada321618weagle-defaultref-packages-longpada3216-18w)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESLONGPADA321618W>eagle-default/ref-packages-longpad/A/3216-18W
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-A/3216-18W
+- Hex ID: FZEREFPACKAGESLONGPADA321618W
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESLONGPADA321618W
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-longpad
+- oompIndex: A/3216-18W
+- oompName: eagle-default/ref-packages-longpad/A/3216-18W
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-A/3216-18W

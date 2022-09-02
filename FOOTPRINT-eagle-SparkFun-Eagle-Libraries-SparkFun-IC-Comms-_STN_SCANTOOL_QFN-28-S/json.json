@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSICSTNSCANTOOLQFN28S"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Comms"
+        },
+        {
+            "name": "oompIndex",
+            "value": "_STN_SCANTOOL_QFN-28-S"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Comms/_STN_SCANTOOL_QFN-28-S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Quad Flat No Leads Package&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:28&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SCANTOOL&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n\n  &lt;tr\n&lt;table align=left&gt;\n  &lt;tr&gt;&lt;td&gt;&lt;h2&gt;Change Log&lt;/h2&gt;&lt;/td&gt;&lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Author&lt;/th&gt;&lt;th&gt;Change&lt;/th&gt;\n  &lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;td&gt;March 23, 2010&lt;/td&gt;&lt;td&gt;joe@scantool.net&lt;/td&gt;&lt;td&gt;Added t-keepout layer.&lt;/td&gt;\n  &lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;td&gt;March 22, 2010&lt;/td&gt;&lt;td&gt;engineering@scantool.net&lt;/td&gt;&lt;td&gt;Resized per PIC24HJ64GPx02 (QFN-S) datasheet. Fixed tStop and tCream layers. Redesigned silkscreen.&lt;/td&gt;\n  &lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;td&gt;March 17, 2010&lt;/td&gt;&lt;td&gt;vitaliy@scantool.net&lt;/td&gt;&lt;td&gt;Verified package.&lt;/td&gt;\n  &lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;td&gt;March 17, 2010&lt;/td&gt;&lt;td&gt;jason@scantool.net&lt;/td&gt;&lt;td&gt;Increased silkscreen ratio.&lt;/td&gt;\n  &lt;/tr&gt;\n  &lt;tr&gt;\n    &lt;td&gt;March 02, 2010&lt;/td&gt;&lt;td&gt;jason@scantool.net&lt;/td&gt;&lt;td&gt;Copied from Microchip Library.&lt;/td&gt;\n  &lt;/tr&gt;\n&lt;/table&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Comms-_STN_SCANTOOL_QFN-28-S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSEPCCSMP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Electromechanical"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PCC-SMP"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Electromechanical/PCC-SMP"
+        },
+        {
+            "name": "description",
+            "value": "The PCC connector from OMEGA is perfect\nfor bringing thermocouple probes to printed\ncircuit boards."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCC-SMP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Electromechanical-PCC-SMP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

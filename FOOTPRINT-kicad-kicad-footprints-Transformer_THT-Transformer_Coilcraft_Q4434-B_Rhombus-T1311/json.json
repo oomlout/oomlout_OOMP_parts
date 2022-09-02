@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKTRTRCOILCRAFTQ4434BRHOMBUST1311"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Transformer_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Transformer_Coilcraft_Q4434-B_Rhombus-T1311"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Transformer_THT/Transformer_Coilcraft_Q4434-B_Rhombus-T1311"
+        },
+        {
+            "name": "description",
+            "value": "Transformator, Transformer, Flyback, Coilcraft Q4434-B, Rgombus T1311,"
+        },
+        {
+            "name": "tags",
+            "value": "Transformator Transformer Flyback Coilcraft Q4434-B Rgombus T1311"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Transformer_THT.3dshapes/Transformer_Coilcraft_Q4434-B_Rhombus-T1311.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Transformer_THT-Transformer_Coilcraft_Q4434-B_Rhombus-T1311"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

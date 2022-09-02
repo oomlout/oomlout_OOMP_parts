@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLLRGBTHRU"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-RGB-THRU"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/LED-RGB-THRU"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LED - RGB PTH&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;\n&lt;li&gt;Area:5 x 5.8 mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Datasheet Referenced: &lt;a href=&quot;https://www.sparkfun.com/datasheets/Components/YSL-R596CR3G4B5C-C10.pdf&quot;&gt;YSL-R596CR3G4B5C&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;LED-RGB-CA&lt;/li&gt;\n&lt;li&gt;LED-RGB-CC&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-RGB-THRU"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-RGB-THRU"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOB\\FIDFIDMODERNCTOP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Obsolete\\Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_Modern_CopperTop"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Obsolete\\Fiducial/Fiducial_Modern_CopperTop"
+        },
+        {
+            "name": "description",
+            "value": "Fiducial, Modern, Copper Top"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_Modern_CopperTop"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_Modern_CopperTop"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

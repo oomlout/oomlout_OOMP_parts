@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFANT24GHZ8X1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ANT-2.4GHZ-8.0X1.0MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-8.0X1.0MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;2.4GHz Chip Antenna - 8.0x1.0mm&lt;/h3&gt;\n&lt;p&gt;Package for Johanson Technology 2500AT44M0400E - 2.4GHz SMD antenna.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.mouser.com/ds/2/611/antenna_2500at44m0400-242425.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-8.0X1.0MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-8.0X1.0MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

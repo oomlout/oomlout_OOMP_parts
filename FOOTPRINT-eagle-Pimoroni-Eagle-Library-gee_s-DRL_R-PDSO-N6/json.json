@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPGDRLRPDSON6"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gee_s"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DRL_R-PDSO-N6"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/gee_s/DRL_R-PDSO-N6"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DRL (R-PDSO-N6)&lt;/b&gt; PLASTIC SMALL OUTLINE&lt;p&gt;\nSOT (SOT-553) -  DRL&lt;br&gt;\nSource: http://focus.ti.com/lit/ds/symlink/sn74lvc1g3157.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-DRL_R-PDSO-N6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-DRL_R-PDSO-N6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTDIL28ZIFSOMCU"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL28-ZIF_SOCKET_MCU"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/DIL28-ZIF_SOCKET_MCU"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL28-ZIF_SOCKET_MCU"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIL28-ZIF_SOCKET_MCU"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

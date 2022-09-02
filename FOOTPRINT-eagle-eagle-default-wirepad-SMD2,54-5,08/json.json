@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEWIREPADSM25458"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "wirepad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMD2,54-5,08"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/wirepad/SMD2,54-5,08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wirepad-SMD2,54-5,08"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wirepad-SMD2,54-5,08"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

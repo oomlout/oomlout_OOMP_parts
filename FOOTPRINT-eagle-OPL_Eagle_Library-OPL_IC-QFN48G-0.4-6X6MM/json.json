@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLICQFN48G46X6"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_IC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN48G-0.4-6X6MM"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_IC/QFN48G-0.4-6X6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-QFN48G-0.4-6X6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-QFN48G-0.4-6X6MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFID12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ID-12"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/ID-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ID-2, ID-12, and ID-20 Low-voltage RFID Readers&lt;/h3&gt;\n&lt;p&gt;Footprint works for ID-2LA, ID-12LA, and ID-20LA modules&lt;/p&gt;\n&lt;p&gt;Dimensions of RFID readers vary, but the pin-out remains the same.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Sensors/ID/ID-2LA,%20ID-12LA,%20ID-20LA2013-4-10.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ID-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMMOTOROLAQFP8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-motorola"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-motorola/QFP80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-QFP80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-QFP80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

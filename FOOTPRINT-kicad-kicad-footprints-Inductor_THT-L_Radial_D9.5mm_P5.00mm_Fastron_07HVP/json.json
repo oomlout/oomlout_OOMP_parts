@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINLRD95P5FASTRON7HVP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Radial_D9.5mm_P5.00mm_Fastron_07HVP"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Radial_D9.5mm_P5.00mm_Fastron_07HVP"
+        },
+        {
+            "name": "description",
+            "value": "Inductor, Radial series, Radial, pin pitch=5.00mm, , diameter=9.5mm, Fastron, 07HVP, http://www.fastrongroup.com/image-show/107/07HVP%2007HVP_T.pdf?type=Complete-DataSheet&productType=series"
+        },
+        {
+            "name": "tags",
+            "value": "Inductor Radial series Radial pin pitch 5.00mm  diameter 9.5mm Fastron 07HVP"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Radial_D9.5mm_P5.00mm_Fastron_07HVP.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D9.5mm_P5.00mm_Fastron_07HVP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Radial_D9.5mm_P5.00mm_Fastron_07HVP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

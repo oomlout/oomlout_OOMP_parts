@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELINEARTECHNOLOGYQ5DD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "linear-technology"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Q5-DD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/linear-technology/Q5-DD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-linear-technology-Q5-DD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

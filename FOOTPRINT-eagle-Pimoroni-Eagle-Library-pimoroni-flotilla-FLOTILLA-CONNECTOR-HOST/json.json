@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPFLOTILLAFLOTILLACNHOST"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-flotilla"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FLOTILLA-CONNECTOR-HOST"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-flotilla/FLOTILLA-CONNECTOR-HOST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-flotilla-FLOTILLA-CONNECTOR-HOST"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-flotilla-FLOTILLA-CONNECTOR-HOST"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

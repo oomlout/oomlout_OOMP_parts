@@ -36,3 +36,4 @@ Contents
 - oompDesc: K2N2222
 - oompIndex: 01
 - hexID: TN92N2
+- oompID: TRNN-T92-X-K2N2222-01

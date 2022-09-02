@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNPINHEADER1PINHEADER2X9P1VERTICALSM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_PinHeader_1.00mm"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PinHeader_2x09_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_PinHeader_1.00mm/PinHeader_2x09_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "description",
+            "value": "surface-mounted straight pin header, 2x09, 1.00mm pitch, double rows"
+        },
+        {
+            "name": "tags",
+            "value": "Surface mounted pin header SMD 2x09 1.00mm double row"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_2x09_P1.00mm_Vertical_SMD.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x09_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_1.00mm-PinHeader_2x09_P1.00mm_Vertical_SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

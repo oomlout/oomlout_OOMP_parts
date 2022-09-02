@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONDEUTSCHAS216"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-deutsch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AS20-16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-deutsch/AS20-16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-deutsch-AS20-16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

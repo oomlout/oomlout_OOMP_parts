@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSOTTO22F5P34X26STAGGEREVENLEAD186VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2"
+        },
+        {
+            "name": "tags",
+            "value": "TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

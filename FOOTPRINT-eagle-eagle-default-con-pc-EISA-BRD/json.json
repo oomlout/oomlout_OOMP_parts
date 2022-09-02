@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPCEISABRD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EISA-BRD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc/EISA-BRD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-EISA-BRD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

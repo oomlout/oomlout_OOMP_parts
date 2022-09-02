@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEWAFERSCALEPSDTQFP8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "wafer-scale-psd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP80"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/wafer-scale-psd/TQFP80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-wafer-scale-psd-TQFP80"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFUFUHOLDERSCHURTERFAS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "fuse"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FUSE_HOLDER_SCHURTER-FAS"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/fuse/FUSE_HOLDER_SCHURTER-FAS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-FUSE_HOLDER_SCHURTER-FAS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-fuse-FUSE_HOLDER_SCHURTER-FAS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

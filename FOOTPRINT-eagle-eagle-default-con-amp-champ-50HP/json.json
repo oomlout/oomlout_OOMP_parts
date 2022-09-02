@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPCHAMP5HP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-champ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "50HP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-champ/50HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-50HP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-50HP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

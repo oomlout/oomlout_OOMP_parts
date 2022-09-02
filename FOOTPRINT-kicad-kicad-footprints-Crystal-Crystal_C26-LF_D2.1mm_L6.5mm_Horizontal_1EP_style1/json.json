@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKXXC26LFD21L65HORIZONTAL1EPSTYLE1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "description",
+            "value": "Crystal THT C26-LF 6.5mm length 2.06mm diameter"
+        },
+        {
+            "name": "tags",
+            "value": "['C26-LF']"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

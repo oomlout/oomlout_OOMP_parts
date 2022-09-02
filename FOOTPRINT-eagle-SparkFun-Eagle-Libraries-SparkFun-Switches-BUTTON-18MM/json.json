@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWB18"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUTTON-18MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTON-18MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Magnetic Metal Snaps&lt;/h3&gt;\n&lt;p&gt;18mm diameter snaps that couple together very strongly (must be pried apart), rotate freely on the axis, and are electrically conductive. Overall connection resistance is less than 200 miliOhm. Snaps will couple when closer than 10mm.&lt;/p&gt;\n&lt;h4&gt;SparkFun Products&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/8682&quot;&gt;Magnetic Snap 18mm&lt;/a&gt; (WRL-08682)&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-18MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-18MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

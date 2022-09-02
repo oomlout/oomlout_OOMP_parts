@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECYPRESSSS56"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "cypress"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP56"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/cypress/SSOP56"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SSOP56"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SSOP56"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

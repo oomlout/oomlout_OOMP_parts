@@ -24,7 +24,7 @@ Contents
 
 |image|
 | :---: |
-|[![image](image_140.jpg)](image_600.jpg)|
+|[![image](image_140.png)](image_600.png)|
 
 ## Labels
   

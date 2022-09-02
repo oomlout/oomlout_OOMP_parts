@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPMISCM35MOUNTINGHOLE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-misc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "M3.5-MOUNTING-HOLE"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-misc/M3.5-MOUNTING-HOLE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-misc-M3.5-MOUNTING-HOLE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-misc-M3.5-MOUNTING-HOLE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFRFD7711"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RFD77101"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/RFD77101"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Simblee  BLE Module RFD77101&lt;/h3&gt;\n&lt;p&gt; 2015 RF Digital Corporation&lt;br/&gt; \n&lt;a href=&quot;http://www.RFDigital.com&quot;&gt;www.RFDigital.com&lt;/a&gt;&lt;br/&gt;\n&lt;a href=&quot;http://www.Simblee.com&quot;&gt;www.Simblee.com&lt;/a&gt;&lt;br/&gt;\nPATENTS PENDING 04.01.2015&lt;br/&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 45&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.5mm&lt;/li&gt;\n&lt;li&gt;Area:7mmx10mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/datasheets/IoT/Simblee%20RFD77101%20Datasheet%20v1.0.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;RFD77101&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFD77101"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFD77101"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

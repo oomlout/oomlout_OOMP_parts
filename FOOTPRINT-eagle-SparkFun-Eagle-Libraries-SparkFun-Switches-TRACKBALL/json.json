@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWTRACKBALL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRACKBALL"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/TRACKBALL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Trackball - Mechanical&lt;/h3&gt;\n&lt;p&gt;This is a tiny trackball akin to those found on a number of Blackberry models (8100, 8300, 8320, 8800, 8830, etc). Each of the four spindles have a tiny circular magnet on each end. Great when paired with very small SMD Hall effect sensors.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/9308&quot;&gt;Product Page&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TRACKBALL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TRACKBALL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

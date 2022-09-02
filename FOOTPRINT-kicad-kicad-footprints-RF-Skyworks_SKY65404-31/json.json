@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRFSKYWORKSSKY654431"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Skyworks_SKY65404-31"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF/Skyworks_SKY65404-31"
+        },
+        {
+            "name": "description",
+            "value": "http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Skyworks"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF.3dshapes/Skyworks_SKY65404-31.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF-Skyworks_SKY65404-31"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

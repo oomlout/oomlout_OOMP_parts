@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLCNUFL3PSM26X26X1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "U-FL3P-SMD-2.6X2.6X1.0MM"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Connector/U-FL3P-SMD-2.6X2.6X1.0MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-U-FL3P-SMD-2.6X2.6X1.0MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-U-FL3P-SMD-2.6X2.6X1.0MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

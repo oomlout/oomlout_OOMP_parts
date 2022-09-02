@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCCAXIALL51D31P1HORIZONTAL>kicad-footprints/Capacitor_THT/C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal](#fzkccaxiall51d31p1horizontalkicad-footprintscapacitor_thtc_axial_l51mm_d31mm_p1000mm_horizontal)
+	* [Tags](#tags)
+
+# FZKCCAXIALL51D31P1HORIZONTAL>kicad-footprints/Capacitor_THT/C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+- Hex ID: FZKCCAXIALL51D31P1HORIZONTAL
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCCAXIALL51D31P1HORIZONTAL
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Capacitor_THT
+- oompIndex: C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+- oompName: kicad-footprints/Capacitor_THT/C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal
+- description: C, Axial series, Axial, Horizontal, pin pitch=10mm, , length*diameter=5.1*3.1mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+- tags: C Axial series Axial Horizontal pin pitch 10mm  length 5.1mm diameter 3.1mm
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal

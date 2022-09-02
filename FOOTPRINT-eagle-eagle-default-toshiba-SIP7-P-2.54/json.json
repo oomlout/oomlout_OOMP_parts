@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETOSHIBASIP7P254"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "toshiba"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP7-P-2.54"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/toshiba/SIP7-P-2.54"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-SIP7-P-2.54"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

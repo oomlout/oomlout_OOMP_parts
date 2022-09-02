@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEOPTOHONEYWELLSTPCB"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-honeywell"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST-PCB"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-honeywell/ST-PCB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-PCB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-ST-PCB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

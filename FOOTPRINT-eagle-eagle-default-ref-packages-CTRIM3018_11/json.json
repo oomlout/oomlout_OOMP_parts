@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESCTRIM31811"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTRIM3018_11"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CTRIM3018_11"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor SMD&lt;/b&gt; STELCO GmbH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3018_11"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM3018_11"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

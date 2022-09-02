@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCSPSTWLCSP168DIE434"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_CSP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ST_WLCSP-168_Die434"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_CSP/ST_WLCSP-168_Die434"
+        },
+        {
+            "name": "description",
+            "value": "WLCSP-168, 12x14 raster, 4.891x5.692mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f469ni.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "BGA 168 0.4"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_CSP.3dshapes/ST_WLCSP-168_Die434.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_CSP-ST_WLCSP-168_Die434"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

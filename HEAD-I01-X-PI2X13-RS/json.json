@@ -1,0 +1,76 @@
+{
+    "tags": [
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X13"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "HRS2X13"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "33.02 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.08 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "17.66 mm"
+        },
+        {
+            "name": "numPins",
+            "value": "26"
+        },
+        {
+            "name": "numRows",
+            "value": "2"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "HEAD-I01-X-PI2x13-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X13-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X13-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 26 Pin (2x13) Header Right Angle (SMD)"
+        }
+    ]
+}

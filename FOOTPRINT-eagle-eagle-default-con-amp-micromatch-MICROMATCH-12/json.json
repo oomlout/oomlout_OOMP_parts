@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPMMATCHMMATCH12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-micromatch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICROMATCH-12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-micromatch/MICROMATCH-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-micromatch-MICROMATCH-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-micromatch-MICROMATCH-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -37,3 +37,4 @@ Contents
 - oompIndex: 01
 - manufacturersPartNumber: TowerPro,TG9
 - hexID: SVM
+- oompID: SERV-MC-X-STAN-01

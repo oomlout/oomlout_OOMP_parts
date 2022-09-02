@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMMOTOROLADIL2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-motorola"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-motorola/DIL20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-DIL20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-DIL20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

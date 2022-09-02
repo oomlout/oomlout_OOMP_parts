@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "HR2X03"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RA"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "ooNumRows",
+            "value": "2"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "8"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-HEAD-I01-X-PI2x04-01"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X04-RA"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X04-RA"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 8 Pin (2x4) Header Right Angle"
+        }
+    ]
+}

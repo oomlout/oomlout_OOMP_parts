@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCNJSTJSTEHS13BEH1X13P25HORIZONTAL>kicad-footprints/Connector_JST/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal](#fzkcnjstjstehs13beh1x13p25horizontalkicad-footprintsconnector_jstjst_eh_s13b-eh_1x13_p250mm_horizontal)
+	* [Tags](#tags)
+
+# FZKCNJSTJSTEHS13BEH1X13P25HORIZONTAL>kicad-footprints/Connector_JST/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
+- Hex ID: FZKCNJSTJSTEHS13BEH1X13P25HORIZONTAL
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCNJSTJSTEHS13BEH1X13P25HORIZONTAL
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_JST
+- oompIndex: JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
+- oompName: kicad-footprints/Connector_JST/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal
+- description: JST EH series connector, S13B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+- tags: connector JST EH top entry
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_EH_S13B-EH_1x13_P2.50mm_Horizontal.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_EH_S13B-EH_1x13_P2.50mm_Horizontal

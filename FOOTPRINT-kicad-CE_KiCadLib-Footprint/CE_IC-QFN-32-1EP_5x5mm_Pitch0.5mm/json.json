@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKICADCEKICADLIBFOOTPRINT\\CEICQFN321EP5X5PITCH5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "CE_KiCadLib"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Footprint\\CE_IC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-32-1EP_5x5mm_Pitch0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "CE_KiCadLib/Footprint\\CE_IC/QFN-32-1EP_5x5mm_Pitch0.5mm"
+        },
+        {
+            "name": "description",
+            "value": "UH Package; 32-Lead Plastic QFN (5mm x 5mm); (see Linear Technology QFN_32_05-08-1693.pdf)"
+        },
+        {
+            "name": "tags",
+            "value": "QFN 0.5"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_IC-QFN-32-1EP_5x5mm_Pitch0.5mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_IC-QFN-32-1EP_5x5mm_Pitch0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

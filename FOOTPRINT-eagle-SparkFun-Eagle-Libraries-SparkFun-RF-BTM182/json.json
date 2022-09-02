@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFBTM182"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BTM182"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/BTM182"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Rayson BTM-182 Bluetooth Module&lt;/h3&gt;\n&lt;p&gt;BTM-182 Class2 Bluetooth Module from Rayson&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Wireless/Bluetooth/BTM182.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BTM182"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BTM182"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

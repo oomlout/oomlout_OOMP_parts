@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEOPTOHONEYWELLSTLPBENT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-honeywell"
+        },
+        {
+            "name": "oompIndex",
+            "value": "STLPBENT"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-honeywell/STLPBENT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-STLPBENT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-honeywell-STLPBENT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNBANANAJ3PIN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Banana_Jack_3Pin"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/Banana_Jack_3Pin"
+        },
+        {
+            "name": "description",
+            "value": "Triple banana socket, footprint - 3 x 6mm drills"
+        },
+        {
+            "name": "tags",
+            "value": "banana socket"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/Banana_Jack_3Pin.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_3Pin"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Banana_Jack_3Pin"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

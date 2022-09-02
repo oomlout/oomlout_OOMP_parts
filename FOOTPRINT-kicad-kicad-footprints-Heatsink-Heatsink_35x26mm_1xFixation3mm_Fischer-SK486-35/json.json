@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKHH35X261XFIXATION3FISCHERSK48635"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35"
+        },
+        {
+            "name": "description",
+            "value": "Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35"
+        },
+        {
+            "name": "tags",
+            "value": "heatsink"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

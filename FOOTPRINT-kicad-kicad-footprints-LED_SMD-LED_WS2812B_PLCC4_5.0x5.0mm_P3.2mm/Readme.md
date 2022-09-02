@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKLSMLWS2812BPLCC45X5P32>kicad-footprints/LED_SMD/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm](#fzklsmlws2812bplcc45x5p32kicad-footprintsled_smdled_ws2812b_plcc4_50x50mm_p32mm)
+	* [Tags](#tags)
+
+# FZKLSMLWS2812BPLCC45X5P32>kicad-footprints/LED_SMD/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+- Hex ID: FZKLSMLWS2812BPLCC45X5P32
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKLSMLWS2812BPLCC45X5P32
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: LED_SMD
+- oompIndex: LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+- oompName: kicad-footprints/LED_SMD/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+- description: https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+- tags: LED RGB NeoPixel
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm

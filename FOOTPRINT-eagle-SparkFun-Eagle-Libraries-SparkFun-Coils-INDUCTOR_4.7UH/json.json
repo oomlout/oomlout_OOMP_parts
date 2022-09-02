@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCOINDUCTOR47UH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Coils"
+        },
+        {
+            "name": "oompIndex",
+            "value": "INDUCTOR_4.7UH"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Coils/INDUCTOR_4.7UH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;CDRH2D18/HPNP footprint&lt;/h3&gt;\n&lt;p&gt;Recommended footprint for CDRH2D18/HPNP series inductors from &lt;a href=&quot;http://products.sumida.com/products/pdf/CDRH2D18HP.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_4.7UH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_4.7UH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

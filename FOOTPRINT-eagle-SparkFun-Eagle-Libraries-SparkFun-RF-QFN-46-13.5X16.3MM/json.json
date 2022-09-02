@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFQFN46135X163"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-46-13.5X16.3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/QFN-46-13.5X16.3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Texas Instruments CC3000 Wi-Fi Module&lt;/h3&gt;\n&lt;p&gt;Size: 16.3 x 13.5 x 2.0 mm&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.ti.com/lit/ds/symlink/cc3000.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-46-13.5X16.3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-QFN-46-13.5X16.3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

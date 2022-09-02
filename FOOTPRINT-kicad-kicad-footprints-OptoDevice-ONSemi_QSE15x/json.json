@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOPONSEMIQSE15X"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ONSemi_QSE15x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/ONSemi_QSE15x"
+        },
+        {
+            "name": "description",
+            "value": "3 Lead Plastic Package"
+        },
+        {
+            "name": "tags",
+            "value": "ONSemi QSE158 QSE159"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/ONSemi_QSE15x.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-ONSemi_QSE15x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

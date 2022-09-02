@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCNDINDIN41612B22X8FEMALEVERTICALTHT>kicad-footprints/Connector_DIN/DIN41612_B2_2x8_Female_Vertical_THT](#fzkcndindin41612b22x8femaleverticalthtkicad-footprintsconnector_dindin41612_b2_2x8_female_vertical_tht)
+	* [Tags](#tags)
+
+# FZKCNDINDIN41612B22X8FEMALEVERTICALTHT>kicad-footprints/Connector_DIN/DIN41612_B2_2x8_Female_Vertical_THT
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B2_2x8_Female_Vertical_THT
+- Hex ID: FZKCNDINDIN41612B22X8FEMALEVERTICALTHT
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCNDINDIN41612B22X8FEMALEVERTICALTHT
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_DIN
+- oompIndex: DIN41612_B2_2x8_Female_Vertical_THT
+- oompName: kicad-footprints/Connector_DIN/DIN41612_B2_2x8_Female_Vertical_THT
+- description: DIN41612 connector, type B/2, Vertical, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
+- tags: DIN 41612 IEC 60603 B/2
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Connector_DIN.3dshapes/DIN41612_B2_2x8_Female_Vertical_THT.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Connector_DIN-DIN41612_B2_2x8_Female_Vertical_THT

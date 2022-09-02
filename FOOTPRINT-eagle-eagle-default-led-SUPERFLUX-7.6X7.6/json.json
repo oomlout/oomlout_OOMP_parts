@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELSUPERFLUX76X76"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SUPERFLUX-7.6X7.6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/SUPERFLUX-7.6X7.6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-7.6X7.6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-SUPERFLUX-7.6X7.6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

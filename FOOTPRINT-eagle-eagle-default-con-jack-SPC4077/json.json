@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONJSPC477"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-jack"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPC4077"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-jack/SPC4077"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-jack-SPC4077"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-jack-SPC4077"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

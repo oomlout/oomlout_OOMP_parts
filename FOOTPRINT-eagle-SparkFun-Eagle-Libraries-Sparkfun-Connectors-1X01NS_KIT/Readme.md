@@ -1,0 +1,36 @@
+
+
+
+
+Contents
+========
+
+* [FZSSPARKFUNCNS1X1NSK>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01NS_KIT](#fzssparkfuncns1x1nsksparkfun-eagle-librariessparkfun-connectors1x01ns_kit)
+	* [Tags](#tags)
+
+# FZSSPARKFUNCNS1X1NSK>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01NS_KIT
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X01NS_KIT
+- Hex ID: FZSSPARKFUNCNS1X1NSK
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZSSPARKFUNCNS1X1NSK
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: SparkFun-Eagle-Libraries
+- oompDesc: Sparkfun-Connectors
+- oompIndex: 1X01NS_KIT
+- oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X01NS_KIT
+- description: &lt;h3&gt;Plated Through Hole - No Silk Outline Kit Version&lt;/h3&gt;
+&lt;p&gt; Mask on only one side to make soldering in kits easier.
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:1&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_01&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+- oompID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X01NS_KIT

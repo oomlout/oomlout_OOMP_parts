@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOMSDCARD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICRO-SDCARD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/MICRO-SDCARD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;microSD Card Footprint&lt;/h3&gt;\nSilk outline with pads for SMD. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:8&lt;/li&gt;\n&lt;li&gt;Area:0.45x0.6 in&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;MicroSD Card&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-MICRO-SDCARD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

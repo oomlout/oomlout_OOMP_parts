@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWBPAD2X2SINGLELK"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUTTONPAD-2X2-SINGLE-LED-KIT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTONPAD-2X2-SINGLE-LED-KIT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;2x2 Button Pad w/ Single LEDs&lt;/h3&gt;\n&lt;p&gt;Layout and schematic for 2x2 button pad with single-color LEDs under each button. For use with the &lt;a href=&quot;https://www.sparkfun.com/products/7836&quot;&gt;Button Pad 2x2 - LED Compatible&lt;/a&gt; and &lt;a href=&quot;https://www.sparkfun.com/products/8746&quot;&gt;Button Pad 2x2 Top Bezel&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Any &lt;a href=&quot;https://www.sparkfun.com/categories/172&quot;&gt;single-color 5mm LED&lt;/a&gt; should be compatible.&lt;/p&gt;\n&lt;b&gt;Warning:&lt;/b&gt; This is the KIT version of this package. This package has a smaller diameter top stop mask, which doesn't cover the diameter of the pad. This means only the bottom side of the pads' copper will be exposed. You'll only be able to solder to the bottom side."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTONPAD-2X2-SINGLE-LED-KIT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

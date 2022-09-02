@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPGLAL4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gee_s"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LAL04"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/gee_s/LAL04"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TAYO YUDEN Inductor&lt;/b&gt;&lt;p&gt;\nSource: je999f5.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-LAL04"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-LAL04"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

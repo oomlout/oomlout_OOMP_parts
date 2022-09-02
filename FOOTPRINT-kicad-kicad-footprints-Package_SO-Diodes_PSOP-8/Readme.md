@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKSODIODESPS8>kicad-footprints/Package_SO/Diodes_PSOP-8](#fzksodiodesps8kicad-footprintspackage_sodiodes_psop-8)
+	* [Tags](#tags)
+
+# FZKSODIODESPS8>kicad-footprints/Package_SO/Diodes_PSOP-8
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_PSOP-8
+- Hex ID: FZKSODIODESPS8
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKSODIODESPS8
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SO
+- oompIndex: Diodes_PSOP-8
+- oompName: kicad-footprints/Package_SO/Diodes_PSOP-8
+- description: 8-Lead Plastic PSOP, Exposed Die Pad (see https://www.diodes.com/assets/Datasheets/AP2204.pdf)
+- tags: SSOP 0.50 exposed pad
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Diodes_PSOP-8.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_SO-Diodes_PSOP-8

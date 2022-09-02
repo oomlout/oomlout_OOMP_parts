@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLL42"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-0402"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/LED-0402"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LED-0402&lt;/h3&gt;\n&lt;p&gt;\nStandard 0402 sized pads with cathode pin indicator.\n&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0402"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-0402"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERESISTORNETRN7"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-net"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RN-7"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-net/RN-7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-net-RN-7"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-net-RN-7"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

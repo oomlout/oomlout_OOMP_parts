@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDILCDEADIP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-lcd"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EA_DIP"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-lcd/EA_DIP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-lcd-EA_DIP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESCHIPL85"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIPLED_0805"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CHIPLED_0805"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LG_R971.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CHIPLED_0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CHIPLED_0805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

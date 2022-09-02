@@ -26,7 +26,7 @@ Contents
 
 |image|image_RE|image_BOTTOM|
 | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
+|[![image](image_140.png)](image_600.png)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_600.jpg)|
 
 ## Diagrams
   
@@ -64,6 +64,7 @@ Contents
 - oompClassCode: THTH
 - ooDesignator: VR1
 - kicadSymbol: Device>R_Potentiometer
+- oompID: POTE-95D-L-O103-01
 
 
 

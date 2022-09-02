@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLCNH12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H10-2.0"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Connector/H10-2.0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H10-2.0"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H10-2.0"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

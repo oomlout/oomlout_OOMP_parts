@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETEXASZDHSPBGAN256"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "texas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZDH_S-PBGA-N256"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/texas/ZDH_S-PBGA-N256"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-ZDH_S-PBGA-N256"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-texas-ZDH_S-PBGA-N256"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEBATCELLRETAINER116"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "battery"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/battery/CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-battery-CELL_RETAINER_11.6MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

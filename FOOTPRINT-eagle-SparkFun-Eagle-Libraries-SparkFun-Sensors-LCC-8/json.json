@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSLCC8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LCC-8"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/LCC-8"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;8-Pin LCC (5 x 5 x 2 mm)&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Sensors/Accelerometer/ADXL193.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 8&lt;/li&gt;\n&lt;li&gt;Area: 5.0 x 5.0 x 2.0 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1.27 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ADXL193&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LCC-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

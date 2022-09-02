@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZAQFN28ML6X6"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN28-ML_6X6MM"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/QFN28-ML_6X6MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFN28-ML_6X6MM&lt;/b&gt;&lt;p&gt;\nSource: http://www.microchip.com .. 39637a.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-QFN28-ML_6X6MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-QFN28-ML_6X6MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

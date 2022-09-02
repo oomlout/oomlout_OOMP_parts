@@ -1,0 +1,35 @@
+
+
+
+
+Contents
+========
+
+* [FZSSPARKFUNCNS1X11>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X11](#fzssparkfuncns1x11sparkfun-eagle-librariessparkfun-connectors1x11)
+	* [Tags](#tags)
+
+# FZSSPARKFUNCNS1X11>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X11
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X11
+- Hex ID: FZSSPARKFUNCNS1X11
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZSSPARKFUNCNS1X11
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: SparkFun-Eagle-Libraries
+- oompDesc: Sparkfun-Connectors
+- oompIndex: 1X11
+- oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X11
+- description: &lt;h3&gt;Plated Through Hole -11 Pin&lt;/h3&gt;
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:11&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_11&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+- oompID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X11

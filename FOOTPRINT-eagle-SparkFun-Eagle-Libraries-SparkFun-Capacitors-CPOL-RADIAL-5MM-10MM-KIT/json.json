@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCCPOLR51K"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Capacitors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CPOL-RADIAL-5MM-10MM-KIT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Capacitors/CPOL-RADIAL-5MM-10MM-KIT"
+        },
+        {
+            "name": "description",
+            "value": "5 mm spaced PTHs, with 10 mm silk ring and no exposed copper on top"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-5MM-10MM-KIT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-CPOL-RADIAL-5MM-10MM-KIT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

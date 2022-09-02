@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZECONMX878321>eagle-default/con-molex/87832-10](#fzeconmx878321eagle-defaultcon-molex87832-10)
+	* [Tags](#tags)
+
+# FZECONMX878321>eagle-default/con-molex/87832-10
+
+- ID: FOOTPRINT-eagle-eagle-default-con-molex-87832-10
+- Hex ID: FZECONMX878321
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZECONMX878321
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: con-molex
+- oompIndex: 87832-10
+- oompName: eagle-default/con-molex/87832-10
+- oompID: FOOTPRINT-eagle-eagle-default-con-molex-87832-10

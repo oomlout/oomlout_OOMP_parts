@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAMDMACHGBA352S"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "amd-mach"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GBA352S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/amd-mach/GBA352S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-GBA352S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

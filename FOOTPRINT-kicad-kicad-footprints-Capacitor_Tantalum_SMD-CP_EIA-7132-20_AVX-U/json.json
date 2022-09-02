@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCAPACITORTANTALUMSMCPEIA71322AVXU"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_Tantalum_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_EIA-7132-20_AVX-U"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-7132-20_AVX-U"
+        },
+        {
+            "name": "description",
+            "value": "Tantalum Capacitor SMD AVX-U (7132-20 Metric), IPC_7351 nominal, (Body size from: http://datasheets.avx.com/F72-F75.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "capacitor tantalum"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-7132-20_AVX-U.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-7132-20_AVX-U"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

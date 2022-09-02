@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESTO72B"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO72B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TO72B"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-72&lt;/b&gt;&lt;p&gt;&#xD;\ngrid 2.54 mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO72B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO72B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

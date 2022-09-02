@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBUMISOO"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Buzzard"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MISO_O"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Buzzard/MISO_O"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;MISO Label&lt;/h3&gt;\n&lt;p&gt;Flagtail (Board Output)&lt;/p&gt;\n&lt;p&gt;Eagle Scale Factor: 0.04&lt;/p&gt;\n\n&lt;p&gt;Footprint Name Extensions:\n&lt;ul&gt;&lt;li&gt;_TO: Text Only if using this extension, any input/output extension is unnecessary&lt;/li&gt;\n&lt;li&gt;_O: Output relative to board&lt;/li&gt;\n&lt;li&gt;_I: Input relative to board&lt;/li&gt;\n&lt;li&gt;_IO: Bidirectional line&lt;/li&gt;\n&lt;li&gt;_P: Power&lt;/li&gt;\n&lt;li&gt;_32: Any number denotes the EAGLE Scale Factor, in this case, 0.032. If no extension, Scale Factor is the default 0.040&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MISO_O"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Buzzard-MISO_O"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

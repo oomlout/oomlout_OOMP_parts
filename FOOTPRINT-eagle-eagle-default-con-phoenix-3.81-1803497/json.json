@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPHOENIX381183497"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-3.81"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1803497"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-3.81/1803497"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-3.81-1803497"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-3.81-1803497"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

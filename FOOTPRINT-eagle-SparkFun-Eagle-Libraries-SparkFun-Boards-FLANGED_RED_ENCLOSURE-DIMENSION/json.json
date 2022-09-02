@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOFLANGEDREDENCLOSUREDENSION"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FLANGED_RED_ENCLOSURE-DIMENSION"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/FLANGED_RED_ENCLOSURE-DIMENSION"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Big Red Enclosure PCB&lt;/h3&gt;\n&lt;p&gt;Basic dimension for board outline and mounting  holes&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:0&lt;/li&gt;\n&lt;li&gt;Area:5.91x3.23 in&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Big Red Box-PCB&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-FLANGED_RED_ENCLOSURE-DIMENSION"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

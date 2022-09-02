@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSDFN63X3HTU21D"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-6-3X3-HTU21D"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/DFN-6-3X3-HTU21D"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;6-Pin Dual Flat No-Lead (DFN) w/ Center Pad (3.0 x 3.0 mm) - Designed for HTU21D&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 6 (+ center pad)&lt;/li&gt;\n&lt;li&gt;Dimensions: 3.0 x 3.0 x 0.9 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1.0 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;HTU21D&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-HTU21D"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-HTU21D"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

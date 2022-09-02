@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSOTTO2211P34X254STAGGEREVENLEAD584TABDOWN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "description",
+            "value": "TO-220-11, Horizontal, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "TO-220-11 Horizontal RM 1.7mm staggered type-2"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

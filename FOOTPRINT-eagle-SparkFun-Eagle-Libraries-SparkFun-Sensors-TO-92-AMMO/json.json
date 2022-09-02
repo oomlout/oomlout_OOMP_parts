@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSTO92AMMO"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO-92-AMMO"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/TO-92-AMMO"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;TO-92 3-Pin PTH AMMO package&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 3&lt;/li&gt;\n&lt;li&gt;Dimensions:  3.68 x 4.83 x 4.83 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 2.54 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;DS18B20&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-92-AMMO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TO-92-AMMO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

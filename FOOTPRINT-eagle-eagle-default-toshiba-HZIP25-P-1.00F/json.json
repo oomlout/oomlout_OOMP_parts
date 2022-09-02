@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETOSHIBAHZIP25P1F"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "toshiba"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HZIP25-P-1.00F"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/toshiba/HZIP25-P-1.00F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-HZIP25-P-1.00F"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-HZIP25-P-1.00F"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

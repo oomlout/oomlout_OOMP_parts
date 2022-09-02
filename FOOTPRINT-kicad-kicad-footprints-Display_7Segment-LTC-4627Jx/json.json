@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDI7SLTC4627JX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LTC-4627Jx"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/LTC-4627Jx"
+        },
+        {
+            "name": "description",
+            "value": "http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "4 digit 7 segment LED"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/LTC-4627Jx.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-LTC-4627Jx"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-LTC-4627Jx"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

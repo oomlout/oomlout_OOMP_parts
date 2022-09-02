@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMINTELQFP132"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP-132"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-intel/QFP-132"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-QFP-132"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-intel-QFP-132"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

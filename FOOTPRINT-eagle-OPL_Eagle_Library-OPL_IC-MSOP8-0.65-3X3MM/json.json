@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLICMS8653X3"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_IC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MSOP8-0.65-3X3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_IC/MSOP8-0.65-3X3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;8M, 8-Lead, 0.118&quot; Wide, Miniature Small Outline Package&lt;/b&gt;&lt;p&gt;\nMSOP&lt;br&gt;\n8M-Package doc1097.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-MSOP8-0.65-3X3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-MSOP8-0.65-3X3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

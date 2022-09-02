@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESOLPADSE14"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "solpad"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SE14"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/solpad/SE14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-solpad-SE14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-solpad-SE14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

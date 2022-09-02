@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLLPIRANHA5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_PIRANHA_5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/LED_PIRANHA_5MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LED 5mm PTH - Piranha&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;\n&lt;li&gt;Pin pitch: 1.5mm, 5.06 mm&lt;/li&gt;\n&lt;li&gt;Area:5mm x 5mm &lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Components/LED/YSRGB7A5BSW25.pdf&quot;&gt;YSRGB7A5BSW25&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;LED Pirahana&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_PIRANHA_5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED_PIRANHA_5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

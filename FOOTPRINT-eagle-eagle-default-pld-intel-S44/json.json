@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEPLDINTELS44"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pld-intel"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/pld-intel/S44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pld-intel-S44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-pld-intel-S44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

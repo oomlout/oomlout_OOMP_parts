@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRIACTO22CLK"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "triac"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220CLK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/triac/TO220CLK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-triac-TO220CLK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-triac-TO220CLK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

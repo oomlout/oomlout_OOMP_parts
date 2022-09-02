@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSACRYPTOCOPROCESSORLL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Aesthetics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CRYPTO_COPROCESSOR_LOGO_LARGE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Aesthetics/CRYPTO_COPROCESSOR_LOGO_LARGE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CRYPTO_COPROCESSOR_LOGO_LARGE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CRYPTO_COPROCESSOR_LOGO_LARGE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

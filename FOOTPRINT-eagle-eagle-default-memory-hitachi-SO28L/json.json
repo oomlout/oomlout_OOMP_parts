@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYHITACHISO28L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-hitachi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO28L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-hitachi/SO28L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-hitachi-SO28L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-hitachi-SO28L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

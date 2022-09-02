@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESMM27W"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MINI_MELF-0207W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/MINI_MELF-0207W"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CECC Size RC6123&lt;/b&gt; Wave Soldering&lt;p&gt;&#xD;\nsource Beyschlag"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0207W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MINI_MELF-0207W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

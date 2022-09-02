@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKBGAFBGA7875X11LAYOUT2X3X13P8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_BGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_BGA/FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+        },
+        {
+            "name": "description",
+            "value": "FBGA-78, https://www.skhynix.com/product/filedata/fileDownload.do?seq=7687"
+        },
+        {
+            "name": "tags",
+            "value": "FBGA-78"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_BGA.3dshapes/FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_BGA-FBGA-78_7.5x11mm_Layout2x3x13_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

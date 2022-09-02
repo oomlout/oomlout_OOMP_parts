@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESCTRIM881"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CTRIM808-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CTRIM808-1"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Trimm capacitor &lt;/b&gt; STELCO GmbH&lt;p&gt;&#xD;\ndiameter 8.6 mm, grid 3.55 mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CTRIM808-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

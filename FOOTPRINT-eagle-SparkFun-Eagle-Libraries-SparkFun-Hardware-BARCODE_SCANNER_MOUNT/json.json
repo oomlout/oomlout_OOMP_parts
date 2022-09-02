@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSHBARCODESCANNERMOUNT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Hardware"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BARCODE_SCANNER_MOUNT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Hardware/BARCODE_SCANNER_MOUNT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-BARCODE_SCANNER_MOUNT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-BARCODE_SCANNER_MOUNT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

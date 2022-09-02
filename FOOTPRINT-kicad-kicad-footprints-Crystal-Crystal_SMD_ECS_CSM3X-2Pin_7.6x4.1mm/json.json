@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKXXSMECSCSM3X2PIN76X41"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Crystal"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Crystal/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm"
+        },
+        {
+            "name": "description",
+            "value": "http://www.ecsxtal.com/store/pdf/CSM-3X.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Crystal CSM-3X"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

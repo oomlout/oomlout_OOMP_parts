@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKSOSS4875X159MMP635>kicad-footprints/Package_SO/SSOP-48_7.5x15.9mm_P0.635mm](#fzksoss4875x159mmp635kicad-footprintspackage_sossop-48_75x159mm_p0635mm)
+	* [Tags](#tags)
+
+# FZKSOSS4875X159MMP635>kicad-footprints/Package_SO/SSOP-48_7.5x15.9mm_P0.635mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm
+- Hex ID: FZKSOSS4875X159MMP635
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKSOSS4875X159MMP635
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_SO
+- oompIndex: SSOP-48_7.5x15.9mm_P0.635mm
+- oompName: kicad-footprints/Package_SO/SSOP-48_7.5x15.9mm_P0.635mm
+- description: SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)
+- tags: SSOP 0.635
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-48_7.5x15.9mm_P0.635mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_SO-SSOP-48_7.5x15.9mm_P0.635mm

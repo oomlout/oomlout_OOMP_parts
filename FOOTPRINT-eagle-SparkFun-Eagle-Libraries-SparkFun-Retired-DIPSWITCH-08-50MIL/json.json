@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTDIPSWITCH85M"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIPSWITCH-08-50MIL"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/DIPSWITCH-08-50MIL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;DIP SWITCH&lt;/b&gt;\n&lt;p&gt;Half-size SMT DIP switch, 1.27 mm / 0.05&quot; pitch. For example the following:&lt;/p&gt;\n&lt;ul&gt;\n  &lt;li&gt;Omron A6H series; &lt;a href=&quot;http://www.omron.com/ecb/products/pdf/en-a6h.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIPSWITCH-08-50MIL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-DIPSWITCH-08-50MIL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

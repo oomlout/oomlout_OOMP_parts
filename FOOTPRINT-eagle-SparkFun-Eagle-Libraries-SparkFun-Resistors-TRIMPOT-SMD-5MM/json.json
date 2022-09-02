@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTRIMPOTSM5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRIMPOT-SMD-5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/TRIMPOT-SMD-5MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Trimpot - SMD, 5mm Square, Closed-Frame&lt;/h3&gt;\n&lt;p&gt;Used on e.g. &lt;a href=&quot;https://www.sparkfun.com/products/13613&quot;&gt;IOIO-OTG - V2.2&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.vishay.com/docs/51008/ts53.pdf&quot;&gt;Datasheet&lt;/a&gt; (TS53YL502MR10)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

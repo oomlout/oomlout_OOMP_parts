@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKMOADAFEATHERMRFMWITOUNTINGH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Module"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Adafruit_Feather_M0_RFM_WithMountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Module/Adafruit_Feather_M0_RFM_WithMountingHoles"
+        },
+        {
+            "name": "description",
+            "value": "Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio"
+        },
+        {
+            "name": "tags",
+            "value": "Adafruit Feather M0 RFM"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Adafruit_Feather_M0_RFM.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Module-Adafruit_Feather_M0_RFM_WithMountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

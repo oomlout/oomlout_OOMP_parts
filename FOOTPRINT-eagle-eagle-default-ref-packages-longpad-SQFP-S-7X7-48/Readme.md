@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESLONGPADSQFPS7X748>eagle-default/ref-packages-longpad/SQFP-S-7X7-48](#fzerefpackageslongpadsqfps7x748eagle-defaultref-packages-longpadsqfp-s-7x7-48)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESLONGPADSQFPS7X748>eagle-default/ref-packages-longpad/SQFP-S-7X7-48
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-7X7-48
+- Hex ID: FZEREFPACKAGESLONGPADSQFPS7X748
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESLONGPADSQFPS7X748
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-longpad
+- oompIndex: SQFP-S-7X7-48
+- oompName: eagle-default/ref-packages-longpad/SQFP-S-7X7-48
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-SQFP-S-7X7-48

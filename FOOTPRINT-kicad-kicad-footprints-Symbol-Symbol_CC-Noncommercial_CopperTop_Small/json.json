@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSZSYCCNONCOMMERCIALCTOPSLL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Symbol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Symbol_CC-Noncommercial_CopperTop_Small"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Symbol/Symbol_CC-Noncommercial_CopperTop_Small"
+        },
+        {
+            "name": "description",
+            "value": "Symbol, CC-Noncommercial Alike, Copper Top, Small,"
+        },
+        {
+            "name": "tags",
+            "value": "Symbol, CC-Noncommercial Alike, Copper Top, Small,"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Noncommercial_CopperTop_Small"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Symbol-Symbol_CC-Noncommercial_CopperTop_Small"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

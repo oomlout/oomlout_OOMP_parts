@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOSPARKFUNBLACKBERRYTRACKBALLER"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPARKFUN_BLACKBERRY_TRACKBALLER"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_BLACKBERRY_TRACKBALLER"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt; SparkFun BlackBerry Trackballer&lt;/h3&gt;\nFootprint for Blackberry trackball.  \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:11&lt;/li&gt;\n&lt;li&gt;Area:1.10x0.95 inch&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SparkFun Blackberry Trackball&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_BLACKBERRY_TRACKBALLER"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_BLACKBERRY_TRACKBALLER"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -33,6 +33,10 @@
             "value": "SERV-MC-X-STAN-01"
         },
         {
+            "name": "oompID",
+            "value": "SERV-MC-X-STAN-01"
+        },
+        {
             "name": "name",
             "value": "Micro Servo"
         }

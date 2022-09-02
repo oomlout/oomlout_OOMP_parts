@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSACREATIVECOMMONS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Aesthetics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CREATIVE_COMMONS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Aesthetics/CREATIVE_COMMONS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Creative Commons License Template&lt;/h3&gt;\n&lt;p&gt;CC BY-SA 4.0 License with &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;link to license&lt;/a&gt; and placeholder for designer name.&lt;/p&gt;\n&lt;p&gt;Devices using:\n&lt;ul&gt;&lt;li&gt;FRAME_LEDGER&lt;/li&gt;\n&lt;li&gt;FRAME_LETTER&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-CREATIVE_COMMONS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEDIHPHP582"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "display-hp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HP5082"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/display-hp/HP5082"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HP5082"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-display-hp-HP5082"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

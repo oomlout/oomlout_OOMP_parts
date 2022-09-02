@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEOPTOTRANSSIEMENSLPT8A"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-trans-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LPT80A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-trans-siemens/LPT80A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-LPT80A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-LPT80A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

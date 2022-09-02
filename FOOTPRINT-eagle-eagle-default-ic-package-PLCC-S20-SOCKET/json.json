@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEICPACKAGEPLCCS2SO"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ic-package"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC-S20-SOCKET"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ic-package/PLCC-S20-SOCKET"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S20-SOCKET"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ic-package-PLCC-S20-SOCKET"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

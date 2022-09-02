@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPMT6MT67Y"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-mt6"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MT6-7Y"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-mt6/MT6-7Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt6-MT6-7Y"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-mt6-MT6-7Y"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

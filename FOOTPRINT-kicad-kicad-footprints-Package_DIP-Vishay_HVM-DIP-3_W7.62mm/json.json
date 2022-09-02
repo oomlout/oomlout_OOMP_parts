@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDIPVISHAYHVMDIP3W762"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_DIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Vishay_HVM-DIP-3_W7.62mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_DIP/Vishay_HVM-DIP-3_W7.62mm"
+        },
+        {
+            "name": "description",
+            "value": "3-lead though-hole mounted high-volatge DIP package (based on standard DIP-4), row spacing 7.62 mm (300 mils), see https://www.vishay.com/docs/91361/hexdip.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Vishay HVMDIP HEXDIP"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/Vishay_HVM-DIP-3_W7.62mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_DIP-Vishay_HVM-DIP-3_W7.62mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

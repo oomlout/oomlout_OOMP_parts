@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDDIODEBRIDGECOMCHIPSCVBL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Diode_Bridge_Comchip_SCVB-L"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/Diode_Bridge_Comchip_SCVB-L"
+        },
+        {
+            "name": "description",
+            "value": "Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "diode module"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_Comchip_SCVB-L.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-Diode_Bridge_Comchip_SCVB-L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

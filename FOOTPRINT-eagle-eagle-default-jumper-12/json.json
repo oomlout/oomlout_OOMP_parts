@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEJ12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "jumper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "12"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/jumper/12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-jumper-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-jumper-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

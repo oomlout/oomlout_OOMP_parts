@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINLTOROIDHORIZONTALD224P198VISHAYTJ4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4"
+        },
+        {
+            "name": "description",
+            "value": "L_Toroid, Horizontal series, Radial, pin pitch=19.80mm, , diameter=22.4mm, Vishay, TJ4, http://www.vishay.com/docs/34079/tj.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "L_Toroid Horizontal series Radial pin pitch 19.80mm  diameter 22.4mm Vishay TJ4"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

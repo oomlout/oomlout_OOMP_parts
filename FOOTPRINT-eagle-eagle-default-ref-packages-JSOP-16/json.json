@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESJS16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JSOP-16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/JSOP-16"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;JEDEC Small Outline Package&lt;/b&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-JSOP-16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-JSOP-16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

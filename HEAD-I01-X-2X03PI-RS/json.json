@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAD-I01-X-PI2X03-RS"
-        },
-        {
-            "name": "name",
-            "value": "2.54 mm 6 Pin (2x3) Header Right Angle (SMD)"
-        },
-        {
             "name": "oompSort",
             "value": ""
         },
@@ -77,8 +69,12 @@
             "value": "HEAD-I01-X-2X03PI-RS"
         },
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-2X03PI-RS"
+        },
+        {
             "name": "name",
-            "value": "2.54 mm 6 Pin (2x3) Header Right Angle (SMD)"
+            "value": "2.54 mm Header Right Angle (SMD)"
         }
     ]
 }

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKGSMSIMCOMSIM9"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_GSM"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIMCom_SIM900"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_GSM/SIMCom_SIM900"
+        },
+        {
+            "name": "description",
+            "value": "Quad-Band GSM/GPRS module, 24x24x3mm, http://simcom.ee/documents/SIM900/SIM900_Hardware%20Design_V2.05.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "GSM Module SIM900"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/RF_GSM.3dshapes/SIMCom_SIM900.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_GSM-SIMCom_SIM900"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

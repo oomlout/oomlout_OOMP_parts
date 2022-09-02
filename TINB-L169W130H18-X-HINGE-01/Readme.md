@@ -37,3 +37,4 @@ Contents
 - oompIndex: 01
 - manufacturersPartNumber: Tinware,T4066
 - hexID: TB01
+- oompID: TINB-L169W130H18-X-HINGE-01

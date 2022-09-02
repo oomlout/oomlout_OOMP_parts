@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGES3DBGA144C8P12X121X1X17"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages-3d"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA144C80P12X12_1000X1000X170"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages-3d/BGA144C80P12X12_1000X1000X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA144C80P12X12_1000X1000X170"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-3d-BGA144C80P12X12_1000X1000X170"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

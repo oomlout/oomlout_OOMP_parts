@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCLXSMMC146"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Clocks"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CRYSTAL-SMD-MC-146"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Clocks/CRYSTAL-SMD-MC-146"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;7x1.5mm MC-146 Flat Lead SMD Crystal&lt;/h3&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf&quot;&gt;Example Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-CRYSTAL-SMD-MC-146"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

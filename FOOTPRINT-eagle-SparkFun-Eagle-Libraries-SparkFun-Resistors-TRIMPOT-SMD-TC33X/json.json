@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTRIMPOTSMTC33X"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRIMPOT-SMD-TC33X"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/TRIMPOT-SMD-TC33X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Bourns TC33X Trimpot - SMD, 3mm Square, Open-Frame&lt;/h3&gt;\n&lt;p&gt;Used on e.g. &lt;a href=&quot;https://www.sparkfun.com/products/13899&quot;&gt;Shapeoko&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.bourns.com/docs/Product-Datasheets/TC33.pdf&quot;&gt;Datasheet&lt;/a&gt; (TS53YL502MR10)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-TC33X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-TRIMPOT-SMD-TC33X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

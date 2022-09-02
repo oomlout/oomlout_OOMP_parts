@@ -29,6 +29,10 @@
             "value": "TRNP-T92-X-KS8550-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNP-T92-X-KS8550-01"
+        },
+        {
             "name": "name",
             "value": "TO-92 S8550 PNP Transistor"
         }

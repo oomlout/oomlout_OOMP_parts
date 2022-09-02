@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "HEAD-I01-X-PI3X03-01"
-        },
-        {
-            "name": "name",
-            "value": " 2.54 mm 9 Pin (3x3) Header "
-        },
-        {
             "name": "hexID",
             "value": "H3X03"
         },
@@ -57,8 +49,12 @@
             "value": "HEAD-I01-X-3X03PI-01"
         },
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-3X03PI-01"
+        },
+        {
             "name": "name",
-            "value": " 2.54 mm 9 Pin (3x3) Header "
+            "value": "2.54 mm Header"
         }
     ]
 }

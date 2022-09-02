@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRANSISTORPNPTO3A"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "transistor-pnp"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO3/A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/transistor-pnp/TO3/A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3/A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-transistor-pnp-TO3/A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

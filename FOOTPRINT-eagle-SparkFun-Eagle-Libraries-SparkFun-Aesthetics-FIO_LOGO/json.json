@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSAFIOL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Aesthetics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FIO_LOGO"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Aesthetics/FIO_LOGO"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Funnel IO (FIO) Logo - Silkscreen&lt;/h3&gt;\n&lt;p&gt;Used on the &lt;a href=&quot;https://www.sparkfun.com/products/10116&quot;&gt;Arduino Fio&lt;/a&gt;.&lt;/p&gt;\n&lt;p&gt;Devices using:\n&lt;ul&gt;&lt;li&gt;FIO_LOGO&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Aesthetics-FIO_LOGO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

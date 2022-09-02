@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKNTNT4SMPAD5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NetTie"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NetTie-4_SMD_Pad0.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/NetTie/NetTie-4_SMD_Pad0.5mm"
+        },
+        {
+            "name": "description",
+            "value": "Net tie, 4 pin, 0.5mm square SMD pads"
+        },
+        {
+            "name": "tags",
+            "value": "net tie"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_SMD_Pad0.5mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-NetTie-NetTie-4_SMD_Pad0.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

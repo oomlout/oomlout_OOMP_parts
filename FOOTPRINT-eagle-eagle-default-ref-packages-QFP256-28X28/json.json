@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESQFP25628X28"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP256-28X28"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/QFP256-28X28"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;256-pin QFP&lt;/b&gt; Hitachi Code FP-256G&lt;p&gt;&#xD;\nSource: SH7751_R_V3.0.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-QFP256-28X28"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-QFP256-28X28"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPCEISA188"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-pc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "EISA-188"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-pc/EISA-188"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-EISA-188"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-pc-EISA-188"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

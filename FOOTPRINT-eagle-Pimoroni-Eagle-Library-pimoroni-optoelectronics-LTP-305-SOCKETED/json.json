@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPOPTOELECTRONICSLTP35SOED"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-optoelectronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LTP-305-SOCKETED"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-optoelectronics/LTP-305-SOCKETED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-optoelectronics-LTP-305-SOCKETED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-optoelectronics-LTP-305-SOCKETED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

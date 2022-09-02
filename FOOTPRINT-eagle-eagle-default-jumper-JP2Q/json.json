@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEJJP2Q"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "jumper"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JP2Q"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/jumper/JP2Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-jumper-JP2Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-jumper-JP2Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

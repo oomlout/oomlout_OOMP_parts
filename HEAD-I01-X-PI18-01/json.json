@@ -133,6 +133,10 @@
             "value": "HEAD-I01-X-PI18-01"
         },
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI18-01"
+        },
+        {
             "name": "name",
             "value": "2.54 mm 18 Pin Header"
         }

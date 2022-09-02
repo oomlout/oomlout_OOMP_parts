@@ -1,0 +1,52 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOB\\FIDFIDCLASSICBIGCTOPTYPE2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Obsolete\\Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_classic_big_CopperTop_Type2"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Obsolete\\Fiducial/Fiducial_classic_big_CopperTop_Type2"
+        },
+        {
+            "name": "description",
+            "value": "Fiducial, Classic, Big, Copper Top, Type 2"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_classic_big_CopperTop_Type2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Obsolete\\Fiducial-Fiducial_classic_big_CopperTop_Type2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

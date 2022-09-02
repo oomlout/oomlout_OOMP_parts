@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSSPARKXVCNL44"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPARKX_VCNL4040"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/SPARKX_VCNL4040"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SMD-8 for VCNL4040&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 8&lt;/li&gt;\n&lt;li&gt;Pin pitch: 1.075mm&lt;/li&gt;\n&lt;li&gt;Area: 2mm x 4mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://www.vishay.com/docs/84274/vcnl4040.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPARKX_VCNL4040"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-SPARKX_VCNL4040"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

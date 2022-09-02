@@ -1,0 +1,29 @@
+
+
+
+
+Contents
+========
+
+* [FZECONSAMTECTSW128XXGD>eagle-default/con-samtec/TSW-128-XX-G-D](#fzeconsamtectsw128xxgdeagle-defaultcon-samtectsw-128-xx-g-d)
+	* [Tags](#tags)
+
+# FZECONSAMTECTSW128XXGD>eagle-default/con-samtec/TSW-128-XX-G-D
+
+- ID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-128-XX-G-D
+- Hex ID: FZECONSAMTECTSW128XXGD
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZECONSAMTECTSW128XXGD
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: con-samtec
+- oompIndex: TSW-128-XX-G-D
+- oompName: eagle-default/con-samtec/TSW-128-XX-G-D
+- description: &lt;b&gt;THROUGH-HOLE .025&quot; SQ POST HEADER&lt;/b&gt;&lt;p&gt;
+Source: Samtec TSW.pdf
+- oompID: FOOTPRINT-eagle-eagle-default-con-samtec-TSW-128-XX-G-D

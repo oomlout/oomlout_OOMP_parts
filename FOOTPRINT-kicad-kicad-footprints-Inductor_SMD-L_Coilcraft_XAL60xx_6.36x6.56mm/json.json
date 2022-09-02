@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINDUCTORSMLCOILCRAFTXAL6XX636X656"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Coilcraft_XAL60xx_6.36x6.56mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_SMD/L_Coilcraft_XAL60xx_6.36x6.56mm"
+        },
+        {
+            "name": "description",
+            "value": "Coilcraft XAL60xx series, https://www.coilcraft.com/pdfs/xal60xx.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "L Coilcraft XAL60xx"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Coilcraft_XAL60xx_6.36x6.56mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_SMD-L_Coilcraft_XAL60xx_6.36x6.56mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEBUARTE48"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "busbar"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TE4/8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/busbar/TE4/8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-busbar-TE4/8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-busbar-TE4/8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

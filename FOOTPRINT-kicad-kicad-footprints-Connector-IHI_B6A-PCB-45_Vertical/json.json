@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNIHIB6APCB45VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IHI_B6A-PCB-45_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/IHI_B6A-PCB-45_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "https://lugsdirect.com/PDF_Webprint/B6A-PCB-45-XX(-X).pdf"
+        },
+        {
+            "name": "tags",
+            "value": "connector IHI B6A-PCB-45"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/IHI_B6A-PCB-45_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-IHI_B6A-PCB-45_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

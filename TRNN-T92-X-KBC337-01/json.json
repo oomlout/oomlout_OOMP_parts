@@ -29,6 +29,10 @@
             "value": "TRNN-T92-X-KBC337-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNN-T92-X-KBC337-01"
+        },
+        {
             "name": "name",
             "value": "TO-92 BC337 NPN Transistor"
         }

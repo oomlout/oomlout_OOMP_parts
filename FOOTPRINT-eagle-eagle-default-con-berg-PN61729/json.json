@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONBERGPN61729"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-berg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PN61729"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-berg/PN61729"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-berg-PN61729"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-berg-PN61729"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

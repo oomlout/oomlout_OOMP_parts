@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKLGALGA24L3X35P43"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_LGA"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_LGA/LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "description",
+            "value": "LGA 24L 3x3.5mm Pitch 0.43mm"
+        },
+        {
+            "name": "tags",
+            "value": "LGA 24L 3x3.5mm Pitch 0.43mm"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_LGA.3dshapes/LGA-24L_3x3.5mm_P0.43mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-24L_3x3.5mm_P0.43mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "tags": [
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X07"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "oompVersion",
+            "value": "999"
+        },
+        {
+            "name": "hexID",
+            "value": "HRS2X07"
+        },
+        {
+            "name": "ooPitch",
+            "value": "2.54 mm"
+        },
+        {
+            "name": "ooWidth",
+            "value": "17.78 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.08 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "17.66 mm"
+        },
+        {
+            "name": "numPins",
+            "value": "14"
+        },
+        {
+            "name": "numRows",
+            "value": "2"
+        },
+        {
+            "name": "oompFootprint",
+            "value": "HEAD-I01-X-PI2x07-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X07-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X07-RS"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 14 Pin (2x7) Header Right Angle (SMD)"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLWPETALNH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LilyPad-Wearables"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PETAL-NOHOLE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/LilyPad-Wearables/PETAL-NOHOLE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Petal- No Hole &lt;/h3&gt;\nPetal for wearable applications. No sew tap present- this is only for aesthetics on the board. Petal only on top layer.\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Petal Size: 0.2in wide, 0.1in height  &lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SEWTAP-NOHOLE&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-NOHOLE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-LilyPad-Wearables-PETAL-NOHOLE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

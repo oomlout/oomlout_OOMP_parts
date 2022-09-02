@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYMOTOROLADRAMSOJ262"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-motorola-dram"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOJ26-20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-motorola-dram/SOJ26-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-motorola-dram-SOJ26-20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-motorola-dram-SOJ26-20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -37,6 +37,10 @@
             "value": "LEDS-XHP70-W-CREE-01"
         },
         {
+            "name": "oompID",
+            "value": "LEDS-XHP70-W-CREE-01"
+        },
+        {
             "name": "name",
             "value": "XHP 70 Cree White LED"
         }

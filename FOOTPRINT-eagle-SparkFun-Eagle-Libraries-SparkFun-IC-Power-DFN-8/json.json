@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSIPDFN8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Power"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-8"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Power/DFN-8"
+        },
+        {
+            "name": "description",
+            "value": "Now follows http://pdfserv.maximintegrated.com/land_patterns/90-0065.PDF&lt;br /&gt;\nPasted was reduced by 40% width on the center ground pad, and some amount on the other 8.  Stop mask extends 135 m wider than the pad to hit dead center of what IPC-7351 recommends."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DFN-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Power-DFN-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

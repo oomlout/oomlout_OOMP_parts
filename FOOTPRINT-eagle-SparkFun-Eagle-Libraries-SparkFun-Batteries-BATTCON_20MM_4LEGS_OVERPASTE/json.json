@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBBC24LEGSOVERPASTE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Batteries"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BATTCON_20MM_4LEGS_OVERPASTE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Batteries/BATTCON_20MM_4LEGS_OVERPASTE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;20mm Coin Cell Battery (CR2032) Holder - SMD (Dual Pad) (Overpaste on pads)&lt;/h3&gt;\n&lt;p&gt;This holder fits 20mm Lithium coin cell batteries and holds the battery in place with friction. The metal housing connects to the positive (+) side of the battery and the PCB pad underneath is connected to the negative (-) side.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Prototyping/BAT-BLH-001.jpg&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;h4&gt;Devices Using&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;BATTERY&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-BATTCON_20MM_4LEGS_OVERPASTE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

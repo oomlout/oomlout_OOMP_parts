@@ -5,13 +5,13 @@
 Contents
 ========
 
-* [HEAD-I01-X-3X03PI-01> 2.54 mm 9 Pin (3x3) Header ](#head-i01-x-3x03pi-01-254-mm-9-pin-3x3-header-)
+* [HEAD-I01-X-3X03PI-01>2.54 mm Header](#head-i01-x-3x03pi-01254-mm-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-3X03PI-01> 2.54 mm 9 Pin (3x3) Header 
+# HEAD-I01-X-3X03PI-01>2.54 mm Header
 
 - ID: HEAD-I01-X-3X03PI-01
 - Name: HEAD-I01-X-3X03PI-01
@@ -30,8 +30,6 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI3X03-01
-- name:  2.54 mm 9 Pin (3x3) Header 
 - hexID: H3X03
 - oompSort: 
 - oompType: HEAD
@@ -43,3 +41,4 @@ Contents
 - ooNumRows: 3
 - ooNumPins: 3
 - ooFootprint: OOMP-HEAD-I01-X-PI3X03-01
+- oompID: HEAD-I01-X-3X03PI-01

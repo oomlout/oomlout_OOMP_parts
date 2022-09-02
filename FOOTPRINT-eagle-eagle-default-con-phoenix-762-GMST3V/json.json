@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPHOENIX762GMST3V"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-762"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GMST3V"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-762/GMST3V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3V"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-762-GMST3V"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

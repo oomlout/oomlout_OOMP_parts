@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONPHOENIX58IC8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-phoenix-508"
+        },
+        {
+            "name": "oompIndex",
+            "value": "IC8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-phoenix-508/IC8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-phoenix-508-IC8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

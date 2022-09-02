@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCLRSM74X34"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Clocks"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RESONATOR-SMD-7.4X3.4"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Clocks/RESONATOR-SMD-7.4X3.4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;7.4x3.4mm 3-Pin SMD Resonator&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;http://global.kyocera.com/prdct/electro/pdf/add_pdf/pbr_all_e.pdf&quot;&gt;Example datasheet&lt;/a&gt; (PBRC-H)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Clocks-RESONATOR-SMD-7.4X3.4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

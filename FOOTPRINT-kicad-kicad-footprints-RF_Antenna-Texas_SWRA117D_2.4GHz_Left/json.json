@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRFTEXASSWRA117D24GHZLEFT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "RF_Antenna"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_SWRA117D_2.4GHz_Left"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/RF_Antenna/Texas_SWRA117D_2.4GHz_Left"
+        },
+        {
+            "name": "description",
+            "value": "http://www.ti.com/lit/an/swra117d/swra117d.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "PCB antenna"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Left"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-RF_Antenna-Texas_SWRA117D_2.4GHz_Left"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

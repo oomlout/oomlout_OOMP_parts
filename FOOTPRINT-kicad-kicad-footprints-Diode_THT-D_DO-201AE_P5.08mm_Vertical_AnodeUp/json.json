@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDDDO21AEP58VERTICALANODEUP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "D_DO-201AE_P5.08mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_THT/D_DO-201AE_P5.08mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "description",
+            "value": "Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-201AE_P5.08mm_Vertical_AnodeUp.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P5.08mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_THT-D_DO-201AE_P5.08mm_Vertical_AnodeUp"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

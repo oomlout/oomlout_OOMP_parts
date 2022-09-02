@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESTSS16L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP16L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TSSOP16L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;MOLDED TSSOP&lt;/b&gt; JEDEC, 5 x 4.4 x 9.9 mm Body 16 LD, 0.65mm Pitch&lt;p&gt;&#xD;\nSource: http://www.national.com/packaging/mkt/mtc16.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TSSOP16L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TSSOP16L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

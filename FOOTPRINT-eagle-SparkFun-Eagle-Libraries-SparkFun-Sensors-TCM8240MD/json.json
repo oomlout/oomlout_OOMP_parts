@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSTCM824MD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TCM8240MD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/TCM8240MD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;TCM8240 CMOS Camera&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Sensors/Imaging/TCM8240MD_E150405_REV13.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 24&lt;/li&gt;\n&lt;li&gt;Area: 10 x 10 x 7.0 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;TCM8240MD&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-TCM8240MD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

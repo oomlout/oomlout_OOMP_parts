@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYSRAMDIL22"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-sram"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL22"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-sram/DIL22"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-sram-DIL22"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-sram-DIL22"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

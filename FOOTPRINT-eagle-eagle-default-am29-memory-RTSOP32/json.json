@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAM29MEMORYRTS32"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "am29-memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RTSOP32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/am29-memory/RTSOP32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-am29-memory-RTSOP32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOSPARKFUNEDISONPCB"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPARKFUN_EDISON_PCB"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_EDISON_PCB"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt; SparkFun Edison PCB&lt;/h3&gt;\nFootprint for Edison PCBs (view that mates with Edison SBC).\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count:11&lt;/li&gt;\n&lt;li&gt;Area:1.20 x 1.75 inch&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SparkFun Edison&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_EDISON_PCB"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

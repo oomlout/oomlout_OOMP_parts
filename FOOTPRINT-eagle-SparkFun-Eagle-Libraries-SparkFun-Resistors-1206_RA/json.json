@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSR126RA"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1206_RA"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/1206_RA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;4 Resistor Array&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Total Size: 3.2mm x 1.6mm (1206)&lt;/li&gt;\n&lt;li&gt;Pad Size: .5mm - .8mm x .55mm&lt;/li&gt;\n&lt;li&gt;Pitch: .5mm&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-1206_RA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-1206_RA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKHHSHEETTYPE5X72FIXATIONS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Heatsink"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Heatsink_SheetType_50x7mm_2Fixations"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Heatsink/Heatsink_SheetType_50x7mm_2Fixations"
+        },
+        {
+            "name": "description",
+            "value": "Heatsink, Sheet type, 50x7mm, 2 fixations (solder),"
+        },
+        {
+            "name": "tags",
+            "value": "Heatsink sheet"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Heatsink.3dshapes/Heatsink_SheetType_50x7mm_2Fixations.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_SheetType_50x7mm_2Fixations"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Heatsink-Heatsink_SheetType_50x7mm_2Fixations"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

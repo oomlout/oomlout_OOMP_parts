@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFTRACEANTENNA24GHZ152"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TRACE_ANTENNA_2.4GHZ_15.2MM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/TRACE_ANTENNA_2.4GHZ_15.2MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;2.4GHz Meander PCB Trace Antenna&lt;/h3&gt;\n&lt;p&gt;PCB trace antenna with a 15.2 x 5.7mm footprint.&lt;/p&gt;\n&lt;p&gt;Based on layout from &lt;a href=&quot;http://www.ti.com/lit/an/swra117d/swra117d.pdf&quot;&gt;TI app note AN043&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_15.2MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-TRACE_ANTENNA_2.4GHZ_15.2MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

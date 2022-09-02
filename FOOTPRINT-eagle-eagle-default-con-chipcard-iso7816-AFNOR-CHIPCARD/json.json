@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONCHIPCARDISO7816AFNORCHIPCARD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-chipcard-iso7816"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AFNOR-CHIPCARD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-chipcard-iso7816/AFNOR-CHIPCARD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-chipcard-iso7816-AFNOR-CHIPCARD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOPVISHAYCAST3PIN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Vishay_CAST-3Pin"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Vishay_CAST-3Pin"
+        },
+        {
+            "name": "description",
+            "value": "IR Receiver Vishay TSOP-xxxx, CAST package, see https://www.vishay.com/docs/82493/tsop311.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "IRReceiverVishayTSOP-xxxx CAST"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Vishay_CAST-3Pin.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CAST-3Pin"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Vishay_CAST-3Pin"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRSLIDERXL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SLIDER-XLARGE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/SLIDER-XLARGE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Slide Potentiometer - PTH 60mm travel&lt;/h3&gt;\n&lt;p&gt;10k linear slide pot with 60mm travel.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Components/Switches/SC608N-b10k.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-XLARGE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-SLIDER-XLARGE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

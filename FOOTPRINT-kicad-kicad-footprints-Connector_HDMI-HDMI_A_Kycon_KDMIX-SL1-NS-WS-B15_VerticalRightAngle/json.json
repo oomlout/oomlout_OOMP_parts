@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNHDMIHDMIAKYCONKDMIXSL1NSWSB15VERTICALRIGHTANGLE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_HDMI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_HDMI/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+        },
+        {
+            "name": "description",
+            "value": "HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "hdmi type a"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_HDMI.3dshapes/HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_HDMI-HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

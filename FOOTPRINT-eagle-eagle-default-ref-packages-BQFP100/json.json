@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESBQFP1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BQFP100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/BQFP100"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Bumpered Quad Flat Pack&lt;/b&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BQFP100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESMSPECIALPLCC52SMAMPSOCKED"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "smd-special"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC52-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/smd-special/PLCC52-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-PLCC52-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-smd-special-PLCC52-SMD-AMP-SOCKED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

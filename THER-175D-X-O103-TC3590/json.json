@@ -29,6 +29,10 @@
             "value": "THER-175D-X-O103-TC3590"
         },
         {
+            "name": "oompID",
+            "value": "THER-175D-X-O103-TC3590"
+        },
+        {
             "name": "name",
             "value": "1.75 mm 10k Ohm Thermistor (3590)"
         }

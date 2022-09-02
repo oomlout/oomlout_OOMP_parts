@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELSICOMPUTERSYSTEMSTSS24"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lsi-computer-systems"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP24"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lsi-computer-systems/TSSOP24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-TSSOP24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

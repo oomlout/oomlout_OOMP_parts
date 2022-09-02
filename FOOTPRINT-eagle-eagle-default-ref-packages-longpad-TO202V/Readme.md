@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESLONGPADTO22V>eagle-default/ref-packages-longpad/TO202V](#fzerefpackageslongpadto22veagle-defaultref-packages-longpadto202v)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESLONGPADTO22V>eagle-default/ref-packages-longpad/TO202V
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO202V
+- Hex ID: FZEREFPACKAGESLONGPADTO22V
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESLONGPADTO22V
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages-longpad
+- oompIndex: TO202V
+- oompName: eagle-default/ref-packages-longpad/TO202V
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-longpad-TO202V

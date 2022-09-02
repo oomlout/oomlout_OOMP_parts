@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTSO8UNIVERSAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO08-UNIVERSAL"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/SO08-UNIVERSAL"
+        },
+        {
+            "name": "description",
+            "value": "SOIC-08 footprint wth long lands.&lt;br&gt;\n\nTo fit both narrow and wide SOICs - for SOIC-to-DIP adapter board.\n&lt;br&gt;&lt;br&gt;\nNot recommended if you're trying to fit a specific chip."
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-UNIVERSAL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-SO08-UNIVERSAL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

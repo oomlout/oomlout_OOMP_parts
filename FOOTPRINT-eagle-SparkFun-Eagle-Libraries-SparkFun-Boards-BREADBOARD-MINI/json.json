@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOBREADBOARDM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BREADBOARD-MINI"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/BREADBOARD-MINI"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Breadboard Mini&lt;/h3&gt;\n&lt;p&gt; Includes tdocu indicating solderable breadboard mini footprint&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Specifications:&lt;/b&gt;\n&lt;li&gt;Area:1.8x 1.4 inch&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Breadboard Mini&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-BREADBOARD-MINI"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

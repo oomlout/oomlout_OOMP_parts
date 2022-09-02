@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONERNI63179"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-erni"
+        },
+        {
+            "name": "oompIndex",
+            "value": "063179"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-erni/063179"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-erni-063179"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-erni-063179"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

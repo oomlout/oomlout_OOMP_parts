@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESWITCHOMRONB3F31XX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-omron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B3F-31XX"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-omron/B3F-31XX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-omron-B3F-31XX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

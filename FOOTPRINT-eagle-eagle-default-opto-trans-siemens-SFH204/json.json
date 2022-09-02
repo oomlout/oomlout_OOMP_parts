@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEOPTOTRANSSIEMENSSFH24"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-trans-siemens"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SFH204"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-trans-siemens/SFH204"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH204"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-trans-siemens-SFH204"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

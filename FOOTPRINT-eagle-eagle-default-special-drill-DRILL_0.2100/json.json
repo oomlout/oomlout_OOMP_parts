@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESPECIALDRILLDRILL21"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "special-drill"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DRILL_0.2100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/special-drill/DRILL_0.2100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-drill-DRILL_0.2100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-special-drill-DRILL_0.2100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

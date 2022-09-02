@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWDIPSWITCH2CHS2A"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIPSWITCH-02-CHS-02A"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/DIPSWITCH-02-CHS-02A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;2-Position DIP Switch - SMD, J-Hook Pads, 0.05&quot;-Pitch&lt;/h3&gt;\n&lt;p&gt;2-circuit DIP (dual inline package) switch. Commonly used to physcially set a circuit's behavior.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-DIPSWITCH-02-CHS-02A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-DIPSWITCH-02-CHS-02A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

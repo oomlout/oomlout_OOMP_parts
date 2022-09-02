@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOPLUNANSL32"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Luna_NSL-32"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Luna_NSL-32"
+        },
+        {
+            "name": "description",
+            "value": "Optoisolator with LED and photoresistor"
+        },
+        {
+            "name": "tags",
+            "value": "optoisolator"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Luna_NSL-32.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Luna_NSL-32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

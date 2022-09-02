@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFBLUERADIOBRLE4S2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BLUERADIO_BR-LE4.0-S2"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/BLUERADIO_BR-LE4.0-S2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;BlueRadio BR-LE4.0-S2 Bluetooth 4.0 Module&lt;/h3&gt;\n&lt;p&gt;11.8x17.6x1.9mm&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.blueradios.com/nBlue%20BR-LE4.0-S2%20Summary%20Datasheet.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BLUERADIO_BR-LE4.0-S2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-BLUERADIO_BR-LE4.0-S2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

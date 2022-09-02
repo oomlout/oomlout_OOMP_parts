@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKICADCEKICADLIBFOOTPRINT\\CEDIODEL85"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "CE_KiCadLib"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Footprint\\CE_Diode"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_0805"
+        },
+        {
+            "name": "oompName",
+            "value": "CE_KiCadLib/Footprint\\CE_Diode/LED_0805"
+        },
+        {
+            "name": "description",
+            "value": "LED 0805 smd package"
+        },
+        {
+            "name": "tags",
+            "value": "LED 0805 SMD"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Diode-LED_0805"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Diode-LED_0805"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

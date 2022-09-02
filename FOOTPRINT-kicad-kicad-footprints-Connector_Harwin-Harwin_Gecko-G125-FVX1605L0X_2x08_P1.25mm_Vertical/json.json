@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNHARWINHARWINGECKOG125FVX165LX2X8P125VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harwin"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harwin/Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "Harwin Gecko Connector, 16 pins, dual row female, vertical entry, PN:G125-FVX1605L0X"
+        },
+        {
+            "name": "tags",
+            "value": "connector harwin gecko"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Harwin.3dshapes/Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harwin-Harwin_Gecko-G125-FVX1605L0X_2x08_P1.25mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

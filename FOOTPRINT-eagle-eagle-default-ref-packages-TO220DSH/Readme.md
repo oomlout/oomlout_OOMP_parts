@@ -1,0 +1,28 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESTO22DSH>eagle-default/ref-packages/TO220DSH](#fzerefpackagesto22dsheagle-defaultref-packagesto220dsh)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESTO22DSH>eagle-default/ref-packages/TO220DSH
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-TO220DSH
+- Hex ID: FZEREFPACKAGESTO22DSH
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESTO22DSH
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages
+- oompIndex: TO220DSH
+- oompName: eagle-default/ref-packages/TO220DSH
+- description: &lt;b&gt;TO 220 DSH&lt;/b&gt; vertical (Anode1; Anode2; Gate)
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-TO220DSH

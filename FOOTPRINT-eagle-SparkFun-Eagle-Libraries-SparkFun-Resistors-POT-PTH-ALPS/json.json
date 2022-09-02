@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRPOTPALPS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POT-PTH-ALPS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-PTH-ALPS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;9mm Square Rotary Potentiometer - PTH&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Components/General/Linear-Trimpot.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-PTH-ALPS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-PTH-ALPS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

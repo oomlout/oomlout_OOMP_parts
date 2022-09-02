@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINCHOKESCHAFFNERRN1144225X215"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Choke_Schaffner_RN114-04-22.5x21.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/Choke_Schaffner_RN114-04-22.5x21.5mm"
+        },
+        {
+            "name": "description",
+            "value": "Current-compensated Chokes, Schaffner, RN114-04, 22.5mmx21.5mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/"
+        },
+        {
+            "name": "tags",
+            "value": "chokes schaffner tht"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/Choke_Schaffner_RN114-04-22.5x21.5mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN114-04-22.5x21.5mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-Choke_Schaffner_RN114-04-22.5x21.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

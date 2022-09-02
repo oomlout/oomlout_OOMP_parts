@@ -36,3 +36,4 @@ Contents
 - oompDesc: KA1015
 - oompIndex: 01
 - hexID: TP9A15
+- oompID: TRNP-T92-X-KA1015-01

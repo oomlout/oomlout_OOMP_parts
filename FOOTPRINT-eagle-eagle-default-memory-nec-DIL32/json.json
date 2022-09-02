@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYNECDIL32"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-nec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-nec/DIL32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-nec-DIL32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-nec-DIL32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

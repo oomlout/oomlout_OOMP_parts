@@ -44,3 +44,4 @@ Contents
 - manufacturersPartNumber: Sweet Sound,PSE1470+4005PA
 - ooPitch: 5
 - hexID: PZ14
+- oompID: PIEZ-14-B-STAN-01

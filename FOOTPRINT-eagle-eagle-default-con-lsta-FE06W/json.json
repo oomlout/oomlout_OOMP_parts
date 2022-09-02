@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONLSTAFE6W"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-lsta"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FE06W"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-lsta/FE06W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lsta-FE06W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-lsta-FE06W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

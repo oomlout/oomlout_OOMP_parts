@@ -27,7 +27,7 @@ Contents
 
 |image|image_RE|
 | :---: | :---: |
-|[![image](image_140.jpg)](image_600.jpg)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|
+|[![image](image_140.png)](image_600.png)|[![image_RE](image_RE_140.jpg)](image_RE_600.jpg)|
 
 ## Diagrams
   
@@ -96,6 +96,7 @@ Contents
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_LOCK_LONGPADS
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_NO_SILK
 - footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical
+- oompID: HEAD-I01-X-PI04-01
 
 
 

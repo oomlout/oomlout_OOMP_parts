@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFRFM22XXXS2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RFM22-XXX-S2"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/RFM22-XXX-S2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Hope RF RFM22 RF Transceiver&lt;/h3&gt;\n&lt;p&gt;Package for Hope RF s RFM22-xxx-S2 SMD wireless transciever, xxx is module s frequency band.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/12030&quot;&gt;SparkFun Link (915MHz)&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/12770&quot;&gt;SparkFun Link (433 MHz)&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Wireless/General/RFM22.PDF&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM22-XXX-S2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM22-XXX-S2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

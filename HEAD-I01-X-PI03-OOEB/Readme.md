@@ -73,3 +73,4 @@ Contents
 - pcbFootprint: HEAD-I01-X-PI03-01
 - kicadSymbol: Connector>Conn_01x03_Male
 - kicadFootprint: Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+- oompID: HEAD-I01-X-PI03-OOEB

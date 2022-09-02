@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPCHAMP14H"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-champ"
+        },
+        {
+            "name": "oompIndex",
+            "value": "14H"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-champ/14H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-14H"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-champ-14H"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

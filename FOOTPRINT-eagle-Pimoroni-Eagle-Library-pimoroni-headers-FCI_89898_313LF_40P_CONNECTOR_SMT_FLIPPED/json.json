@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPHEADERSFCI89898313LF4PCNSFLIPPED"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-headers"
+        },
+        {
+            "name": "oompIndex",
+            "value": "FCI_89898_313LF_40P_CONNECTOR_SMT_FLIPPED"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-headers/FCI_89898_313LF_40P_CONNECTOR_SMT_FLIPPED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-FCI_89898_313LF_40P_CONNECTOR_SMT_FLIPPED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-FCI_89898_313LF_40P_CONNECTOR_SMT_FLIPPED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

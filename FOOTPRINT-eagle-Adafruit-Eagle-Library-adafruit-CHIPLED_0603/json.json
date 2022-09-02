@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZACHIPL63"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIPLED_0603"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/CHIPLED_0603"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;CHIPLED&lt;/b&gt;&lt;p&gt;\nSource: http://www.osram.convergy.de/ ... LG_LY Q971.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_0603"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-CHIPLED_0603"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

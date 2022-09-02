@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSDFN63X3SI721"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DFN-6-3X3-SI7021"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/DFN-6-3X3-SI7021"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;6-Pin DFN w/ Center Pad (3 x 3 mm) - Designed for Si7021&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Sensors/Weather/Si7021.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 6 (+ center pad)&lt;/li&gt;\n&lt;li&gt;Area: 3.0 x 3.0 x 1.21 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1.0 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;SI7021&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-SI7021"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-DFN-6-3X3-SI7021"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

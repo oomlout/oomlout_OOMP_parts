@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONBERGPN8752S"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-berg"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PN87520-S"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-berg/PN87520-S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-berg-PN87520-S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-berg-PN87520-S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

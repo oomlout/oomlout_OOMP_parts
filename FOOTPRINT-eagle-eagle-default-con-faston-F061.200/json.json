@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONFASTONF612"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-faston"
+        },
+        {
+            "name": "oompIndex",
+            "value": "F061.200"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-faston/F061.200"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-faston-F061.200"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-faston-F061.200"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

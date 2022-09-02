@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNUUMBWUERTH6291515521"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_USB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "USB_Micro-B_Wuerth_629105150521"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_USB/USB_Micro-B_Wuerth_629105150521"
+        },
+        {
+            "name": "description",
+            "value": "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "usb micro receptacle"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Wuerth_629105150521.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_USB-USB_Micro-B_Wuerth_629105150521"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

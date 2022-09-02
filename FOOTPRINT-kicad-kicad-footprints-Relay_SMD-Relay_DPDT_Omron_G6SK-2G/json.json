@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKRELAYSMRELAYDPDTOMRONG6SK2G"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Relay_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Relay_DPDT_Omron_G6SK-2G"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Relay_SMD/Relay_DPDT_Omron_G6SK-2G"
+        },
+        {
+            "name": "description",
+            "value": "Relay Omron G6SK-2G, see http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Relay Omron G6SK-2G"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Relay_SMD.3dshapes/Relay_DPDT_Omron_G6SK-2G.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2G"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Relay_SMD-Relay_DPDT_Omron_G6SK-2G"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

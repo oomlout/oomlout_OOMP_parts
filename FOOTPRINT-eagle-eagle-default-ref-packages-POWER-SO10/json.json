@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESPOWERSO1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POWER-SO10"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/POWER-SO10"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Power SO-10&lt;/b&gt;&lt;p&gt;&#xD;\nhttp://eu.st.com/stonline/ 3732.pdf and 5691.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-POWER-SO10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-POWER-SO10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

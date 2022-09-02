@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPHEADERS1X2SRIGHTFEMALE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-headers"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1X20-SMT-RIGHT-FEMALE"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-headers/1X20-SMT-RIGHT-FEMALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X20-SMT-RIGHT-FEMALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-1X20-SMT-RIGHT-FEMALE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

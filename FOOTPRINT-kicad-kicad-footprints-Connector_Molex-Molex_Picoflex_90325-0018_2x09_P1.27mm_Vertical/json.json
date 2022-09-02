@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNMXMXPICOFLEX9325182X9P127VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Molex"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Molex_Picoflex_90325-0018_2x09_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Molex/Molex_Picoflex_90325-0018_2x09_P1.27mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "Molex Picoflex Ribbon-Cable Connectors, 90325-0018, 18 Pins (http://www.molex.com/pdm_docs/sd/903250004_sd.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "connector Molex Picoflex side entry"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Picoflex_90325-0018_2x09_P1.27mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0018_2x09_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Molex-Molex_Picoflex_90325-0018_2x09_P1.27mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

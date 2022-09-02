@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESWITCHREEDMK68C"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-reed"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MK6-8-C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-reed/MK6-8-C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-reed-MK6-8-C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

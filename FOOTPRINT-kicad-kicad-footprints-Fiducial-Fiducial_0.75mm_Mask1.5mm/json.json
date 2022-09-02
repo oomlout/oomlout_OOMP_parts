@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKFIDFID75MASK15"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Fiducial"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Fiducial_0.75mm_Mask1.5mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Fiducial/Fiducial_0.75mm_Mask1.5mm"
+        },
+        {
+            "name": "description",
+            "value": "Circular Fiducial, 0.75mm bare copper, 1.5mm soldermask opening (Level B)"
+        },
+        {
+            "name": "tags",
+            "value": "fiducial"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.75mm_Mask1.5mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Fiducial-Fiducial_0.75mm_Mask1.5mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

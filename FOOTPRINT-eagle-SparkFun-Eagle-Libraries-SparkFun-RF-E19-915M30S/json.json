@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFE19915M3S"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "E19-915M30S"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/E19-915M30S"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;E19-915M30S - 1W 915MHz TRX Using SX1276&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 22&lt;/li&gt;\n&lt;li&gt;Pin pitch: Varies&lt;/li&gt;\n&lt;li&gt;Area: 1.15 in x 1.65 in&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=https://cdn.sparkfun.com/assets/d/8/3/6/e/E19__915M30S__Datasheet_EN_v1.0.pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s): \n&lt;ul&gt;&lt;li&gt;SAMD21 ProRF 1W&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-E19-915M30S"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-E19-915M30S"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

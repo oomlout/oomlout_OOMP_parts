@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCAPACITORTANTALUMSMCPEIA1688AVXJ"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_Tantalum_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_EIA-1608-08_AVX-J"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_Tantalum_SMD/CP_EIA-1608-08_AVX-J"
+        },
+        {
+            "name": "description",
+            "value": "Tantalum Capacitor SMD AVX-J (1608-08 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/48064/_t58_vmn_pt0471_1601.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "capacitor tantalum"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-1608-08_AVX-J.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-08_AVX-J"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_Tantalum_SMD-CP_EIA-1608-08_AVX-J"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

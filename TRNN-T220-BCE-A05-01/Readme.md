@@ -65,3 +65,4 @@ Contents
 - ooDesignator: Q1
 - kicadSymbol: Transistor_BLT>TIP120
 - kicadFootprint: Package_TO_SOT_THT:TO-220-3_Vertical
+- oompID: TRNN-T220-BCE-A05-01

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPMECHANICALPOTENTIOMETERWLGAP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-mechanical"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POTENTIOMETER_W_LED_GAP"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-mechanical/POTENTIOMETER_W_LED_GAP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-mechanical-POTENTIOMETER_W_LED_GAP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-mechanical-POTENTIOMETER_W_LED_GAP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

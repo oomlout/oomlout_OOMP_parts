@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESSOT89BCE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOT89-BCE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SOT89-BCE"
+        },
+        {
+            "name": "description",
+            "value": "SOT98 Basis Collector Emitter"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-BCE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SOT89-BCE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

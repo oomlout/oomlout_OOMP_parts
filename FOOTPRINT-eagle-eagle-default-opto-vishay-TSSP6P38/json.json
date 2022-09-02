@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEOPTOVISHAYTSSP6P38"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "opto-vishay"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSP6P38"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/opto-vishay/TSSP6P38"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-vishay-TSSP6P38"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-opto-vishay-TSSP6P38"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

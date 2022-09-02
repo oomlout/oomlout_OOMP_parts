@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFSARALGA"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SARA-LGA"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/SARA-LGA"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;ublox SARA LGA form factor&lt;/h3&gt;\n&lt;p&gt;Miniature cellular modem package. Common form factor for many ublox cellular modules, including SARA-R4 and SARA-U2 series.&lt;/p&gt;\n&lt;p&gt;\n&lt;ul&gt;&lt;li&gt;Dimensions: 26.0 x 16.0 mm&lt;/li&gt;\n&lt;li&gt;Pins: 96&lt;/li&gt;\n&lt;li&gt;Pitch: 1.1mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/p&gt;\n&lt;p&gt;As per the SARA System Integration Manual: tRestrict has been added around the ANT and ANT_GNSS pads to reduce parasitic capacitance to ground; restrict has _not_ been added to layer 2 as the prepreg/dielectric thickness will be &gt;= 200m.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SARA-LGA"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-SARA-LGA"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

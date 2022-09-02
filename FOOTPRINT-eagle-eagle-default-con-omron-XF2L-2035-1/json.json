@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONOMRONXF2L2351"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-omron"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XF2L-2035-1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-omron/XF2L-2035-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-omron-XF2L-2035-1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-omron-XF2L-2035-1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

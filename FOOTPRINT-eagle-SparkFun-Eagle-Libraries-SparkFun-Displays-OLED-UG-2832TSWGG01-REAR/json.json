@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNDISOLUG2832TSWGG1REAR"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Displays"
+        },
+        {
+            "name": "oompIndex",
+            "value": "OLED-UG-2832TSWGG01-REAR"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Displays/OLED-UG-2832TSWGG01-REAR"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;OLDE display&lt;/h3&gt;\n&lt;p&gt;&lt;/p&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 30&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.7mm&lt;/li&gt;\n&lt;li&gt;Area: &lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s): \n&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/13003&quot;&gt;Microview breakout&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01-REAR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-OLED-UG-2832TSWGG01-REAR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

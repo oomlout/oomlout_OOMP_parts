@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSLGA14L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA14L"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA14L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;p&gt;Physical Chracteristics&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;2.5mm x 3mm Package size&lt;/li&gt;\n&lt;li&gt;14 pins&lt;/li&gt;\n&lt;li&gt;0.5mm pitch&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA14L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA14L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTQFN24ALT2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN-24_ALT2"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/QFN-24_ALT2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;24-pin QFN with Exposed Thermal pad&lt;/h3&gt;\nParts that use this package:\n&lt;ul&gt;\n&lt;li&gt;A6282&lt;/li&gt;\n&lt;/ul&gt;\nLast modified: 8/20/10&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;***UNPROVEN***&lt;/b&gt;&lt;BR&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24_ALT2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN-24_ALT2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

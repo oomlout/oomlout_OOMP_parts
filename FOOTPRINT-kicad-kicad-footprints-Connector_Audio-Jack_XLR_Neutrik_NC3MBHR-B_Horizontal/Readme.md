@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCNAUDIOJXLRNEUTRIKNC3MBHRBHORIZONTAL>kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MBHR-B_Horizontal](#fzkcnaudiojxlrneutriknc3mbhrbhorizontalkicad-footprintsconnector_audiojack_xlr_neutrik_nc3mbhr-b_horizontal)
+	* [Tags](#tags)
+
+# FZKCNAUDIOJXLRNEUTRIKNC3MBHRBHORIZONTAL>kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+- Hex ID: FZKCNAUDIOJXLRNEUTRIKNC3MBHRBHORIZONTAL
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCNAUDIOJXLRNEUTRIKNC3MBHRBHORIZONTAL
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Audio
+- oompIndex: Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+- oompName: kicad-footprints/Connector_Audio/Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+- description: B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhr-b
+- tags: neutrik xlr b
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_XLR_Neutrik_NC3MBHR-B_Horizontal.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Connector_Audio-Jack_XLR_Neutrik_NC3MBHR-B_Horizontal

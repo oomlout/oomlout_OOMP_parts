@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNPHOENIXMSTBPHOENIXCONTACTMSTBVA254G1X4P5VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Phoenix_MSTB"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Phoenix_MSTB/PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "Generic Phoenix Contact connector footprint for: MSTBVA_2,5/4-G; number of pins: 04; pin pitch: 5.00mm; Vertical || order number: 1755532 12A || order number: 1924211 16A (HC)"
+        },
+        {
+            "name": "tags",
+            "value": "phoenix_contact connector MSTBVA_01x04_G_5.00mm"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Phoenix_MSTB.3dshapes/PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Phoenix_MSTB-PhoenixContact_MSTBVA_2,5_4-G_1x04_P5.00mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

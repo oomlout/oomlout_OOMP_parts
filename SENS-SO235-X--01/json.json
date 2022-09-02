@@ -1,14 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "SENS-SO235-X-K36-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor"
-        },
-        {
             "name": "oompType",
             "value": "SENS"
         },
@@ -33,8 +25,12 @@
             "value": "SENS-SO235-X--01"
         },
         {
+            "name": "oompID",
+            "value": "SENS-SO235-X--01"
+        },
+        {
             "name": "name",
-            "value": "SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor"
+            "value": "SMD (SOT-23-5) Sensor"
         }
     ]
 }

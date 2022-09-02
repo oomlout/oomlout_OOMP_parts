@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPICSTQFPS7X748EP"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-ics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP-S-7X7-48-EP"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-ics/TQFP-S-7X7-48-EP"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;QFP48&lt;/b&gt;&lt;p&gt;\nshrink quad flat pack, square"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-TQFP-S-7X7-48-EP"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-TQFP-S-7X7-48-EP"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

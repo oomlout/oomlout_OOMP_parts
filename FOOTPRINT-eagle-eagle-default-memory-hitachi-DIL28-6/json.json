@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMEMORYHITACHIDIL286"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "memory-hitachi"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL28-6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/memory-hitachi/DIL28-6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL28-6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-memory-hitachi-DIL28-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

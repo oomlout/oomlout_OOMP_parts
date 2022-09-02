@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNDISAYF331335"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Displays"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AYF331335"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Displays/AYF331335"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Panasonic Y3B FPC Connector - 13 Pin&lt;/h3&gt;\n&lt;p&gt;Low-profile, top/bottom contact connector for 13-pin, 0.3mm pitch FPC connector.&lt;/p&gt;\n&lt;p&gt;&lt;a href=http://www3.panasonic.biz/ac/e_download/control/connector/fpc-ffc/catalog/con_eng_y3bw.pdf&gt;Datasheet&lt;/a&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-AYF331335"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

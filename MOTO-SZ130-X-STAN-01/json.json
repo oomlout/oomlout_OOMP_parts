@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MOTO"
+        },
+        {
+            "name": "oompSize",
+            "value": "SZ130"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MSZ130"
+        },
+        {
+            "name": "oompID",
+            "value": "MOTO-SZ130-X-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MOTO-SZ130-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "130 Size Motor"
+        }
+    ]
+}

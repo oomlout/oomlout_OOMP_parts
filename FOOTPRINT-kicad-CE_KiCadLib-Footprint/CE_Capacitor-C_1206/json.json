@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKICADCEKICADLIBFOOTPRINT\\CECAPACITORC126"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "CE_KiCadLib"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Footprint\\CE_Capacitor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C_1206"
+        },
+        {
+            "name": "oompName",
+            "value": "CE_KiCadLib/Footprint\\CE_Capacitor/C_1206"
+        },
+        {
+            "name": "description",
+            "value": "Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)"
+        },
+        {
+            "name": "tags",
+            "value": "capacitor 1206"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Capacitor-C_1206"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Capacitor-C_1206"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

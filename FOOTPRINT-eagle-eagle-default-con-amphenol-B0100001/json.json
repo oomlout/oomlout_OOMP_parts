@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPHENOLB11"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amphenol"
+        },
+        {
+            "name": "oompIndex",
+            "value": "B0100001"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amphenol/B0100001"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amphenol-B0100001"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amphenol-B0100001"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

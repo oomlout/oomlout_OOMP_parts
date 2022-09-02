@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSGSAMM8Q"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-GPS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SAM-M8Q"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-GPS/SAM-M8Q"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SAM-M8Q-0-10&lt;/h3&gt;\nPhyscial Characteristics\n&lt;ul&gt;\n&lt;li&gt;15x15x6.3mm&lt;/li&gt;\n&lt;li&gt;Module is a Chip Antenna/GPS Unit combined&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-GPS-SAM-M8Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

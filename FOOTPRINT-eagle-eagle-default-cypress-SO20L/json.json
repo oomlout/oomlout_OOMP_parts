@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECYPRESSSO2L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "cypress"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO20L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/cypress/SO20L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SO20L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SO20L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

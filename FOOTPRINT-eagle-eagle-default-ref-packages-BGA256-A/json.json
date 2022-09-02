@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESBGA256A"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA256-A"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/BGA256-A"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Ball Grid Array&lt;/b&gt; Type A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-BGA256-A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

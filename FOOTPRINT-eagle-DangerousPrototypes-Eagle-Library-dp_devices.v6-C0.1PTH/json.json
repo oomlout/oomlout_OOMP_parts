@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEDPC1P"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "DangerousPrototypes-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "dp_devices.v6"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C0.1PTH"
+        },
+        {
+            "name": "oompName",
+            "value": "DangerousPrototypes-Eagle-Library/dp_devices.v6/C0.1PTH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-DangerousPrototypes-Eagle-Library-dp_devices.v6-C0.1PTH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-DangerousPrototypes-Eagle-Library-dp_devices.v6-C0.1PTH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

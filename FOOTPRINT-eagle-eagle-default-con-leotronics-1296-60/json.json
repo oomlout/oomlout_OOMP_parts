@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONLEOTRONICS12966"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-leotronics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1296-60"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-leotronics/1296-60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-leotronics-1296-60"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-leotronics-1296-60"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

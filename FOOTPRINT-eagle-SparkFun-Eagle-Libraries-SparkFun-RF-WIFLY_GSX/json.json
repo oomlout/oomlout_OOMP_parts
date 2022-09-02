@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFWIFLYGSX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WIFLY_GSX"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/WIFLY_GSX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Roving Networks RN-131C (WiFly GSX) 802.11b/g Module&lt;/h3&gt;\n&lt;p&gt;Wi-Fi module with a 37 x 28.5 x 3.5 mm footprint.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Wireless/WiFi/rn-131-ds.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10004&quot;&gt;SparkFun Product Link&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-WIFLY_GSX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-WIFLY_GSX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

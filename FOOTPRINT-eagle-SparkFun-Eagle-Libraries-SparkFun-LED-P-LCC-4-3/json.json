@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLPLCC43"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-LCC-4-3"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/P-LCC-4-3"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LED P-LCC-4-3 - SMT&lt;/h3&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.7mm &lt;/li&gt;\n&lt;li&gt;Size: 3.2*2.8*1.9mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;http://www.fairchip.com/pdf/Everlight/67-23-R6GHBHC-B01-2T.pdf&quot;&gt;R6GHBHC&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device:\n&lt;ul&gt;&lt;li&gt;0.13_RGB_LED&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-P-LCC-4-3"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-P-LCC-4-3"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

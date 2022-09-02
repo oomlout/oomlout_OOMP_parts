@@ -1,0 +1,27 @@
+
+
+
+
+Contents
+========
+
+* [FZEAGLEOPLEAGLELIBRARYOPLICDIP28254347X762>OPL_Eagle_Library/OPL_IC/DIP28-2.54-34.7X7.62MM](#fzeagleopleaglelibraryoplicdip28254347x762opl_eagle_libraryopl_icdip28-254-347x762mm)
+	* [Tags](#tags)
+
+# FZEAGLEOPLEAGLELIBRARYOPLICDIP28254347X762>OPL_Eagle_Library/OPL_IC/DIP28-2.54-34.7X7.62MM
+
+- ID: FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-DIP28-2.54-34.7X7.62MM
+- Hex ID: FZEAGLEOPLEAGLELIBRARYOPLICDIP28254347X762
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEAGLEOPLEAGLELIBRARYOPLICDIP28254347X762
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: OPL_Eagle_Library
+- oompDesc: OPL_IC
+- oompIndex: DIP28-2.54-34.7X7.62MM
+- oompName: OPL_Eagle_Library/OPL_IC/DIP28-2.54-34.7X7.62MM
+- oompID: FOOTPRINT-eagle-OPL_Eagle_Library-OPL_IC-DIP28-2.54-34.7X7.62MM

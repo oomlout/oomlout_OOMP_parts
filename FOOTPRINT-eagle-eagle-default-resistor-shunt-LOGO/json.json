@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERESISTORSHUNTL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-shunt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LOGO"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-shunt/LOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-shunt-LOGO"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-shunt-LOGO"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

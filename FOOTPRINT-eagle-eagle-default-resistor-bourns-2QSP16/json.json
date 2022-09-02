@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERESISTORBOURNS2QSP16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-bourns"
+        },
+        {
+            "name": "oompIndex",
+            "value": "2QSP16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-bourns/2QSP16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-bourns-2QSP16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

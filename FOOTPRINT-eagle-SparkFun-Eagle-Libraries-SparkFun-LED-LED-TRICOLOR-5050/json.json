@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLLTRICOLOR55"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED-TRICOLOR-5050"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/LED-TRICOLOR-5050"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;5050 SMD RGB LED&lt;/h3&gt;\n&lt;p&gt;&lt;b&gt;Specifications:&lt;/b&gt;\n&lt;ul&gt;&lt;li&gt;Pin count: 6&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.6mm&lt;/li&gt;\n&lt;li&gt;Area: 5.0mm x 5.mm&lt;/li&gt;\n&lt;li&gt;Thickness: 2.6mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf&quot;&gt; 5060BRG4&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Example device(s):&lt;/b&gt;\n&lt;ul&gt;&lt;li&gt;LED-RGB&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-5050"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-LED-TRICOLOR-5050"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

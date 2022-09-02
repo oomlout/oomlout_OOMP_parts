@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAMDMACHTQFP44"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "amd-mach"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TQFP44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/amd-mach/TQFP44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-TQFP44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-amd-mach-TQFP44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

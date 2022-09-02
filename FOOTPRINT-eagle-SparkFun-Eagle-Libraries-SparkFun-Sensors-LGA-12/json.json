@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSLGA12"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LGA-12"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/LGA-12"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;LGA-12 2x2x1 mm 12-lead&lt;/h3&gt;\n&lt;ul&gt;&lt;li&gt;0.50mm pitch&lt;/li&gt;\n&lt;li&gt;Pads are 0.25x0.275 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;Derrived from the following ST PDFs&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00089896.pdf&lt;/li&gt;\n&lt;li&gt;http://www.st.com/web/en/resource/technical/document/technical_note/CD00134799.pdf&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-12"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-LGA-12"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

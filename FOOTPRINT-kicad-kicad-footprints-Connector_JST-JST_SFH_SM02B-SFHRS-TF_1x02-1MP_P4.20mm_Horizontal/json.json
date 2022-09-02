@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNJSTJSTSFHSM2BSFHRSTF1X21MPP42HORIZONTAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_JST"
+        },
+        {
+            "name": "oompIndex",
+            "value": "JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_JST/JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal"
+        },
+        {
+            "name": "description",
+            "value": "JST SFH series connector, SM02B-SFHRS-TF (http://www.jst-mfg.com/product/pdf/eng/eSFH.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "connector JST SFH horizontal"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SFH_SM02B-SFHRS-TF_1x02-1MP_P4.20mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

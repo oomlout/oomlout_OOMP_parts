@@ -86,3 +86,4 @@ Contents
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_LOCK_LONGPADS
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X09_NO_SILK
 - footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x09_P2.54mm_Vertical
+- oompID: HEAD-I01-X-PI09-01

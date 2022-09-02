@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKOPMAXIMOLGA1433X56P8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OptoDevice"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Maxim_OLGA-14_3.3x5.6mm_P0.8mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/OptoDevice/Maxim_OLGA-14_3.3x5.6mm_P0.8mm"
+        },
+        {
+            "name": "description",
+            "value": "https://pdfserv.maximintegrated.com/land_patterns/90-0602.PDF"
+        },
+        {
+            "name": "tags",
+            "value": "OLGA-14 OESIP-14"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/OptoDevice.3dshapes/Maxim_OLGA-14_3.3x5.6mm_P0.8mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-OptoDevice-Maxim_OLGA-14_3.3x5.6mm_P0.8mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

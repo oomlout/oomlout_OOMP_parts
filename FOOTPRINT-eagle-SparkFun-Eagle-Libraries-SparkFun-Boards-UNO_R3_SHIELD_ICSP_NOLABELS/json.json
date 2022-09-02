@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOUNOR3SHICSPNOLABELS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "UNO_R3_SHIELD_ICSP_NOLABELS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/UNO_R3_SHIELD_ICSP_NOLABELS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Arduino Uno-Compatible Footprint with ICSP&lt;/h3&gt;\nNo mounting holes, no silk labels on pins. \n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 38&lt;/li&gt;\n&lt;li&gt;Pin pitch: 0.1&quot;&lt;/li&gt;\n&lt;li&gt;Area:2.1x2.35&quot;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;Arduino Uno R3 Shield ICSP&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP_NOLABELS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-UNO_R3_SHIELD_ICSP_NOLABELS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

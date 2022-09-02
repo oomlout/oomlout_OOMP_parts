@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETELEFUNKENTS17TB1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "telefunken"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSOP17_TB1"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/telefunken/TSOP17_TB1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-telefunken-TSOP17_TB1"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-telefunken-TSOP17_TB1"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

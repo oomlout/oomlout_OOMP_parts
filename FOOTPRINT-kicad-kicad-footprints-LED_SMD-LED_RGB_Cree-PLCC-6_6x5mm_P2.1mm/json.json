@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKLSMLRGBCREEPLCC66X5P21"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LED_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/LED_SMD/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
+        },
+        {
+            "name": "description",
+            "value": "http://www.farnell.com/datasheets/2003905.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "LED RGB PLCC-6 CLP6C-FBK"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

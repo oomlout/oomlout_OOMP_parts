@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINLTOROIDVERTICALL216W95P711PULSEC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C"
+        },
+        {
+            "name": "description",
+            "value": "L_Toroid, Vertical series, Radial, pin pitch=7.11mm, , length*width=21.59*9.53mm^2, Pulse, C, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "L_Toroid Vertical series Radial pin pitch 7.11mm  length 21.59mm width 9.53mm Pulse C"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

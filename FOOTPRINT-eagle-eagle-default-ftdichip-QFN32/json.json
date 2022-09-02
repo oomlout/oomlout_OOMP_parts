@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFTDICHIPQFN32"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ftdichip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ftdichip/QFN32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ftdichip-QFN32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ftdichip-QFN32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

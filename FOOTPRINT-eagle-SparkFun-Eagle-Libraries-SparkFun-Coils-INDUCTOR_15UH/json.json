@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCOINDUCTOR15UH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Coils"
+        },
+        {
+            "name": "oompIndex",
+            "value": "INDUCTOR_15UH"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Coils/INDUCTOR_15UH"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Non-standard 5x5 Inductor&lt;/h3&gt;\nMechanical Specifications\n&lt;ul&gt;\n&lt;li&gt;Overall Size: 5mm x 5mm&lt;/li&gt;\n&lt;li&gt;Pad Size: 1.85mm x 4.1mm&lt;/li&gt;\n&lt;li&gt;Pad Pitch: 1.8mm&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;li&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_15UH"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

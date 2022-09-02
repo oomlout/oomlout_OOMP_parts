@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESSRTLTTW"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMARTLED-TTW"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/SMARTLED-TTW"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;SmartLED TTW&lt;/b&gt;&lt;p&gt;&#xD;\nRecommended Solder Pad useable for SmartLEDTM and Chipled - Package 0603&lt;br&gt;&#xD;\nPackage able to withstand TTW-soldering heat&lt;br&gt;&#xD;\nPackage suitable for TTW-soldering&lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... LO_LS_LY L89K.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SMARTLED-TTW"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-SMARTLED-TTW"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

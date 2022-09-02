@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPGPOWERCHOKEWETPC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "gee_s"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POWER-CHOKE_WE-TPC"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/gee_s/POWER-CHOKE_WE-TPC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;POWER-CHOKE WE-TPC&lt;/b&gt;&lt;p&gt;\nWrth Elektronik, Partnumber: 744053220&lt;br&gt;\nSource: WE-TPC 744053220.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-POWER-CHOKE_WE-TPC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-gee_s-POWER-CHOKE_WE-TPC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

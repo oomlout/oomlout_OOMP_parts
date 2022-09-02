@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESWITCHCOTOCT1XXXXG4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "switch-coto"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CT10-XXXX-G4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/switch-coto/CT10-XXXX-G4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-switch-coto-CT10-XXXX-G4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

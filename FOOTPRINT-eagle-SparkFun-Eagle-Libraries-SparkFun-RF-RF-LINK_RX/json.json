@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFRFLINKRX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RF-LINK_RX"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/RF-LINK_RX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;RF Link Receiver, PTH Package&lt;/h3&gt;\n&lt;p&gt;These RF receivers easily fit into a breadboard and work well with microcontrollers to create a very simple wireless data link.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10532&quot;&gt;SparkFun Product&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://cdn.sparkfun.com/datasheets/Wireless/General/RWS-371-6_433.92MHz_ASK_RF_Receiver_Module_Data_Sheet.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF-LINK_RX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RF-LINK_RX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

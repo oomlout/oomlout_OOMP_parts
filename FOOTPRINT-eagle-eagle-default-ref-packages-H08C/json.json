@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESH8C"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H08C"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/H08C"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO-99&lt;/b&gt;&lt;p&gt;&#xD;\nNational Semiconductor H08C&lt;br&gt;&#xD;\nMototola 601-04"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-H08C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-H08C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

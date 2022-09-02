@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZSRFANT24GHZ65X22>SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-6.5X2.2MM](#fzsrfant24ghz65x22sparkfun-eagle-librariessparkfun-rfant-24ghz-65x22mm)
+	* [Tags](#tags)
+
+# FZSRFANT24GHZ65X22>SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-6.5X2.2MM
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-6.5X2.2MM
+- Hex ID: FZSRFANT24GHZ65X22
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZSRFANT24GHZ65X22
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: SparkFun-Eagle-Libraries
+- oompDesc: SparkFun-RF
+- oompIndex: ANT-2.4GHZ-6.5X2.2MM
+- oompName: SparkFun-Eagle-Libraries/SparkFun-RF/ANT-2.4GHZ-6.5X2.2MM
+- description: &lt;h3&gt;2.45GHz Chip Antenna - 6.5 x 2.2 x 1.0 mm&lt;/h3&gt;
+&lt;p&gt; 6.5 x 2.2 x 1.0 mm package&lt;/p&gt;
+&lt;p&gt;Package used for Linx ANT-2.45-CHIP-x antenna&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Components/chip-antenna-2.4ghz.pdf&quot;&gt;Example Datasheet&lt;/a&gt;&lt;/p&gt;
+- oompID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-ANT-2.4GHZ-6.5X2.2MM

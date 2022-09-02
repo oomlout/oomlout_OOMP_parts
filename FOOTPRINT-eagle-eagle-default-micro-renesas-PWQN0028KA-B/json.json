@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMRENESASPWQN28KAB"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-renesas"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PWQN0028KA-B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-renesas/PWQN0028KA-B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-renesas-PWQN0028KA-B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-renesas-PWQN0028KA-B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -141,6 +141,10 @@
             "value": "HEAD-I01-X-PI09-01"
         },
         {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI09-01"
+        },
+        {
             "name": "name",
             "value": "2.54 mm 9 Pin Header"
         }

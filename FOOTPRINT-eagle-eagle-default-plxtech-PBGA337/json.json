@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEPLXTECHPBGA337"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "plxtech"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PBGA337"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/plxtech/PBGA337"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-plxtech-PBGA337"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-plxtech-PBGA337"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

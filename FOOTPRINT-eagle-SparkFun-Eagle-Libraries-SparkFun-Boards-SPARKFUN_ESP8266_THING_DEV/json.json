@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOSPARKFUNESP8266THINGDEV"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SPARKFUN_ESP8266_THING_DEV"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/SPARKFUN_ESP8266_THING_DEV"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SparkFun Thing Development Board Footprint&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 20&lt;/li&gt;\n&lt;li&gt;Pin pitch:0.1 inch&lt;/li&gt;\n&lt;li&gt;Area: 2.2 x 1.0 inchees&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s):\n&lt;ul&gt;&lt;li&gt;SparkFun Thing Development Board&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-SPARKFUN_ESP8266_THING_DEV"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

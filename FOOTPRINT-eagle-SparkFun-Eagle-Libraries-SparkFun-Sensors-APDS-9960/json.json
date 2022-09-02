@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSAPDS996"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "APDS-9960"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/APDS-9960"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;APDS-9960 Proximity, Light, RGB, Gesture Sensor&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Sensors/Proximity/apds9960.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 8&lt;/li&gt;\n&lt;li&gt;Dimensions: 3.94 x 2.36 x 1.35 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 0.97 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;APDS-9960&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-APDS-9960"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-APDS-9960"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

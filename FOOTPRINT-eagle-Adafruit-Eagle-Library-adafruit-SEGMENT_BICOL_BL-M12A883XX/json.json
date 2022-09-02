@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZASBICOLBLM12A883XX"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SEGMENT_BICOL_BL-M12A883XX"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/SEGMENT_BICOL_BL-M12A883XX"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Source: &lt;/b&gt;http://www.betlux.com/product/led_dot_matrix/BL-M12A883xx.PDF"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-M12A883XX"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-SEGMENT_BICOL_BL-M12A883XX"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLSFH4641SHORT2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SFH4641-SHORT2"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/SFH4641-SHORT2"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SFH4641&lt;/h3&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 2&lt;/li&gt;\n&lt;li&gt;Size: 3.3 x 2.35 mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;http://www.mouser.com/ds/2/311/SFH%204641,%20Lead%20(Pb)%20Free%20Product%20-%20RoHS%20Compliant-318787.pdf&quot;&gt;SFH 4641&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device:\n&lt;ul&gt;&lt;li&gt;SFH4641&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-SHORT2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-SFH4641-SHORT2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

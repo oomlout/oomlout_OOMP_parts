@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSIPSIP9HOUSING"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SIP"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SIP9_Housing"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SIP/SIP9_Housing"
+        },
+        {
+            "name": "description",
+            "value": "SIP9"
+        },
+        {
+            "name": "tags",
+            "value": "SIP9"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SIP.3dshapes/SIP9_Housing.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SIP-SIP9_Housing"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMMOTOROLAMAPBGA16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-motorola"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAPBGA160"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-motorola/MAPBGA160"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-MAPBGA160"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-MAPBGA160"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

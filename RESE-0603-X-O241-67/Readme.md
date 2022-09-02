@@ -5,14 +5,14 @@
 Contents
 ========
 
-* [RESE-0603-X-O241-67>SMD (0603) 2.4k Ohm Resistor 1%](#rese-0603-x-o241-67smd-0603-24k-ohm-resistor-1)
+* [RESE-0603-X-O241-67>SMD (0603) 240 Ohm Resistor 1%](#rese-0603-x-o241-67smd-0603-240-ohm-resistor-1)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Footprints](#footprints)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0603-X-O241-67>SMD (0603) 2.4k Ohm Resistor 1%
+# RESE-0603-X-O241-67>SMD (0603) 240 Ohm Resistor 1%
 
 - ID: RESE-0603-X-O241-67
 - Name: RESE-0603-X-O241-67
@@ -37,8 +37,6 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O242-67
-- name: SMD (0603) 2.4k Ohm Resistor 1%
 - hexID: R6242A
 - oompType: RESE
 - oompSize: 0603
@@ -58,3 +56,4 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompID: RESE-0603-X-O241-67

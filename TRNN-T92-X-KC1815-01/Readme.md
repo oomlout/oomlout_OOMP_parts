@@ -36,3 +36,4 @@ Contents
 - oompDesc: KC1815
 - oompIndex: 01
 - hexID: TN91815
+- oompID: TRNN-T92-X-KC1815-01

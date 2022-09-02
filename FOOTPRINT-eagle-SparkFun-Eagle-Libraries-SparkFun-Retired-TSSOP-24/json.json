@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTTSS24"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP-24"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/TSSOP-24"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;24-pin TSSOP with Exposed Thermal Pad&lt;/h3&gt;\nUsed on: &lt;ul&gt;\n&lt;li&gt;Allegro A6282 16-bit LED driver&lt;/li&gt;\n&lt;/ul&gt;\nLast modified: 8/21/10&lt;br&gt;\n&lt;b&gt;***Unproven***&lt;/b&gt;&lt;br&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP-24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-TSSOP-24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

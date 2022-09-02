@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNGB4234SH1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "GB042-34S-H10"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/GB042-34S-H10"
+        },
+        {
+            "name": "description",
+            "value": "http://www.lsmtron.com/pdf/Connector&Antenna_catalog.PDF"
+        },
+        {
+            "name": "tags",
+            "value": "34pin SMD connector"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector.3dshapes/GB042-34S-H10.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-GB042-34S-H10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

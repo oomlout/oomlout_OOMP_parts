@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEHOLTEKSO18L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "holtek"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO18L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/holtek/SO18L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-holtek-SO18L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-holtek-SO18L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

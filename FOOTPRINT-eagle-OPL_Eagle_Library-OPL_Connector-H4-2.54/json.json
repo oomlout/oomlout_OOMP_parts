@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLCNH4254"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H4-2.54"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Connector/H4-2.54"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H4-2.54"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H4-2.54"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

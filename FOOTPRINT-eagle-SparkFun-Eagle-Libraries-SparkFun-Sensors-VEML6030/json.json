@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSVEML63"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VEML6030"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/VEML6030"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;VEML6030 Ambient Light Sensor&lt;/h3&gt;\n\n&lt;p&gt;Physical Characteristics&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;6 Pin SMD Package&lt;/li&gt;\n&lt;li&gt;2mm x 2mm x .83mm&lt;/li&gt;\n&lt;li&gt;.65mm Pitch&lt;/li&gt;\n&lt;li&gt;.45mm x .4mm Pad Size&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6030"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-VEML6030"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

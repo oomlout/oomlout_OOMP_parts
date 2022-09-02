@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKINLMOUNTLODESTONEVTM956"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Inductor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L_Mount_Lodestone_VTM950-6"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Inductor_THT/L_Mount_Lodestone_VTM950-6"
+        },
+        {
+            "name": "description",
+            "value": "Lodestone Pacific, vertical toroid mount, 11x19mm, 6 pins, http://www.lodestonepacific.com/CatKpdf/VTM950-6.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "vertical inductor toroid mount"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Inductor_THT.3dshapes/L_Mount_Lodestone_VTM950-6.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM950-6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Inductor_THT-L_Mount_Lodestone_VTM950-6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

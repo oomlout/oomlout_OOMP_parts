@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNDSUBDSUB26HDMALEHORIZONTALP229X254EDGEPINOFFSET94"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Dsub"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Dsub/DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"
+        },
+        {
+            "name": "description",
+            "value": "26-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "26-pin D-Sub connector horizontal angled 90deg THT male pitch 2.29x2.54mm pin-PCB-offset 9.4mm"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-26-HD_Male_Horizontal_P2.29x2.54mm_EdgePinOffset9.40mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

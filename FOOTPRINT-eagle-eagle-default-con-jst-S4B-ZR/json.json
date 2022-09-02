@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONJSTS4BZR"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-jst"
+        },
+        {
+            "name": "oompIndex",
+            "value": "S4B-ZR"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-jst/S4B-ZR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-jst-S4B-ZR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-jst-S4B-ZR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

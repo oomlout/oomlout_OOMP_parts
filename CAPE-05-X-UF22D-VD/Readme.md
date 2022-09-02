@@ -5,13 +5,13 @@
 Contents
 ========
 
-* [CAPE-05-X-UF22D-VD>5 mm 2.2 uF Capacitor (Electrolytic) 63v](#cape-05-x-uf22d-vd5-mm-22-uf-capacitor-electrolytic-63v)
+* [CAPE-05-X-UF22D-VD>5 mm 2.2 uF Capacitor (Electrolytic)](#cape-05-x-uf22d-vd5-mm-22-uf-capacitor-electrolytic)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPE-05-X-UF22D-VD>5 mm 2.2 uF Capacitor (Electrolytic) 63v
+# CAPE-05-X-UF22D-VD>5 mm 2.2 uF Capacitor (Electrolytic)
 
 - ID: CAPE-05-X-UF22D-VD
 - Name: CAPE-05-X-UF22D-VD
@@ -30,8 +30,6 @@ Contents
 
 ## Tags
 
-- oompID: CAPE-05-X-UF22D-V63D
-- name: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 - hexID: CEU002
 - oompSort: 0.00000022000000
 - oompType: CAPE
@@ -47,3 +45,4 @@ Contents
 - oompClassCode: THTH
 - oompSchem: template;CAPE-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
+- oompID: CAPE-05-X-UF22D-VD

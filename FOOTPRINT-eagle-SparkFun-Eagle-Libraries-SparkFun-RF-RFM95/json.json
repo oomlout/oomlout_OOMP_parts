@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFRFM95"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RFM95"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/RFM95"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;RFM95/96/97/98&lt;/h3&gt;\n\n&lt;p&gt;The RFM95/96/97/98(W) transceivers feature the\nLoRaTM    long range modem that provides ultra-long range\nspread spectrum communication and high interference\nimmunity whilst minimising current consumption. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;http://www.hoperf.com/upload/rf/RFM95_96_97_98W.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM95"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-RFM95"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

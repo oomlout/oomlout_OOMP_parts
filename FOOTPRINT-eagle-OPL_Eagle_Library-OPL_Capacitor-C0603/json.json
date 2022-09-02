@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLCAPACITORC63"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Capacitor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "C0603"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Capacitor/C0603"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;0603&lt;b&gt;&lt;p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Capacitor-C0603"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Capacitor-C0603"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

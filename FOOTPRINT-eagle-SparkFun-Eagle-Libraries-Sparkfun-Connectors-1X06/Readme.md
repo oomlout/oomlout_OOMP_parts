@@ -1,0 +1,36 @@
+
+
+
+
+Contents
+========
+
+* [FZSSPARKFUNCNS1X6>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X06](#fzssparkfuncns1x6sparkfun-eagle-librariessparkfun-connectors1x06)
+	* [Tags](#tags)
+
+# FZSSPARKFUNCNS1X6>SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X06
+
+- ID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06
+- Hex ID: FZSSPARKFUNCNS1X6
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZSSPARKFUNCNS1X6
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: SparkFun-Eagle-Libraries
+- oompDesc: Sparkfun-Connectors
+- oompIndex: 1X06
+- oompName: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X06
+- description: &lt;h3&gt;SMD - 6 Pin Right Angle Male Header&lt;/h3&gt;
+tDocu layer shows pin locations.
+&lt;p&gt;Specifications:
+&lt;ul&gt;&lt;li&gt;Pin count:6&lt;/li&gt;
+&lt;li&gt;Pin pitch:0.1&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Example device(s):
+&lt;ul&gt;&lt;li&gt;CONN_06&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+- oompID: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06

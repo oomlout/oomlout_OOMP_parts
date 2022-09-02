@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSMS583"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MS5803"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/MS5803"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;MS5803-14BA Pressure Sensor 8-Pin 6.4 x6.2 mm&lt;/h3&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Sensors/Weather/ms5803_14ba.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;\n&lt;li&gt;Pin Count: 8&lt;/li&gt;\n&lt;li&gt;Dimensions: 6.4 x 6.2 x 2.88 mm&lt;/li&gt;\n&lt;li&gt;Pitch: 1.25 mm&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Devices Using:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;MS5803-14BA&lt;/li&gt;\n&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS5803"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-MS5803"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNHARTINGHARTINGHARFLEXICON14118132XXX1X8MPP254HORIZONTAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Harting"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Harting/Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal"
+        },
+        {
+            "name": "description",
+            "value": "Harting har-flexicon series connector, 14110813002xxx (https://b2b.harting.com/files/download/PRD/PDF_TS/1411XX13002XXX_100228421DRW035C.pdf), generated with kicad-footprint-generator"
+        },
+        {
+            "name": "tags",
+            "value": "connector Harting har-flexicon horizontal"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Harting-Harting_har-flexicon_14110813002xxx_1x08-MP_P2.54mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESTO22CL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220CL"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TO220CL"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 220 CLH&lt;/b&gt; horizontal (Cathode; Anode; Gate)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO220CL"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO220CL"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

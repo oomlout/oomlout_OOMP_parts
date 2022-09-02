@@ -1,0 +1,80 @@
+{
+    "tags": [
+        {
+            "name": "oompID",
+            "value": "MOSN-T252-X-A50-01"
+        },
+        {
+            "name": "hexID",
+            "value": "MNAOD4184A"
+        },
+        {
+            "name": "oompSort",
+            "value": ""
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompType",
+            "value": "MOSN"
+        },
+        {
+            "name": "oompSize",
+            "value": "T252"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K4184"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "40"
+        },
+        {
+            "name": "ooPin1",
+            "value": "Q"
+        },
+        {
+            "name": "ooPin2",
+            "value": "D"
+        },
+        {
+            "name": "ooPin3",
+            "value": "S"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "Q1"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2"
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": "AOD4184A"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-T252-X-A50-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-252 MNAOD4184A N-Ch. MOSFET"
+        }
+    ]
+}

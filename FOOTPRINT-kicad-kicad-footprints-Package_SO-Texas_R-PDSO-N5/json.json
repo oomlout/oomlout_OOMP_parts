@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSOTEXASRPDSON5"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_SO"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Texas_R-PDSO-N5"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_SO/Texas_R-PDSO-N5"
+        },
+        {
+            "name": "description",
+            "value": "Plastic Small outline http://www.ti.com/lit/ml/mpds158c/mpds158c.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "SOT23 R-PDSO-N5"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/Texas_R-PDSO-N5.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_SO-Texas_R-PDSO-N5"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKDFNTEXASSPWQFNN1EP55X55>kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm](#fzkdfntexasspwqfnn1ep55x55kicad-footprintspackage_dfn_qfntexas_s-pwqfn-n100_ep55x55mm)
+	* [Tags](#tags)
+
+# FZKDFNTEXASSPWQFNN1EP55X55>kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm
+- Hex ID: FZKDFNTEXASSPWQFNN1EP55X55
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKDFNTEXASSPWQFNN1EP55X55
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Package_DFN_QFN
+- oompIndex: Texas_S-PWQFN-N100_EP5.5x5.5mm
+- oompName: kicad-footprints/Package_DFN_QFN/Texas_S-PWQFN-N100_EP5.5x5.5mm
+- description: http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/lit/ds/sllse76m/sllse76m.pdf
+- tags: MultiRow QFN
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/Texas_S-PWQFN-N100_EP5.5x5.5mm.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-Texas_S-PWQFN-N100_EP5.5x5.5mm

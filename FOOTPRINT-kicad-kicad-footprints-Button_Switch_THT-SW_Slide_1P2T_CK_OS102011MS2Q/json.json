@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKBSWSLIDE1P2TCKOS1211MS2Q"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Button_Switch_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW_Slide_1P2T_CK_OS102011MS2Q"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Button_Switch_THT/SW_Slide_1P2T_CK_OS102011MS2Q"
+        },
+        {
+            "name": "description",
+            "value": "CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "switch SPDT"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_Slide_1P2T_CK_OS102011MS2Q.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Slide_1P2T_CK_OS102011MS2Q"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Button_Switch_THT-SW_Slide_1P2T_CK_OS102011MS2Q"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

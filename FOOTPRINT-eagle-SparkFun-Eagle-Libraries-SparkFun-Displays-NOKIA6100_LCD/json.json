@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNDISNOKIA61LCD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Displays"
+        },
+        {
+            "name": "oompIndex",
+            "value": "NOKIA6100_LCD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Displays/NOKIA6100_LCD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Nokia 6100 LED Shape and Connector&lt;/h3&gt;\n&lt;p&gt;For Nokia-type LCDs.&lt;/p&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 10&lt;/li&gt;\n&lt;li&gt;Pin pitch: &quot;&lt;/li&gt;\n&lt;li&gt;Area: &lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt;&lt;/p&gt;\n&lt;p&gt;Example device(s): \n&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/retired/569&quot;&gt;Retired Color LCD&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Displays-NOKIA6100_LCD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

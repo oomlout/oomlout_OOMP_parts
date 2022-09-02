@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZE74XXLITTLEUSDCTRPDSOG8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "74xx-little-us"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DCT_R-PDSO-G8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/74xx-little-us/DCT_R-PDSO-G8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-us-DCT_R-PDSO-G8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-74xx-little-us-DCT_R-PDSO-G8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

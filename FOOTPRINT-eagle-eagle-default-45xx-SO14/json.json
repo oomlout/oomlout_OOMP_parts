@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZE45XXSO14"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "45xx"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO14"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/45xx/SO14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-45xx-SO14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-45xx-SO14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

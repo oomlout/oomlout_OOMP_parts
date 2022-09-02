@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWBCONDUCTIVE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BUTTON-CONDUCTIVE"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/BUTTON-CONDUCTIVE"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Conductive Button&lt;/h3&gt;\n&lt;p&gt;Used with rubber key pads on the &lt;a href=&quot;https://www.sparkfun.com/products/retired/8602&quot;&gt;Nordic Key FOB&lt;/a&gt;. This one was designed and proven to work with the &lt;a href=&quot;https://www.sparkfun.com/products/retired/9377&quot;&gt;PolyCase Key FOB enclosures&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-CONDUCTIVE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-BUTTON-CONDUCTIVE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -5,13 +5,13 @@
 Contents
 ========
 
-* [DIOD-1206-X-A015D-V7>SMD (1206) 150 mA Diode 75v](#diod-1206-x-a015d-v7smd-1206-150-ma-diode-75v)
+* [DIOD-1206-X-A015D-V7>SMD (1206) 150 mA Diode](#diod-1206-x-a015d-v7smd-1206-150-ma-diode)
 	* [Labels](#labels)
 	* [EDA](#eda)
 		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DIOD-1206-X-A015D-V7>SMD (1206) 150 mA Diode 75v
+# DIOD-1206-X-A015D-V7>SMD (1206) 150 mA Diode
 
 - ID: DIOD-1206-X-A015D-V7
 - Name: DIOD-1206-X-A015D-V7
@@ -30,8 +30,6 @@ Contents
 
 ## Tags
 
-- oompID: DIOD-1206-X-A015D-01
-- name: SMD (1206) 150 mA Diode 75v
 - hexID: DS115
 - oompSort: 12060.150
 - oompType: DIOD
@@ -53,3 +51,4 @@ Contents
 - oompSchem: template;DIOD-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: D1
+- oompID: DIOD-1206-X-A015D-V7

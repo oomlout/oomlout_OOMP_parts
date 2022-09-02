@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBML414HIV1E"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Batteries"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML414H_IV01E"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Batteries/ML414H_IV01E"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SEIKO ML414H-IV01E Reflowable Lithium Battery&lt;/h3&gt;\n\n&lt;p&gt;\nML414H is a rechargeable, coin type battery with features\nsuch as Pb-free reflowable (Peak temperature: 260 C) and\nhigh temperature heat resistance.\n&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;3V&lt;/li&gt;\n&lt;li&gt;1mAH&lt;/li&gt;\n&lt;li&gt;4.8mm Diameter&lt;/li&gt;\n&lt;li&gt;5uA Discharge Rate&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;\n&lt;a href=&quot;https://media.digikey.com/PDF/Data%20Sheets/Seiko%20Instruments%20PDFs/ML414H_E.pdf&quot;&gt;Datasheet&lt;/a&gt;\n&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Batteries-ML414H_IV01E"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

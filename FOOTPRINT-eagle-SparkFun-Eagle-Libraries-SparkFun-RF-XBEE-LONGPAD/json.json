@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFXBEELONGPAD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XBEE-LONGPAD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/XBEE-LONGPAD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Digi XBee and XBee-PRO RF Modules (Long pads)&lt;/h3&gt;\n&lt;p&gt;20-pin 2mm PTH headers. Elongated annular rings to make soldering easier.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Dimensional.pdf&quot;&gt;XBee Mechanical Drawings&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.sparkfun.com/datasheets/Prototyping/XBee-Connector.pdf&quot;&gt;Header Mechanical Drawing&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/8272&quot;&gt;Header SparkFun Product Link&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XBEE-LONGPAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

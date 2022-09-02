@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAMPTE5749698"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-amp-te"
+        },
+        {
+            "name": "oompIndex",
+            "value": "5749069-8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-amp-te/5749069-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-te-5749069-8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-amp-te-5749069-8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

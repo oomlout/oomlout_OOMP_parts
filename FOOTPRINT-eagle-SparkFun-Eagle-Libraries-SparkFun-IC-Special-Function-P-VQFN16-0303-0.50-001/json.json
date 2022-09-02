@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSISPVQFN163351"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Special-Function"
+        },
+        {
+            "name": "oompIndex",
+            "value": "P-VQFN16-0303-0.50-001"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/P-VQFN16-0303-0.50-001"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;QFN-16 - 3.0mm x 3.0mm package for the MLX90393&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 16&lt;/li&gt;\n&lt;li&gt;Pin pitch: .5mm&lt;/li&gt;\n&lt;li&gt;Area: 3.0mm x 3.0mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=file:///C:/Users/andrew.england/Downloads/MLX90393-Datasheet-Melexis%20(1).pdf&gt;Datasheet referenced for footprint&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-P-VQFN16-0303-0.50-001"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-P-VQFN16-0303-0.50-001"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKCNSAMTECHLETHTSAMTECHLE1492XXDVTE2X49P254HORIZONTAL>kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal](#fzkcnsamtechlethtsamtechle1492xxdvte2x49p254horizontalkicad-footprintsconnector_samtec_hle_thtsamtec_hle-149-02-xx-dv-te_2x49_p254mm_horizontal)
+	* [Tags](#tags)
+
+# FZKCNSAMTECHLETHTSAMTECHLE1492XXDVTE2X49P254HORIZONTAL>kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal
+- Hex ID: FZKCNSAMTECHLETHTSAMTECHLE1492XXDVTE2X49P254HORIZONTAL
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKCNSAMTECHLETHTSAMTECHLE1492XXDVTE2X49P254HORIZONTAL
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Connector_Samtec_HLE_THT
+- oompIndex: Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal
+- oompName: kicad-footprints/Connector_Samtec_HLE_THT/Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal
+- description: Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-149-02-xx-DV-TE, 49 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xx-dv-xe-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-thru.pdf), generated with kicad-footprint-generator
+- tags: connector Samtec HLE top entry
+- attribute: through_hole
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Connector_Samtec_HLE_THT.3dshapes/Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Connector_Samtec_HLE_THT-Samtec_HLE-149-02-xx-DV-TE_2x49_P2.54mm_Horizontal

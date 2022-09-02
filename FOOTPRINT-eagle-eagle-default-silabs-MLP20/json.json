@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZESILABSMLP2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "silabs"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLP20"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/silabs/MLP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-silabs-MLP20"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-silabs-MLP20"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

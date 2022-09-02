@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECIRRUSLOGICSO28L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "cirrus-logic"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SO-28L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/cirrus-logic/SO-28L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cirrus-logic-SO-28L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

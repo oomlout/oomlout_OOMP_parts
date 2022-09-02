@@ -1,0 +1,52 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKICADCEKICADLIBFOOTPRINT\\CECNPINHEADERS1X1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "CE_KiCadLib"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Footprint\\CE_Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Pin_Header_Straight_1x10"
+        },
+        {
+            "name": "oompName",
+            "value": "CE_KiCadLib/Footprint\\CE_Connector/Pin_Header_Straight_1x10"
+        },
+        {
+            "name": "description",
+            "value": "Through hole pin header"
+        },
+        {
+            "name": "tags",
+            "value": "pin header"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Connector-Pin_Header_Straight_1x10"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-CE_KiCadLib-Footprint\\CE_Connector-Pin_Header_Straight_1x10"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETRIMBLE1919"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "trimble"
+        },
+        {
+            "name": "oompIndex",
+            "value": "1919"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/trimble/1919"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trimble-1919"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-trimble-1919"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

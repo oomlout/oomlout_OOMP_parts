@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDIODESMNEXPERIACFP3SOD123W"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Diode_SMD"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Nexperia_CFP3_SOD-123W"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Diode_SMD/Nexperia_CFP3_SOD-123W"
+        },
+        {
+            "name": "description",
+            "value": "Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "CFP3 SOD-123W"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/Nexperia_CFP3_SOD-123W.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-Nexperia_CFP3_SOD-123W"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKTPTPTHTPADD4DRILL2"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "TestPoint"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TestPoint_THTPad_D4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/TestPoint/TestPoint_THTPad_D4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "description",
+            "value": "THT pad as test Point, diameter 4.0mm, hole diameter 2.0mm"
+        },
+        {
+            "name": "tags",
+            "value": "test point THT pad"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TestPoint-TestPoint_THTPad_D4.0mm_Drill2.0mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

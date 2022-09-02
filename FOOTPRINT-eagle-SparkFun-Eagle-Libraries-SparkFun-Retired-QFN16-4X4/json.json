@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRTQFN164X4"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Retired"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN16-4X4"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Retired/QFN16-4X4"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;16-Lead Plastic Quad Flat, No Lead Package (ML) - 4x4x0.9mm Body [QFN]&lt;/b&gt;&lt;p&gt;\nSource: http://ww1.microchip.com/downloads/en/DeviceDoc/41203E.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-4X4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Retired-QFN16-4X4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

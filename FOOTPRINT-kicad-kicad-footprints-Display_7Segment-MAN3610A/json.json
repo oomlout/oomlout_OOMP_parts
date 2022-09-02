@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKDI7SMAN361A"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Display_7Segment"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MAN3610A"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Display_7Segment/MAN3610A"
+        },
+        {
+            "name": "description",
+            "value": "https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php"
+        },
+        {
+            "name": "tags",
+            "value": "One digit 7 segment orange LED with right dot"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Display_7Segment.3dshapes/MAN3610A.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3610A"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Display_7Segment-MAN3610A"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

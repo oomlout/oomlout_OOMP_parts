@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZETOSHIBATOTX173"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "toshiba"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TOTX173"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/toshiba/TOTX173"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-TOTX173"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-toshiba-TOTX173"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

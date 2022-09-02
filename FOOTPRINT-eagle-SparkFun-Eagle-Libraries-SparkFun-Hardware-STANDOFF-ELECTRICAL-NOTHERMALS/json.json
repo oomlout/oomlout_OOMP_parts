@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSHSTANDOFFELECTRICALNOTHERMALS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Hardware"
+        },
+        {
+            "name": "oompIndex",
+            "value": "STANDOFF-ELECTRICAL-NOTHERMALS"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Hardware/STANDOFF-ELECTRICAL-NOTHERMALS"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Standoff (#4 Screw) - w/ Electrical Connection&lt;/h3&gt;\n&lt;p&gt;This is the mechanical footprint for a #4 phillips button head screw.&lt;/p&gt;\n&lt;p&gt;The drill is surrounded by a copper ring, which can be connected to any net.&lt;/p&gt;\n&lt;h4&gt;Devices Using&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;STAND-OFF&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL-NOTHERMALS"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-STANDOFF-ELECTRICAL-NOTHERMALS"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

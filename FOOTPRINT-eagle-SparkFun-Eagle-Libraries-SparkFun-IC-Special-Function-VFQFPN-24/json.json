@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSISVFQFPN24"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-IC-Special-Function"
+        },
+        {
+            "name": "oompIndex",
+            "value": "VFQFPN-24"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-IC-Special-Function/VFQFPN-24"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;24-VFQFPN&lt;/h3&gt;\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 24&lt;/li&gt;\n&lt;li&gt;Pin pitch: .5mm&lt;/li&gt;\n&lt;li&gt;Pin size: .55mm x .25mm&lt;/li&gt;\n&lt;li&gt;Total Size: 4.3mm x 4.3mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VFQFPN-24"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-IC-Special-Function-VFQFPN-24"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

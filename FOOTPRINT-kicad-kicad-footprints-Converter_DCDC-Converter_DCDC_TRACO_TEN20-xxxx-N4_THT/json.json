@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCONCONTRACOTEN2XXXXN4THT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Converter_DCDC"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Converter_DCDC_TRACO_TEN20-xxxx-N4_THT"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Converter_DCDC/Converter_DCDC_TRACO_TEN20-xxxx-N4_THT"
+        },
+        {
+            "name": "description",
+            "value": "DCDC-Converter TRACO TEN20 Generic, https://assets.tracopower.com/20171102100522/TEN20/documents/ten20-datasheet.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "DCDC-Converter TRACO TEN20 Generic"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Converter_DCDC.3dshapes/Converter_DCDC_TRACO_TEN20-xxxx-N4_THT.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Converter_DCDC-Converter_DCDC_TRACO_TEN20-xxxx-N4_THT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

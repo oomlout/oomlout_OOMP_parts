@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWSWITCHSPDTP116X4L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SWITCH_SPDT_PTH_11.6X4.0MM_LOCK"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/SWITCH_SPDT_PTH_11.6X4.0MM_LOCK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SPDT PTH Slide Switch - Locking Footprint&lt;/h3&gt;\n&lt;p&gt;Single-pole, double-throw (SPDT) switch.&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Warning:&lt;/b&gt; This is the LOCK version of this package. This package has offset PTH pins, which help to hold the part in place while soldering.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Components/Buttons/P040040c.pdf&quot;&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM_LOCK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-SWITCH_SPDT_PTH_11.6X4.0MM_LOCK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

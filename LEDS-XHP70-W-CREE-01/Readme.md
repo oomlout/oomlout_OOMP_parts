@@ -43,3 +43,4 @@ Contents
 - hexID: 
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V
+- oompID: LEDS-XHP70-W-CREE-01

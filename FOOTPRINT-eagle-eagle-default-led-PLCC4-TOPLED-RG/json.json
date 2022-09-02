@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELPLCC4TOPLRG"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "led"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PLCC4-TOPLED-RG"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/led/PLCC4-TOPLED-RG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-led-PLCC4-TOPLED-RG"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -29,6 +29,10 @@
             "value": "PHTR-05-X-K5053-01"
         },
         {
+            "name": "oompID",
+            "value": "PHTR-05-X-K5053-01"
+        },
+        {
             "name": "name",
             "value": "5 mm SGPT5053C Phototransistor"
         }

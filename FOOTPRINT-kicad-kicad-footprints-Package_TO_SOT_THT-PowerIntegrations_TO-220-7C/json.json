@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSOTPOWERINTEGRATIONSTO227C"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Package_TO_SOT_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PowerIntegrations_TO-220-7C"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Package_TO_SOT_THT/PowerIntegrations_TO-220-7C"
+        },
+        {
+            "name": "description",
+            "value": "Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "Power Integration Y Package"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/PowerIntegrations_TO-220-7C.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-PowerIntegrations_TO-220-7C"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

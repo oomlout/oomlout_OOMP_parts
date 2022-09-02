@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZATDFN143X3"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TDFN14_3X3MM"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/TDFN14_3X3MM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TDFN 14 3x3x0.75mm&lt;/b&gt;\n&lt;p&gt;Source: http://datasheets.maxim-ic.com/en/ds/MAX98306.pdf&lt;/p&gt;\n&lt;p&gt;Based on recommendtions in: http://www.freescale.com/files/sensors/doc/data_sheet/MAG3110.pdf&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-TDFN14_3X3MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

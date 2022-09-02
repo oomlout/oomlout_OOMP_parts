@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZPICSTSS16TI"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Pimoroni-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "pimoroni-ics"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TSSOP-16-TI"
+        },
+        {
+            "name": "oompName",
+            "value": "Pimoroni-Eagle-Library/pimoroni-ics/TSSOP-16-TI"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;PW (R-PDSO-G8)&lt;/b&gt;&lt;p&gt;\nSource: http://focus.ti.com/lit/ds/symlink/ads1271.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-TSSOP-16-TI"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-ics-TSSOP-16-TI"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

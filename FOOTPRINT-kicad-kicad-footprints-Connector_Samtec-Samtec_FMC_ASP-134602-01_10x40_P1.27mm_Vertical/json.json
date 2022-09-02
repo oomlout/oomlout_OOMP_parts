@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNSAMTECSAMTECFMCASP1346211X4P127VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Samtec"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Samtec/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "https://www.marutsu.co.jp/contents/shop/marutsu/ds/asp-134602-01.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "FMC HPC"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Samtec.3dshapes/Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Samtec-Samtec_FMC_ASP-134602-01_10x40_P1.27mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

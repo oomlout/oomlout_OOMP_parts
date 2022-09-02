@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONWAGO5W23913"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-wago-500"
+        },
+        {
+            "name": "oompIndex",
+            "value": "W239-103"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-wago-500/W239-103"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-wago-500-W239-103"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-wago-500-W239-103"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

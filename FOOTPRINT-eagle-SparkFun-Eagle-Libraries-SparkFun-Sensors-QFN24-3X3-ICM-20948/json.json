@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSQFN243X3ICM2948"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFN24-3X3-ICM-20948"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/QFN24-3X3-ICM-20948"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;24-Pin QFN -  3.0 x 3.0 mm - No center pad&lt;/h3&gt;\n&lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; No center pad per &quot;Exposed Die Pad Precautions&quot; section of the &lt;a href=&quot;http://www.digikey.com/Web%20Export/Supplier%20Content/invensense-1428/pdf/invensense-mems-handling.pdf&quot;&gt;InvenSense MEMS Handling application note&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN24-3X3-ICM-20948"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-QFN24-3X3-ICM-20948"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

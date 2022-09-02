@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEPTCNTCN644B"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ptc-ntc"
+        },
+        {
+            "name": "oompIndex",
+            "value": "N644B"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ptc-ntc/N644B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ptc-ntc-N644B"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ptc-ntc-N644B"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

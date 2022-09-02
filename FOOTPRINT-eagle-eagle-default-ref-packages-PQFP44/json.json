@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESPQFP44"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PQFP44"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/PQFP44"
+        },
+        {
+            "name": "description",
+            "value": "&lt;B&gt;Plastic Quad Flat Package&lt;/B&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-PQFP44"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-PQFP44"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

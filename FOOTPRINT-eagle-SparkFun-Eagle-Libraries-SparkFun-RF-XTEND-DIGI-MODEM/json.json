@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRFXTENDDIGIMODEM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-RF"
+        },
+        {
+            "name": "oompIndex",
+            "value": "XTEND-DIGI-MODEM"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-RF/XTEND-DIGI-MODEM"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Digi XTend 900 1W RF Module&lt;/h3&gt;\n&lt;p&gt;Module dimensions: 6.05 x 3.65 x 0.51 cm&lt;br&gt;\nPackage for the Xtend Digi Modem 40 mile range.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/datasheets/Wireless/Zigbee/xtend-mechanical.pdf&quot;&gt;Dimensional Drawing&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/9411&quot;&gt;SparkFun Product Link&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XTEND-DIGI-MODEM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-RF-XTEND-DIGI-MODEM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSSPARKFUNSENSKX13X"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Sensors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "KX13X"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Sensors/KX13X"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Kionix KX134 Tri-Axis Accelerometer&lt;/h3&gt;\n&lt;p&gt;The KX134-1211 is a tri-axis 8g, 16g, 32g, or 64g silicon micromachined\naccelerometer featuring a user-configurable 3-stage Advanced Data Path (ADP)\nconsisting of a low-pass filter, low-pass/high-pass filter, and RMS calculation\nengine. The KX134-1211 accelerometer also features an advanced Wake-Up and\nBack-to-Sleep detection with a high-resolution threshold capability configurable\ndown to 15.6 mg, 512-byte buffer that continues to record data even when being\nread, as well as embedded engines for orientation, Directional-TapTM/DoubleTapTM, and Free fall detection.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-KX13X"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Sensors-KX13X"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

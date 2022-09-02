@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWCHERRYMXL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHERRY-MX-LED"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/CHERRY-MX-LED"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Cherry MX Switch - Electromechanical Swith w/ LED&lt;/h3&gt;\n\n&lt;p&gt;Cherry MX Keyswitches are top-of-the-line mechanical keyboard switches. Theyre satisfyingly clicky, reliable up to tens-of-millions of key presses, and a standard in gaming and programming keyboards across the globe. This blue version Cherry MX Switch is favored by most due to its secondary internal actuator making it less likely to double-tap. If you are looking for a noticeably audible and high-quality key switch, this is the perfect option for you!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=&quot;https://www.sparkfun.com/products/13834&quot;&gt;SparkFun Product Link&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-CHERRY-MX-LED"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

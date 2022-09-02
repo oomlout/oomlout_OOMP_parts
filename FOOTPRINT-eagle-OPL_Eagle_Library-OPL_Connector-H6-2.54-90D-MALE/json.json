@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLCNH62549DMALE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "H6-2.54-90D-MALE"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Connector/H6-2.54-90D-MALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H6-2.54-90D-MALE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Connector-H6-2.54-90D-MALE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

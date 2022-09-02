@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMPHILIPSQFP1SOT317SOT3822"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-philips"
+        },
+        {
+            "name": "oompIndex",
+            "value": "QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-philips/QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-philips-QFP100_SOT317-SOT382-2"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONAVX91752"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-avx"
+        },
+        {
+            "name": "oompIndex",
+            "value": "009175002"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-avx/009175002"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-avx-009175002"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-avx-009175002"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

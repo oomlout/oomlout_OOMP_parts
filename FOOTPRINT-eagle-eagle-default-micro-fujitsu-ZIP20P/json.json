@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMFUJITSUZIP2P"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-fujitsu"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ZIP20P"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-fujitsu/ZIP20P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-ZIP20P"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

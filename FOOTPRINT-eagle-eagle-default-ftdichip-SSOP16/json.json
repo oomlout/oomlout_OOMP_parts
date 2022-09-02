@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEFTDICHIPSS16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ftdichip"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SSOP16"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ftdichip/SSOP16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ftdichip-SSOP16"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ftdichip-SSOP16"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

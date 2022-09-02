@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSLWS28125X54PIN"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-LED"
+        },
+        {
+            "name": "oompIndex",
+            "value": "WS2812-5X5-4PIN"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-LED/WS2812-5X5-4PIN"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;WS2812B&lt;/h3&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 4&lt;/li&gt;\n&lt;li&gt;Size: 5.0 x 5.0 mm&lt;/li&gt;\n&lt;/ul&gt;&lt;/p&gt;\n&lt;p&gt;&lt;b&gt;Datasheet referenced for footprint:&lt;/b&gt; &lt;a href=&quot;http://cdn.sparkfun.com/datasheets/BreakoutBoards/WS2812B.pdf&quot;&gt;WS2812B&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Example device:\n&lt;ul&gt;&lt;li&gt;WS2812B&lt;/li&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-WS2812-5X5-4PIN"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-LED-WS2812-5X5-4PIN"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

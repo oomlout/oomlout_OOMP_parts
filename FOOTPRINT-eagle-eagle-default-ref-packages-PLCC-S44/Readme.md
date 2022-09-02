@@ -1,0 +1,28 @@
+
+
+
+
+Contents
+========
+
+* [FZEREFPACKAGESPLCCS44>eagle-default/ref-packages/PLCC-S44](#fzerefpackagesplccs44eagle-defaultref-packagesplcc-s44)
+	* [Tags](#tags)
+
+# FZEREFPACKAGESPLCCS44>eagle-default/ref-packages/PLCC-S44
+
+- ID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S44
+- Hex ID: FZEREFPACKAGESPLCCS44
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZEREFPACKAGESPLCCS44
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: eagle-default
+- oompDesc: ref-packages
+- oompIndex: PLCC-S44
+- oompName: eagle-default/ref-packages/PLCC-S44
+- description: &lt;b&gt;Plastic Leaded Chip Carrier&lt;/b&gt; Socked
+- oompID: FOOTPRINT-eagle-eagle-default-ref-packages-PLCC-S44

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWENCODER16QUAD"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ENCODER-16MM-QUAD"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/ENCODER-16MM-QUAD"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Rotary Encoder - 16mm Top Width&lt;/h3&gt;\n&lt;p&gt;Encoders rotate similarly to potentiometers, but theyre different from potentiometers in that an encoder has full rotation without limits. They output gray code so that you can tell how much and in which direction the encoder has been turned.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.top-up.com.tw/front/bin/ptdetail.phtml?Part=EC16PXHFB-B&quot;&gt;Datasheet&lt;/a&gt; (EC16PHBF-B-20F-24-24C-16Y)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER-16MM-QUAD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-ENCODER-16MM-QUAD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

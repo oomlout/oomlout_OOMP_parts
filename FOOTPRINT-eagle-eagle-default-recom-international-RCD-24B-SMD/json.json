@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERECOMINTERNATIONALRCD24BSM"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "recom-international"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RCD-24B-SMD"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/recom-international/RCD-24B-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-SMD"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-recom-international-RCD-24B-SMD"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

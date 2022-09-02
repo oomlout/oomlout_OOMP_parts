@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSWREEDSWITCHPLASTIC"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Switches"
+        },
+        {
+            "name": "oompIndex",
+            "value": "REED_SWITCH_PLASTIC"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Switches/REED_SWITCH_PLASTIC"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Reed Switch - Insulated Case - PTH&lt;/h3&gt;\n&lt;p&gt;A reed switch is a magnetically-actuated switch. When the device is exposed to a magnetic field, the two ferrous materials inside the switch pull together and the switch closes.&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;https://cdn.sparkfun.com/datasheets/Dev/LilyPad/RS-01C.jpg&quot;&gt;Datasheet&lt;/a&gt; (RS-01C)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-REED_SWITCH_PLASTIC"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

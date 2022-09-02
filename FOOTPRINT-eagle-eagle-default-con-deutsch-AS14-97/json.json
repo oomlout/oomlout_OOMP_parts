@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONDEUTSCHAS1497"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-deutsch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "AS14-97"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-deutsch/AS14-97"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-deutsch-AS14-97"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

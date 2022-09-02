@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSBOESP32THING"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Boards"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ESP32_THING"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Boards/ESP32_THING"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SparkFun ESP32 Thing Board&lt;/h3&gt;\n&lt;p&gt;Pins, silkscreen, and logos matching the layout of the &lt;a href=https://www.sparkfun.com/products/13907&gt;SparkFun ESP32 Thing&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Specifications:\n&lt;ul&gt;&lt;li&gt;Pin count: 40&lt;/li&gt;\n&lt;li&gt;Area: 2.32&quot; x 1.00&quot;&lt;/li&gt;\n&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Boards-ESP32_THING"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

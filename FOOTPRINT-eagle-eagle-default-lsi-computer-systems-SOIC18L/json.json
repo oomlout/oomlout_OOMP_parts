@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZELSICOMPUTERSYSTEMSSOIC18L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "lsi-computer-systems"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOIC18L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/lsi-computer-systems/SOIC18L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-lsi-computer-systems-SOIC18L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

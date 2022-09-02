@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESMLF32"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MLF32"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/MLF32"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;32M1-A&lt;/b&gt; Micro Lead Frame package (MLF)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MLF32"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-MLF32"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

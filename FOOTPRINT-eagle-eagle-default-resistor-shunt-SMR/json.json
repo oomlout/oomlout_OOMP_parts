@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERESISTORSHUNTSMR"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "resistor-shunt"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SMR"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/resistor-shunt/SMR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-shunt-SMR"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-resistor-shunt-SMR"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

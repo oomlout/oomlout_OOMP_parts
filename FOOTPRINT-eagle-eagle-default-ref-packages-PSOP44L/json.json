@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESPS44L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PSOP44L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/PSOP44L"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Plastic Small Outline Package&lt;/b&gt;&lt;p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-PSOP44L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-PSOP44L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

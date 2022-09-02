@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNDSUBDSUB15HDFEMALEVERTICALP229X198HOLS"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector_Dsub"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector_Dsub/DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "description",
+            "value": "15-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.29x1.98mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "15-pin D-Sub connector straight vertical THT female pitch 2.29x1.98mm mounting holes distance 25mm"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Connector_Dsub.3dshapes/DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_Dsub-DSUB-15-HD_Female_Vertical_P2.29x1.98mm_MountingHoles"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

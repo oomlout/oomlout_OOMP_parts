@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLINDUCTORL86"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Inductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "L0806"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Inductor/L0806"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;datasheet:&lt;br&gt;\n&lt;u&gt;http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0075S0103LQH2MC_02.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Inductor-L0806"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Inductor-L0806"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

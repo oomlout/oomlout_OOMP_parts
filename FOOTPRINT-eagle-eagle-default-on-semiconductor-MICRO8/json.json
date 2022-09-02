@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEONSEMICONDUCTORM8"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "on-semiconductor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MICRO8"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/on-semiconductor/MICRO8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-on-semiconductor-MICRO8"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

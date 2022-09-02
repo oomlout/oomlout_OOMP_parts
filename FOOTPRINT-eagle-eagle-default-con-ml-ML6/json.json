@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONMLML6"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-ml"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML6"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-ml/ML6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ml-ML6"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-ml-ML6"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

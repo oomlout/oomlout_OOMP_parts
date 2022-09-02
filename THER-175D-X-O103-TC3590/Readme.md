@@ -36,3 +36,4 @@ Contents
 - oompDesc: O103
 - oompIndex: TC3590
 - hexID: TH1033
+- oompID: THER-175D-X-O103-TC3590

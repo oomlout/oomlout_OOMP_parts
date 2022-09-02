@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZERFSOLUTIONSDIL18"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "rf-solutions"
+        },
+        {
+            "name": "oompIndex",
+            "value": "DIL18"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/rf-solutions/DIL18"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rf-solutions-DIL18"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-rf-solutions-DIL18"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

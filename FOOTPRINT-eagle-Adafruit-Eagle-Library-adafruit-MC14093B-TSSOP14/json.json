@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZAMC1493BTSS14"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "Adafruit-Eagle-Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "adafruit"
+        },
+        {
+            "name": "oompIndex",
+            "value": "MC14093B-TSSOP14"
+        },
+        {
+            "name": "oompName",
+            "value": "Adafruit-Eagle-Library/adafruit/MC14093B-TSSOP14"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;plastic thin shrink small outline package; 14 leads; body width 4.4 mm &lt;/b&gt;&lt;p&gt;\nSOT402-1&lt;br&gt;\nSource: http://www.onsemi.com/pub_link/Collateral/MC14093B-D.PDF"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-MC14093B-TSSOP14"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

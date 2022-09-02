@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMFUJITSUS324"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-fujitsu"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SOP32-4"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-fujitsu/SOP32-4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-4"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-fujitsu-SOP32-4"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

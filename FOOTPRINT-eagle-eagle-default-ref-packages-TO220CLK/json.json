@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESTO22CLK"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "TO220CLK"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/TO220CLK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;TO 220 CLK&lt;/b&gt; horizontal (Cathode; Anode; Gate)"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO220CLK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-TO220CLK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESCHIPL63"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CHIP-LED0603"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/CHIP-LED0603"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Hyper CHIPLED Hyper-Bright LED&lt;/b&gt;&lt;p&gt;&#xD;\nLB Q993&lt;br&gt;&#xD;\nSource: http://www.osram.convergy.de/ ... Lb_q993.pdf"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CHIP-LED0603"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-CHIP-LED0603"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

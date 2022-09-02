@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSRPOTDUALPPVERT"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Resistors"
+        },
+        {
+            "name": "oompIndex",
+            "value": "POT-DUAL-PTH-PANASONIC-VERT"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Resistors/POT-DUAL-PTH-PANASONIC-VERT"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;Panasonic Dual-Gang 12mm PTH Potentiometer&lt;/h3&gt;\n\n&lt;p&gt;&lt;a href=&quot;http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/EVJC,EVJY.pdf&quot;&gt;Datasheet&lt;/a&gt; (Fits EVJY-00, EVJY-80, EVJY-81, EVJY-10, etc)&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-PTH-PANASONIC-VERT"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-POT-DUAL-PTH-PANASONIC-VERT"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -41,3 +41,4 @@ Contents
 - oompDesc: K5053
 - oompIndex: 01
 - hexID: PT55053
+- oompID: PHTR-05-X-K5053-01

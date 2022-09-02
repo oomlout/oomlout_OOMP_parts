@@ -42,3 +42,4 @@ Contents
 - oompIndex: 01
 - hexID: TN98050
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23
+- oompID: TRNN-SO23-X-KS8050-01

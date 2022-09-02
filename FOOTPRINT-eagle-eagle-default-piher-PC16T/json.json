@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEPIHERPC16T"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "piher"
+        },
+        {
+            "name": "oompIndex",
+            "value": "PC16T"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/piher/PC16T"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-piher-PC16T"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-piher-PC16T"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

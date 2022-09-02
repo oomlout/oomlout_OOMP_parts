@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSENCURRENTALLEGROPSOF748X64P16"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor_Current"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Allegro_PSOF-7_4.8x6.4mm_P1.60mm"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor_Current/Allegro_PSOF-7_4.8x6.4mm_P1.60mm"
+        },
+        {
+            "name": "description",
+            "value": "Allegro Microsystems PSOF-7, 4.8x6.4mm Body, 1.60mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/ACS780-Datasheet.ashx)"
+        },
+        {
+            "name": "tags",
+            "value": "Allegro PSOF-7"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Current.3dshapes/Allegro_PSOF-7_4.8x6.4mm_P1.60mm.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor_Current-Allegro_PSOF-7_4.8x6.4mm_P1.60mm"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

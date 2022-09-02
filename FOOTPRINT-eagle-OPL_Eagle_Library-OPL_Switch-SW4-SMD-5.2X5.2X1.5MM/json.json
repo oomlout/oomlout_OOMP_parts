@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAGLEOPLEAGLELIBRARYOPLSWITCHSW4SM52X52X15"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "OPL_Eagle_Library"
+        },
+        {
+            "name": "oompDesc",
+            "value": "OPL_Switch"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SW4-SMD-5.2X5.2X1.5MM"
+        },
+        {
+            "name": "oompName",
+            "value": "OPL_Eagle_Library/OPL_Switch/SW4-SMD-5.2X5.2X1.5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Switch-SW4-SMD-5.2X5.2X1.5MM"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-OPL_Eagle_Library-OPL_Switch-SW4-SMD-5.2X5.2X1.5MM"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

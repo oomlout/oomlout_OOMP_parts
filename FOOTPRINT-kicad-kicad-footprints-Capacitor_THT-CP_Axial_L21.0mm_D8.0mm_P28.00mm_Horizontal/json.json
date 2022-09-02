@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCCPAXIALL21D8P28HORIZONTAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Capacitor_THT"
+        },
+        {
+            "name": "oompIndex",
+            "value": "CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Capacitor_THT/CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal"
+        },
+        {
+            "name": "description",
+            "value": "CP, Axial series, Axial, Horizontal, pin pitch=28mm, , length*diameter=21*8mm^2, Electrolytic Capacitor"
+        },
+        {
+            "name": "tags",
+            "value": "CP Axial series Axial Horizontal pin pitch 28mm  length 21mm diameter 8mm Electrolytic Capacitor"
+        },
+        {
+            "name": "attribute",
+            "value": "through_hole"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Capacitor_THT.3dshapes/CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_THT-CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

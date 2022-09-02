@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSH64BGH"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Hardware"
+        },
+        {
+            "name": "oompIndex",
+            "value": "6400BG_HEATSINK"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Hardware/6400BG_HEATSINK"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;6400BG Heatsink&lt;/h3&gt;\n&lt;p&gt;For use with TO-220, TO-218, TO-247, Multiwatt packages&lt;/p&gt;\n&lt;p&gt;&lt;a href=&quot;http://www.sparkfun.com/datasheets/Prototyping/General/PRT-09576-6400BG.pdf&quot;&gt;Datasheet&lt;/a&gt;&lt;/p&gt;\n&lt;h4&gt;Devices Using&lt;/h4&gt;\n&lt;ul&gt;&lt;li&gt;6400BG_HEATSINK&lt;/li&gt;&lt;/ul&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Hardware-6400BG_HEATSINK"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

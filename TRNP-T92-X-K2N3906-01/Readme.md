@@ -36,3 +36,4 @@ Contents
 - oompDesc: K2N3906
 - oompIndex: 01
 - hexID: TP92N36
+- oompID: TRNP-T92-X-K2N3906-01

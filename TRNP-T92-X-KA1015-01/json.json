@@ -29,6 +29,10 @@
             "value": "TRNP-T92-X-KA1015-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNP-T92-X-KA1015-01"
+        },
+        {
             "name": "name",
             "value": "TO-92 A1015 PNP Transistor"
         }

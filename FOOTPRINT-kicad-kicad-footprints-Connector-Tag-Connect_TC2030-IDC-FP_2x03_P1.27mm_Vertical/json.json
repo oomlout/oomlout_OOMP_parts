@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKCNTAGCONNECTTC23IDCFP2X3P127VERTICAL"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Connector"
+        },
+        {
+            "name": "oompIndex",
+            "value": "Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Connector/Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "description",
+            "value": "Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC.pdf"
+        },
+        {
+            "name": "tags",
+            "value": "tag connect programming header pogo pins"
+        },
+        {
+            "name": "attribute",
+            "value": "exclude_from_pos_files exclude_from_bom"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector-Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

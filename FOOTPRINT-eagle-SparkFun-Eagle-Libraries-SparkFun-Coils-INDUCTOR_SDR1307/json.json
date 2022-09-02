@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZSCOINDUCTORSDR137"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "SparkFun-Eagle-Libraries"
+        },
+        {
+            "name": "oompDesc",
+            "value": "SparkFun-Coils"
+        },
+        {
+            "name": "oompIndex",
+            "value": "INDUCTOR_SDR1307"
+        },
+        {
+            "name": "oompName",
+            "value": "SparkFun-Eagle-Libraries/SparkFun-Coils/INDUCTOR_SDR1307"
+        },
+        {
+            "name": "description",
+            "value": "&lt;h3&gt;SDR1307 series footprint&lt;/h3&gt;\n&lt;p&gt;Footprint based on recommendation from &lt;a href=&quot;https://www.bourns.com/pdfs/SDR1307.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_SDR1307"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Coils-INDUCTOR_SDR1307"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -89,6 +89,10 @@
             "value": "TRNN-T220-BCE-A05-01"
         },
         {
+            "name": "oompID",
+            "value": "TRNN-T220-BCE-A05-01"
+        },
+        {
             "name": "name",
             "value": "TO-220 5 Amp NPN Transistor"
         }

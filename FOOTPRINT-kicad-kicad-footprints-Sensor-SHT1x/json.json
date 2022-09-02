@@ -1,0 +1,60 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZKSENSHT1X"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "kicad"
+        },
+        {
+            "name": "oompColor",
+            "value": "kicad-footprints"
+        },
+        {
+            "name": "oompDesc",
+            "value": "Sensor"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SHT1x"
+        },
+        {
+            "name": "oompName",
+            "value": "kicad-footprints/Sensor/SHT1x"
+        },
+        {
+            "name": "description",
+            "value": "SHT1x"
+        },
+        {
+            "name": "tags",
+            "value": "SHT1x"
+        },
+        {
+            "name": "attribute",
+            "value": "smd"
+        },
+        {
+            "name": "3dmodel",
+            "value": "${KICAD6_3DMODEL_DIR}/Sensor_Temperature.3dshapes/SHT1x.wrl"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Sensor-SHT1x"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+
+
+
+Contents
+========
+
+* [FZKBSWITCHSMSWDIPSPSTX1SLIDECOPALCHS1AW58P127JPIN>kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin](#fzkbswitchsmswdipspstx1slidecopalchs1aw58p127jpinkicad-footprintsbutton_switch_smdsw_dip_spstx01_slide_copal_chs-01a_w508mm_p127mm_jpin)
+	* [Tags](#tags)
+
+# FZKBSWITCHSMSWDIPSPSTX1SLIDECOPALCHS1AW58P127JPIN>kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
+
+- ID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
+- Hex ID: FZKBSWITCHSMSWDIPSPSTX1SLIDECOPALCHS1AW58P127JPIN
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZKBSWITCHSMSWDIPSPSTX1SLIDECOPALCHS1AW58P127JPIN
+- oompType: FOOTPRINT
+- oompSize: kicad
+- oompColor: kicad-footprints
+- oompDesc: Button_Switch_SMD
+- oompIndex: SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
+- oompName: kicad-footprints/Button_Switch_SMD/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin
+- description: SMD 1x-dip-switch SPST Copal_CHS-01A, Slide, row spacing 5.08 mm (200 mils), body size  (see http://www.nidec-copal-electronics.com/e/catalog/switch/chs.pdf), SMD, JPin
+- tags: SMD DIP Switch SPST Slide 5.08mm 200mil SMD JPin
+- attribute: smd
+- 3dmodel: ${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin.wrl
+- oompID: FOOTPRINT-kicad-kicad-footprints-Button_Switch_SMD-SW_DIP_SPSTx01_Slide_Copal_CHS-01A_W5.08mm_P1.27mm_JPin

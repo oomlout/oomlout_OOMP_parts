@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECONHARTINGMLML34L"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "con-harting-ml"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ML34L"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/con-harting-ml/ML34L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-ml-ML34L"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-con-harting-ml-ML34L"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

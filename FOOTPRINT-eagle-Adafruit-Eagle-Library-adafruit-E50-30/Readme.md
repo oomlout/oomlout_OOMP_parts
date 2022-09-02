@@ -1,0 +1,29 @@
+
+
+
+
+Contents
+========
+
+* [FZAE53>Adafruit-Eagle-Library/adafruit/E50-30](#fzae53adafruit-eagle-libraryadafruite50-30)
+	* [Tags](#tags)
+
+# FZAE53>Adafruit-Eagle-Library/adafruit/E50-30
+
+- ID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E50-30
+- Hex ID: FZAE53
+- Name: 
+- Description: 
+
+## Tags
+
+- hexID: FZAE53
+- oompType: FOOTPRINT
+- oompSize: eagle
+- oompColor: Adafruit-Eagle-Library
+- oompDesc: adafruit
+- oompIndex: E50-30
+- oompName: Adafruit-Eagle-Library/adafruit/E50-30
+- description: &lt;b&gt;ELECTROLYTIC CAPACITOR&lt;/b&gt;&lt;p&gt;
+grid 50 mm, diameter 30 mm
+- oompID: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-E50-30

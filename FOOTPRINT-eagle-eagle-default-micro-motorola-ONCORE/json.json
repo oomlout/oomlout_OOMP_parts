@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEMMOTOROLAONCORE"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "micro-motorola"
+        },
+        {
+            "name": "oompIndex",
+            "value": "ONCORE"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/micro-motorola/ONCORE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-micro-motorola-ONCORE"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

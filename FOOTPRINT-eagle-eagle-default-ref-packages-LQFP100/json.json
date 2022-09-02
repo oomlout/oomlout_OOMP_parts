@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEREFPACKAGESLQFP1"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "ref-packages"
+        },
+        {
+            "name": "oompIndex",
+            "value": "LQFP100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/ref-packages/LQFP100"
+        },
+        {
+            "name": "description",
+            "value": "&lt;b&gt;Low Profile Quad Flat Pack&lt;/b&gt;"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-LQFP100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-ref-packages-LQFP100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

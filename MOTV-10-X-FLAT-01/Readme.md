@@ -36,3 +36,4 @@ Contents
 - oompDesc: FLAT
 - oompIndex: 01
 - hexID: MVF10
+- oompID: MOTV-10-X-FLAT-01

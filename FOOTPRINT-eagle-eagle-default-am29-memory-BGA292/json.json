@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZEAM29MEMORYBGA292"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "am29-memory"
+        },
+        {
+            "name": "oompIndex",
+            "value": "BGA292"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/am29-memory/BGA292"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-am29-memory-BGA292"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-am29-memory-BGA292"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

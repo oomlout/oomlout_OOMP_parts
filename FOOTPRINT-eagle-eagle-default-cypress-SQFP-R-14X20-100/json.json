@@ -1,0 +1,44 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "FZECYPRESSSQFPR14X21"
+        },
+        {
+            "name": "oompType",
+            "value": "FOOTPRINT"
+        },
+        {
+            "name": "oompSize",
+            "value": "eagle"
+        },
+        {
+            "name": "oompColor",
+            "value": "eagle-default"
+        },
+        {
+            "name": "oompDesc",
+            "value": "cypress"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SQFP-R-14X20-100"
+        },
+        {
+            "name": "oompName",
+            "value": "eagle-default/cypress/SQFP-R-14X20-100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-100"
+        },
+        {
+            "name": "oompID",
+            "value": "FOOTPRINT-eagle-eagle-default-cypress-SQFP-R-14X20-100"
+        },
+        {
+            "name": "name",
+            "value": ""
+        }
+    ]
+}

@@ -36,3 +36,4 @@ Contents
 - oompDesc: K2N2907
 - oompIndex: 01
 - hexID: TP92N27
+- oompID: TRNP-T92-X-K2N2907-01
