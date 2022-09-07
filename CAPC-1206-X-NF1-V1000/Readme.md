@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CAPC-1206-X-NF1-V1000>SMD (1206) 1 nF Capacitor (Ceramic) 1000v](#capc-1206-x-nf1-v1000smd-1206-1-nf-capacitor-ceramic-1000v)
+* [C1N001 > SMD (1206) 1 nF Capacitor (Ceramic) 1000v](#c1n001--smd-1206-1-nf-capacitor-ceramic-1000v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPC-1206-X-NF1-V1000>SMD (1206) 1 nF Capacitor (Ceramic) 1000v
+# C1N001 > SMD (1206) 1 nF Capacitor (Ceramic) 1000v
 
 - ID: CAPC-1206-X-NF1-V1000
-- Name: CAPC-1206-X-NF1-V1000
+- Hex ID: C1N001
+- Name: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
+- Description: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

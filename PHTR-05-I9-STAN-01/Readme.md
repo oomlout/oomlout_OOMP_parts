@@ -5,36 +5,37 @@
 Contents
 ========
 
-* [PHTR-05-I9-STAN-01>5 mm IR (940 nm) Phototransistor](#phtr-05-i9-stan-015-mm-ir-940-nm-phototransistor)
+* [PT5I9 > 5 mm IR (940 nm) Phototransistor](#pt5i9--5-mm-ir-940-nm-phototransistor)
 	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# PHTR-05-I9-STAN-01>5 mm IR (940 nm) Phototransistor
+# PT5I9 > 5 mm IR (940 nm) Phototransistor
 
 - ID: PHTR-05-I9-STAN-01
-- Name: PHTR-05-I9-STAN-01
+- Hex ID: PT5I9
+- Name: 5 mm IR (940 nm) Phototransistor
+- Description: 5 mm IR (940 nm) Phototransistor
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -46,7 +47,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -70,4 +71,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

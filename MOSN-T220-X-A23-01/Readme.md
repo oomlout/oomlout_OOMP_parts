@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOSN-T220-X-A23-01>TO-220 23 Amp N-Ch. MOSFET](#mosn-t220-x-a23-01to-220-23-amp-n-ch-mosfet)
+* [MN220A23 > TO-220 23 Amp N-Ch. MOSFET](#mn220a23--to-220-23-amp-n-ch-mosfet)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOSN-T220-X-A23-01>TO-220 23 Amp N-Ch. MOSFET
+# MN220A23 > TO-220 23 Amp N-Ch. MOSFET
 
 - ID: MOSN-T220-X-A23-01
-- Name: MOSN-T220-X-A23-01
+- Hex ID: MN220A23
+- Name: TO-220 23 Amp N-Ch. MOSFET
+- Description: TO-220 23 Amp N-Ch. MOSFET
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

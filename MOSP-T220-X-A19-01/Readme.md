@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOSP-T220-X-A19-01>TO-220 19 Amp P-Ch. MOSFET](#mosp-t220-x-a19-01to-220-19-amp-p-ch-mosfet)
+* [MP220A19 > TO-220 19 Amp P-Ch. MOSFET](#mp220a19--to-220-19-amp-p-ch-mosfet)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOSP-T220-X-A19-01>TO-220 19 Amp P-Ch. MOSFET
+# MP220A19 > TO-220 19 Amp P-Ch. MOSFET
 
 - ID: MOSP-T220-X-A19-01
-- Name: MOSP-T220-X-A19-01
+- Hex ID: MP220A19
+- Name: TO-220 19 Amp P-Ch. MOSFET
+- Description: TO-220 19 Amp P-Ch. MOSFET
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

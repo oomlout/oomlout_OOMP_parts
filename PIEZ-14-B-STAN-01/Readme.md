@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [PIEZ-14-B-STAN-01>14 mm Black Piezo Element](#piez-14-b-stan-0114-mm-black-piezo-element)
+* [PZ14 > 14 mm Black Piezo Element](#pz14--14-mm-black-piezo-element)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# PIEZ-14-B-STAN-01>14 mm Black Piezo Element
+# PZ14 > 14 mm Black Piezo Element
 
 - ID: PIEZ-14-B-STAN-01
-- Name: PIEZ-14-B-STAN-01
+- Hex ID: PZ14
+- Name: 14 mm Black Piezo Element
+- Description: 14 mm Black Piezo Element
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

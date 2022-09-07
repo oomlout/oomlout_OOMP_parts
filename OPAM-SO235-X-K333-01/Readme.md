@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [OPAM-SO235-X-K333-01>SMD (SOT-23-5) OPA333 Op Amp](#opam-so235-x-k333-01smd-sot-23-5-opa333-op-amp)
+* [OA333 > SMD (SOT-23-5) OPA333 Op Amp](#oa333--smd-sot-23-5-opa333-op-amp)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# OPAM-SO235-X-K333-01>SMD (SOT-23-5) OPA333 Op Amp
+# OA333 > SMD (SOT-23-5) OPA333 Op Amp
 
 - ID: OPAM-SO235-X-K333-01
-- Name: OPAM-SO235-X-K333-01
+- Hex ID: OA333
+- Name: SMD (SOT-23-5) OPA333 Op Amp
+- Description: SMD (SOT-23-5) OPA333 Op Amp
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

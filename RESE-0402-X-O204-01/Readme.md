@@ -5,26 +5,27 @@
 Contents
 ========
 
-* [RESE-0402-X-O204-01>SMD (0402) 200k Ohm Resistor](#rese-0402-x-o204-01smd-0402-200k-ohm-resistor)
+* [R42204 > SMD (0402) 200k Ohm Resistor](#r42204--smd-0402-200k-ohm-resistor)
 	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0402-X-O204-01>SMD (0402) 200k Ohm Resistor
+# R42204 > SMD (0402) 200k Ohm Resistor
 
 - ID: RESE-0402-X-O204-01
-- Name: RESE-0402-X-O204-01
+- Hex ID: R42204
+- Name: SMD (0402) 200k Ohm Resistor
+- Description: SMD (0402) 200k Ohm Resistor
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -32,7 +33,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

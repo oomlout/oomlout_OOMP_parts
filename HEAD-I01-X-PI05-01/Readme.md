@@ -5,36 +5,37 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI05-01>2.54 mm 5 Pin Header](#head-i01-x-pi05-01254-mm-5-pin-header)
+* [H05 > 2.54 mm 5 Pin Header](#h05--254-mm-5-pin-header)
 	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAD-I01-X-PI05-01>2.54 mm 5 Pin Header
+# H05 > 2.54 mm 5 Pin Header
 
 - ID: HEAD-I01-X-PI05-01
-- Name: HEAD-I01-X-PI05-01
+- Hex ID: H05
+- Name: 2.54 mm 5 Pin Header
+- Description: 2.54 mm 5 Pin Header
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -44,9 +45,9 @@ Contents
   
   
 
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|label-front|label-spec|
+| :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -93,4 +94,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

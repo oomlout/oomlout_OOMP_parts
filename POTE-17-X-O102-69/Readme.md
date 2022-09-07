@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [POTE-17-X-O102-69>17 mm 1k Ohm Potentiometer Panel Mount](#pote-17-x-o102-6917-mm-1k-ohm-potentiometer-panel-mount)
+* [PT7102 > 17 mm 1k Ohm Potentiometer Panel Mount](#pt7102--17-mm-1k-ohm-potentiometer-panel-mount)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# POTE-17-X-O102-69>17 mm 1k Ohm Potentiometer Panel Mount
+# PT7102 > 17 mm 1k Ohm Potentiometer Panel Mount
 
 - ID: POTE-17-X-O102-69
-- Name: POTE-17-X-O102-69
+- Hex ID: PT7102
+- Name: 17 mm 1k Ohm Potentiometer Panel Mount
+- Description: 17 mm 1k Ohm Potentiometer Panel Mount
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

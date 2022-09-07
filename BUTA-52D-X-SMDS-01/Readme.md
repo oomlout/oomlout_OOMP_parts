@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [BUTA-52D-X-SMDS-01>5.2 mm SMD Pushbutton (Tactile)](#buta-52d-x-smds-0152-mm-smd-pushbutton-tactile)
+* [ > 5.2 mm SMD Pushbutton (Tactile)](#--52-mm-smd-pushbutton-tactile)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTA-52D-X-SMDS-01>5.2 mm SMD Pushbutton (Tactile)
+#  > 5.2 mm SMD Pushbutton (Tactile)
 
 - ID: BUTA-52D-X-SMDS-01
-- Name: BUTA-52D-X-SMDS-01
+- Hex ID: 
+- Name: 5.2 mm SMD Pushbutton (Tactile)
+- Description: 5.2 mm SMD Pushbutton (Tactile)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

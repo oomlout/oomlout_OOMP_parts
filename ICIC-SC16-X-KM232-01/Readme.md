@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-SC16-X-KM232-01>16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)](#icic-sc16-x-km232-0116-pin-smd-soic-rs232-to-ttl-converter-max232)
+* [ICSM232 > 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)](#icsm232--16-pin-smd-soic-rs232-to-ttl-converter-max232)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-SC16-X-KM232-01>16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
+# ICSM232 > 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
 
 - ID: ICIC-SC16-X-KM232-01
-- Name: ICIC-SC16-X-KM232-01
+- Hex ID: ICSM232
+- Name: 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
+- Description: 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

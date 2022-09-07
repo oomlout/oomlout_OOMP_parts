@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VARI-0603-X-V05-01>SMD (0603) 5v Varistor](#vari-0603-x-v05-01smd-0603-5v-varistor)
+* [V6305 > SMD (0603) 5v Varistor](#v6305--smd-0603-5v-varistor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VARI-0603-X-V05-01>SMD (0603) 5v Varistor
+# V6305 > SMD (0603) 5v Varistor
 
 - ID: VARI-0603-X-V05-01
-- Name: VARI-0603-X-V05-01
+- Hex ID: V6305
+- Name: SMD (0603) 5v Varistor
+- Description: SMD (0603) 5v Varistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

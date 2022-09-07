@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [HEAS-02-W-PI10-01>2 mm 10 Pin White Header (Socket)](#heas-02-w-pi10-012-mm-10-pin-white-header-socket)
+* [HS210W > 2 mm 10 Pin White Header (Socket)](#hs210w--2-mm-10-pin-white-header-socket)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAS-02-W-PI10-01>2 mm 10 Pin White Header (Socket)
+# HS210W > 2 mm 10 Pin White Header (Socket)
 
 - ID: HEAS-02-W-PI10-01
-- Name: HEAS-02-W-PI10-01
+- Hex ID: HS210W
+- Name: 2 mm 10 Pin White Header (Socket)
+- Description: 2 mm 10 Pin White Header (Socket)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

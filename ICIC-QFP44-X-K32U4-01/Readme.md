@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-QFP44-X-K32U4-01>44 Pin SMD (TQFP) AtMega32U4](#icic-qfp44-x-k32u4-0144-pin-smd-tqfp-atmega32u4)
+* [ICSQ32U4 > 44 Pin SMD (TQFP) AtMega32U4](#icsq32u4--44-pin-smd-tqfp-atmega32u4)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-QFP44-X-K32U4-01>44 Pin SMD (TQFP) AtMega32U4
+# ICSQ32U4 > 44 Pin SMD (TQFP) AtMega32U4
 
 - ID: ICIC-QFP44-X-K32U4-01
-- Name: ICIC-QFP44-X-K32U4-01
+- Hex ID: ICSQ32U4
+- Name: 44 Pin SMD (TQFP) AtMega32U4
+- Description: 44 Pin SMD (TQFP) AtMega32U4
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

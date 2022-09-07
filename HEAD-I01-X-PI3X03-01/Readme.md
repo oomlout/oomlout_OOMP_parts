@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI3X03-01> 2.54 mm 9 Pin (3x3) Header ](#head-i01-x-pi3x03-01-254-mm-9-pin-3x3-header-)
+* [H3X03 >  2.54 mm 9 Pin (3x3) Header ](#h3x03---254-mm-9-pin-3x3-header-)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-PI3X03-01> 2.54 mm 9 Pin (3x3) Header 
+# H3X03 >  2.54 mm 9 Pin (3x3) Header 
 
 - ID: HEAD-I01-X-PI3X03-01
-- Name: HEAD-I01-X-PI3X03-01
+- Hex ID: H3X03
+- Name:  2.54 mm 9 Pin (3x3) Header 
+- Description:  2.54 mm 9 Pin (3x3) Header 
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

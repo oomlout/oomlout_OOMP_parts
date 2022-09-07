@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [XTAL-0805-X-KZ327D-01>SMD (0805) 32.768 kHz Crystal](#xtal-0805-x-kz327d-01smd-0805-32768-khz-crystal)
+* [X85K327D > SMD (0805) 32.768 kHz Crystal](#x85k327d--smd-0805-32768-khz-crystal)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# XTAL-0805-X-KZ327D-01>SMD (0805) 32.768 kHz Crystal
+# X85K327D > SMD (0805) 32.768 kHz Crystal
 
 - ID: XTAL-0805-X-KZ327D-01
-- Name: XTAL-0805-X-KZ327D-01
+- Hex ID: X85K327D
+- Name: SMD (0805) 32.768 kHz Crystal
+- Description: SMD (0805) 32.768 kHz Crystal
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

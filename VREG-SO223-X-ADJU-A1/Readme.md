@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO223-X-ADJU-A1>SMD (SOT-223) Adjustable Voltage Regulator 1 A](#vreg-so223-x-adju-a1smd-sot-223-adjustable-voltage-regulator-1-a)
+* [VS2A1 > SMD (SOT-223) Adjustable Voltage Regulator 1 A](#vs2a1--smd-sot-223-adjustable-voltage-regulator-1-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO223-X-ADJU-A1>SMD (SOT-223) Adjustable Voltage Regulator 1 A
+# VS2A1 > SMD (SOT-223) Adjustable Voltage Regulator 1 A
 
 - ID: VREG-SO223-X-ADJU-A1
-- Name: VREG-SO223-X-ADJU-A1
+- Hex ID: VS2A1
+- Name: SMD (SOT-223) Adjustable Voltage Regulator 1 A
+- Description: SMD (SOT-223) Adjustable Voltage Regulator 1 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

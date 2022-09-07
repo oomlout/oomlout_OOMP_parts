@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)](#head-i01-x-2x03pi-rs254-mm-header-right-angle-smd)
+* [HRS2X03 > 2.54 mm Header Right Angle (SMD)](#hrs2x03--254-mm-header-right-angle-smd)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)
+# HRS2X03 > 2.54 mm Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-2X03PI-RS
-- Name: HEAD-I01-X-2X03PI-RS
+- Hex ID: HRS2X03
+- Name: 2.54 mm Header Right Angle (SMD)
+- Description: 2.54 mm Header Right Angle (SMD)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

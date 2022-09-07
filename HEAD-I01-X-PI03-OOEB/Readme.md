@@ -5,25 +5,35 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI03-OOEB>2.54 mm 3 Pin Header (OOEB)](#head-i01-x-pi03-ooeb254-mm-3-pin-header-ooeb)
+* [H03OOEB > 2.54 mm 3 Pin Header (OOEB)](#h03ooeb--254-mm-3-pin-header-ooeb)
+	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-PI03-OOEB>2.54 mm 3 Pin Header (OOEB)
+# H03OOEB > 2.54 mm 3 Pin Header (OOEB)
 
 - ID: HEAD-I01-X-PI03-OOEB
-- Name: HEAD-I01-X-PI03-OOEB
+- Hex ID: H03OOEB
+- Name: 2.54 mm 3 Pin Header (OOEB)
+- Description: 2.54 mm 3 Pin Header (OOEB)
+
+## Images
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Labels
   
@@ -31,7 +41,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

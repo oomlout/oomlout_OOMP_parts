@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [HEAS-I01-X-PI10-01>2.54 mm 10 Pin Header (Socket)](#heas-i01-x-pi10-01254-mm-10-pin-header-socket)
+* [HS10 > 2.54 mm 10 Pin Header (Socket)](#hs10--254-mm-10-pin-header-socket)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAS-I01-X-PI10-01>2.54 mm 10 Pin Header (Socket)
+# HS10 > 2.54 mm 10 Pin Header (Socket)
 
 - ID: HEAS-I01-X-PI10-01
-- Name: HEAS-I01-X-PI10-01
+- Hex ID: HS10
+- Name: 2.54 mm 10 Pin Header (Socket)
+- Description: 2.54 mm 10 Pin Header (Socket)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

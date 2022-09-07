@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [JSTS-02-X-PI02-01>2 mm 2 Pin JST Socket](#jsts-02-x-pi02-012-mm-2-pin-jst-socket)
+* [J202 > 2 mm 2 Pin JST Socket](#j202--2-mm-2-pin-jst-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# JSTS-02-X-PI02-01>2 mm 2 Pin JST Socket
+# J202 > 2 mm 2 Pin JST Socket
 
 - ID: JSTS-02-X-PI02-01
-- Name: JSTS-02-X-PI02-01
+- Hex ID: J202
+- Name: 2 mm 2 Pin JST Socket
+- Description: 2 mm 2 Pin JST Socket
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -59,4 +60,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

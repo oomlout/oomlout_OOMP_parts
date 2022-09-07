@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-0805-L-STAN-01>SMD (0805) Blue LED](#leds-0805-l-stan-01smd-0805-blue-led)
+* [L85L > SMD (0805) Blue LED](#l85l--smd-0805-blue-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-0805-L-STAN-01>SMD (0805) Blue LED
+# L85L > SMD (0805) Blue LED
 
 - ID: LEDS-0805-L-STAN-01
-- Name: LEDS-0805-L-STAN-01
+- Hex ID: L85L
+- Name: SMD (0805) Blue LED
+- Description: SMD (0805) Blue LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

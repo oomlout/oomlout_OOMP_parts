@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [DISP-10SEL-GYR-STAN-01>10 Segment LED Bargraph Green, Yellow, Red Display](#disp-10sel-gyr-stan-0110-segment-led-bargraph-green-yellow-red-display)
+* [DS10M > 10 Segment LED Bargraph Green, Yellow, Red Display](#ds10m--10-segment-led-bargraph-green-yellow-red-display)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DISP-10SEL-GYR-STAN-01>10 Segment LED Bargraph Green, Yellow, Red Display
+# DS10M > 10 Segment LED Bargraph Green, Yellow, Red Display
 
 - ID: DISP-10SEL-GYR-STAN-01
-- Name: DISP-10SEL-GYR-STAN-01
+- Hex ID: DS10M
+- Name: 10 Segment LED Bargraph Green, Yellow, Red Display
+- Description: 10 Segment LED Bargraph Green, Yellow, Red Display
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

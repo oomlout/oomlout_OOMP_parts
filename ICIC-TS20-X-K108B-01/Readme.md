@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-TS20-X-K108B-01>20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)](#icic-ts20-x-k108b-0120-pin-smd-tssop-8-bit-level-shifter-txb0108pw)
+* [ICS108B > 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)](#ics108b--20-pin-smd-tssop-8-bit-level-shifter-txb0108pw)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-TS20-X-K108B-01>20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
+# ICS108B > 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
 
 - ID: ICIC-TS20-X-K108B-01
-- Name: ICIC-TS20-X-K108B-01
+- Hex ID: ICS108B
+- Name: 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
+- Description: 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

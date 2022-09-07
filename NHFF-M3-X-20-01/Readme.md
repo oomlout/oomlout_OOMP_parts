@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [NHFF-M3-X-20-01>M3 x 20 mm Nylon Standoff (F-F)](#nhff-m3-x-20-01m3-x-20-mm-nylon-standoff-f-f)
+* [NFF20 > M3 x 20 mm Nylon Standoff (F-F)](#nff20--m3-x-20-mm-nylon-standoff-f-f)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# NHFF-M3-X-20-01>M3 x 20 mm Nylon Standoff (F-F)
+# NFF20 > M3 x 20 mm Nylon Standoff (F-F)
 
 - ID: NHFF-M3-X-20-01
-- Name: NHFF-M3-X-20-01
+- Hex ID: NFF20
+- Name: M3 x 20 mm Nylon Standoff (F-F)
+- Description: M3 x 20 mm Nylon Standoff (F-F)
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

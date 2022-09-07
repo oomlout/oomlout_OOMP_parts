@@ -5,26 +5,26 @@
 Contents
 ========
 
-* [RESE-0603-X-O470-01>SMD (0603) 47 Ohm Resistor](#rese-0603-x-o470-01smd-0603-47-ohm-resistor)
+* [R6470 > SMD (0603) 47 Ohm Resistor](#r6470--smd-0603-47-ohm-resistor)
 	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0603-X-O470-01>SMD (0603) 47 Ohm Resistor
+# R6470 > SMD (0603) 47 Ohm Resistor
 
 - ID: RESE-0603-X-O470-01
-- Name: RESE-0603-X-O470-01
+- Hex ID: R6470
+- Name: SMD (0603) 47 Ohm Resistor
+- Description: SMD (0603) 47 Ohm Resistor
 
 ## Images
   
   
 
-|image_RE|image_BOTTOM|
-| :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -32,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

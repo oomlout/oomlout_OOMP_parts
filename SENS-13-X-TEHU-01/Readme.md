@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-13-X-TEHU-01>13 mm Temperature and Humidity Sensor](#sens-13-x-tehu-0113-mm-temperature-and-humidity-sensor)
+* [SETH2 > 13 mm Temperature and Humidity Sensor](#seth2--13-mm-temperature-and-humidity-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-13-X-TEHU-01>13 mm Temperature and Humidity Sensor
+# SETH2 > 13 mm Temperature and Humidity Sensor
 
 - ID: SENS-13-X-TEHU-01
-- Name: SENS-13-X-TEHU-01
+- Hex ID: SETH2
+- Name: 13 mm Temperature and Humidity Sensor
+- Description: 13 mm Temperature and Humidity Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

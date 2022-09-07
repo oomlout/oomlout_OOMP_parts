@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO235-X-BOS5-A5D>SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA](#vreg-so235-x-bos5-a5dsmd-sot-23-5-5v-boost-voltage-regulator-500-ma)
+* [VS25B > SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA](#vs25b--smd-sot-23-5-5v-boost-voltage-regulator-500-ma)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO235-X-BOS5-A5D>SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
+# VS25B > SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
 
 - ID: VREG-SO235-X-BOS5-A5D
-- Name: VREG-SO235-X-BOS5-A5D
+- Hex ID: VS25B
+- Name: SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
+- Description: SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

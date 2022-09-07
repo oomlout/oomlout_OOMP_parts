@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [DIOD-SO23-X-ESDP-V33D>SMD (SOT-23) ESD Protection Diode 3.3v](#diod-so23-x-esdp-v33dsmd-sot-23-esd-protection-diode-33v)
+* [DS3EP3 > SMD (SOT-23) ESD Protection Diode 3.3v](#ds3ep3--smd-sot-23-esd-protection-diode-33v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DIOD-SO23-X-ESDP-V33D>SMD (SOT-23) ESD Protection Diode 3.3v
+# DS3EP3 > SMD (SOT-23) ESD Protection Diode 3.3v
 
 - ID: DIOD-SO23-X-ESDP-V33D
-- Name: DIOD-SO23-X-ESDP-V33D
+- Hex ID: DS3EP3
+- Name: SMD (SOT-23) ESD Protection Diode 3.3v
+- Description: SMD (SOT-23) ESD Protection Diode 3.3v
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -70,4 +71,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

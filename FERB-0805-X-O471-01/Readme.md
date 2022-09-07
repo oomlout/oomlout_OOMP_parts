@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [FERB-0805-X-O471-01>SMD (0805) 470 Ohm Ferrite Bead](#ferb-0805-x-o471-01smd-0805-470-ohm-ferrite-bead)
+* [F85471 > SMD (0805) 470 Ohm Ferrite Bead](#f85471--smd-0805-470-ohm-ferrite-bead)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# FERB-0805-X-O471-01>SMD (0805) 470 Ohm Ferrite Bead
+# F85471 > SMD (0805) 470 Ohm Ferrite Bead
 
 - ID: FERB-0805-X-O471-01
-- Name: FERB-0805-X-O471-01
+- Hex ID: F85471
+- Name: SMD (0805) 470 Ohm Ferrite Bead
+- Description: SMD (0805) 470 Ohm Ferrite Bead
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

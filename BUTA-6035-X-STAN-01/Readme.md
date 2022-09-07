@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [BUTA-6035-X-STAN-01>SMD (6035) Pushbutton (Tactile)](#buta-6035-x-stan-01smd-6035-pushbutton-tactile)
+* [B6035 > SMD (6035) Pushbutton (Tactile)](#b6035--smd-6035-pushbutton-tactile)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTA-6035-X-STAN-01>SMD (6035) Pushbutton (Tactile)
+# B6035 > SMD (6035) Pushbutton (Tactile)
 
 - ID: BUTA-6035-X-STAN-01
-- Name: BUTA-6035-X-STAN-01
+- Hex ID: B6035
+- Name: SMD (6035) Pushbutton (Tactile)
+- Description: SMD (6035) Pushbutton (Tactile)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

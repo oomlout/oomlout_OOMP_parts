@@ -5,36 +5,37 @@
 Contents
 ========
 
-* [POTE-95D-L-O103-01>9.5 mm 10k Ohm Blue Potentiometer](#pote-95d-l-o103-0195-mm-10k-ohm-blue-potentiometer)
+* [PTA103 > 9.5 mm 10k Ohm Blue Potentiometer](#pta103--95-mm-10k-ohm-blue-potentiometer)
 	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# POTE-95D-L-O103-01>9.5 mm 10k Ohm Blue Potentiometer
+# PTA103 > 9.5 mm 10k Ohm Blue Potentiometer
 
 - ID: POTE-95D-L-O103-01
-- Name: POTE-95D-L-O103-01
+- Hex ID: PTA103
+- Name: 9.5 mm 10k Ohm Blue Potentiometer
+- Description: 9.5 mm 10k Ohm Blue Potentiometer
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -46,7 +47,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -68,4 +69,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

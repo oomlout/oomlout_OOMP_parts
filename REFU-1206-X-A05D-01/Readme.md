@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [REFU-1206-X-A05D-01>SMD (1206) 500 mA Resetable Fuse](#refu-1206-x-a05d-01smd-1206-500-ma-resetable-fuse)
+* [RF1205 > SMD (1206) 500 mA Resetable Fuse](#rf1205--smd-1206-500-ma-resetable-fuse)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# REFU-1206-X-A05D-01>SMD (1206) 500 mA Resetable Fuse
+# RF1205 > SMD (1206) 500 mA Resetable Fuse
 
 - ID: REFU-1206-X-A05D-01
-- Name: REFU-1206-X-A05D-01
+- Hex ID: RF1205
+- Name: SMD (1206) 500 mA Resetable Fuse
+- Description: SMD (1206) 500 mA Resetable Fuse
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

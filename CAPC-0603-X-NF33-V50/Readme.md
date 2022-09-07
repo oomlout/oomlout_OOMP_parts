@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPC-0603-X-NF33-V50>SMD (0603) 33 nF Capacitor (Ceramic) 50v](#capc-0603-x-nf33-v50smd-0603-33-nf-capacitor-ceramic-50v)
+* [C6N033 > SMD (0603) 33 nF Capacitor (Ceramic) 50v](#c6n033--smd-0603-33-nf-capacitor-ceramic-50v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPC-0603-X-NF33-V50>SMD (0603) 33 nF Capacitor (Ceramic) 50v
+# C6N033 > SMD (0603) 33 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-NF33-V50
-- Name: CAPC-0603-X-NF33-V50
+- Hex ID: C6N033
+- Name: SMD (0603) 33 nF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 33 nF Capacitor (Ceramic) 50v
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [RESE-0805-X-O152-67>SMD (0805) 1.5k Ohm Resistor 1%](#rese-0805-x-o152-67smd-0805-15k-ohm-resistor-1)
+* [R85152A > SMD (0805) 1.5k Ohm Resistor 1%](#r85152a--smd-0805-15k-ohm-resistor-1)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0805-X-O152-67>SMD (0805) 1.5k Ohm Resistor 1%
+# R85152A > SMD (0805) 1.5k Ohm Resistor 1%
 
 - ID: RESE-0805-X-O152-67
-- Name: RESE-0805-X-O152-67
+- Hex ID: R85152A
+- Name: SMD (0805) 1.5k Ohm Resistor 1%
+- Description: SMD (0805) 1.5k Ohm Resistor 1%
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

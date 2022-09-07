@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-05-X-LIRE-01>5 mm Light (Resistive) Sensor](#sens-05-x-lire-015-mm-light-resistive-sensor)
+* [SEPR > 5 mm Light (Resistive) Sensor](#sepr--5-mm-light-resistive-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-05-X-LIRE-01>5 mm Light (Resistive) Sensor
+# SEPR > 5 mm Light (Resistive) Sensor
 
 - ID: SENS-05-X-LIRE-01
-- Name: SENS-05-X-LIRE-01
+- Hex ID: SEPR
+- Name: 5 mm Light (Resistive) Sensor
+- Description: 5 mm Light (Resistive) Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

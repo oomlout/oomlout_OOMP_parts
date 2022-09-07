@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [RESE-0402-X-O220-67>SMD (0402) 22 Ohm Resistor 1%](#rese-0402-x-o220-67smd-0402-22-ohm-resistor-1)
+* [R42220A > SMD (0402) 22 Ohm Resistor 1%](#r42220a--smd-0402-22-ohm-resistor-1)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0402-X-O220-67>SMD (0402) 22 Ohm Resistor 1%
+# R42220A > SMD (0402) 22 Ohm Resistor 1%
 
 - ID: RESE-0402-X-O220-67
-- Name: RESE-0402-X-O220-67
+- Hex ID: R42220A
+- Name: SMD (0402) 22 Ohm Resistor 1%
+- Description: SMD (0402) 22 Ohm Resistor 1%
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -67,4 +68,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

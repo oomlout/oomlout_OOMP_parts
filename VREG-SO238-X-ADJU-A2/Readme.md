@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO238-X-ADJU-A2>SMD (SOT-23-8) Adjustable Voltage Regulator 2 A](#vreg-so238-x-adju-a2smd-sot-23-8-adjustable-voltage-regulator-2-a)
+* [VS8A2 > SMD (SOT-23-8) Adjustable Voltage Regulator 2 A](#vs8a2--smd-sot-23-8-adjustable-voltage-regulator-2-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO238-X-ADJU-A2>SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
+# VS8A2 > SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
 
 - ID: VREG-SO238-X-ADJU-A2
-- Name: VREG-SO238-X-ADJU-A2
+- Hex ID: VS8A2
+- Name: SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
+- Description: SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-VQF44-X-K32U4-01>44 Pin SMD (VQFN) AtMega32U4](#icic-vqf44-x-k32u4-0144-pin-smd-vqfn-atmega32u4)
+* [ICSV32U4 > 44 Pin SMD (VQFN) AtMega32U4](#icsv32u4--44-pin-smd-vqfn-atmega32u4)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-VQF44-X-K32U4-01>44 Pin SMD (VQFN) AtMega32U4
+# ICSV32U4 > 44 Pin SMD (VQFN) AtMega32U4
 
 - ID: ICIC-VQF44-X-K32U4-01
-- Name: ICIC-VQF44-X-K32U4-01
+- Hex ID: ICSV32U4
+- Name: 44 Pin SMD (VQFN) AtMega32U4
+- Description: 44 Pin SMD (VQFN) AtMega32U4
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

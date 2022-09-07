@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-0402-W-STAN-01>SMD (0402) White LED](#leds-0402-w-stan-01smd-0402-white-led)
+* [L42W > SMD (0402) White LED](#l42w--smd-0402-white-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-0402-W-STAN-01>SMD (0402) White LED
+# L42W > SMD (0402) White LED
 
 - ID: LEDS-0402-W-STAN-01
-- Name: LEDS-0402-W-STAN-01
+- Hex ID: L42W
+- Name: SMD (0402) White LED
+- Description: SMD (0402) White LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

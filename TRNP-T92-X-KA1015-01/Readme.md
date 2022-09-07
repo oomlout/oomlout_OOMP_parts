@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [TRNP-T92-X-KA1015-01>TO-92 A1015 PNP Transistor](#trnp-t92-x-ka1015-01to-92-a1015-pnp-transistor)
+* [TP9A15 > TO-92 A1015 PNP Transistor](#tp9a15--to-92-a1015-pnp-transistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNP-T92-X-KA1015-01>TO-92 A1015 PNP Transistor
+# TP9A15 > TO-92 A1015 PNP Transistor
 
 - ID: TRNP-T92-X-KA1015-01
-- Name: TRNP-T92-X-KA1015-01
+- Hex ID: TP9A15
+- Name: TO-92 A1015 PNP Transistor
+- Description: TO-92 A1015 PNP Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

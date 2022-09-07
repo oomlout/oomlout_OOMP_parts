@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [HEDS-35D-X-SMDS-4P>3.5 mm SMD Headphone Socket (4 Pin)](#heds-35d-x-smds-4p35-mm-smd-headphone-socket-4-pin)
+* [HP34X > 3.5 mm SMD Headphone Socket (4 Pin)](#hp34x--35-mm-smd-headphone-socket-4-pin)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEDS-35D-X-SMDS-4P>3.5 mm SMD Headphone Socket (4 Pin)
+# HP34X > 3.5 mm SMD Headphone Socket (4 Pin)
 
 - ID: HEDS-35D-X-SMDS-4P
-- Name: HEDS-35D-X-SMDS-4P
+- Hex ID: HP34X
+- Name: 3.5 mm SMD Headphone Socket (4 Pin)
+- Description: 3.5 mm SMD Headphone Socket (4 Pin)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

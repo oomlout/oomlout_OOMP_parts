@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [BUTP-07-X-STAN-69> 7 mm Pushbutton Panel Mount ](#butp-07-x-stan-69-7-mm-pushbutton-panel-mount-)
+* [BP07 >  7 mm Pushbutton Panel Mount ](#bp07---7-mm-pushbutton-panel-mount-)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTP-07-X-STAN-69> 7 mm Pushbutton Panel Mount 
+# BP07 >  7 mm Pushbutton Panel Mount 
 
 - ID: BUTP-07-X-STAN-69
-- Name: BUTP-07-X-STAN-69
+- Hex ID: BP07
+- Name:  7 mm Pushbutton Panel Mount 
+- Description:  7 mm Pushbutton Panel Mount 
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

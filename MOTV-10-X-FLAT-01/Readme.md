@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [MOTV-10-X-FLAT-01>10 mm Flat Motor (Vibrating)](#motv-10-x-flat-0110-mm-flat-motor-vibrating)
+* [MVF10 > 10 mm Flat Motor (Vibrating)](#mvf10--10-mm-flat-motor-vibrating)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOTV-10-X-FLAT-01>10 mm Flat Motor (Vibrating)
+# MVF10 > 10 mm Flat Motor (Vibrating)
 
 - ID: MOTV-10-X-FLAT-01
-- Name: MOTV-10-X-FLAT-01
+- Hex ID: MVF10
+- Name: 10 mm Flat Motor (Vibrating)
+- Description: 10 mm Flat Motor (Vibrating)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

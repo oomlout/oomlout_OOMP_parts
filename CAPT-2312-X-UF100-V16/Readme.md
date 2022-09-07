@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CAPT-2312-X-UF100-V16>SMD (2312) 100 uF Capacitor (Tantalum) 16v](#capt-2312-x-uf100-v16smd-2312-100-uf-capacitor-tantalum-16v)
+* [CTS3U100F > SMD (2312) 100 uF Capacitor (Tantalum) 16v](#cts3u100f--smd-2312-100-uf-capacitor-tantalum-16v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPT-2312-X-UF100-V16>SMD (2312) 100 uF Capacitor (Tantalum) 16v
+# CTS3U100F > SMD (2312) 100 uF Capacitor (Tantalum) 16v
 
 - ID: CAPT-2312-X-UF100-V16
-- Name: CAPT-2312-X-UF100-V16
+- Hex ID: CTS3U100F
+- Name: SMD (2312) 100 uF Capacitor (Tantalum) 16v
+- Description: SMD (2312) 100 uF Capacitor (Tantalum) 16v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

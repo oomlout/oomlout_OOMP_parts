@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [XTAL-11-X-MZ25-01>11 mm 25 MHz Crystal](#xtal-11-x-mz25-0111-mm-25-mhz-crystal)
+* [XT25 > 11 mm 25 MHz Crystal](#xt25--11-mm-25-mhz-crystal)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# XTAL-11-X-MZ25-01>11 mm 25 MHz Crystal
+# XT25 > 11 mm 25 MHz Crystal
 
 - ID: XTAL-11-X-MZ25-01
-- Name: XTAL-11-X-MZ25-01
+- Hex ID: XT25
+- Name: 11 mm 25 MHz Crystal
+- Description: 11 mm 25 MHz Crystal
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -62,4 +63,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

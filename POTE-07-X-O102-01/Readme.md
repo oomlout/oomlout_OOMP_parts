@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [POTE-07-X-O102-01>7 mm 1k Ohm Potentiometer](#pote-07-x-o102-017-mm-1k-ohm-potentiometer)
+* [PT7102 > 7 mm 1k Ohm Potentiometer](#pt7102--7-mm-1k-ohm-potentiometer)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# POTE-07-X-O102-01>7 mm 1k Ohm Potentiometer
+# PT7102 > 7 mm 1k Ohm Potentiometer
 
 - ID: POTE-07-X-O102-01
-- Name: POTE-07-X-O102-01
+- Hex ID: PT7102
+- Name: 7 mm 1k Ohm Potentiometer
+- Description: 7 mm 1k Ohm Potentiometer
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

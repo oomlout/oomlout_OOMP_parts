@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-05-O-STAN-01>5 mm Orange LED](#leds-05-o-stan-015-mm-orange-led)
+* [L5O > 5 mm Orange LED](#l5o--5-mm-orange-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-05-O-STAN-01>5 mm Orange LED
+# L5O > 5 mm Orange LED
 
 - ID: LEDS-05-O-STAN-01
-- Name: LEDS-05-O-STAN-01
+- Hex ID: L5O
+- Name: 5 mm Orange LED
+- Description: 5 mm Orange LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

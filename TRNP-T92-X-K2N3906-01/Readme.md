@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [TRNP-T92-X-K2N3906-01>TO-92 2N3906 PNP Transistor](#trnp-t92-x-k2n3906-01to-92-2n3906-pnp-transistor)
+* [TP92N36 > TO-92 2N3906 PNP Transistor](#tp92n36--to-92-2n3906-pnp-transistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNP-T92-X-K2N3906-01>TO-92 2N3906 PNP Transistor
+# TP92N36 > TO-92 2N3906 PNP Transistor
 
 - ID: TRNP-T92-X-K2N3906-01
-- Name: TRNP-T92-X-K2N3906-01
+- Hex ID: TP92N36
+- Name: TO-92 2N3906 PNP Transistor
+- Description: TO-92 2N3906 PNP Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

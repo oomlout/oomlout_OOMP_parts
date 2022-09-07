@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOTO-SZ130-X-STAN-01>130 Size Motor](#moto-sz130-x-stan-01130-size-motor)
+* [MSZ130 > 130 Size Motor](#msz130--130-size-motor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOTO-SZ130-X-STAN-01>130 Size Motor
+# MSZ130 > 130 Size Motor
 
 - ID: MOTO-SZ130-X-STAN-01
-- Name: MOTO-SZ130-X-STAN-01
+- Hex ID: MSZ130
+- Name: 130 Size Motor
+- Description: 130 Size Motor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [TRNP-SO23-X-KS8550-01>SMD (SOT-23) S8550 PNP Transistor](#trnp-so23-x-ks8550-01smd-sot-23-s8550-pnp-transistor)
+* [TP985 > SMD (SOT-23) S8550 PNP Transistor](#tp985--smd-sot-23-s8550-pnp-transistor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNP-SO23-X-KS8550-01>SMD (SOT-23) S8550 PNP Transistor
+# TP985 > SMD (SOT-23) S8550 PNP Transistor
 
 - ID: TRNP-SO23-X-KS8550-01
-- Name: TRNP-SO23-X-KS8550-01
+- Hex ID: TP985
+- Name: SMD (SOT-23) S8550 PNP Transistor
+- Description: SMD (SOT-23) S8550 PNP Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

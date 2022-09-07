@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-3528-X-UVUV-01>SMD (3528) Ultraviolet Sensor](#sens-3528-x-uvuv-01smd-3528-ultraviolet-sensor)
+* [SEUV > SMD (3528) Ultraviolet Sensor](#seuv--smd-3528-ultraviolet-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-3528-X-UVUV-01>SMD (3528) Ultraviolet Sensor
+# SEUV > SMD (3528) Ultraviolet Sensor
 
 - ID: SENS-3528-X-UVUV-01
-- Name: SENS-3528-X-UVUV-01
+- Hex ID: SEUV
+- Name: SMD (3528) Ultraviolet Sensor
+- Description: SMD (3528) Ultraviolet Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

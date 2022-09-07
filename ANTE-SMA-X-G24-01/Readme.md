@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ANTE-SMA-X-G24-01>SMA 2.4 Ghz Antenna](#ante-sma-x-g24-01sma-24-ghz-antenna)
+* [AN24SM > SMA 2.4 Ghz Antenna](#an24sm--sma-24-ghz-antenna)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ANTE-SMA-X-G24-01>SMA 2.4 Ghz Antenna
+# AN24SM > SMA 2.4 Ghz Antenna
 
 - ID: ANTE-SMA-X-G24-01
-- Name: ANTE-SMA-X-G24-01
+- Hex ID: AN24SM
+- Name: SMA 2.4 Ghz Antenna
+- Description: SMA 2.4 Ghz Antenna
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HELF-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Female Header (Long)](#helf-i01-l-2x03pi-01254-mm-6-pin-2x3-blue-female-header-long)
+* [HFLX03L > 2.54 mm 6 Pin (2x3) Blue Female Header (Long)](#hflx03l--254-mm-6-pin-2x3-blue-female-header-long)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HELF-I01-L-2X03PI-01>2.54 mm 6 Pin (2x3) Blue Female Header (Long)
+# HFLX03L > 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 
 - ID: HELF-I01-L-2X03PI-01
-- Name: HELF-I01-L-2X03PI-01
+- Hex ID: HFLX03L
+- Name: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
+- Description: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

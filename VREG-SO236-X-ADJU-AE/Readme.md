@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [VREG-SO236-X-ADJU-AE>SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA](#vreg-so236-x-adju-aesmd-sot-23-6-adjustable-voltage-regulator-200-ma)
+* [VS36A > SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA](#vs36a--smd-sot-23-6-adjustable-voltage-regulator-200-ma)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# VREG-SO236-X-ADJU-AE>SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
+# VS36A > SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
 
 - ID: VREG-SO236-X-ADJU-AE
-- Name: VREG-SO236-X-ADJU-AE
+- Hex ID: VS36A
+- Name: SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
+- Description: SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -59,4 +60,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO23-X-V3-AD>SMD (SOT-23) 3v Voltage Regulator 250 mA](#vreg-so23-x-v3-adsmd-sot-23-3v-voltage-regulator-250-ma)
+* [VS33D > SMD (SOT-23) 3v Voltage Regulator 250 mA](#vs33d--smd-sot-23-3v-voltage-regulator-250-ma)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO23-X-V3-AD>SMD (SOT-23) 3v Voltage Regulator 250 mA
+# VS33D > SMD (SOT-23) 3v Voltage Regulator 250 mA
 
 - ID: VREG-SO23-X-V3-AD
-- Name: VREG-SO23-X-V3-AD
+- Hex ID: VS33D
+- Name: SMD (SOT-23) 3v Voltage Regulator 250 mA
+- Description: SMD (SOT-23) 3v Voltage Regulator 250 mA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

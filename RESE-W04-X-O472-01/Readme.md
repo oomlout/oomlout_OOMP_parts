@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [RESE-W04-X-O472-01>1/4 Watt 4.7k Ohm Resistor](#rese-w04-x-o472-0114-watt-47k-ohm-resistor)
+* [R4472 > 1/4 Watt 4.7k Ohm Resistor](#r4472--14-watt-47k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-W04-X-O472-01>1/4 Watt 4.7k Ohm Resistor
+# R4472 > 1/4 Watt 4.7k Ohm Resistor
 
 - ID: RESE-W04-X-O472-01
-- Name: RESE-W04-X-O472-01
+- Hex ID: R4472
+- Name: 1/4 Watt 4.7k Ohm Resistor
+- Description: 1/4 Watt 4.7k Ohm Resistor
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -76,4 +77,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

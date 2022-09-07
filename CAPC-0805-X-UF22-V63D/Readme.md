@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPC-0805-X-UF22-V63D>SMD (0805) 22 uF Capacitor (Ceramic) 6.3v](#capc-0805-x-uf22-v63dsmd-0805-22-uf-capacitor-ceramic-63v)
+* [C85U022 > SMD (0805) 22 uF Capacitor (Ceramic) 6.3v](#c85u022--smd-0805-22-uf-capacitor-ceramic-63v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPC-0805-X-UF22-V63D>SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
+# C85U022 > SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
 
 - ID: CAPC-0805-X-UF22-V63D
-- Name: CAPC-0805-X-UF22-V63D
+- Hex ID: C85U022
+- Name: SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
+- Description: SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

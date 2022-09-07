@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [REFU-1206-X-A05D-V8>SMD (1206) 500 mA Resetable Fuse 8v](#refu-1206-x-a05d-v8smd-1206-500-ma-resetable-fuse-8v)
+* [RF15 > SMD (1206) 500 mA Resetable Fuse 8v](#rf15--smd-1206-500-ma-resetable-fuse-8v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# REFU-1206-X-A05D-V8>SMD (1206) 500 mA Resetable Fuse 8v
+# RF15 > SMD (1206) 500 mA Resetable Fuse 8v
 
 - ID: REFU-1206-X-A05D-V8
-- Name: REFU-1206-X-A05D-V8
+- Hex ID: RF15
+- Name: SMD (1206) 500 mA Resetable Fuse 8v
+- Description: SMD (1206) 500 mA Resetable Fuse 8v
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

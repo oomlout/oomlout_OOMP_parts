@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [INDU-39D-X-UH47D-01>3.9 mm 4.7 uH Inductor](#indu-39d-x-uh47d-0139-mm-47-uh-inductor)
+* [IN39U47 > 3.9 mm 4.7 uH Inductor](#in39u47--39-mm-47-uh-inductor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# INDU-39D-X-UH47D-01>3.9 mm 4.7 uH Inductor
+# IN39U47 > 3.9 mm 4.7 uH Inductor
 
 - ID: INDU-39D-X-UH47D-01
-- Name: INDU-39D-X-UH47D-01
+- Hex ID: IN39U47
+- Name: 3.9 mm 4.7 uH Inductor
+- Description: 3.9 mm 4.7 uH Inductor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CAPT-2917-X-UF470-V63D>SMD (2917) 470 uF Capacitor (Tantalum) 6.3v](#capt-2917-x-uf470-v63dsmd-2917-470-uf-capacitor-tantalum-63v)
+* [CTS4U470 > SMD (2917) 470 uF Capacitor (Tantalum) 6.3v](#cts4u470--smd-2917-470-uf-capacitor-tantalum-63v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPT-2917-X-UF470-V63D>SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
+# CTS4U470 > SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
 
 - ID: CAPT-2917-X-UF470-V63D
-- Name: CAPT-2917-X-UF470-V63D
+- Hex ID: CTS4U470
+- Name: SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
+- Description: SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

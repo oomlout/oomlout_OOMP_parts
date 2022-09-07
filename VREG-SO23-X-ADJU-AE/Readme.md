@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [VREG-SO23-X-ADJU-AE>SMD (SOT-23) Adjustable Voltage Regulator 200 mA](#vreg-so23-x-adju-aesmd-sot-23-adjustable-voltage-regulator-200-ma)
+* [VS3A2D > SMD (SOT-23) Adjustable Voltage Regulator 200 mA](#vs3a2d--smd-sot-23-adjustable-voltage-regulator-200-ma)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# VREG-SO23-X-ADJU-AE>SMD (SOT-23) Adjustable Voltage Regulator 200 mA
+# VS3A2D > SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 
 - ID: VREG-SO23-X-ADJU-AE
-- Name: VREG-SO23-X-ADJU-AE
+- Hex ID: VS3A2D
+- Name: SMD (SOT-23) Adjustable Voltage Regulator 200 mA
+- Description: SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -68,4 +69,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

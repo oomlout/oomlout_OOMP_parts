@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-25X13-X-PIVB-01>25 x 13 mm Piezo Vibration Sensor](#sens-25x13-x-pivb-0125-x-13-mm-piezo-vibration-sensor)
+* [SEVB > 25 x 13 mm Piezo Vibration Sensor](#sevb--25-x-13-mm-piezo-vibration-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-25X13-X-PIVB-01>25 x 13 mm Piezo Vibration Sensor
+# SEVB > 25 x 13 mm Piezo Vibration Sensor
 
 - ID: SENS-25X13-X-PIVB-01
-- Name: SENS-25X13-X-PIVB-01
+- Hex ID: SEVB
+- Name: 25 x 13 mm Piezo Vibration Sensor
+- Description: 25 x 13 mm Piezo Vibration Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

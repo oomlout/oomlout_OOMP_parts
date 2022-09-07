@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-SC75-X-K125LS-01>5 Pin SMD (SC70) Single Buffer (74LVC1G125)](#icic-sc75-x-k125ls-015-pin-smd-sc70-single-buffer-74lvc1g125)
+* [ICS125LS > 5 Pin SMD (SC70) Single Buffer (74LVC1G125)](#ics125ls--5-pin-smd-sc70-single-buffer-74lvc1g125)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-SC75-X-K125LS-01>5 Pin SMD (SC70) Single Buffer (74LVC1G125)
+# ICS125LS > 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
 
 - ID: ICIC-SC75-X-K125LS-01
-- Name: ICIC-SC75-X-K125LS-01
+- Hex ID: ICS125LS
+- Name: 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
+- Description: 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

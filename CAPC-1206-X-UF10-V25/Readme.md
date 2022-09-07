@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CAPC-1206-X-UF10-V25>SMD (1206) 10 uF Capacitor (Ceramic) 25v](#capc-1206-x-uf10-v25smd-1206-10-uf-capacitor-ceramic-25v)
+* [C1U10 > SMD (1206) 10 uF Capacitor (Ceramic) 25v](#c1u10--smd-1206-10-uf-capacitor-ceramic-25v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPC-1206-X-UF10-V25>SMD (1206) 10 uF Capacitor (Ceramic) 25v
+# C1U10 > SMD (1206) 10 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-1206-X-UF10-V25
-- Name: CAPC-1206-X-UF10-V25
+- Hex ID: C1U10
+- Name: SMD (1206) 10 uF Capacitor (Ceramic) 25v
+- Description: SMD (1206) 10 uF Capacitor (Ceramic) 25v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

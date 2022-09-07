@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SP08-X-V36D-A2>8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A](#vreg-sp08-x-v36d-a28-pin-smd-sop-36v-voltage-regulator-2-a)
+* [VS836 > 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A](#vs836--8-pin-smd-sop-36v-voltage-regulator-2-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SP08-X-V36D-A2>8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
+# VS836 > 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
 
 - ID: VREG-SP08-X-V36D-A2
-- Name: VREG-SP08-X-V36D-A2
+- Hex ID: VS836
+- Name: 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
+- Description: 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

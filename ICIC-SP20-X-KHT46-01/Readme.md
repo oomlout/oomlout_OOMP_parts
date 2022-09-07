@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-SP20-X-KHT46-01> 20 Pin SMD (SOP) Holtek HT46R066 ](#icic-sp20-x-kht46-01-20-pin-smd-sop-holtek-ht46r066-)
+* [ICSKHT46 >  20 Pin SMD (SOP) Holtek HT46R066 ](#icskht46---20-pin-smd-sop-holtek-ht46r066-)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SP20-X-KHT46-01> 20 Pin SMD (SOP) Holtek HT46R066 
+# ICSKHT46 >  20 Pin SMD (SOP) Holtek HT46R066 
 
 - ID: ICIC-SP20-X-KHT46-01
-- Name: ICIC-SP20-X-KHT46-01
+- Hex ID: ICSKHT46
+- Name:  20 Pin SMD (SOP) Holtek HT46R066 
+- Description:  20 Pin SMD (SOP) Holtek HT46R066 
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

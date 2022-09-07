@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPC-0402-X-NF22-V50>SMD (0402) 22 nF Capacitor (Ceramic) 50v](#capc-0402-x-nf22-v50smd-0402-22-nf-capacitor-ceramic-50v)
+* [C42N022 > SMD (0402) 22 nF Capacitor (Ceramic) 50v](#c42n022--smd-0402-22-nf-capacitor-ceramic-50v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPC-0402-X-NF22-V50>SMD (0402) 22 nF Capacitor (Ceramic) 50v
+# C42N022 > SMD (0402) 22 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-NF22-V50
-- Name: CAPC-0402-X-NF22-V50
+- Hex ID: C42N022
+- Name: SMD (0402) 22 nF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 22 nF Capacitor (Ceramic) 50v
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [RESA-1268-X-O220X4-01>SMD (1206-8) 22 Ohm (x4) Resistor Array](#resa-1268-x-o220x4-01smd-1206-8-22-ohm-x4-resistor-array)
+* [RA1220 > SMD (1206-8) 22 Ohm (x4) Resistor Array](#ra1220--smd-1206-8-22-ohm-x4-resistor-array)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESA-1268-X-O220X4-01>SMD (1206-8) 22 Ohm (x4) Resistor Array
+# RA1220 > SMD (1206-8) 22 Ohm (x4) Resistor Array
 
 - ID: RESA-1268-X-O220X4-01
-- Name: RESA-1268-X-O220X4-01
+- Hex ID: RA1220
+- Name: SMD (1206-8) 22 Ohm (x4) Resistor Array
+- Description: SMD (1206-8) 22 Ohm (x4) Resistor Array
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

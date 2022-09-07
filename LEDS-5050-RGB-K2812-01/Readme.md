@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-5050-RGB-K2812-01>SMD (5050) Smart Controller (WS2812B) RGB LED](#leds-5050-rgb-k2812-01smd-5050-smart-controller-ws2812b-rgb-led)
+* [L502 > SMD (5050) Smart Controller (WS2812B) RGB LED](#l502--smd-5050-smart-controller-ws2812b-rgb-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-5050-RGB-K2812-01>SMD (5050) Smart Controller (WS2812B) RGB LED
+# L502 > SMD (5050) Smart Controller (WS2812B) RGB LED
 
 - ID: LEDS-5050-RGB-K2812-01
-- Name: LEDS-5050-RGB-K2812-01
+- Hex ID: L502
+- Name: SMD (5050) Smart Controller (WS2812B) RGB LED
+- Description: SMD (5050) Smart Controller (WS2812B) RGB LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [MOSN-SO23-X-A21D-01>SMD (SOT-23) 2.1 Amp N-Ch. MOSFET](#mosn-so23-x-a21d-01smd-sot-23-21-amp-n-ch-mosfet)
+* [MNS221D > SMD (SOT-23) 2.1 Amp N-Ch. MOSFET](#mns221d--smd-sot-23-21-amp-n-ch-mosfet)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# MOSN-SO23-X-A21D-01>SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
+# MNS221D > SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
 
 - ID: MOSN-SO23-X-A21D-01
-- Name: MOSN-SO23-X-A21D-01
+- Hex ID: MNS221D
+- Name: SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
+- Description: SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -69,4 +70,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

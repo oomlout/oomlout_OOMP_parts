@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-DI28-X-K328-01>28 Pin DIP AtMega328P](#icic-di28-x-k328-0128-pin-dip-atmega328p)
+* [IC328 > 28 Pin DIP AtMega328P](#ic328--28-pin-dip-atmega328p)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-DI28-X-K328-01>28 Pin DIP AtMega328P
+# IC328 > 28 Pin DIP AtMega328P
 
 - ID: ICIC-DI28-X-K328-01
-- Name: ICIC-DI28-X-K328-01
+- Hex ID: IC328
+- Name: 28 Pin DIP AtMega328P
+- Description: 28 Pin DIP AtMega328P
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -107,4 +108,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

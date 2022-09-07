@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-TS24-X-K9221-01>24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)](#icic-ts24-x-k9221-0124-pin-smd-tssop-12-channel-constant-current-led-driver-my9221)
+* [ICS9221 > 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)](#ics9221--24-pin-smd-tssop-12-channel-constant-current-led-driver-my9221)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-TS24-X-K9221-01>24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
+# ICS9221 > 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
 
 - ID: ICIC-TS24-X-K9221-01
-- Name: ICIC-TS24-X-K9221-01
+- Hex ID: ICS9221
+- Name: 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
+- Description: 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

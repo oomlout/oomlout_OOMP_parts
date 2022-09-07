@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [BREB-P170-X-STAN-01>170 Point Breadboard](#breb-p170-x-stan-01170-point-breadboard)
+* [BB1 > 170 Point Breadboard](#bb1--170-point-breadboard)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BREB-P170-X-STAN-01>170 Point Breadboard
+# BB1 > 170 Point Breadboard
 
 - ID: BREB-P170-X-STAN-01
-- Name: BREB-P170-X-STAN-01
+- Hex ID: BB1
+- Name: 170 Point Breadboard
+- Description: 170 Point Breadboard
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [TRNN-SO23-X-KS8050-01>SMD (SOT-23) S8050 NPN Transistor](#trnn-so23-x-ks8050-01smd-sot-23-s8050-npn-transistor)
+* [TN98050 > SMD (SOT-23) S8050 NPN Transistor](#tn98050--smd-sot-23-s8050-npn-transistor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNN-SO23-X-KS8050-01>SMD (SOT-23) S8050 NPN Transistor
+# TN98050 > SMD (SOT-23) S8050 NPN Transistor
 
 - ID: TRNN-SO23-X-KS8050-01
-- Name: TRNN-SO23-X-KS8050-01
+- Hex ID: TN98050
+- Name: SMD (SOT-23) S8050 NPN Transistor
+- Description: SMD (SOT-23) S8050 NPN Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

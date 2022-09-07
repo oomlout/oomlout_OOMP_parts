@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MCUU-QFP100-X-K2560-01>100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU](#mcuu-qfp100-x-k2560-01100-pin-smd-tqfp-stepper-motor-driver-a4988-mcu)
+* [ > 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU](#--100-pin-smd-tqfp-stepper-motor-driver-a4988-mcu)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MCUU-QFP100-X-K2560-01>100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
+#  > 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
 
 - ID: MCUU-QFP100-X-K2560-01
-- Name: MCUU-QFP100-X-K2560-01
+- Hex ID: 
+- Name: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
+- Description: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

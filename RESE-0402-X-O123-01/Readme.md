@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [RESE-0402-X-O123-01>SMD (0402) 12k Ohm Resistor](#rese-0402-x-o123-01smd-0402-12k-ohm-resistor)
+* [R42123 > SMD (0402) 12k Ohm Resistor](#r42123--smd-0402-12k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-0402-X-O123-01>SMD (0402) 12k Ohm Resistor
+# R42123 > SMD (0402) 12k Ohm Resistor
 
 - ID: RESE-0402-X-O123-01
-- Name: RESE-0402-X-O123-01
+- Hex ID: R42123
+- Name: SMD (0402) 12k Ohm Resistor
+- Description: SMD (0402) 12k Ohm Resistor
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -67,4 +68,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

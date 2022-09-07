@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-DFN8-X-BUCA-A2>SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A](#vreg-dfn8-x-buca-a2smd-dfn-8-adjustable-buck-voltage-regulator-2-a)
+* [VSD8A > SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A](#vsd8a--smd-dfn-8-adjustable-buck-voltage-regulator-2-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-DFN8-X-BUCA-A2>SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
+# VSD8A > SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
 
 - ID: VREG-DFN8-X-BUCA-A2
-- Name: VREG-DFN8-X-BUCA-A2
+- Hex ID: VSD8A
+- Name: SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
+- Description: SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

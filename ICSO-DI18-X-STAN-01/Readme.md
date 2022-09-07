@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICSO-DI18-X-STAN-01>18 Pin DIP IC Socket](#icso-di18-x-stan-0118-pin-dip-ic-socket)
+* [IS18 > 18 Pin DIP IC Socket](#is18--18-pin-dip-ic-socket)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICSO-DI18-X-STAN-01>18 Pin DIP IC Socket
+# IS18 > 18 Pin DIP IC Socket
 
 - ID: ICSO-DI18-X-STAN-01
-- Name: ICSO-DI18-X-STAN-01
+- Hex ID: IS18
+- Name: 18 Pin DIP IC Socket
+- Description: 18 Pin DIP IC Socket
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [USBS-MC-X-SMDS-01>Micro SMD USB Socket](#usbs-mc-x-smds-01micro-smd-usb-socket)
+* [USM > Micro SMD USB Socket](#usm--micro-smd-usb-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# USBS-MC-X-SMDS-01>Micro SMD USB Socket
+# USM > Micro SMD USB Socket
 
 - ID: USBS-MC-X-SMDS-01
-- Name: USBS-MC-X-SMDS-01
+- Hex ID: USM
+- Name: Micro SMD USB Socket
+- Description: Micro SMD USB Socket
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -67,4 +68,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

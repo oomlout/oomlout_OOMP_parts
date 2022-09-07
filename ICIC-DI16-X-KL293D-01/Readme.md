@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-DI16-X-KL293D-01>16 Pin DIP Dual H-Bridge (L293D)](#icic-di16-x-kl293d-0116-pin-dip-dual-h-bridge-l293d)
+* [ICL293D > 16 Pin DIP Dual H-Bridge (L293D)](#icl293d--16-pin-dip-dual-h-bridge-l293d)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-DI16-X-KL293D-01>16 Pin DIP Dual H-Bridge (L293D)
+# ICL293D > 16 Pin DIP Dual H-Bridge (L293D)
 
 - ID: ICIC-DI16-X-KL293D-01
-- Name: ICIC-DI16-X-KL293D-01
+- Hex ID: ICL293D
+- Name: 16 Pin DIP Dual H-Bridge (L293D)
+- Description: 16 Pin DIP Dual H-Bridge (L293D)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

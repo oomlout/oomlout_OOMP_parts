@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-QFP64-X-KLPC11-01>64 Pin SMD (TQFP) LPC11U24 (Cortex M0)](#icic-qfp64-x-klpc11-0164-pin-smd-tqfp-lpc11u24-cortex-m0)
+* [ICSLPC11 > 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)](#icslpc11--64-pin-smd-tqfp-lpc11u24-cortex-m0)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-QFP64-X-KLPC11-01>64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
+# ICSLPC11 > 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
 
 - ID: ICIC-QFP64-X-KLPC11-01
-- Name: ICIC-QFP64-X-KLPC11-01
+- Hex ID: ICSLPC11
+- Name: 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
+- Description: 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

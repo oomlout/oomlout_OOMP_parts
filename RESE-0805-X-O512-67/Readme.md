@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [RESE-0805-X-O512-67>SMD (0805) 5.1k Ohm Resistor 1%](#rese-0805-x-o512-67smd-0805-51k-ohm-resistor-1)
+* [R85512A > SMD (0805) 5.1k Ohm Resistor 1%](#r85512a--smd-0805-51k-ohm-resistor-1)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0805-X-O512-67>SMD (0805) 5.1k Ohm Resistor 1%
+# R85512A > SMD (0805) 5.1k Ohm Resistor 1%
 
 - ID: RESE-0805-X-O512-67
-- Name: RESE-0805-X-O512-67
+- Hex ID: R85512A
+- Name: SMD (0805) 5.1k Ohm Resistor 1%
+- Description: SMD (0805) 5.1k Ohm Resistor 1%
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

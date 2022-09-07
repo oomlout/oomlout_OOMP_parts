@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [DIOD-S123-X-A02D-01>SMD (SOD-123) 200 mA Diode](#diod-s123-x-a02d-01smd-sod-123-200-ma-diode)
+* [DS32D > SMD (SOD-123) 200 mA Diode](#ds32d--smd-sod-123-200-ma-diode)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DIOD-S123-X-A02D-01>SMD (SOD-123) 200 mA Diode
+# DS32D > SMD (SOD-123) 200 mA Diode
 
 - ID: DIOD-S123-X-A02D-01
-- Name: DIOD-S123-X-A02D-01
+- Hex ID: DS32D
+- Name: SMD (SOD-123) 200 mA Diode
+- Description: SMD (SOD-123) 200 mA Diode
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-PS20-X-KL298-A4>SMD (Power SO-20) Dual H-Bridge (L298) 4 A](#icic-ps20-x-kl298-a4smd-power-so-20-dual-h-bridge-l298-4-a)
+* [ICS298 > SMD (Power SO-20) Dual H-Bridge (L298) 4 A](#ics298--smd-power-so-20-dual-h-bridge-l298-4-a)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-PS20-X-KL298-A4>SMD (Power SO-20) Dual H-Bridge (L298) 4 A
+# ICS298 > SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 
 - ID: ICIC-PS20-X-KL298-A4
-- Name: ICIC-PS20-X-KL298-A4
+- Hex ID: ICS298
+- Name: SMD (Power SO-20) Dual H-Bridge (L298) 4 A
+- Description: SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

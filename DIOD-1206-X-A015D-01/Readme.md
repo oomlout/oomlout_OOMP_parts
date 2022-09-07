@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [DIOD-1206-X-A015D-01>SMD (1206) 150 mA Diode 75v](#diod-1206-x-a015d-01smd-1206-150-ma-diode-75v)
+* [DS115 > SMD (1206) 150 mA Diode 75v](#ds115--smd-1206-150-ma-diode-75v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DIOD-1206-X-A015D-01>SMD (1206) 150 mA Diode 75v
+# DS115 > SMD (1206) 150 mA Diode 75v
 
 - ID: DIOD-1206-X-A015D-01
-- Name: DIOD-1206-X-A015D-01
+- Hex ID: DS115
+- Name: SMD (1206) 150 mA Diode 75v
+- Description: SMD (1206) 150 mA Diode 75v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

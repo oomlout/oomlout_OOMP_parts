@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [INDU-06-X-UH10-01>6 mm 10 uH Inductor](#indu-06-x-uh10-016-mm-10-uh-inductor)
+* [IN06U10 > 6 mm 10 uH Inductor](#in06u10--6-mm-10-uh-inductor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# INDU-06-X-UH10-01>6 mm 10 uH Inductor
+# IN06U10 > 6 mm 10 uH Inductor
 
 - ID: INDU-06-X-UH10-01
-- Name: INDU-06-X-UH10-01
+- Hex ID: IN06U10
+- Name: 6 mm 10 uH Inductor
+- Description: 6 mm 10 uH Inductor
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -62,4 +63,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

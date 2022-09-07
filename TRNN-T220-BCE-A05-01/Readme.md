@@ -5,26 +5,36 @@
 Contents
 ========
 
-* [TRNN-T220-BCE-A05-01>TO-220 5 Amp NPN Transistor](#trnn-t220-bce-a05-01to-220-5-amp-npn-transistor)
+* [TN120 > TO-220 5 Amp NPN Transistor](#tn120--to-220-5-amp-npn-transistor)
+	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNN-T220-BCE-A05-01>TO-220 5 Amp NPN Transistor
+# TN120 > TO-220 5 Amp NPN Transistor
 
 - ID: TRNN-T220-BCE-A05-01
-- Name: TRNN-T220-BCE-A05-01
+- Hex ID: TN120
+- Name: TO-220 5 Amp NPN Transistor
+- Description: TO-220 5 Amp NPN Transistor
+
+## Images
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -36,7 +46,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [DISP-7SEL-R-4DIG-01>7 Segment LED 4 Digit Red Display](#disp-7sel-r-4dig-017-segment-led-4-digit-red-display)
+* [DS74R > 7 Segment LED 4 Digit Red Display](#ds74r--7-segment-led-4-digit-red-display)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DISP-7SEL-R-4DIG-01>7 Segment LED 4 Digit Red Display
+# DS74R > 7 Segment LED 4 Digit Red Display
 
 - ID: DISP-7SEL-R-4DIG-01
-- Name: DISP-7SEL-R-4DIG-01
+- Hex ID: DS74R
+- Name: 7 Segment LED 4 Digit Red Display
+- Description: 7 Segment LED 4 Digit Red Display
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -59,4 +60,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

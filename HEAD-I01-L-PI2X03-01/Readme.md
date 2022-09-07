@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HEAD-I01-L-PI2X03-01>2.54 mm 6 Pin (2x3) Blue Header](#head-i01-l-pi2x03-01254-mm-6-pin-2x3-blue-header)
+* [H2X03L > 2.54 mm 6 Pin (2x3) Blue Header](#h2x03l--254-mm-6-pin-2x3-blue-header)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAD-I01-L-PI2X03-01>2.54 mm 6 Pin (2x3) Blue Header
+# H2X03L > 2.54 mm 6 Pin (2x3) Blue Header
 
 - ID: HEAD-I01-L-PI2X03-01
-- Name: HEAD-I01-L-PI2X03-01
+- Hex ID: H2X03L
+- Name: 2.54 mm 6 Pin (2x3) Blue Header
+- Description: 2.54 mm 6 Pin (2x3) Blue Header
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -67,4 +68,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

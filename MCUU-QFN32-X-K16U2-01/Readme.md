@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MCUU-QFN32-X-K16U2-01>32 Pin SMD (QFN) AtMega32U4 MCU](#mcuu-qfn32-x-k16u2-0132-pin-smd-qfn-atmega32u4-mcu)
+* [ > 32 Pin SMD (QFN) AtMega32U4 MCU](#--32-pin-smd-qfn-atmega32u4-mcu)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MCUU-QFN32-X-K16U2-01>32 Pin SMD (QFN) AtMega32U4 MCU
+#  > 32 Pin SMD (QFN) AtMega32U4 MCU
 
 - ID: MCUU-QFN32-X-K16U2-01
-- Name: MCUU-QFN32-X-K16U2-01
+- Hex ID: 
+- Name: 32 Pin SMD (QFN) AtMega32U4 MCU
+- Description: 32 Pin SMD (QFN) AtMega32U4 MCU
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

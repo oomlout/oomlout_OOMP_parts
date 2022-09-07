@@ -5,49 +5,41 @@
 Contents
 ========
 
-* [RESE-W04-X-O561-01>1/4 Watt 560 Ohm Resistor](#rese-w04-x-o561-0114-watt-560-ohm-resistor)
+* [R4561 > 1/4 Watt 560 Ohm Resistor](#r4561--14-watt-560-ohm-resistor)
 	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
-	* [3D Models](#3d-models)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-W04-X-O561-01>1/4 Watt 560 Ohm Resistor
+# R4561 > 1/4 Watt 560 Ohm Resistor
 
 - ID: RESE-W04-X-O561-01
-- Name: RESE-W04-X-O561-01
+- Hex ID: R4561
+- Name: 1/4 Watt 560 Ohm Resistor
+- Description: 1/4 Watt 560 Ohm Resistor
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
-
-## 3D Models
-  
-  
-
-|3D Model Ortho|
-| :---: |
-|[![3D Model Ortho](3dmodel.png)](3dmodel.png)|
 
 ## Labels
   
@@ -55,7 +47,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -93,4 +85,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

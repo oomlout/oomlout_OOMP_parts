@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOSP-SO23-X-A35D-01>SMD (SOT-23) 3.5 Amp P-Ch. MOSFET](#mosp-so23-x-a35d-01smd-sot-23-35-amp-p-ch-mosfet)
+* [MPS235D > SMD (SOT-23) 3.5 Amp P-Ch. MOSFET](#mps235d--smd-sot-23-35-amp-p-ch-mosfet)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOSP-SO23-X-A35D-01>SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
+# MPS235D > SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
 
 - ID: MOSP-SO23-X-A35D-01
-- Name: MOSP-SO23-X-A35D-01
+- Hex ID: MPS235D
+- Name: SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
+- Description: SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-QFN16-X-K5883-01>16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)](#icic-qfn16-x-k5883-0116-pin-smd-qfn-3-axis-digital-compass-hmc5883l)
+* [ICS5883 > 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)](#ics5883--16-pin-smd-qfn-3-axis-digital-compass-hmc5883l)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-QFN16-X-K5883-01>16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
+# ICS5883 > 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
 
 - ID: ICIC-QFN16-X-K5883-01
-- Name: ICIC-QFN16-X-K5883-01
+- Hex ID: ICS5883
+- Name: 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
+- Description: 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

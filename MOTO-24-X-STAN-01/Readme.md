@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOTO-24-X-STAN-01>24 mm Motor](#moto-24-x-stan-0124-mm-motor)
+* [MT24 > 24 mm Motor](#mt24--24-mm-motor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOTO-24-X-STAN-01>24 mm Motor
+# MT24 > 24 mm Motor
 
 - ID: MOTO-24-X-STAN-01
-- Name: MOTO-24-X-STAN-01
+- Hex ID: MT24
+- Name: 24 mm Motor
+- Description: 24 mm Motor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

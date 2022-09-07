@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ANTE-40-X-G24-01>40 mm 2.4 Ghz Antenna](#ante-40-x-g24-0140-mm-24-ghz-antenna)
+* [AN2440 > 40 mm 2.4 Ghz Antenna](#an2440--40-mm-24-ghz-antenna)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ANTE-40-X-G24-01>40 mm 2.4 Ghz Antenna
+# AN2440 > 40 mm 2.4 Ghz Antenna
 
 - ID: ANTE-40-X-G24-01
-- Name: ANTE-40-X-G24-01
+- Hex ID: AN2440
+- Name: 40 mm 2.4 Ghz Antenna
+- Description: 40 mm 2.4 Ghz Antenna
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [DIOD-I03-X-A01-V50>7.62 mm 1 Amp Diode 50v](#diod-i03-x-a01-v50762-mm-1-amp-diode-50v)
+* [DT01 > 7.62 mm 1 Amp Diode 50v](#dt01--762-mm-1-amp-diode-50v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DIOD-I03-X-A01-V50>7.62 mm 1 Amp Diode 50v
+# DT01 > 7.62 mm 1 Amp Diode 50v
 
 - ID: DIOD-I03-X-A01-V50
-- Name: DIOD-I03-X-A01-V50
+- Hex ID: DT01
+- Name: 7.62 mm 1 Amp Diode 50v
+- Description: 7.62 mm 1 Amp Diode 50v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -62,4 +63,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

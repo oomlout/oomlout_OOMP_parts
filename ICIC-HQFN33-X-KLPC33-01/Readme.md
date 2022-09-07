@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-HQFN33-X-KLPC33-01>33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)](#icic-hqfn33-x-klpc33-0133-pin-smd-heatsink-qfn-lpc11u35fhi33-cortex-m0)
+* [ICSLPC33 > 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)](#icslpc33--33-pin-smd-heatsink-qfn-lpc11u35fhi33-cortex-m0)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-HQFN33-X-KLPC33-01>33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
+# ICSLPC33 > 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
 
 - ID: ICIC-HQFN33-X-KLPC33-01
-- Name: ICIC-HQFN33-X-KLPC33-01
+- Hex ID: ICSLPC33
+- Name: 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
+- Description: 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

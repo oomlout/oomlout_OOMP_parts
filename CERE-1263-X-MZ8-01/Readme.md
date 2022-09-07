@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CERE-1263-X-MZ8-01>SMD (1206-3) 8 MHz Ceramic Resonator](#cere-1263-x-mz8-01smd-1206-3-8-mhz-ceramic-resonator)
+* [CR1638 > SMD (1206-3) 8 MHz Ceramic Resonator](#cr1638--smd-1206-3-8-mhz-ceramic-resonator)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CERE-1263-X-MZ8-01>SMD (1206-3) 8 MHz Ceramic Resonator
+# CR1638 > SMD (1206-3) 8 MHz Ceramic Resonator
 
 - ID: CERE-1263-X-MZ8-01
-- Name: CERE-1263-X-MZ8-01
+- Hex ID: CR1638
+- Name: SMD (1206-3) 8 MHz Ceramic Resonator
+- Description: SMD (1206-3) 8 MHz Ceramic Resonator
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

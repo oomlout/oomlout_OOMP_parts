@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-QFP100-X-KLPC17-01>100 Pin SMD (TQFP) LPC1768 (Cortex M3)](#icic-qfp100-x-klpc17-01100-pin-smd-tqfp-lpc1768-cortex-m3)
+* [ICSLPC17 > 100 Pin SMD (TQFP) LPC1768 (Cortex M3)](#icslpc17--100-pin-smd-tqfp-lpc1768-cortex-m3)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-QFP100-X-KLPC17-01>100 Pin SMD (TQFP) LPC1768 (Cortex M3)
+# ICSLPC17 > 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
 
 - ID: ICIC-QFP100-X-KLPC17-01
-- Name: ICIC-QFP100-X-KLPC17-01
+- Hex ID: ICSLPC17
+- Name: 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
+- Description: 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

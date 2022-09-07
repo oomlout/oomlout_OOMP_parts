@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO235-X-V33D-A5D>SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA](#vreg-so235-x-v33d-a5dsmd-sot-23-5-33v-voltage-regulator-500-ma)
+* [VS5335 > SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA](#vs5335--smd-sot-23-5-33v-voltage-regulator-500-ma)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO235-X-V33D-A5D>SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA
+# VS5335 > SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA
 
 - ID: VREG-SO235-X-V33D-A5D
-- Name: VREG-SO235-X-V33D-A5D
+- Hex ID: VS5335
+- Name: SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA
+- Description: SMD (SOT-23-5) 3.3v Voltage Regulator 500 mA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

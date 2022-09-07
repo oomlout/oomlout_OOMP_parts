@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [TRNN-SO23-X-A05D-02>SMD (SOT-23) 500 mA NPN Transistor](#trnn-so23-x-a05d-02smd-sot-23-500-ma-npn-transistor)
+* [TNS25D2 > SMD (SOT-23) 500 mA NPN Transistor](#tns25d2--smd-sot-23-500-ma-npn-transistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# TRNN-SO23-X-A05D-02>SMD (SOT-23) 500 mA NPN Transistor
+# TNS25D2 > SMD (SOT-23) 500 mA NPN Transistor
 
 - ID: TRNN-SO23-X-A05D-02
-- Name: TRNN-SO23-X-A05D-02
+- Hex ID: TNS25D2
+- Name: SMD (SOT-23) 500 mA NPN Transistor
+- Description: SMD (SOT-23) 500 mA NPN Transistor
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -68,4 +69,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

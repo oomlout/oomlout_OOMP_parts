@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [CAPC-45D-X-NF10-V50>4.5 mm 10 nF Capacitor (Ceramic) 50v](#capc-45d-x-nf10-v5045-mm-10-nf-capacitor-ceramic-50v)
+* [CCN010 > 4.5 mm 10 nF Capacitor (Ceramic) 50v](#ccn010--45-mm-10-nf-capacitor-ceramic-50v)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# CAPC-45D-X-NF10-V50>4.5 mm 10 nF Capacitor (Ceramic) 50v
+# CCN010 > 4.5 mm 10 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-45D-X-NF10-V50
-- Name: CAPC-45D-X-NF10-V50
+- Hex ID: CCN010
+- Name: 4.5 mm 10 nF Capacitor (Ceramic) 50v
+- Description: 4.5 mm 10 nF Capacitor (Ceramic) 50v
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-SP20-X-K1637-01>20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)](#icic-sp20-x-k1637-0120-pin-smd-sop-7-segment-8-digit-led-driver-tm1637)
+* [ICS1637 > 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)](#ics1637--20-pin-smd-sop-7-segment-8-digit-led-driver-tm1637)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SP20-X-K1637-01>20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
+# ICS1637 > 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
 
 - ID: ICIC-SP20-X-K1637-01
-- Name: ICIC-SP20-X-K1637-01
+- Hex ID: ICS1637
+- Name: 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
+- Description: 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

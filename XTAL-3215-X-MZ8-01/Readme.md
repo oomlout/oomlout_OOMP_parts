@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [XTAL-3215-X-MZ8-01>SMD (3215) 8 MHz Crystal](#xtal-3215-x-mz8-01smd-3215-8-mhz-crystal)
+* [XS38 > SMD (3215) 8 MHz Crystal](#xs38--smd-3215-8-mhz-crystal)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# XTAL-3215-X-MZ8-01>SMD (3215) 8 MHz Crystal
+# XS38 > SMD (3215) 8 MHz Crystal
 
 - ID: XTAL-3215-X-MZ8-01
-- Name: XTAL-3215-X-MZ8-01
+- Hex ID: XS38
+- Name: SMD (3215) 8 MHz Crystal
+- Description: SMD (3215) 8 MHz Crystal
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

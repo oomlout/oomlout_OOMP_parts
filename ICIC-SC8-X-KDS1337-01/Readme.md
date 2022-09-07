@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-SC8-X-KDS1337-01>8 Pin SMD (SOIC) Real Time Clock (DS1337)](#icic-sc8-x-kds1337-018-pin-smd-soic-real-time-clock-ds1337)
+* [ICS1337 > 8 Pin SMD (SOIC) Real Time Clock (DS1337)](#ics1337--8-pin-smd-soic-real-time-clock-ds1337)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SC8-X-KDS1337-01>8 Pin SMD (SOIC) Real Time Clock (DS1337)
+# ICS1337 > 8 Pin SMD (SOIC) Real Time Clock (DS1337)
 
 - ID: ICIC-SC8-X-KDS1337-01
-- Name: ICIC-SC8-X-KDS1337-01
+- Hex ID: ICS1337
+- Name: 8 Pin SMD (SOIC) Real Time Clock (DS1337)
+- Description: 8 Pin SMD (SOIC) Real Time Clock (DS1337)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

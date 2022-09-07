@@ -106,10 +106,10 @@ Contents
 ## BUTA > Pushbutton (Tactile)
   
 
-|![6 mm 2 Pin Pushbutton (Tactile)](BUTA-06-X-PI02-01/image_140.jpg)<br>[BUTA-06-X-PI02-01 <br> 6 mm 2 Pin Pushbutton (Tactile)](BUTA-06-X-PI02-01/)<br>[BT62](BUTA-06-X-PI02-01/)|![6 mm SMD Pushbutton (Tactile)](BUTA-06-X-SMDS-01/image_140.jpg)<br>[BUTA-06-X-SMDS-01 <br> 6 mm SMD Pushbutton (Tactile)](BUTA-06-X-SMDS-01/)<br>[B06](BUTA-06-X-SMDS-01/)|![7 mm SMD Pushbutton (Tactile)](BUTA-07-X-SMDS-01/image_140.jpg)<br>[BUTA-07-X-SMDS-01 <br> 7 mm SMD Pushbutton (Tactile)](BUTA-07-X-SMDS-01/)<br>[B7S](BUTA-07-X-SMDS-01/)|![SMD (3025) 2 Pin Pushbutton (Tactile)](BUTA-3025-X-PI02-01/image_140.jpg)<br>[BUTA-3025-X-PI02-01 <br> SMD (3025) 2 Pin Pushbutton (Tactile)](BUTA-3025-X-PI02-01/)<br>[BT3025](BUTA-3025-X-PI02-01/)|
+|![6 mm 2 Pin Pushbutton (Tactile)](BUTA-06-X-PI02-01/image_140.jpg)<br>[BUTA-06-X-PI02-01 <br> 6 mm 2 Pin Pushbutton (Tactile)](BUTA-06-X-PI02-01/)<br>[BT62](BUTA-06-X-PI02-01/)|![6 mm SMD Pushbutton (Tactile)](BUTA-06-X-SMDS-01/image_140.jpg)<br>[BUTA-06-X-SMDS-01 <br> 6 mm SMD Pushbutton (Tactile)](BUTA-06-X-SMDS-01/)<br>[B06S](BUTA-06-X-SMDS-01/)|![6 mm Pushbutton (Tactile)](BUTA-06-X-STAN-01/image_140.jpg)<br>[BUTA-06-X-STAN-01 <br> 6 mm Pushbutton (Tactile)](BUTA-06-X-STAN-01/)<br>[B06](BUTA-06-X-STAN-01/)|![7 mm SMD Pushbutton (Tactile)](BUTA-07-X-SMDS-01/image_140.jpg)<br>[BUTA-07-X-SMDS-01 <br> 7 mm SMD Pushbutton (Tactile)](BUTA-07-X-SMDS-01/)<br>[B7S](BUTA-07-X-SMDS-01/)|
 | :---: | :---: | :---: | :---: |
-|<br>[BUTA-4632-X-STAN-01 <br> SMD (4632) Pushbutton (Tactile)](BUTA-4632-X-STAN-01/)<br>[BT4632](BUTA-4632-X-STAN-01/)|<br>[BUTA-52D-X-SMDS-01 <br> 5.2 mm SMD Pushbutton (Tactile)](BUTA-52D-X-SMDS-01/)<br>|<br>[BUTA-52D-X-STAN-01 <br> 5.2 mm Pushbutton (Tactile)](BUTA-52D-X-STAN-01/)<br>[BT52](BUTA-52D-X-STAN-01/)|<br>[BUTA-6035-X-STAN-01 <br> SMD (6035) Pushbutton (Tactile)](BUTA-6035-X-STAN-01/)<br>[B6035](BUTA-6035-X-STAN-01/)|
-|||||
+|![SMD (3025) 2 Pin Pushbutton (Tactile)](BUTA-3025-X-PI02-01/image_140.jpg)<br>[BUTA-3025-X-PI02-01 <br> SMD (3025) 2 Pin Pushbutton (Tactile)](BUTA-3025-X-PI02-01/)<br>[BT3025](BUTA-3025-X-PI02-01/)|<br>[BUTA-4632-X-STAN-01 <br> SMD (4632) Pushbutton (Tactile)](BUTA-4632-X-STAN-01/)<br>[BT4632](BUTA-4632-X-STAN-01/)|<br>[BUTA-52D-X-SMDS-01 <br> 5.2 mm SMD Pushbutton (Tactile)](BUTA-52D-X-SMDS-01/)<br>|<br>[BUTA-52D-X-STAN-01 <br> 5.2 mm Pushbutton (Tactile)](BUTA-52D-X-STAN-01/)<br>[BT52](BUTA-52D-X-STAN-01/)|
+|<br>[BUTA-6035-X-STAN-01 <br> SMD (6035) Pushbutton (Tactile)](BUTA-6035-X-STAN-01/)<br>[B6035](BUTA-6035-X-STAN-01/)||||
 
 ## BUTP > Pushbutton
   

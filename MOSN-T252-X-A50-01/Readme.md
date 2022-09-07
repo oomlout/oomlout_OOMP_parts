@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [MOSN-T252-X-A50-01>TO-252 MNAOD4184A N-Ch. MOSFET](#mosn-t252-x-a50-01to-252-mnaod4184a-n-ch-mosfet)
+* [MNAOD4184A > TO-252 MNAOD4184A N-Ch. MOSFET](#mnaod4184a--to-252-mnaod4184a-n-ch-mosfet)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOSN-T252-X-A50-01>TO-252 MNAOD4184A N-Ch. MOSFET
+# MNAOD4184A > TO-252 MNAOD4184A N-Ch. MOSFET
 
 - ID: MOSN-T252-X-A50-01
-- Name: MOSN-T252-X-A50-01
+- Hex ID: MNAOD4184A
+- Name: TO-252 MNAOD4184A N-Ch. MOSFET
+- Description: TO-252 MNAOD4184A N-Ch. MOSFET
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

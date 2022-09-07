@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [FERB-0402-X-O182-01>SMD (0402) 1.8k Ohm Ferrite Bead](#ferb-0402-x-o182-01smd-0402-18k-ohm-ferrite-bead)
+* [F42182 > SMD (0402) 1.8k Ohm Ferrite Bead](#f42182--smd-0402-18k-ohm-ferrite-bead)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# FERB-0402-X-O182-01>SMD (0402) 1.8k Ohm Ferrite Bead
+# F42182 > SMD (0402) 1.8k Ohm Ferrite Bead
 
 - ID: FERB-0402-X-O182-01
-- Name: FERB-0402-X-O182-01
+- Hex ID: F42182
+- Name: SMD (0402) 1.8k Ohm Ferrite Bead
+- Description: SMD (0402) 1.8k Ohm Ferrite Bead
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

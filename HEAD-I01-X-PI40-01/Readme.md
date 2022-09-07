@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI40-01>2.54 mm 40 Pin Header](#head-i01-x-pi40-01254-mm-40-pin-header)
+* [H40 > 2.54 mm 40 Pin Header](#h40--254-mm-40-pin-header)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAD-I01-X-PI40-01>2.54 mm 40 Pin Header
+# H40 > 2.54 mm 40 Pin Header
 
 - ID: HEAD-I01-X-PI40-01
-- Name: HEAD-I01-X-PI40-01
+- Hex ID: H40
+- Name: 2.54 mm 40 Pin Header
+- Description: 2.54 mm 40 Pin Header
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -84,4 +85,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [TERS-35D-G-PI02-01>3.5 mm 2 Pin Green Screw Terminal](#ters-35d-g-pi02-0135-mm-2-pin-green-screw-terminal)
+* [ST302G > 3.5 mm 2 Pin Green Screw Terminal](#st302g--35-mm-2-pin-green-screw-terminal)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# TERS-35D-G-PI02-01>3.5 mm 2 Pin Green Screw Terminal
+# ST302G > 3.5 mm 2 Pin Green Screw Terminal
 
 - ID: TERS-35D-G-PI02-01
-- Name: TERS-35D-G-PI02-01
+- Hex ID: ST302G
+- Name: 3.5 mm 2 Pin Green Screw Terminal
+- Description: 3.5 mm 2 Pin Green Screw Terminal
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-05-V-STAN-01>5 mm Purple LED](#leds-05-v-stan-015-mm-purple-led)
+* [L5V > 5 mm Purple LED](#l5v--5-mm-purple-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-05-V-STAN-01>5 mm Purple LED
+# L5V > 5 mm Purple LED
 
 - ID: LEDS-05-V-STAN-01
-- Name: LEDS-05-V-STAN-01
+- Hex ID: L5V
+- Name: 5 mm Purple LED
+- Description: 5 mm Purple LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,37 +5,37 @@
 Contents
 ========
 
-* [BUTA-06-X-STAN-01>6 mm Pushbutton (Tactile)](#buta-06-x-stan-016-mm-pushbutton-tactile)
+* [B06 > 6 mm Pushbutton (Tactile)](#b06--6-mm-pushbutton-tactile)
 	* [Images](#images)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Footprints](#footprints)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# BUTA-06-X-STAN-01>6 mm Pushbutton (Tactile)
+# B06 > 6 mm Pushbutton (Tactile)
 
 - ID: BUTA-06-X-STAN-01
-- Name: BUTA-06-X-STAN-01
+- Hex ID: B06
+- Name: 6 mm Pushbutton (Tactile)
+- Description: 6 mm Pushbutton (Tactile)
 
 ## Images
   
   
 
-|Main|Reference|Bottom|
-| :---: | :---: | :---: |
-|[![Main](image.jpg)](image.jpg)|[![Reference](image_RE.jpg)](image_RE.jpg)|[![Bottom](image_BOTTOM.jpg)](image_BOTTOM.jpg)|
+|image|image_RE|image_BOTTOM|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Diagrams
   
   
 
-|Breadboard Layout|Diagram|Identifier|Schematic|Simple|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
 | :---: | :---: | :---: | :---: | :---: |
-|[![Breadboard Layout](diagBBLS.png)](diagBBLS.png)|[![Diagram](diagDIAG.png)](diagDIAG.png)|[![Identifier](diagIDEN.png)](diagIDEN.png)|[![Schematic](diagSCHEM.png)](diagSCHEM.png)|[![Simple](diagSIMP.png)](diagSIMP.png)|
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -45,48 +45,25 @@ Contents
   
   
 
-|Front|Inventory|Specifications|
+|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![Front](label-front.png)](label-front.png)|[![Inventory](label-inventory.png)](label-inventory.png)|[![Specifications](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
-
-### Footprints
-  
-
-|||||
-| :---: | :---: | :---: | :---: |
 
 ### Symbols
 
 ## Tags
 
-- index: 8771
+- hexID: B06
+- oompSort: 0606
 - oompType: BUTA
 - oompSize: 06
 - oompColor: X
 - oompDesc: STAN
 - oompIndex: 01
-- hexID: BT6
-- oompSort: 0606
-- ooWidth: 6.2 mm
-- ooHeight: 3.5 mm
-- ooLength: 6.2 mm
-- oompAbout: The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.
-- oompClass: Through Hole Component
-- oompClassCode: THTH
-- oompBbls: template;BUTA-06-X-STAN-01
-- oompBbls: template;XXXX-XXXX-X-XXXX-XX-bbls-words
-- oompDiag: template;BUTA-06-X-STAN-01
-- oompIden: template;BUTA-06-X-STAN-01
-- oompSchem: template;BUTA-XXXX-X-XXXX-XX-schem
-- ooDesignator: S
-- oompSymbol: twoSidedPackage;##ooNumPins@@/2
-- ooPin1: .
-- ooPin2: .
-- kicadSymbol: Switch>SW_Push
-- kicadFootprint: Button_Switch_THT:SW_PUSH_6mm
+- oompID: BUTA-06-X-STAN-01
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

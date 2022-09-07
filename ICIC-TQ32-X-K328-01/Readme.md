@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-TQ32-X-K328-01>32 Pin SMD (TQFP) AtMega328P](#icic-tq32-x-k328-0132-pin-smd-tqfp-atmega328p)
+* [ICS328 > 32 Pin SMD (TQFP) AtMega328P](#ics328--32-pin-smd-tqfp-atmega328p)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-TQ32-X-K328-01>32 Pin SMD (TQFP) AtMega328P
+# ICS328 > 32 Pin SMD (TQFP) AtMega328P
 
 - ID: ICIC-TQ32-X-K328-01
-- Name: ICIC-TQ32-X-K328-01
+- Hex ID: ICS328
+- Name: 32 Pin SMD (TQFP) AtMega328P
+- Description: 32 Pin SMD (TQFP) AtMega328P
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -106,4 +107,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

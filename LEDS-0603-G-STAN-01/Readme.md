@@ -5,26 +5,27 @@
 Contents
 ========
 
-* [LEDS-0603-G-STAN-01>SMD (0603) Green LED](#leds-0603-g-stan-01smd-0603-green-led)
+* [L6G > SMD (0603) Green LED](#l6g--smd-0603-green-led)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-0603-G-STAN-01>SMD (0603) Green LED
+# L6G > SMD (0603) Green LED
 
 - ID: LEDS-0603-G-STAN-01
-- Name: LEDS-0603-G-STAN-01
+- Hex ID: L6G
+- Name: SMD (0603) Green LED
+- Description: SMD (0603) Green LED
 
 ## Images
   
   
 
-|image_BOTTOM|
-| :---: |
-|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -36,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

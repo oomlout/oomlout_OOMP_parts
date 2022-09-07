@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [INDU-0402-X-NH15-01>SMD (0402) 15 nH Inductor](#indu-0402-x-nh15-01smd-0402-15-nh-inductor)
+* [IN42N15 > SMD (0402) 15 nH Inductor](#in42n15--smd-0402-15-nh-inductor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# INDU-0402-X-NH15-01>SMD (0402) 15 nH Inductor
+# IN42N15 > SMD (0402) 15 nH Inductor
 
 - ID: INDU-0402-X-NH15-01
-- Name: INDU-0402-X-NH15-01
+- Hex ID: IN42N15
+- Name: SMD (0402) 15 nH Inductor
+- Description: SMD (0402) 15 nH Inductor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

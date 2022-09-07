@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [THER-65D-X-STAN-01>6.5 mm Thermistor](#ther-65d-x-stan-0165-mm-thermistor)
+* [TH65D > 6.5 mm Thermistor](#th65d--65-mm-thermistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# THER-65D-X-STAN-01>6.5 mm Thermistor
+# TH65D > 6.5 mm Thermistor
 
 - ID: THER-65D-X-STAN-01
-- Name: THER-65D-X-STAN-01
+- Hex ID: TH65D
+- Name: 6.5 mm Thermistor
+- Description: 6.5 mm Thermistor
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -59,4 +60,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPC-0603-X-UF1-V25>SMD (0603) 1 uF Capacitor (Ceramic) 25v](#capc-0603-x-uf1-v25smd-0603-1-uf-capacitor-ceramic-25v)
+* [C6U001 > SMD (0603) 1 uF Capacitor (Ceramic) 25v](#c6u001--smd-0603-1-uf-capacitor-ceramic-25v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPC-0603-X-UF1-V25>SMD (0603) 1 uF Capacitor (Ceramic) 25v
+# C6U001 > SMD (0603) 1 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-0603-X-UF1-V25
-- Name: CAPC-0603-X-UF1-V25
+- Hex ID: C6U001
+- Name: SMD (0603) 1 uF Capacitor (Ceramic) 25v
+- Description: SMD (0603) 1 uF Capacitor (Ceramic) 25v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -66,4 +67,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

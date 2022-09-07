@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [XTAL-5032-X-MZ8-01>SMD (5032) 8 MHz Crystal](#xtal-5032-x-mz8-01smd-5032-8-mhz-crystal)
+* [XS58 > SMD (5032) 8 MHz Crystal](#xs58--smd-5032-8-mhz-crystal)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# XTAL-5032-X-MZ8-01>SMD (5032) 8 MHz Crystal
+# XS58 > SMD (5032) 8 MHz Crystal
 
 - ID: XTAL-5032-X-MZ8-01
-- Name: XTAL-5032-X-MZ8-01
+- Hex ID: XS58
+- Name: SMD (5032) 8 MHz Crystal
+- Description: SMD (5032) 8 MHz Crystal
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

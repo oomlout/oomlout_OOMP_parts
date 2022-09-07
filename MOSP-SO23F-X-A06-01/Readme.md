@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [MOSP-SO23F-X-A06-01>SMD (SOT-23F) 6 Amp P-Ch. MOSFET](#mosp-so23f-x-a06-01smd-sot-23f-6-amp-p-ch-mosfet)
+* [MP2F6 > SMD (SOT-23F) 6 Amp P-Ch. MOSFET](#mp2f6--smd-sot-23f-6-amp-p-ch-mosfet)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# MOSP-SO23F-X-A06-01>SMD (SOT-23F) 6 Amp P-Ch. MOSFET
+# MP2F6 > SMD (SOT-23F) 6 Amp P-Ch. MOSFET
 
 - ID: MOSP-SO23F-X-A06-01
-- Name: MOSP-SO23F-X-A06-01
+- Hex ID: MP2F6
+- Name: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
+- Description: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

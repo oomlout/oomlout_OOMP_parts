@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [DIOS-S123-X-A05D-V40>SMD (SOD-123) 500 mA Diode (Schottky) 40v](#dios-s123-x-a05d-v40smd-sod-123-500-ma-diode-schottky-40v)
+* [DS35D > SMD (SOD-123) 500 mA Diode (Schottky) 40v](#ds35d--smd-sod-123-500-ma-diode-schottky-40v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DIOS-S123-X-A05D-V40>SMD (SOD-123) 500 mA Diode (Schottky) 40v
+# DS35D > SMD (SOD-123) 500 mA Diode (Schottky) 40v
 
 - ID: DIOS-S123-X-A05D-V40
-- Name: DIOS-S123-X-A05D-V40
+- Hex ID: DS35D
+- Name: SMD (SOD-123) 500 mA Diode (Schottky) 40v
+- Description: SMD (SOD-123) 500 mA Diode (Schottky) 40v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

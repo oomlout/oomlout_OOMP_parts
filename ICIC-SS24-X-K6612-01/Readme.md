@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-SS24-X-K6612-01>24 Pin SMD (SSOP) Dual H-Bridge (TB6612)](#icic-ss24-x-k6612-0124-pin-smd-ssop-dual-h-bridge-tb6612)
+* [ICS6612 > 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)](#ics6612--24-pin-smd-ssop-dual-h-bridge-tb6612)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SS24-X-K6612-01>24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
+# ICS6612 > 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
 
 - ID: ICIC-SS24-X-K6612-01
-- Name: ICIC-SS24-X-K6612-01
+- Hex ID: ICS6612
+- Name: 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
+- Description: 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

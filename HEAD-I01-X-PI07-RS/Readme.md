@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI07-RS>2.54 mm 7 Pin Header Right Angle (SMD)](#head-i01-x-pi07-rs254-mm-7-pin-header-right-angle-smd)
+* [HRS07 > 2.54 mm 7 Pin Header Right Angle (SMD)](#hrs07--254-mm-7-pin-header-right-angle-smd)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-PI07-RS>2.54 mm 7 Pin Header Right Angle (SMD)
+# HRS07 > 2.54 mm 7 Pin Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI07-RS
-- Name: HEAD-I01-X-PI07-RS
+- Hex ID: HRS07
+- Name: 2.54 mm 7 Pin Header Right Angle (SMD)
+- Description: 2.54 mm 7 Pin Header Right Angle (SMD)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

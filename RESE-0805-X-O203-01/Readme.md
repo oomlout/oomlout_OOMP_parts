@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [RESE-0805-X-O203-01>SMD (0805) 20k Ohm Resistor](#rese-0805-x-o203-01smd-0805-20k-ohm-resistor)
+* [R85203 > SMD (0805) 20k Ohm Resistor](#r85203--smd-0805-20k-ohm-resistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0805-X-O203-01>SMD (0805) 20k Ohm Resistor
+# R85203 > SMD (0805) 20k Ohm Resistor
 
 - ID: RESE-0805-X-O203-01
-- Name: RESE-0805-X-O203-01
+- Hex ID: R85203
+- Name: SMD (0805) 20k Ohm Resistor
+- Description: SMD (0805) 20k Ohm Resistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

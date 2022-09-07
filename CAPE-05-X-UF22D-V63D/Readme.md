@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPE-05-X-UF22D-V63D>5 mm 2.2 uF Capacitor (Electrolytic) 63v](#cape-05-x-uf22d-v63d5-mm-22-uf-capacitor-electrolytic-63v)
+* [CEU002 > 5 mm 2.2 uF Capacitor (Electrolytic) 63v](#ceu002--5-mm-22-uf-capacitor-electrolytic-63v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPE-05-X-UF22D-V63D>5 mm 2.2 uF Capacitor (Electrolytic) 63v
+# CEU002 > 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 
 - ID: CAPE-05-X-UF22D-V63D
-- Name: CAPE-05-X-UF22D-V63D
+- Hex ID: CEU002
+- Name: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
+- Description: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -65,4 +66,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

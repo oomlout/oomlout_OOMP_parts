@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [LEDS-10-V-FROS-01>10 mm Frosted Purple LED](#leds-10-v-fros-0110-mm-frosted-purple-led)
+* [L10V > 10 mm Frosted Purple LED](#l10v--10-mm-frosted-purple-led)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# LEDS-10-V-FROS-01>10 mm Frosted Purple LED
+# L10V > 10 mm Frosted Purple LED
 
 - ID: LEDS-10-V-FROS-01
-- Name: LEDS-10-V-FROS-01
+- Hex ID: L10V
+- Name: 10 mm Frosted Purple LED
+- Description: 10 mm Frosted Purple LED
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -74,4 +75,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

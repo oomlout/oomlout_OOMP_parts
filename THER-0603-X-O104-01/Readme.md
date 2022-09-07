@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [THER-0603-X-O104-01>SMD (0603) 100k Ohm Thermistor](#ther-0603-x-o104-01smd-0603-100k-ohm-thermistor)
+* [TH6 > SMD (0603) 100k Ohm Thermistor](#th6--smd-0603-100k-ohm-thermistor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# THER-0603-X-O104-01>SMD (0603) 100k Ohm Thermistor
+# TH6 > SMD (0603) 100k Ohm Thermistor
 
 - ID: THER-0603-X-O104-01
-- Name: THER-0603-X-O104-01
+- Hex ID: TH6
+- Name: SMD (0603) 100k Ohm Thermistor
+- Description: SMD (0603) 100k Ohm Thermistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

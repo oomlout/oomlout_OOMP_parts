@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-VQF32-X-K328-01>32 Pin SMD (VQFN) AtMega328P](#icic-vqf32-x-k328-0132-pin-smd-vqfn-atmega328p)
+* [ICSV328 > 32 Pin SMD (VQFN) AtMega328P](#icsv328--32-pin-smd-vqfn-atmega328p)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-VQF32-X-K328-01>32 Pin SMD (VQFN) AtMega328P
+# ICSV328 > 32 Pin SMD (VQFN) AtMega328P
 
 - ID: ICIC-VQF32-X-K328-01
-- Name: ICIC-VQF32-X-K328-01
+- Hex ID: ICSV328
+- Name: 32 Pin SMD (VQFN) AtMega328P
+- Description: 32 Pin SMD (VQFN) AtMega328P
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

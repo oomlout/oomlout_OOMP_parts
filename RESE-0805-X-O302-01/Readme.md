@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [RESE-0805-X-O302-01>SMD (0805) 3k Ohm Resistor](#rese-0805-x-o302-01smd-0805-3k-ohm-resistor)
+* [R85302 > SMD (0805) 3k Ohm Resistor](#r85302--smd-0805-3k-ohm-resistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0805-X-O302-01>SMD (0805) 3k Ohm Resistor
+# R85302 > SMD (0805) 3k Ohm Resistor
 
 - ID: RESE-0805-X-O302-01
-- Name: RESE-0805-X-O302-01
+- Hex ID: R85302
+- Name: SMD (0805) 3k Ohm Resistor
+- Description: SMD (0805) 3k Ohm Resistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

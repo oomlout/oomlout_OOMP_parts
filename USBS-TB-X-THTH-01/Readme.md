@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [USBS-TB-X-THTH-01>Type B Through Hole USB Socket](#usbs-tb-x-thth-01type-b-through-hole-usb-socket)
+* [UTB > Type B Through Hole USB Socket](#utb--type-b-through-hole-usb-socket)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# USBS-TB-X-THTH-01>Type B Through Hole USB Socket
+# UTB > Type B Through Hole USB Socket
 
 - ID: USBS-TB-X-THTH-01
-- Name: USBS-TB-X-THTH-01
+- Hex ID: UTB
+- Name: Type B Through Hole USB Socket
+- Description: Type B Through Hole USB Socket
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

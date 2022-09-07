@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HEAS-I01-X-PI02-RO>2.54 mm 2 Pin Header (Socket) (Round)](#heas-i01-x-pi02-ro254-mm-2-pin-header-socket-round)
+* [HS2R > 2.54 mm 2 Pin Header (Socket) (Round)](#hs2r--254-mm-2-pin-header-socket-round)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAS-I01-X-PI02-RO>2.54 mm 2 Pin Header (Socket) (Round)
+# HS2R > 2.54 mm 2 Pin Header (Socket) (Round)
 
 - ID: HEAS-I01-X-PI02-RO
-- Name: HEAS-I01-X-PI02-RO
+- Hex ID: HS2R
+- Name: 2.54 mm 2 Pin Header (Socket) (Round)
+- Description: 2.54 mm 2 Pin Header (Socket) (Round)
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -58,4 +59,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI2X36-RA>2.54 mm 72 Pin (2x36) Header Right Angle](#head-i01-x-pi2x36-ra254-mm-72-pin-2x36-header-right-angle)
+* [HR2X03 > 2.54 mm 72 Pin (2x36) Header Right Angle](#hr2x03--254-mm-72-pin-2x36-header-right-angle)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-PI2X36-RA>2.54 mm 72 Pin (2x36) Header Right Angle
+# HR2X03 > 2.54 mm 72 Pin (2x36) Header Right Angle
 
 - ID: HEAD-I01-X-PI2X36-RA
-- Name: HEAD-I01-X-PI2X36-RA
+- Hex ID: HR2X03
+- Name: 2.54 mm 72 Pin (2x36) Header Right Angle
+- Description: 2.54 mm 72 Pin (2x36) Header Right Angle
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

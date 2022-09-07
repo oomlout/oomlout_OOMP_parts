@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [SCRE-M3-M-20-70>M3 x 20 mm Metal Machine Screw Cross Head](#scre-m3-m-20-70m3-x-20-mm-metal-machine-screw-cross-head)
+* [M320 > M3 x 20 mm Metal Machine Screw Cross Head](#m320--m3-x-20-mm-metal-machine-screw-cross-head)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# SCRE-M3-M-20-70>M3 x 20 mm Metal Machine Screw Cross Head
+# M320 > M3 x 20 mm Metal Machine Screw Cross Head
 
 - ID: SCRE-M3-M-20-70
-- Name: SCRE-M3-M-20-70
+- Hex ID: M320
+- Name: M3 x 20 mm Metal Machine Screw Cross Head
+- Description: M3 x 20 mm Metal Machine Screw Cross Head
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

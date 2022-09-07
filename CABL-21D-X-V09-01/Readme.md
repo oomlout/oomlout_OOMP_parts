@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CABL-21D-X-V09-01>2.1 mm 9v Cable](#cabl-21d-x-v09-0121-mm-9v-cable)
+* [CB9V21 > 2.1 mm 9v Cable](#cb9v21--21-mm-9v-cable)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CABL-21D-X-V09-01>2.1 mm 9v Cable
+# CB9V21 > 2.1 mm 9v Cable
 
 - ID: CABL-21D-X-V09-01
-- Name: CABL-21D-X-V09-01
+- Hex ID: CB9V21
+- Name: 2.1 mm 9v Cable
+- Description: 2.1 mm 9v Cable
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -58,4 +59,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-92D-X-PIRS-01>9.2 mm PIRS Sensor](#sens-92d-x-pirs-0192-mm-pirs-sensor)
+* [SEPI > 9.2 mm PIRS Sensor](#sepi--92-mm-pirs-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-92D-X-PIRS-01>9.2 mm PIRS Sensor
+# SEPI > 9.2 mm PIRS Sensor
 
 - ID: SENS-92D-X-PIRS-01
-- Name: SENS-92D-X-PIRS-01
+- Hex ID: SEPI
+- Name: 9.2 mm PIRS Sensor
+- Description: 9.2 mm PIRS Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

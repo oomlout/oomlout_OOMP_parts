@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HEAS-I01-W-PI06-01>2.54 mm 6 Pin White Header (Socket)](#heas-i01-w-pi06-01254-mm-6-pin-white-header-socket)
+* [HS6W > 2.54 mm 6 Pin White Header (Socket)](#hs6w--254-mm-6-pin-white-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAS-I01-W-PI06-01>2.54 mm 6 Pin White Header (Socket)
+# HS6W > 2.54 mm 6 Pin White Header (Socket)
 
 - ID: HEAS-I01-W-PI06-01
-- Name: HEAS-I01-W-PI06-01
+- Hex ID: HS6W
+- Name: 2.54 mm 6 Pin White Header (Socket)
+- Description: 2.54 mm 6 Pin White Header (Socket)
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -77,4 +78,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

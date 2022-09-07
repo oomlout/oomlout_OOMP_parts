@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-SS28-X-KFT232-01>28 Pin SMD (SSOP) USB-Serial (FT232RL)](#icic-ss28-x-kft232-0128-pin-smd-ssop-usb-serial-ft232rl)
+* [ICSF232 > 28 Pin SMD (SSOP) USB-Serial (FT232RL)](#icsf232--28-pin-smd-ssop-usb-serial-ft232rl)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-SS28-X-KFT232-01>28 Pin SMD (SSOP) USB-Serial (FT232RL)
+# ICSF232 > 28 Pin SMD (SSOP) USB-Serial (FT232RL)
 
 - ID: ICIC-SS28-X-KFT232-01
-- Name: ICIC-SS28-X-KFT232-01
+- Hex ID: ICSF232
+- Name: 28 Pin SMD (SSOP) USB-Serial (FT232RL)
+- Description: 28 Pin SMD (SSOP) USB-Serial (FT232RL)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

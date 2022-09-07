@@ -8,7 +8,7 @@ pins = 4
 newPart.addTag('index','4315')
 newPart.addTag('oompID','BUTA-06-X-SMDS-01')
 newPart.addTag('name','6 mm SMD Pushbutton (Tactile)')
-newPart.addTag('hexID','B06')
+newPart.addTag('hexID','B06S')
 newPart.addTag('oompSort','0606')
 newPart.addTag('oompType','BUTA')
 newPart.addTag('oompSize','06')

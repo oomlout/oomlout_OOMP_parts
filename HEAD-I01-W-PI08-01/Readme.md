@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [HEAD-I01-W-PI08-01>2.54 mm 8 Pin White Header](#head-i01-w-pi08-01254-mm-8-pin-white-header)
+* [H08W > 2.54 mm 8 Pin White Header](#h08w--254-mm-8-pin-white-header)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-W-PI08-01>2.54 mm 8 Pin White Header
+# H08W > 2.54 mm 8 Pin White Header
 
 - ID: HEAD-I01-W-PI08-01
-- Name: HEAD-I01-W-PI08-01
+- Hex ID: H08W
+- Name: 2.54 mm 8 Pin White Header
+- Description: 2.54 mm 8 Pin White Header
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

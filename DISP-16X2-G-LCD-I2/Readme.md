@@ -5,26 +5,27 @@
 Contents
 ========
 
-* [DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) ](#disp-16x2-g-lcd-i2-16-x-2-character-lcd-green-display-i2c-)
+* [DS16 >  16 x 2 Character LCD Green Display (I2C) ](#ds16---16-x-2-character-lcd-green-display-i2c-)
 	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DISP-16X2-G-LCD-I2> 16 x 2 Character LCD Green Display (I2C) 
+# DS16 >  16 x 2 Character LCD Green Display (I2C) 
 
 - ID: DISP-16X2-G-LCD-I2
-- Name: DISP-16X2-G-LCD-I2
+- Hex ID: DS16
+- Name:  16 x 2 Character LCD Green Display (I2C) 
+- Description:  16 x 2 Character LCD Green Display (I2C) 
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -32,7 +33,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -58,4 +59,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

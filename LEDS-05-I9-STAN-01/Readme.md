@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [LEDS-05-I9-STAN-01>5 mm IR (940 nm) LED](#leds-05-i9-stan-015-mm-ir-940-nm-led)
+* [L5I9 > 5 mm IR (940 nm) LED](#l5i9--5-mm-ir-940-nm-led)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# LEDS-05-I9-STAN-01>5 mm IR (940 nm) LED
+# L5I9 > 5 mm IR (940 nm) LED
 
 - ID: LEDS-05-I9-STAN-01
-- Name: LEDS-05-I9-STAN-01
+- Hex ID: L5I9
+- Name: 5 mm IR (940 nm) LED
+- Description: 5 mm IR (940 nm) LED
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

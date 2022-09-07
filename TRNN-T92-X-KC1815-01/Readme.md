@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [TRNN-T92-X-KC1815-01>TO-92 C1815 NPN Transistor](#trnn-t92-x-kc1815-01to-92-c1815-npn-transistor)
+* [TN91815 > TO-92 C1815 NPN Transistor](#tn91815--to-92-c1815-npn-transistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNN-T92-X-KC1815-01>TO-92 C1815 NPN Transistor
+# TN91815 > TO-92 C1815 NPN Transistor
 
 - ID: TRNN-T92-X-KC1815-01
-- Name: TRNN-T92-X-KC1815-01
+- Hex ID: TN91815
+- Name: TO-92 C1815 NPN Transistor
+- Description: TO-92 C1815 NPN Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

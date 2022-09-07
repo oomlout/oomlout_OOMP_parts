@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [POAD-ACUS-X-V05U-A1>American Style (120v) 5v (USB) Power Adapter 1 A](#poad-acus-x-v05u-a1american-style-120v-5v-usb-power-adapter-1-a)
+* [PAU5 > American Style (120v) 5v (USB) Power Adapter 1 A](#pau5--american-style-120v-5v-usb-power-adapter-1-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# POAD-ACUS-X-V05U-A1>American Style (120v) 5v (USB) Power Adapter 1 A
+# PAU5 > American Style (120v) 5v (USB) Power Adapter 1 A
 
 - ID: POAD-ACUS-X-V05U-A1
-- Name: POAD-ACUS-X-V05U-A1
+- Hex ID: PAU5
+- Name: American Style (120v) 5v (USB) Power Adapter 1 A
+- Description: American Style (120v) 5v (USB) Power Adapter 1 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

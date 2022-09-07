@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [ICIC-SC8-X-K2551-01>8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)](#icic-sc8-x-k2551-018-pin-smd-soic-can-tranceiver-mcp2521)
+* [ICS2551 > 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)](#ics2551--8-pin-smd-soic-can-tranceiver-mcp2521)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# ICIC-SC8-X-K2551-01>8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
+# ICS2551 > 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 
 - ID: ICIC-SC8-X-K2551-01
-- Name: ICIC-SC8-X-K2551-01
+- Hex ID: ICS2551
+- Name: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
+- Description: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

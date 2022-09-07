@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [TRNN-T92-X-K2N2222-01>TO-92 2N2222 NPN Transistor](#trnn-t92-x-k2n2222-01to-92-2n2222-npn-transistor)
+* [TN92N2 > TO-92 2N2222 NPN Transistor](#tn92n2--to-92-2n2222-npn-transistor)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# TRNN-T92-X-K2N2222-01>TO-92 2N2222 NPN Transistor
+# TN92N2 > TO-92 2N2222 NPN Transistor
 
 - ID: TRNN-T92-X-K2N2222-01
-- Name: TRNN-T92-X-K2N2222-01
+- Hex ID: TN92N2
+- Name: TO-92 2N2222 NPN Transistor
+- Description: TO-92 2N2222 NPN Transistor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [SERV-MC-X-STAN-01>Micro Servo](#serv-mc-x-stan-01micro-servo)
+* [SVM > Micro Servo](#svm--micro-servo)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SERV-MC-X-STAN-01>Micro Servo
+# SVM > Micro Servo
 
 - ID: SERV-MC-X-STAN-01
-- Name: SERV-MC-X-STAN-01
+- Hex ID: SVM
+- Name: Micro Servo
+- Description: Micro Servo
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

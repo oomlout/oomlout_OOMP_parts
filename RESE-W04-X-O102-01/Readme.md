@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [RESE-W04-X-O102-01>1/4 Watt 1k Ohm Resistor](#rese-w04-x-o102-0114-watt-1k-ohm-resistor)
+* [R4102 > 1/4 Watt 1k Ohm Resistor](#r4102--14-watt-1k-ohm-resistor)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# RESE-W04-X-O102-01>1/4 Watt 1k Ohm Resistor
+# R4102 > 1/4 Watt 1k Ohm Resistor
 
 - ID: RESE-W04-X-O102-01
-- Name: RESE-W04-X-O102-01
+- Hex ID: R4102
+- Name: 1/4 Watt 1k Ohm Resistor
+- Description: 1/4 Watt 1k Ohm Resistor
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -75,4 +76,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

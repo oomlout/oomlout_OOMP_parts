@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [BUTA-52D-X-STAN-01>5.2 mm Pushbutton (Tactile)](#buta-52d-x-stan-0152-mm-pushbutton-tactile)
+* [BT52 > 5.2 mm Pushbutton (Tactile)](#bt52--52-mm-pushbutton-tactile)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# BUTA-52D-X-STAN-01>5.2 mm Pushbutton (Tactile)
+# BT52 > 5.2 mm Pushbutton (Tactile)
 
 - ID: BUTA-52D-X-STAN-01
-- Name: BUTA-52D-X-STAN-01
+- Hex ID: BT52
+- Name: 5.2 mm Pushbutton (Tactile)
+- Description: 5.2 mm Pushbutton (Tactile)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

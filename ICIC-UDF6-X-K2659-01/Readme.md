@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-UDF6-X-K2659-01>SMD (UDFN-6) GPS Amplifier (MAX2659)](#icic-udf6-x-k2659-01smd-udfn-6-gps-amplifier-max2659)
+* [ICSGPS > SMD (UDFN-6) GPS Amplifier (MAX2659)](#icsgps--smd-udfn-6-gps-amplifier-max2659)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-UDF6-X-K2659-01>SMD (UDFN-6) GPS Amplifier (MAX2659)
+# ICSGPS > SMD (UDFN-6) GPS Amplifier (MAX2659)
 
 - ID: ICIC-UDF6-X-K2659-01
-- Name: ICIC-UDF6-X-K2659-01
+- Hex ID: ICSGPS
+- Name: SMD (UDFN-6) GPS Amplifier (MAX2659)
+- Description: SMD (UDFN-6) GPS Amplifier (MAX2659)
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

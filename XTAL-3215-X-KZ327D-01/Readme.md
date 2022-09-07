@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [XTAL-3215-X-KZ327D-01>SMD (3215) 32.768 kHz Crystal](#xtal-3215-x-kz327d-01smd-3215-32768-khz-crystal)
+* [X3K327D > SMD (3215) 32.768 kHz Crystal](#x3k327d--smd-3215-32768-khz-crystal)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# XTAL-3215-X-KZ327D-01>SMD (3215) 32.768 kHz Crystal
+# X3K327D > SMD (3215) 32.768 kHz Crystal
 
 - ID: XTAL-3215-X-KZ327D-01
-- Name: XTAL-3215-X-KZ327D-01
+- Hex ID: X3K327D
+- Name: SMD (3215) 32.768 kHz Crystal
+- Description: SMD (3215) 32.768 kHz Crystal
 
 ## Images
   
   
 
-|image|image_BOTTOM|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -62,4 +63,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

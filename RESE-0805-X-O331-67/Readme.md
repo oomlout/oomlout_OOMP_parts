@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [RESE-0805-X-O331-67>SMD (0805) 330 Ohm Resistor 1%](#rese-0805-x-o331-67smd-0805-330-ohm-resistor-1)
+* [R85331A > SMD (0805) 330 Ohm Resistor 1%](#r85331a--smd-0805-330-ohm-resistor-1)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# RESE-0805-X-O331-67>SMD (0805) 330 Ohm Resistor 1%
+# R85331A > SMD (0805) 330 Ohm Resistor 1%
 
 - ID: RESE-0805-X-O331-67
-- Name: RESE-0805-X-O331-67
+- Hex ID: R85331A
+- Name: SMD (0805) 330 Ohm Resistor 1%
+- Description: SMD (0805) 330 Ohm Resistor 1%
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

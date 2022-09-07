@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [HEAS-I01-Y-PI08-01>2.54 mm 8 Pin Yellow Header (Socket)](#heas-i01-y-pi08-01254-mm-8-pin-yellow-header-socket)
+* [HS8Y > 2.54 mm 8 Pin Yellow Header (Socket)](#hs8y--254-mm-8-pin-yellow-header-socket)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# HEAS-I01-Y-PI08-01>2.54 mm 8 Pin Yellow Header (Socket)
+# HS8Y > 2.54 mm 8 Pin Yellow Header (Socket)
 
 - ID: HEAS-I01-Y-PI08-01
-- Name: HEAS-I01-Y-PI08-01
+- Hex ID: HS8Y
+- Name: 2.54 mm 8 Pin Yellow Header (Socket)
+- Description: 2.54 mm 8 Pin Yellow Header (Socket)
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -80,4 +81,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

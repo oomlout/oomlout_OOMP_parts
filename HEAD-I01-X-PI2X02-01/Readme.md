@@ -5,16 +5,26 @@
 Contents
 ========
 
-* [HEAD-I01-X-PI2x02-01>2.54 mm 4 Pin (2x2) Header](#head-i01-x-pi2x02-01254-mm-4-pin-2x2-header)
+* [H2X02 > 2.54 mm 4 Pin (2x2) Header](#h2x02--254-mm-4-pin-2x2-header)
+	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# HEAD-I01-X-PI2x02-01>2.54 mm 4 Pin (2x2) Header
+# H2X02 > 2.54 mm 4 Pin (2x2) Header
 
 - ID: HEAD-I01-X-PI2x02-01
-- Name: HEAD-I01-X-PI2x02-01
+- Hex ID: H2X02
+- Name: 2.54 mm 4 Pin (2x2) Header
+- Description: 2.54 mm 4 Pin (2x2) Header
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Labels
   
@@ -22,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

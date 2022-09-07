@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [DCJP-21D-X-MHI03-69> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount ](#dcjp-21d-x-mhi03-69-21-mm-7-mm-mounting-hole-dc-jack-panel-mount-)
+* [GJP3 >  2.1 mm (7 mm mounting hole) DC Jack Panel Mount ](#gjp3---21-mm-7-mm-mounting-hole-dc-jack-panel-mount-)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# DCJP-21D-X-MHI03-69> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
+# GJP3 >  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 
 - ID: DCJP-21D-X-MHI03-69
-- Name: DCJP-21D-X-MHI03-69
+- Hex ID: GJP3
+- Name:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
+- Description:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

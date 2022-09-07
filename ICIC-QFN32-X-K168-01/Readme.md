@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [ICIC-QFN32-X-K168-01>32 Pin SMD (QFN) AtMega168P](#icic-qfn32-x-k168-0132-pin-smd-qfn-atmega168p)
+* [ICSQ168 > 32 Pin SMD (QFN) AtMega168P](#icsq168--32-pin-smd-qfn-atmega168p)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# ICIC-QFN32-X-K168-01>32 Pin SMD (QFN) AtMega168P
+# ICSQ168 > 32 Pin SMD (QFN) AtMega168P
 
 - ID: ICIC-QFN32-X-K168-01
-- Name: ICIC-QFN32-X-K168-01
+- Hex ID: ICSQ168
+- Name: 32 Pin SMD (QFN) AtMega168P
+- Description: 32 Pin SMD (QFN) AtMega168P
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

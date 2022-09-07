@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [SENS-T92-X-K36-01>TO-92 Temperature (TMP36) Sensor](#sens-t92-x-k36-01to-92-temperature-tmp36-sensor)
+* [SE36 > TO-92 Temperature (TMP36) Sensor](#se36--to-92-temperature-tmp36-sensor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# SENS-T92-X-K36-01>TO-92 Temperature (TMP36) Sensor
+# SE36 > TO-92 Temperature (TMP36) Sensor
 
 - ID: SENS-T92-X-K36-01
-- Name: SENS-T92-X-K36-01
+- Hex ID: SE36
+- Name: TO-92 Temperature (TMP36) Sensor
+- Description: TO-92 Temperature (TMP36) Sensor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

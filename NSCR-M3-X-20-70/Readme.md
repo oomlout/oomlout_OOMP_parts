@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [NSCR-M3-X-20-70>M3 x 20 mm Nylon Screw Cross Head](#nscr-m3-x-20-70m3-x-20-mm-nylon-screw-cross-head)
+* [NS20 > M3 x 20 mm Nylon Screw Cross Head](#ns20--m3-x-20-mm-nylon-screw-cross-head)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# NSCR-M3-X-20-70>M3 x 20 mm Nylon Screw Cross Head
+# NS20 > M3 x 20 mm Nylon Screw Cross Head
 
 - ID: NSCR-M3-X-20-70
-- Name: NSCR-M3-X-20-70
+- Hex ID: NS20
+- Name: M3 x 20 mm Nylon Screw Cross Head
+- Description: M3 x 20 mm Nylon Screw Cross Head
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -60,4 +61,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [VREG-SO23-X-BUCA-A2>SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A](#vreg-so23-x-buca-a2smd-sot-23-adjustable-buck-voltage-regulator-2-a)
+* [VS3BA > SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A](#vs3ba--smd-sot-23-adjustable-buck-voltage-regulator-2-a)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# VREG-SO23-X-BUCA-A2>SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
+# VS3BA > SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 
 - ID: VREG-SO23-X-BUCA-A2
-- Name: VREG-SO23-X-BUCA-A2
+- Hex ID: VS3BA
+- Name: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
+- Description: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -67,4 +68,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

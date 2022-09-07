@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPE-10-X-UF470-V25>10 mm 470 uF Capacitor (Electrolytic) 25v](#cape-10-x-uf470-v2510-mm-470-uf-capacitor-electrolytic-25v)
+* [CEU470 > 10 mm 470 uF Capacitor (Electrolytic) 25v](#ceu470--10-mm-470-uf-capacitor-electrolytic-25v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPE-10-X-UF470-V25>10 mm 470 uF Capacitor (Electrolytic) 25v
+# CEU470 > 10 mm 470 uF Capacitor (Electrolytic) 25v
 
 - ID: CAPE-10-X-UF470-V25
-- Name: CAPE-10-X-UF470-V25
+- Hex ID: CEU470
+- Name: 10 mm 470 uF Capacitor (Electrolytic) 25v
+- Description: 10 mm 470 uF Capacitor (Electrolytic) 25v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -65,4 +66,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [VREG-SO235-X-ADJU-AB>SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A](#vreg-so235-x-adju-absmd-sot-23-5-adjustable-voltage-regulator-12-a)
+* [VS5AB > SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A](#vs5ab--smd-sot-23-5-adjustable-voltage-regulator-12-a)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# VREG-SO235-X-ADJU-AB>SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
+# VS5AB > SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
 
 - ID: VREG-SO235-X-ADJU-AB
-- Name: VREG-SO235-X-ADJU-AB
+- Hex ID: VS5AB
+- Name: SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
+- Description: SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

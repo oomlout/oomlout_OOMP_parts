@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [CAPT-36D-X-NF100-V50>3.6 mm 100 nF Capacitor (Tantalum) 50v](#capt-36d-x-nf100-v5036-mm-100-nf-capacitor-tantalum-50v)
+* [CTN100 > 3.6 mm 100 nF Capacitor (Tantalum) 50v](#ctn100--36-mm-100-nf-capacitor-tantalum-50v)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# CAPT-36D-X-NF100-V50>3.6 mm 100 nF Capacitor (Tantalum) 50v
+# CTN100 > 3.6 mm 100 nF Capacitor (Tantalum) 50v
 
 - ID: CAPT-36D-X-NF100-V50
-- Name: CAPT-36D-X-NF100-V50
+- Hex ID: CTN100
+- Name: 3.6 mm 100 nF Capacitor (Tantalum) 50v
+- Description: 3.6 mm 100 nF Capacitor (Tantalum) 50v
 
 ## Images
   
   
 
-|image|image_RE|
-| :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -69,4 +70,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

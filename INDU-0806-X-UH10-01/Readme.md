@@ -5,17 +5,27 @@
 Contents
 ========
 
-* [INDU-0806-X-UH10-01>SMD (0806) 10 uH Inductor](#indu-0806-x-uh10-01smd-0806-10-uh-inductor)
+* [IN86U10 > SMD (0806) 10 uH Inductor](#in86u10--smd-0806-10-uh-inductor)
+	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
 
-# INDU-0806-X-UH10-01>SMD (0806) 10 uH Inductor
+# IN86U10 > SMD (0806) 10 uH Inductor
 
 - ID: INDU-0806-X-UH10-01
-- Name: INDU-0806-X-UH10-01
+- Hex ID: IN86U10
+- Name: SMD (0806) 10 uH Inductor
+- Description: SMD (0806) 10 uH Inductor
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -27,7 +37,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 

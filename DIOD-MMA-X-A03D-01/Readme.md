@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [DIOD-MMA-X-A03D-01>SMD (Mini MELF) 300 mA Diode](#diod-mma-x-a03d-01smd-mini-melf-300-ma-diode)
+* [DSM3D > SMD (Mini MELF) 300 mA Diode](#dsm3d--smd-mini-melf-300-ma-diode)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# DIOD-MMA-X-A03D-01>SMD (Mini MELF) 300 mA Diode
+# DSM3D > SMD (Mini MELF) 300 mA Diode
 
 - ID: DIOD-MMA-X-A03D-01
-- Name: DIOD-MMA-X-A03D-01
+- Hex ID: DSM3D
+- Name: SMD (Mini MELF) 300 mA Diode
+- Description: SMD (Mini MELF) 300 mA Diode
 
 ## Images
   
   
 
-|image|
-| :---: |
-|[![image](image_140.png)](image.png)|
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -62,4 +63,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg

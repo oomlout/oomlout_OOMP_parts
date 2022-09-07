@@ -5,27 +5,28 @@
 Contents
 ========
 
-* [OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp](#opam-sc8-x-klm358-01smd-soic-8-lm358-op-amp)
+* [OAS358 > SMD (SOIC-8) LM358 Op Amp](#oas358--smd-soic-8-lm358-op-amp)
 	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
 	* [Tags](#tags)
   
 ![][im]
-# OPAM-SC8-X-KLM358-01>SMD (SOIC-8) LM358 Op Amp
+# OAS358 > SMD (SOIC-8) LM358 Op Amp
 
 - ID: OPAM-SC8-X-KLM358-01
-- Name: OPAM-SC8-X-KLM358-01
+- Hex ID: OAS358
+- Name: SMD (SOIC-8) LM358 Op Amp
+- Description: SMD (SOIC-8) LM358 Op Amp
 
 ## Images
   
   
 
-|image|image_RE|image_BOTTOM|
-| :---: | :---: | :---: |
-|[![image](image_140.png)](image.png)|[![image_RE](image_RE_140.jpg)](image_RE_.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM_.jpg)|
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Datasheets
 
@@ -37,7 +38,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -61,4 +62,4 @@ Contents
 
 
 
-[im]: image_600.jpg
+[im]: image_450.jpg
