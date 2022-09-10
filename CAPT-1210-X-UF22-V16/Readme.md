@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C1U022F > SMD (1210) 22 uF Capacitor (Tantalum) 16v](#c1u022f--smd-1210-22-uf-capacitor-tantalum-16v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C1U022F > SMD (1210) 22 uF Capacitor (Tantalum) 16v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: C1U022F
 - Name: SMD (1210) 22 uF Capacitor (Tantalum) 16v
 - Description: SMD (1210) 22 uF Capacitor (Tantalum) 16v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPT-1210-X-UF22-V16](http://oom.lt/CAPT-1210-X-UF22-V16)
+- Long Link: [http://oom.lt/C1U022F](http://oom.lt/C1U022F)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

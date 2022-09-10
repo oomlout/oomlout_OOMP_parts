@@ -6,10 +6,10 @@ Contents
 ========
 
 * [VS3BA > SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A](#vs3ba--smd-sot-23-adjustable-buck-voltage-regulator-2-a)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: VS3BA
 - Name: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 - Description: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/VREG-SO23-X-BUCA-A2](http://oom.lt/VREG-SO23-X-BUCA-A2)
+- Long Link: [http://oom.lt/VS3BA](http://oom.lt/VS3BA)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

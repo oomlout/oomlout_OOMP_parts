@@ -6,9 +6,9 @@ Contents
 ========
 
 * [BB1 > 170 Point Breadboard](#bb1--170-point-breadboard)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # BB1 > 170 Point Breadboard
@@ -17,14 +17,8 @@ Contents
 - Hex ID: BB1
 - Name: 170 Point Breadboard
 - Description: 170 Point Breadboard
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/BREB-P170-X-STAN-01](http://oom.lt/BREB-P170-X-STAN-01)
+- Long Link: [http://oom.lt/BB1](http://oom.lt/BB1)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

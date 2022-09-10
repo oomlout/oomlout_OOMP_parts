@@ -6,10 +6,10 @@ Contents
 ========
 
 * [SEUV > SMD (3528) Ultraviolet Sensor](#seuv--smd-3528-ultraviolet-sensor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # SEUV > SMD (3528) Ultraviolet Sensor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: SEUV
 - Name: SMD (3528) Ultraviolet Sensor
 - Description: SMD (3528) Ultraviolet Sensor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SENS-3528-X-UVUV-01](http://oom.lt/SENS-3528-X-UVUV-01)
+- Long Link: [http://oom.lt/SEUV](http://oom.lt/SEUV)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

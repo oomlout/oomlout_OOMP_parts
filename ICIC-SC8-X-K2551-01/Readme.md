@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS2551 > 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)](#ics2551--8-pin-smd-soic-can-tranceiver-mcp2521)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: ICS2551
 - Name: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 - Description: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
-
-## Images
-  
-  
-
-|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-SC8-X-K2551-01](http://oom.lt/ICIC-SC8-X-K2551-01)
+- Long Link: [http://oom.lt/ICS2551](http://oom.lt/ICS2551)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

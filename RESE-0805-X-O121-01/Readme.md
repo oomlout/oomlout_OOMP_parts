@@ -6,10 +6,10 @@ Contents
 ========
 
 * [R85121 > SMD (0805) 120 Ohm Resistor](#r85121--smd-0805-120-ohm-resistor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: R85121
 - Name: SMD (0805) 120 Ohm Resistor
 - Description: SMD (0805) 120 Ohm Resistor
-
-## Images
-  
-  
-
-|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O121-01](http://oom.lt/RESE-0805-X-O121-01)
+- Long Link: [http://oom.lt/R85121](http://oom.lt/R85121)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

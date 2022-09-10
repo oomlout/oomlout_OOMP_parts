@@ -6,10 +6,10 @@ Contents
 ========
 
 * [CESU047 > SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v](#cesu047--smd-63-mm-47-uf-capacitor-electrolytic-25v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: CESU047
 - Name: SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
 - Description: SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
-
-## Images
-  
-  
-
-|image|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPE-S63D-X-UF47-V25](http://oom.lt/CAPE-S63D-X-UF47-V25)
+- Long Link: [http://oom.lt/CESU047](http://oom.lt/CESU047)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

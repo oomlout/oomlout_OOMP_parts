@@ -6,9 +6,9 @@ Contents
 ========
 
 * [HRS2X13 > 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)](#hrs2x13--254-mm-26-pin-2x13-header-right-angle-smd)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # HRS2X13 > 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
@@ -17,14 +17,8 @@ Contents
 - Hex ID: HRS2X13
 - Name: 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
 - Description: 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-RS](http://oom.lt/HEAD-I01-X-PI2X13-RS)
+- Long Link: [http://oom.lt/HRS2X13](http://oom.lt/HRS2X13)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

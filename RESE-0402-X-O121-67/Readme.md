@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R42121A > SMD (0402) 120 Ohm Resistor 1%](#r42121a--smd-0402-120-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -18,14 +18,8 @@ Contents
 - Hex ID: R42121A
 - Name: SMD (0402) 120 Ohm Resistor 1%
 - Description: SMD (0402) 120 Ohm Resistor 1%
-
-## Images
-  
-  
-
-|image|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0402-X-O121-67](http://oom.lt/RESE-0402-X-O121-67)
+- Long Link: [http://oom.lt/R42121A](http://oom.lt/R42121A)
 
 ## Labels
   
@@ -38,6 +32,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

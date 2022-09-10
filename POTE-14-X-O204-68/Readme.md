@@ -6,10 +6,10 @@ Contents
 ========
 
 * [PT4204S > 14 mm 200k Ohm Potentiometer Side Adjust](#pt4204s--14-mm-200k-ohm-potentiometer-side-adjust)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: PT4204S
 - Name: 14 mm 200k Ohm Potentiometer Side Adjust
 - Description: 14 mm 200k Ohm Potentiometer Side Adjust
-
-## Images
-  
-  
-
-|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/POTE-14-X-O204-68](http://oom.lt/POTE-14-X-O204-68)
+- Long Link: [http://oom.lt/PT4204S](http://oom.lt/PT4204S)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

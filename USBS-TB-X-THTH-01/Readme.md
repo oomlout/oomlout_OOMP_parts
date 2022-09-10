@@ -6,10 +6,10 @@ Contents
 ========
 
 * [UTB > Type B Through Hole USB Socket](#utb--type-b-through-hole-usb-socket)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # UTB > Type B Through Hole USB Socket
@@ -18,14 +18,8 @@ Contents
 - Hex ID: UTB
 - Name: Type B Through Hole USB Socket
 - Description: Type B Through Hole USB Socket
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/USBS-TB-X-THTH-01](http://oom.lt/USBS-TB-X-THTH-01)
+- Long Link: [http://oom.lt/UTB](http://oom.lt/UTB)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

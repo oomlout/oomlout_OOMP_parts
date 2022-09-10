@@ -6,10 +6,10 @@ Contents
 ========
 
 * [PR36 > M3 x 6 mm Plastic Rivet](#pr36--m3-x-6-mm-plastic-rivet)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: PR36
 - Name: M3 x 6 mm Plastic Rivet
 - Description: M3 x 6 mm Plastic Rivet
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/PRIV-M3-X-06-01](http://oom.lt/PRIV-M3-X-06-01)
+- Long Link: [http://oom.lt/PR36](http://oom.lt/PR36)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

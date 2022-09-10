@@ -6,10 +6,10 @@ Contents
 ========
 
 * [NS20 > M3 x 20 mm Nylon Screw Cross Head](#ns20--m3-x-20-mm-nylon-screw-cross-head)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: NS20
 - Name: M3 x 20 mm Nylon Screw Cross Head
 - Description: M3 x 20 mm Nylon Screw Cross Head
-
-## Images
-  
-  
-
-|image|image_RE|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/NSCR-M3-X-20-70](http://oom.lt/NSCR-M3-X-20-70)
+- Long Link: [http://oom.lt/NS20](http://oom.lt/NS20)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,9 +6,9 @@ Contents
 ========
 
 * [XS38 > SMD (3215) 8 MHz Crystal](#xs38--smd-3215-8-mhz-crystal)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # XS38 > SMD (3215) 8 MHz Crystal
@@ -17,14 +17,8 @@ Contents
 - Hex ID: XS38
 - Name: SMD (3215) 8 MHz Crystal
 - Description: SMD (3215) 8 MHz Crystal
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/XTAL-3215-X-MZ8-01](http://oom.lt/XTAL-3215-X-MZ8-01)
+- Long Link: [http://oom.lt/XS38](http://oom.lt/XS38)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

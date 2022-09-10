@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R42181 > SMD (0402) 180 Ohm Resistor](#r42181--smd-0402-180-ohm-resistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -18,14 +18,8 @@ Contents
 - Hex ID: R42181
 - Name: SMD (0402) 180 Ohm Resistor
 - Description: SMD (0402) 180 Ohm Resistor
-
-## Images
-  
-  
-
-|image|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0402-X-O181-01](http://oom.lt/RESE-0402-X-O181-01)
+- Long Link: [http://oom.lt/R42181](http://oom.lt/R42181)
 
 ## Labels
   
@@ -38,6 +32,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

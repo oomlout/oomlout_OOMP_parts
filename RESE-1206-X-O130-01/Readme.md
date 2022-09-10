@@ -6,10 +6,10 @@ Contents
 ========
 
 * [R1130 > SMD (1206) 13 Ohm Resistor](#r1130--smd-1206-13-ohm-resistor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: R1130
 - Name: SMD (1206) 13 Ohm Resistor
 - Description: SMD (1206) 13 Ohm Resistor
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-1206-X-O130-01](http://oom.lt/RESE-1206-X-O130-01)
+- Long Link: [http://oom.lt/R1130](http://oom.lt/R1130)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

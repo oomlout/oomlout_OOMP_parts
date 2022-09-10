@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IN42N47D > SMD (0402) 4.7 nH Inductor](#in42n47d--smd-0402-47-nh-inductor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IN42N47D > SMD (0402) 4.7 nH Inductor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IN42N47D
 - Name: SMD (0402) 4.7 nH Inductor
 - Description: SMD (0402) 4.7 nH Inductor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/INDU-0402-X-NH47D-01](http://oom.lt/INDU-0402-X-NH47D-01)
+- Long Link: [http://oom.lt/IN42N47D](http://oom.lt/IN42N47D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

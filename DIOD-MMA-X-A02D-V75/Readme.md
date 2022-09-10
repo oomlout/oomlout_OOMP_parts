@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DSM2D > SMD (Mini MELF) 200 mA Diode 75v](#dsm2d--smd-mini-melf-200-ma-diode-75v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DSM2D > SMD (Mini MELF) 200 mA Diode 75v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: DSM2D
 - Name: SMD (Mini MELF) 200 mA Diode 75v
 - Description: SMD (Mini MELF) 200 mA Diode 75v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DIOD-MMA-X-A02D-V75](http://oom.lt/DIOD-MMA-X-A02D-V75)
+- Long Link: [http://oom.lt/DSM2D](http://oom.lt/DSM2D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

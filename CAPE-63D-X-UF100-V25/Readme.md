@@ -6,10 +6,10 @@ Contents
 ========
 
 * [CEU100 > 6.3 mm 100 uF Capacitor (Electrolytic) 25v](#ceu100--63-mm-100-uf-capacitor-electrolytic-25v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: CEU100
 - Name: 6.3 mm 100 uF Capacitor (Electrolytic) 25v
 - Description: 6.3 mm 100 uF Capacitor (Electrolytic) 25v
-
-## Images
-  
-  
-
-|image|image_RE|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPE-63D-X-UF100-V25](http://oom.lt/CAPE-63D-X-UF100-V25)
+- Long Link: [http://oom.lt/CEU100](http://oom.lt/CEU100)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

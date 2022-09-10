@@ -6,10 +6,10 @@ Contents
 ========
 
 * [HS15 > 2.54 mm 15 Pin Header (Socket)](#hs15--254-mm-15-pin-header-socket)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # HS15 > 2.54 mm 15 Pin Header (Socket)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: HS15
 - Name: 2.54 mm 15 Pin Header (Socket)
 - Description: 2.54 mm 15 Pin Header (Socket)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAS-I01-X-PI15-01](http://oom.lt/HEAS-I01-X-PI15-01)
+- Long Link: [http://oom.lt/HS15](http://oom.lt/HS15)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS2291 > 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)](#ics2291--16-pin-smd-sop-pir-motion-sensing-tm2291)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICS2291 > 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICS2291
 - Name: 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
 - Description: 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-SP16-X-K2291-01](http://oom.lt/ICIC-SP16-X-K2291-01)
+- Long Link: [http://oom.lt/ICS2291](http://oom.lt/ICS2291)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

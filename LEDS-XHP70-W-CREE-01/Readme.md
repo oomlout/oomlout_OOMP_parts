@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ > XHP 70 Cree White LED](#--xhp-70-cree-white-led)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 #  > XHP 70 Cree White LED
@@ -18,14 +18,8 @@ Contents
 - Hex ID: 
 - Name: XHP 70 Cree White LED
 - Description: XHP 70 Cree White LED
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-XHP70-W-CREE-01](http://oom.lt/LEDS-XHP70-W-CREE-01)
+- Long Link: [http://oom.lt/](http://oom.lt/)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

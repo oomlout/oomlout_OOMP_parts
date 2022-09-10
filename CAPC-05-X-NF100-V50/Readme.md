@@ -6,10 +6,10 @@ Contents
 ========
 
 * [CCN100 > 5 mm 100 nF Capacitor (Ceramic) 50v](#ccn100--5-mm-100-nf-capacitor-ceramic-50v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # CCN100 > 5 mm 100 nF Capacitor (Ceramic) 50v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: CCN100
 - Name: 5 mm 100 nF Capacitor (Ceramic) 50v
 - Description: 5 mm 100 nF Capacitor (Ceramic) 50v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-05-X-NF100-V50](http://oom.lt/CAPC-05-X-NF100-V50)
+- Long Link: [http://oom.lt/CCN100](http://oom.lt/CCN100)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

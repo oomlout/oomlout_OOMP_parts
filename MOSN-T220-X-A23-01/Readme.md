@@ -6,10 +6,10 @@ Contents
 ========
 
 * [MN220A23 > TO-220 23 Amp N-Ch. MOSFET](#mn220a23--to-220-23-amp-n-ch-mosfet)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MN220A23 > TO-220 23 Amp N-Ch. MOSFET
@@ -18,14 +18,8 @@ Contents
 - Hex ID: MN220A23
 - Name: TO-220 23 Amp N-Ch. MOSFET
 - Description: TO-220 23 Amp N-Ch. MOSFET
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/MOSN-T220-X-A23-01](http://oom.lt/MOSN-T220-X-A23-01)
+- Long Link: [http://oom.lt/MN220A23](http://oom.lt/MN220A23)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IN39U47 > 3.9 mm 4.7 uH Inductor](#in39u47--39-mm-47-uh-inductor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IN39U47 > 3.9 mm 4.7 uH Inductor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IN39U47
 - Name: 3.9 mm 4.7 uH Inductor
 - Description: 3.9 mm 4.7 uH Inductor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/INDU-39D-X-UH47D-01](http://oom.lt/INDU-39D-X-UH47D-01)
+- Long Link: [http://oom.lt/IN39U47](http://oom.lt/IN39U47)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

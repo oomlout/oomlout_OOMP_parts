@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R85514 > SMD (0805) 510k Ohm Resistor](#r85514--smd-0805-510k-ohm-resistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R85514 > SMD (0805) 510k Ohm Resistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R85514
 - Name: SMD (0805) 510k Ohm Resistor
 - Description: SMD (0805) 510k Ohm Resistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O514-01](http://oom.lt/RESE-0805-X-O514-01)
+- Long Link: [http://oom.lt/R85514](http://oom.lt/R85514)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

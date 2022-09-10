@@ -6,9 +6,9 @@ Contents
 ========
 
 * [BAPI > 6 mm Badge Pin](#bapi--6-mm-badge-pin)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -18,14 +18,8 @@ Contents
 - Hex ID: BAPI
 - Name: 6 mm Badge Pin
 - Description: 6 mm Badge Pin
-
-## Images
-  
-  
-
-|image|image_RE|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/BAPI-06-X-STAN-01](http://oom.lt/BAPI-06-X-STAN-01)
+- Long Link: [http://oom.lt/BAPI](http://oom.lt/BAPI)
 
 ## Labels
   
@@ -38,6 +32,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_RE|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

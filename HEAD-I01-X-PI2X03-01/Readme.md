@@ -6,9 +6,9 @@ Contents
 ========
 
 * [ > 2.54 mm 6 Pin (2x3) Header](#--254-mm-6-pin-2x3-header)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 #  > 2.54 mm 6 Pin (2x3) Header
@@ -17,14 +17,8 @@ Contents
 - Hex ID: 
 - Name: 2.54 mm 6 Pin (2x3) Header
 - Description: 2.54 mm 6 Pin (2x3) Header
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-01](http://oom.lt/HEAD-I01-X-PI2X03-01)
+- Long Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DS35D > SMD (SOD-123) 500 mA Diode (Schottky)](#ds35d--smd-sod-123-500-ma-diode-schottky)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: DS35D
 - Name: SMD (SOD-123) 500 mA Diode (Schottky)
 - Description: SMD (SOD-123) 500 mA Diode (Schottky)
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DIOS-S123-X-A05D-01](http://oom.lt/DIOS-S123-X-A05D-01)
+- Long Link: [http://oom.lt/DS35D](http://oom.lt/DS35D)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

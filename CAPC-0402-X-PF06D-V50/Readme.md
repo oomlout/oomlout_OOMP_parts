@@ -6,9 +6,9 @@ Contents
 ========
 
 * [C42P006D > SMD (0402) 0.6 pF Capacitor (Ceramic) 50v](#c42p006d--smd-0402-06-pf-capacitor-ceramic-50v)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -18,14 +18,8 @@ Contents
 - Hex ID: C42P006D
 - Name: SMD (0402) 0.6 pF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 0.6 pF Capacitor (Ceramic) 50v
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-0402-X-PF06D-V50](http://oom.lt/CAPC-0402-X-PF06D-V50)
+- Long Link: [http://oom.lt/C42P006D](http://oom.lt/C42P006D)
 
 ## Labels
   
@@ -38,6 +32,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

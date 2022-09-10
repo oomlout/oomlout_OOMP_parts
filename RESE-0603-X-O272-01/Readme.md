@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R6272 > SMD (0603) 2.7k Ohm Resistor](#r6272--smd-0603-27k-ohm-resistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R6272 > SMD (0603) 2.7k Ohm Resistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R6272
 - Name: SMD (0603) 2.7k Ohm Resistor
 - Description: SMD (0603) 2.7k Ohm Resistor
-
-## Images
-  
-  
-
-|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0603-X-O272-01](http://oom.lt/RESE-0603-X-O272-01)
+- Long Link: [http://oom.lt/R6272](http://oom.lt/R6272)
 
 ## Labels
   
@@ -43,6 +37,14 @@ Contents
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C1U10 > SMD (1206) 10 uF Capacitor (Ceramic) 25v](#c1u10--smd-1206-10-uf-capacitor-ceramic-25v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C1U10 > SMD (1206) 10 uF Capacitor (Ceramic) 25v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: C1U10
 - Name: SMD (1206) 10 uF Capacitor (Ceramic) 25v
 - Description: SMD (1206) 10 uF Capacitor (Ceramic) 25v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-1206-X-UF10-V25](http://oom.lt/CAPC-1206-X-UF10-V25)
+- Long Link: [http://oom.lt/C1U10](http://oom.lt/C1U10)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

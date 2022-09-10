@@ -6,10 +6,10 @@ Contents
 ========
 
 * [TPS22D > SMD (SOT-23) 200 mA PNP Transistor](#tps22d--smd-sot-23-200-ma-pnp-transistor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # TPS22D > SMD (SOT-23) 200 mA PNP Transistor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: TPS22D
 - Name: SMD (SOT-23) 200 mA PNP Transistor
 - Description: SMD (SOT-23) 200 mA PNP Transistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/TRNP-SO23-X-A02D-01](http://oom.lt/TRNP-SO23-X-A02D-01)
+- Long Link: [http://oom.lt/TPS22D](http://oom.lt/TPS22D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

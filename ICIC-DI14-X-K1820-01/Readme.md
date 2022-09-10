@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IC1820P > 14 Pin DIP Voice Recorder (ISD1820P)](#ic1820p--14-pin-dip-voice-recorder-isd1820p)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IC1820P > 14 Pin DIP Voice Recorder (ISD1820P)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IC1820P
 - Name: 14 Pin DIP Voice Recorder (ISD1820P)
 - Description: 14 Pin DIP Voice Recorder (ISD1820P)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-DI14-X-K1820-01](http://oom.lt/ICIC-DI14-X-K1820-01)
+- Long Link: [http://oom.lt/IC1820P](http://oom.lt/IC1820P)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

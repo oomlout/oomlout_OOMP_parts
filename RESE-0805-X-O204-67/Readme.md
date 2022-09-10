@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R85204A > SMD (0805) 200k Ohm Resistor 1%](#r85204a--smd-0805-200k-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R85204A > SMD (0805) 200k Ohm Resistor 1%
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R85204A
 - Name: SMD (0805) 200k Ohm Resistor 1%
 - Description: SMD (0805) 200k Ohm Resistor 1%
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O204-67](http://oom.lt/RESE-0805-X-O204-67)
+- Long Link: [http://oom.lt/R85204A](http://oom.lt/R85204A)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

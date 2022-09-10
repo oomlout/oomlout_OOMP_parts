@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ST308L > 3.5 mm 8 Pin Blue Screw Terminal](#st308l--35-mm-8-pin-blue-screw-terminal)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ST308L > 3.5 mm 8 Pin Blue Screw Terminal
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ST308L
 - Name: 3.5 mm 8 Pin Blue Screw Terminal
 - Description: 3.5 mm 8 Pin Blue Screw Terminal
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/TERS-35D-L-PI08-01](http://oom.lt/TERS-35D-L-PI08-01)
+- Long Link: [http://oom.lt/ST308L](http://oom.lt/ST308L)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

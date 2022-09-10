@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICSQ168 > 32 Pin SMD (QFN) AtMega168P](#icsq168--32-pin-smd-qfn-atmega168p)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICSQ168 > 32 Pin SMD (QFN) AtMega168P
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICSQ168
 - Name: 32 Pin SMD (QFN) AtMega168P
 - Description: 32 Pin SMD (QFN) AtMega168P
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-QFN32-X-K168-01](http://oom.lt/ICIC-QFN32-X-K168-01)
+- Long Link: [http://oom.lt/ICSQ168](http://oom.lt/ICSQ168)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

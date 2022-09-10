@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IC230 > 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)](#ic230--16-pin-smd-ssop-high-speed-usb-serial-ft230xs-r)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IC230 > 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IC230
 - Name: 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
 - Description: 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-SS16-X-KF230-01](http://oom.lt/ICIC-SS16-X-KF230-01)
+- Long Link: [http://oom.lt/IC230](http://oom.lt/IC230)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

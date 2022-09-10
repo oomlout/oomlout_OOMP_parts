@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICL293D > 16 Pin DIP Dual H-Bridge (L293D)](#icl293d--16-pin-dip-dual-h-bridge-l293d)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICL293D > 16 Pin DIP Dual H-Bridge (L293D)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICL293D
 - Name: 16 Pin DIP Dual H-Bridge (L293D)
 - Description: 16 Pin DIP Dual H-Bridge (L293D)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-DI16-X-KL293D-01](http://oom.lt/ICIC-DI16-X-KL293D-01)
+- Long Link: [http://oom.lt/ICL293D](http://oom.lt/ICL293D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

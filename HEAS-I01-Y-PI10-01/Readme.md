@@ -6,10 +6,10 @@ Contents
 ========
 
 * [HS10Y > 2.54 mm 10 Pin Yellow Header (Socket)](#hs10y--254-mm-10-pin-yellow-header-socket)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: HS10Y
 - Name: 2.54 mm 10 Pin Yellow Header (Socket)
 - Description: 2.54 mm 10 Pin Yellow Header (Socket)
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAS-I01-Y-PI10-01](http://oom.lt/HEAS-I01-Y-PI10-01)
+- Long Link: [http://oom.lt/HS10Y](http://oom.lt/HS10Y)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

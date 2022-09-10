@@ -6,10 +6,10 @@ Contents
 ========
 
 * [PT7103 > 7 mm 10k Ohm Potentiometer](#pt7103--7-mm-10k-ohm-potentiometer)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # PT7103 > 7 mm 10k Ohm Potentiometer
@@ -18,14 +18,8 @@ Contents
 - Hex ID: PT7103
 - Name: 7 mm 10k Ohm Potentiometer
 - Description: 7 mm 10k Ohm Potentiometer
-
-## Images
-  
-  
-
-|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/POTE-07-X-O103-01](http://oom.lt/POTE-07-X-O103-01)
+- Long Link: [http://oom.lt/PT7103](http://oom.lt/PT7103)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

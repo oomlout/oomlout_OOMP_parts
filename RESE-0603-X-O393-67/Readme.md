@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R6393A > SMD (0603) 39k Ohm Resistor 1%](#r6393a--smd-0603-39k-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R6393A > SMD (0603) 39k Ohm Resistor 1%
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R6393A
 - Name: SMD (0603) 39k Ohm Resistor 1%
 - Description: SMD (0603) 39k Ohm Resistor 1%
-
-## Images
-  
-  
-
-|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0603-X-O393-67](http://oom.lt/RESE-0603-X-O393-67)
+- Long Link: [http://oom.lt/R6393A](http://oom.lt/R6393A)
 
 ## Labels
   
@@ -43,6 +37,14 @@ Contents
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

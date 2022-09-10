@@ -6,10 +6,10 @@ Contents
 ========
 
 * [PT7104 > 17 mm 100k Ohm Potentiometer Panel Mount](#pt7104--17-mm-100k-ohm-potentiometer-panel-mount)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: PT7104
 - Name: 17 mm 100k Ohm Potentiometer Panel Mount
 - Description: 17 mm 100k Ohm Potentiometer Panel Mount
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/POTE-17-X-O104-69](http://oom.lt/POTE-17-X-O104-69)
+- Long Link: [http://oom.lt/PT7104](http://oom.lt/PT7104)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

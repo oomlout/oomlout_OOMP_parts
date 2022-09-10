@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R6681A > SMD (0603) 680 Ohm Resistor 1%](#r6681a--smd-0603-680-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R6681A > SMD (0603) 680 Ohm Resistor 1%
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R6681A
 - Name: SMD (0603) 680 Ohm Resistor 1%
 - Description: SMD (0603) 680 Ohm Resistor 1%
-
-## Images
-  
-  
-
-|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0603-X-O681-67](http://oom.lt/RESE-0603-X-O681-67)
+- Long Link: [http://oom.lt/R6681A](http://oom.lt/R6681A)
 
 ## Labels
   
@@ -43,6 +37,14 @@ Contents
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

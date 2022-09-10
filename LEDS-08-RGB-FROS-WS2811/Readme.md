@@ -6,10 +6,10 @@ Contents
 ========
 
 * [L8RGB21 > 8 mm Frosted RGB LED (WS2811)](#l8rgb21--8-mm-frosted-rgb-led-ws2811)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # L8RGB21 > 8 mm Frosted RGB LED (WS2811)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: L8RGB21
 - Name: 8 mm Frosted RGB LED (WS2811)
 - Description: 8 mm Frosted RGB LED (WS2811)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-08-RGB-FROS-WS2811](http://oom.lt/LEDS-08-RGB-FROS-WS2811)
+- Long Link: [http://oom.lt/L8RGB21](http://oom.lt/L8RGB21)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

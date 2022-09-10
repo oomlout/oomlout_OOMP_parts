@@ -6,9 +6,9 @@ Contents
 ========
 
 * [TN91815 > TO-92 C1815 NPN Transistor](#tn91815--to-92-c1815-npn-transistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # TN91815 > TO-92 C1815 NPN Transistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: TN91815
 - Name: TO-92 C1815 NPN Transistor
 - Description: TO-92 C1815 NPN Transistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/TRNN-T92-X-KC1815-01](http://oom.lt/TRNN-T92-X-KC1815-01)
+- Long Link: [http://oom.lt/TN91815](http://oom.lt/TN91815)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

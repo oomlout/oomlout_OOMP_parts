@@ -6,10 +6,10 @@ Contents
 ========
 
 * [L42W > SMD (0402) White LED](#l42w--smd-0402-white-led)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # L42W > SMD (0402) White LED
@@ -18,14 +18,8 @@ Contents
 - Hex ID: L42W
 - Name: SMD (0402) White LED
 - Description: SMD (0402) White LED
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-0402-W-STAN-01](http://oom.lt/LEDS-0402-W-STAN-01)
+- Long Link: [http://oom.lt/L42W](http://oom.lt/L42W)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

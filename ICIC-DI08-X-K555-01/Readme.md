@@ -6,9 +6,9 @@ Contents
 ========
 
 * [IC555 > 8 Pin DIP 555 Timer](#ic555--8-pin-dip-555-timer)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IC555 > 8 Pin DIP 555 Timer
@@ -17,14 +17,8 @@ Contents
 - Hex ID: IC555
 - Name: 8 Pin DIP 555 Timer
 - Description: 8 Pin DIP 555 Timer
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-DI08-X-K555-01](http://oom.lt/ICIC-DI08-X-K555-01)
+- Long Link: [http://oom.lt/IC555](http://oom.lt/IC555)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DS32D > SMD (SOD-123) 200 mA Diode](#ds32d--smd-sod-123-200-ma-diode)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DS32D > SMD (SOD-123) 200 mA Diode
@@ -18,14 +18,8 @@ Contents
 - Hex ID: DS32D
 - Name: SMD (SOD-123) 200 mA Diode
 - Description: SMD (SOD-123) 200 mA Diode
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DIOD-S123-X-A02D-01](http://oom.lt/DIOD-S123-X-A02D-01)
+- Long Link: [http://oom.lt/DS32D](http://oom.lt/DS32D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

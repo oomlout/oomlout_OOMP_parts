@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R85223A > SMD (0805) 22k Ohm Resistor 1%](#r85223a--smd-0805-22k-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R85223A > SMD (0805) 22k Ohm Resistor 1%
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R85223A
 - Name: SMD (0805) 22k Ohm Resistor 1%
 - Description: SMD (0805) 22k Ohm Resistor 1%
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O223-67](http://oom.lt/RESE-0805-X-O223-67)
+- Long Link: [http://oom.lt/R85223A](http://oom.lt/R85223A)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

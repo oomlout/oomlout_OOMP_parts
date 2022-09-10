@@ -6,10 +6,10 @@ Contents
 ========
 
 * [VS325D1 > SMD (SOT-23) 2.5v Voltage Regulator 200 mA](#vs325d1--smd-sot-23-25v-voltage-regulator-200-ma)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: VS325D1
 - Name: SMD (SOT-23) 2.5v Voltage Regulator 200 mA
 - Description: SMD (SOT-23) 2.5v Voltage Regulator 200 mA
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/VREG-SO23-X-V25D-AE](http://oom.lt/VREG-SO23-X-V25D-AE)
+- Long Link: [http://oom.lt/VS325D1](http://oom.lt/VS325D1)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

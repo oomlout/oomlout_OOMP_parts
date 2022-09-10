@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R6243 > SMD (0603) 25k Ohm Resistor](#r6243--smd-0603-25k-ohm-resistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R6243 > SMD (0603) 25k Ohm Resistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R6243
 - Name: SMD (0603) 25k Ohm Resistor
 - Description: SMD (0603) 25k Ohm Resistor
-
-## Images
-  
-  
-
-|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0603-X-O243-01](http://oom.lt/RESE-0603-X-O243-01)
+- Long Link: [http://oom.lt/R6243](http://oom.lt/R6243)
 
 ## Labels
   
@@ -43,6 +37,14 @@ Contents
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

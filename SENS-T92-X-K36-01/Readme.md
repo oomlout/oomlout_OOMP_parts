@@ -6,10 +6,10 @@ Contents
 ========
 
 * [SE36 > TO-92 Temperature (TMP36) Sensor](#se36--to-92-temperature-tmp36-sensor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # SE36 > TO-92 Temperature (TMP36) Sensor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: SE36
 - Name: TO-92 Temperature (TMP36) Sensor
 - Description: TO-92 Temperature (TMP36) Sensor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SENS-T92-X-K36-01](http://oom.lt/SENS-T92-X-K36-01)
+- Long Link: [http://oom.lt/SE36](http://oom.lt/SE36)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

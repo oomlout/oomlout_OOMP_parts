@@ -6,10 +6,10 @@ Contents
 ========
 
 * [M36 > M3 x 6 mm Machine Screw Cross Head](#m36--m3-x-6-mm-machine-screw-cross-head)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # M36 > M3 x 6 mm Machine Screw Cross Head
@@ -18,14 +18,8 @@ Contents
 - Hex ID: M36
 - Name: M3 x 6 mm Machine Screw Cross Head
 - Description: M3 x 6 mm Machine Screw Cross Head
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SCRE-M3-X-06-70](http://oom.lt/SCRE-M3-X-06-70)
+- Long Link: [http://oom.lt/M36](http://oom.lt/M36)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

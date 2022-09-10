@@ -6,10 +6,10 @@ Contents
 ========
 
 * [CCN010 > 4.5 mm 10 nF Capacitor (Ceramic) 50v](#ccn010--45-mm-10-nf-capacitor-ceramic-50v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # CCN010 > 4.5 mm 10 nF Capacitor (Ceramic) 50v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: CCN010
 - Name: 4.5 mm 10 nF Capacitor (Ceramic) 50v
 - Description: 4.5 mm 10 nF Capacitor (Ceramic) 50v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-45D-X-NF10-V50](http://oom.lt/CAPC-45D-X-NF10-V50)
+- Long Link: [http://oom.lt/CCN010](http://oom.lt/CCN010)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

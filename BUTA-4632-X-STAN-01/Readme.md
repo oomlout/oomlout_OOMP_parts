@@ -6,10 +6,10 @@ Contents
 ========
 
 * [BT4632 > SMD (4632) Pushbutton (Tactile)](#bt4632--smd-4632-pushbutton-tactile)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # BT4632 > SMD (4632) Pushbutton (Tactile)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: BT4632
 - Name: SMD (4632) Pushbutton (Tactile)
 - Description: SMD (4632) Pushbutton (Tactile)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/BUTA-4632-X-STAN-01](http://oom.lt/BUTA-4632-X-STAN-01)
+- Long Link: [http://oom.lt/BT4632](http://oom.lt/BT4632)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

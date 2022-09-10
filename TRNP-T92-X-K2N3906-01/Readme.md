@@ -6,9 +6,9 @@ Contents
 ========
 
 * [TP92N36 > TO-92 2N3906 PNP Transistor](#tp92n36--to-92-2n3906-pnp-transistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # TP92N36 > TO-92 2N3906 PNP Transistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: TP92N36
 - Name: TO-92 2N3906 PNP Transistor
 - Description: TO-92 2N3906 PNP Transistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/TRNP-T92-X-K2N3906-01](http://oom.lt/TRNP-T92-X-K2N3906-01)
+- Long Link: [http://oom.lt/TP92N36](http://oom.lt/TP92N36)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

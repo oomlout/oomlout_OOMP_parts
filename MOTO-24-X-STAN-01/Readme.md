@@ -6,10 +6,10 @@ Contents
 ========
 
 * [MT24 > 24 mm Motor](#mt24--24-mm-motor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MT24 > 24 mm Motor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: MT24
 - Name: 24 mm Motor
 - Description: 24 mm Motor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/MOTO-24-X-STAN-01](http://oom.lt/MOTO-24-X-STAN-01)
+- Long Link: [http://oom.lt/MT24](http://oom.lt/MT24)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

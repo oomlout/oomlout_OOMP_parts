@@ -6,9 +6,9 @@ Contents
 ========
 
 * [HRS07 > 2.54 mm 7 Pin Header Right Angle (SMD)](#hrs07--254-mm-7-pin-header-right-angle-smd)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # HRS07 > 2.54 mm 7 Pin Header Right Angle (SMD)
@@ -17,14 +17,8 @@ Contents
 - Hex ID: HRS07
 - Name: 2.54 mm 7 Pin Header Right Angle (SMD)
 - Description: 2.54 mm 7 Pin Header Right Angle (SMD)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI07-RS](http://oom.lt/HEAD-I01-X-PI07-RS)
+- Long Link: [http://oom.lt/HRS07](http://oom.lt/HRS07)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

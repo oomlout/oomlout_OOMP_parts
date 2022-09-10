@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IN42N33D > SMD (0402) 3.3 NH Inductor](#in42n33d--smd-0402-33-nh-inductor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IN42N33D > SMD (0402) 3.3 NH Inductor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IN42N33D
 - Name: SMD (0402) 3.3 NH Inductor
 - Description: SMD (0402) 3.3 NH Inductor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/INDU-0402-X-NH33D-01](http://oom.lt/INDU-0402-X-NH33D-01)
+- Long Link: [http://oom.lt/IN42N33D](http://oom.lt/IN42N33D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

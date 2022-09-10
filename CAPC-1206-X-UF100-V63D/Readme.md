@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C1U100 > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v](#c1u100--smd-1206-100-uf-capacitor-ceramic-63v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C1U100 > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: C1U100
 - Name: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-1206-X-UF100-V63D](http://oom.lt/CAPC-1206-X-UF100-V63D)
+- Long Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

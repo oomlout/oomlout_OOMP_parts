@@ -6,10 +6,10 @@ Contents
 ========
 
 * [X85K327D > SMD (0805) 32.768 kHz Crystal](#x85k327d--smd-0805-32768-khz-crystal)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # X85K327D > SMD (0805) 32.768 kHz Crystal
@@ -18,14 +18,8 @@ Contents
 - Hex ID: X85K327D
 - Name: SMD (0805) 32.768 kHz Crystal
 - Description: SMD (0805) 32.768 kHz Crystal
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/XTAL-0805-X-KZ327D-01](http://oom.lt/XTAL-0805-X-KZ327D-01)
+- Long Link: [http://oom.lt/X85K327D](http://oom.lt/X85K327D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

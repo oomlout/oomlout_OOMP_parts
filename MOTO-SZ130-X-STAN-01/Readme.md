@@ -6,10 +6,10 @@ Contents
 ========
 
 * [MSZ130 > 130 Size Motor](#msz130--130-size-motor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MSZ130 > 130 Size Motor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: MSZ130
 - Name: 130 Size Motor
 - Description: 130 Size Motor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/MOTO-SZ130-X-STAN-01](http://oom.lt/MOTO-SZ130-X-STAN-01)
+- Long Link: [http://oom.lt/MSZ130](http://oom.lt/MSZ130)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

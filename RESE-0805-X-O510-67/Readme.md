@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R85510A > SMD (0805) 51 Ohm Resistor 1%](#r85510a--smd-0805-51-ohm-resistor-1)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R85510A > SMD (0805) 51 Ohm Resistor 1%
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R85510A
 - Name: SMD (0805) 51 Ohm Resistor 1%
 - Description: SMD (0805) 51 Ohm Resistor 1%
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O510-67](http://oom.lt/RESE-0805-X-O510-67)
+- Long Link: [http://oom.lt/R85510A](http://oom.lt/R85510A)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

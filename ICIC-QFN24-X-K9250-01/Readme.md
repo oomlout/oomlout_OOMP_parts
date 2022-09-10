@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS9250 > 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)](#ics9250--24-pin-smd-qfn-9-axis-inertial-measurement-unit-mpu-9250)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICS9250 > 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICS9250
 - Name: 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
 - Description: 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-QFN24-X-K9250-01](http://oom.lt/ICIC-QFN24-X-K9250-01)
+- Long Link: [http://oom.lt/ICS9250](http://oom.lt/ICS9250)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

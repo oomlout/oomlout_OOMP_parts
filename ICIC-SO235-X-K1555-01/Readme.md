@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS1555 > SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)](#ics1555--smd-sot-23-5-lithium-ion-battery-charger-1-cell-max1555)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: ICS1555
 - Name: SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
 - Description: SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
-
-## Images
-  
-  
-
-|image|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-SO235-X-K1555-01](http://oom.lt/ICIC-SO235-X-K1555-01)
+- Long Link: [http://oom.lt/ICS1555](http://oom.lt/ICS1555)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

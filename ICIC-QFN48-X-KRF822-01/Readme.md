@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IC822 > 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)](#ic822--48-pin-smd-qfn-nrf51822-bluetooth-mcu)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IC822 > 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IC822
 - Name: 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
 - Description: 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-QFN48-X-KRF822-01](http://oom.lt/ICIC-QFN48-X-KRF822-01)
+- Long Link: [http://oom.lt/IC822](http://oom.lt/IC822)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

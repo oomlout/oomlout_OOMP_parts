@@ -6,9 +6,9 @@ Contents
 ========
 
 * [HRS2X08 > 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)](#hrs2x08--254-mm-16-pin-2x8-header-right-angle-smd)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # HRS2X08 > 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
@@ -17,14 +17,8 @@ Contents
 - Hex ID: HRS2X08
 - Name: 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
 - Description: 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X08-RS](http://oom.lt/HEAD-I01-X-PI2X08-RS)
+- Long Link: [http://oom.lt/HRS2X08](http://oom.lt/HRS2X08)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

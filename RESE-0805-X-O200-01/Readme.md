@@ -6,9 +6,9 @@ Contents
 ========
 
 * [R85200 > SMD (0805) 20 Ohm Resistor](#r85200--smd-0805-20-ohm-resistor)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # R85200 > SMD (0805) 20 Ohm Resistor
@@ -17,14 +17,8 @@ Contents
 - Hex ID: R85200
 - Name: SMD (0805) 20 Ohm Resistor
 - Description: SMD (0805) 20 Ohm Resistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/RESE-0805-X-O200-01](http://oom.lt/RESE-0805-X-O200-01)
+- Long Link: [http://oom.lt/R85200](http://oom.lt/R85200)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

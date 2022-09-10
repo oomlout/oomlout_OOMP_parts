@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C85U004 > SMD (0805) 4.7 uF Capacitor (Ceramic) 25v](#c85u004--smd-0805-47-uf-capacitor-ceramic-25v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: C85U004
 - Name: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Description: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-0805-X-UF47D-V25](http://oom.lt/CAPC-0805-X-UF47D-V25)
+- Long Link: [http://oom.lt/C85U004](http://oom.lt/C85U004)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

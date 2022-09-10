@@ -6,10 +6,10 @@ Contents
 ========
 
 * [SEPR > 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor](#sepr--87-mm-x-45-mm-photo-reflective-lth1550-sensor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # SEPR > 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: SEPR
 - Name: 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor
 - Description: 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SENS-87DX45D-X-K1550-01](http://oom.lt/SENS-87DX45D-X-K1550-01)
+- Long Link: [http://oom.lt/SEPR](http://oom.lt/SEPR)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

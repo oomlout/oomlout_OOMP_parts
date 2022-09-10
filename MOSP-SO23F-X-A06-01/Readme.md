@@ -6,10 +6,10 @@ Contents
 ========
 
 * [MP2F6 > SMD (SOT-23F) 6 Amp P-Ch. MOSFET](#mp2f6--smd-sot-23f-6-amp-p-ch-mosfet)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MP2F6 > SMD (SOT-23F) 6 Amp P-Ch. MOSFET
@@ -18,14 +18,8 @@ Contents
 - Hex ID: MP2F6
 - Name: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
 - Description: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/MOSP-SO23F-X-A06-01](http://oom.lt/MOSP-SO23F-X-A06-01)
+- Long Link: [http://oom.lt/MP2F6](http://oom.lt/MP2F6)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

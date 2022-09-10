@@ -6,9 +6,9 @@ Contents
 ========
 
 * [SVM > Micro Servo](#svm--micro-servo)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # SVM > Micro Servo
@@ -17,14 +17,8 @@ Contents
 - Hex ID: SVM
 - Name: Micro Servo
 - Description: Micro Servo
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SERV-MC-X-STAN-01](http://oom.lt/SERV-MC-X-STAN-01)
+- Long Link: [http://oom.lt/SVM](http://oom.lt/SVM)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

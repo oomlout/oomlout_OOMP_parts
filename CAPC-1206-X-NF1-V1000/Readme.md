@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C1N001 > SMD (1206) 1 nF Capacitor (Ceramic) 1000v](#c1n001--smd-1206-1-nf-capacitor-ceramic-1000v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C1N001 > SMD (1206) 1 nF Capacitor (Ceramic) 1000v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: C1N001
 - Name: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
 - Description: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-1206-X-NF1-V1000](http://oom.lt/CAPC-1206-X-NF1-V1000)
+- Long Link: [http://oom.lt/C1N001](http://oom.lt/C1N001)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

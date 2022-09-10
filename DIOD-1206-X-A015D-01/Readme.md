@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DS115 > SMD (1206) 150 mA Diode 75v](#ds115--smd-1206-150-ma-diode-75v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DS115 > SMD (1206) 150 mA Diode 75v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: DS115
 - Name: SMD (1206) 150 mA Diode 75v
 - Description: SMD (1206) 150 mA Diode 75v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DIOD-1206-X-A015D-01](http://oom.lt/DIOD-1206-X-A015D-01)
+- Long Link: [http://oom.lt/DS115](http://oom.lt/DS115)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

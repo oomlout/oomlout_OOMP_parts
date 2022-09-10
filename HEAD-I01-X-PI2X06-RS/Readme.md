@@ -6,9 +6,9 @@ Contents
 ========
 
 * [HRS2X06 > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)](#hrs2x06--254-mm-12-pin-2x6-header-right-angle-smd)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # HRS2X06 > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
@@ -17,14 +17,8 @@ Contents
 - Hex ID: HRS2X06
 - Name: 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
 - Description: 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-RS](http://oom.lt/HEAD-I01-X-PI2X06-RS)
+- Long Link: [http://oom.lt/HRS2X06](http://oom.lt/HRS2X06)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

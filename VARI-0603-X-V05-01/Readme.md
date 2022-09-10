@@ -6,10 +6,10 @@ Contents
 ========
 
 * [V6305 > SMD (0603) 5v Varistor](#v6305--smd-0603-5v-varistor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # V6305 > SMD (0603) 5v Varistor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: V6305
 - Name: SMD (0603) 5v Varistor
 - Description: SMD (0603) 5v Varistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/VARI-0603-X-V05-01](http://oom.lt/VARI-0603-X-V05-01)
+- Long Link: [http://oom.lt/V6305](http://oom.lt/V6305)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

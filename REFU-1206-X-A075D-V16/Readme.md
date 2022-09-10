@@ -6,10 +6,10 @@ Contents
 ========
 
 * [RF1275D > SMD (1206) 750 mA Resetable Fuse 16v](#rf1275d--smd-1206-750-ma-resetable-fuse-16v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # RF1275D > SMD (1206) 750 mA Resetable Fuse 16v
@@ -18,14 +18,8 @@ Contents
 - Hex ID: RF1275D
 - Name: SMD (1206) 750 mA Resetable Fuse 16v
 - Description: SMD (1206) 750 mA Resetable Fuse 16v
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/REFU-1206-X-A075D-V16](http://oom.lt/REFU-1206-X-A075D-V16)
+- Long Link: [http://oom.lt/RF1275D](http://oom.lt/RF1275D)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

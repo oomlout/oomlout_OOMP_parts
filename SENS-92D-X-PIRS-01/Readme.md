@@ -6,10 +6,10 @@ Contents
 ========
 
 * [SEPI > 9.2 mm PIRS Sensor](#sepi--92-mm-pirs-sensor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # SEPI > 9.2 mm PIRS Sensor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: SEPI
 - Name: 9.2 mm PIRS Sensor
 - Description: 9.2 mm PIRS Sensor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/SENS-92D-X-PIRS-01](http://oom.lt/SENS-92D-X-PIRS-01)
+- Long Link: [http://oom.lt/SEPI](http://oom.lt/SEPI)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

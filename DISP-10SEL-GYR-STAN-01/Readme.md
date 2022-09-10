@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DS10M > 10 Segment LED Bargraph Green, Yellow, Red Display](#ds10m--10-segment-led-bargraph-green-yellow-red-display)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DS10M > 10 Segment LED Bargraph Green, Yellow, Red Display
@@ -18,14 +18,8 @@ Contents
 - Hex ID: DS10M
 - Name: 10 Segment LED Bargraph Green, Yellow, Red Display
 - Description: 10 Segment LED Bargraph Green, Yellow, Red Display
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DISP-10SEL-GYR-STAN-01](http://oom.lt/DISP-10SEL-GYR-STAN-01)
+- Long Link: [http://oom.lt/DS10M](http://oom.lt/DS10M)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

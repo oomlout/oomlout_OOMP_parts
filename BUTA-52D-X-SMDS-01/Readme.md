@@ -6,9 +6,9 @@ Contents
 ========
 
 * [ > 5.2 mm SMD Pushbutton (Tactile)](#--52-mm-smd-pushbutton-tactile)
-	* [Images](#images)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 #  > 5.2 mm SMD Pushbutton (Tactile)
@@ -17,14 +17,8 @@ Contents
 - Hex ID: 
 - Name: 5.2 mm SMD Pushbutton (Tactile)
 - Description: 5.2 mm SMD Pushbutton (Tactile)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/BUTA-52D-X-SMDS-01](http://oom.lt/BUTA-52D-X-SMDS-01)
+- Long Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   
@@ -37,6 +31,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

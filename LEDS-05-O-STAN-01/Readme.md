@@ -6,10 +6,10 @@ Contents
 ========
 
 * [L5O > 5 mm Orange LED](#l5o--5-mm-orange-led)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # L5O > 5 mm Orange LED
@@ -18,14 +18,8 @@ Contents
 - Hex ID: L5O
 - Name: 5 mm Orange LED
 - Description: 5 mm Orange LED
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-05-O-STAN-01](http://oom.lt/LEDS-05-O-STAN-01)
+- Long Link: [http://oom.lt/L5O](http://oom.lt/L5O)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ > 2.54 mm 6 Pin Header Right Angle (SMD)](#--254-mm-6-pin-header-right-angle-smd)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 #  > 2.54 mm 6 Pin Header Right Angle (SMD)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: 
 - Name: 2.54 mm 6 Pin Header Right Angle (SMD)
 - Description: 2.54 mm 6 Pin Header Right Angle (SMD)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/HEAD-I01-X-PI06-RS](http://oom.lt/HEAD-I01-X-PI06-RS)
+- Long Link: [http://oom.lt/](http://oom.lt/)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

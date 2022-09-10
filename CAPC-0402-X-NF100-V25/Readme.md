@@ -6,10 +6,10 @@ Contents
 ========
 
 * [C42N100V25 > SMD (0402) 100 nF Capacitor (Ceramic) 25v](#c42n100v25--smd-0402-100-nf-capacitor-ceramic-25v)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -19,14 +19,8 @@ Contents
 - Hex ID: C42N100V25
 - Name: SMD (0402) 100 nF Capacitor (Ceramic) 25v
 - Description: SMD (0402) 100 nF Capacitor (Ceramic) 25v
-
-## Images
-  
-  
-
-|image|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/CAPC-0402-X-NF100-V25](http://oom.lt/CAPC-0402-X-NF100-V25)
+- Long Link: [http://oom.lt/C42N100V25](http://oom.lt/C42N100V25)
 
 ## Datasheets
 
@@ -43,6 +37,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,10 +6,10 @@ Contents
 ========
 
 * [USM3 > Micro SMD USB Socket](#usm3--micro-smd-usb-socket)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # USM3 > Micro SMD USB Socket
@@ -18,14 +18,8 @@ Contents
 - Hex ID: USM3
 - Name: Micro SMD USB Socket
 - Description: Micro SMD USB Socket
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/USBS-MC-X-SMDS-03](http://oom.lt/USBS-MC-X-SMDS-03)
+- Long Link: [http://oom.lt/USM3](http://oom.lt/USM3)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

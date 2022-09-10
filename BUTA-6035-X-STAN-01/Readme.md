@@ -6,10 +6,10 @@ Contents
 ========
 
 * [B6035 > SMD (6035) Pushbutton (Tactile)](#b6035--smd-6035-pushbutton-tactile)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # B6035 > SMD (6035) Pushbutton (Tactile)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: B6035
 - Name: SMD (6035) Pushbutton (Tactile)
 - Description: SMD (6035) Pushbutton (Tactile)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/BUTA-6035-X-STAN-01](http://oom.lt/BUTA-6035-X-STAN-01)
+- Long Link: [http://oom.lt/B6035](http://oom.lt/B6035)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

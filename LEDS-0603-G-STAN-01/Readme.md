@@ -6,10 +6,10 @@ Contents
 ========
 
 * [L6G > SMD (0603) Green LED](#l6g--smd-0603-green-led)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # L6G > SMD (0603) Green LED
@@ -18,14 +18,8 @@ Contents
 - Hex ID: L6G
 - Name: SMD (0603) Green LED
 - Description: SMD (0603) Green LED
-
-## Images
-  
-  
-
-|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: |
-|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-0603-G-STAN-01](http://oom.lt/LEDS-0603-G-STAN-01)
+- Long Link: [http://oom.lt/L6G](http://oom.lt/L6G)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|image_BOTTOM|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: |
+|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

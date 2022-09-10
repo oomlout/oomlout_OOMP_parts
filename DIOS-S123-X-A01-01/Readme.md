@@ -6,10 +6,10 @@ Contents
 ========
 
 * [DS35D1 > SMD (SOD-123) 1 Amp Diode (Schottky)](#ds35d1--smd-sod-123-1-amp-diode-schottky)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DS35D1 > SMD (SOD-123) 1 Amp Diode (Schottky)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: DS35D1
 - Name: SMD (SOD-123) 1 Amp Diode (Schottky)
 - Description: SMD (SOD-123) 1 Amp Diode (Schottky)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/DIOS-S123-X-A01-01](http://oom.lt/DIOS-S123-X-A01-01)
+- Long Link: [http://oom.lt/DS35D1](http://oom.lt/DS35D1)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

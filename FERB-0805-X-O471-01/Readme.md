@@ -6,10 +6,10 @@ Contents
 ========
 
 * [F85471 > SMD (0805) 470 Ohm Ferrite Bead](#f85471--smd-0805-470-ohm-ferrite-bead)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # F85471 > SMD (0805) 470 Ohm Ferrite Bead
@@ -18,14 +18,8 @@ Contents
 - Hex ID: F85471
 - Name: SMD (0805) 470 Ohm Ferrite Bead
 - Description: SMD (0805) 470 Ohm Ferrite Bead
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/FERB-0805-X-O471-01](http://oom.lt/FERB-0805-X-O471-01)
+- Long Link: [http://oom.lt/F85471](http://oom.lt/F85471)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

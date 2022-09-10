@@ -6,10 +6,10 @@ Contents
 ========
 
 * [L502 > SMD (5050) Smart Controller (WS2812B) RGB LED](#l502--smd-5050-smart-controller-ws2812b-rgb-led)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # L502 > SMD (5050) Smart Controller (WS2812B) RGB LED
@@ -18,14 +18,8 @@ Contents
 - Hex ID: L502
 - Name: SMD (5050) Smart Controller (WS2812B) RGB LED
 - Description: SMD (5050) Smart Controller (WS2812B) RGB LED
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/LEDS-5050-RGB-K2812-01](http://oom.lt/LEDS-5050-RGB-K2812-01)
+- Long Link: [http://oom.lt/L502](http://oom.lt/L502)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

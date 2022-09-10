@@ -6,10 +6,10 @@ Contents
 ========
 
 * [MP220A19 > TO-220 19 Amp P-Ch. MOSFET](#mp220a19--to-220-19-amp-p-ch-mosfet)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MP220A19 > TO-220 19 Amp P-Ch. MOSFET
@@ -18,14 +18,8 @@ Contents
 - Hex ID: MP220A19
 - Name: TO-220 19 Amp P-Ch. MOSFET
 - Description: TO-220 19 Amp P-Ch. MOSFET
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/MOSP-T220-X-A19-01](http://oom.lt/MOSP-T220-X-A19-01)
+- Long Link: [http://oom.lt/MP220A19](http://oom.lt/MP220A19)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

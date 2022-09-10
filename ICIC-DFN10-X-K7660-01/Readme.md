@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS7660 > SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)](#ics7660--smd-dfn-10-3-axis-accelerometer-mma7660fcr1)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICS7660 > SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICS7660
 - Name: SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
 - Description: SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-DFN10-X-K7660-01](http://oom.lt/ICIC-DFN10-X-K7660-01)
+- Long Link: [http://oom.lt/ICS7660](http://oom.lt/ICS7660)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

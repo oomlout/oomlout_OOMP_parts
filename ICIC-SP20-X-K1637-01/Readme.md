@@ -6,10 +6,10 @@ Contents
 ========
 
 * [ICS1637 > 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)](#ics1637--20-pin-smd-sop-7-segment-8-digit-led-driver-tm1637)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # ICS1637 > 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
@@ -18,14 +18,8 @@ Contents
 - Hex ID: ICS1637
 - Name: 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
 - Description: 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1637)
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/ICIC-SP20-X-K1637-01](http://oom.lt/ICIC-SP20-X-K1637-01)
+- Long Link: [http://oom.lt/ICS1637](http://oom.lt/ICS1637)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

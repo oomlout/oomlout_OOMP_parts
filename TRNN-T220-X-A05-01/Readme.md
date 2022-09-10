@@ -6,10 +6,10 @@ Contents
 ========
 
 * [TN120 > TO-220 5 Amp NPN Transistor](#tn120--to-220-5-amp-npn-transistor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # TN120 > TO-220 5 Amp NPN Transistor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: TN120
 - Name: TO-220 5 Amp NPN Transistor
 - Description: TO-220 5 Amp NPN Transistor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/TRNN-T220-X-A05-01](http://oom.lt/TRNN-T220-X-A05-01)
+- Long Link: [http://oom.lt/TN120](http://oom.lt/TN120)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

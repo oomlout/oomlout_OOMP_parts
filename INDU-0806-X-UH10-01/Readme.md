@@ -6,10 +6,10 @@ Contents
 ========
 
 * [IN86U10 > SMD (0806) 10 uH Inductor](#in86u10--smd-0806-10-uh-inductor)
-	* [Images](#images)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # IN86U10 > SMD (0806) 10 uH Inductor
@@ -18,14 +18,8 @@ Contents
 - Hex ID: IN86U10
 - Name: SMD (0806) 10 uH Inductor
 - Description: SMD (0806) 10 uH Inductor
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+- Long Link: [http://oom.lt/INDU-0806-X-UH10-01](http://oom.lt/INDU-0806-X-UH10-01)
+- Long Link: [http://oom.lt/IN86U10](http://oom.lt/IN86U10)
 
 ## Datasheets
 
@@ -42,6 +36,14 @@ Contents
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 
