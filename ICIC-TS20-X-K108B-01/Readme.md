@@ -19,7 +19,7 @@ Contents
 - Name: 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
 - Description: 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)
 - Long Link: [http://oom.lt/ICIC-TS20-X-K108B-01](http://oom.lt/ICIC-TS20-X-K108B-01)
-- Long Link: [http://oom.lt/ICS108B](http://oom.lt/ICS108B)
+- Short Link: [http://oom.lt/ICS108B](http://oom.lt/ICS108B)
 
 ## Datasheets
 

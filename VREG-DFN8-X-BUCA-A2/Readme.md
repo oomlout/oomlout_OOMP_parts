@@ -19,7 +19,7 @@ Contents
 - Name: SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
 - Description: SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A
 - Long Link: [http://oom.lt/VREG-DFN8-X-BUCA-A2](http://oom.lt/VREG-DFN8-X-BUCA-A2)
-- Long Link: [http://oom.lt/VSD8A](http://oom.lt/VSD8A)
+- Short Link: [http://oom.lt/VSD8A](http://oom.lt/VSD8A)
 
 ## Datasheets
 

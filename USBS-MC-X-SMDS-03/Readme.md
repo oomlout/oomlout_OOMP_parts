@@ -19,7 +19,7 @@ Contents
 - Name: Micro SMD USB Socket
 - Description: Micro SMD USB Socket
 - Long Link: [http://oom.lt/USBS-MC-X-SMDS-03](http://oom.lt/USBS-MC-X-SMDS-03)
-- Long Link: [http://oom.lt/USM3](http://oom.lt/USM3)
+- Short Link: [http://oom.lt/USM3](http://oom.lt/USM3)
 
 ## Datasheets
 

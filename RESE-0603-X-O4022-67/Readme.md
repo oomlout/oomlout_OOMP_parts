@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 40k Ohm Resistor 1%
 - Description: SMD (0603) 40k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O4022-67](http://oom.lt/RESE-0603-X-O4022-67)
-- Long Link: [http://oom.lt/R6402](http://oom.lt/R6402)
+- Short Link: [http://oom.lt/R6402](http://oom.lt/R6402)
 
 ## Labels
   

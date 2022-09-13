@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Yellow Heat Shrink
 - Description: 6 mm Yellow Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-Y-STAN-01](http://oom.lt/HESH-06-Y-STAN-01)
-- Long Link: [http://oom.lt/HS6Y](http://oom.lt/HS6Y)
+- Short Link: [http://oom.lt/HS6Y](http://oom.lt/HS6Y)
 
 ## Datasheets
 

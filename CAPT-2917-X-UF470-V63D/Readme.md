@@ -19,7 +19,7 @@ Contents
 - Name: SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
 - Description: SMD (2917) 470 uF Capacitor (Tantalum) 6.3v
 - Long Link: [http://oom.lt/CAPT-2917-X-UF470-V63D](http://oom.lt/CAPT-2917-X-UF470-V63D)
-- Long Link: [http://oom.lt/CTS4U470](http://oom.lt/CTS4U470)
+- Short Link: [http://oom.lt/CTS4U470](http://oom.lt/CTS4U470)
 
 ## Datasheets
 

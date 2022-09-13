@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) S8050 NPN Transistor
 - Description: SMD (SOT-23) S8050 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KS8050-01](http://oom.lt/TRNN-SO23-X-KS8050-01)
-- Long Link: [http://oom.lt/TN98050](http://oom.lt/TN98050)
+- Short Link: [http://oom.lt/TN98050](http://oom.lt/TN98050)
 
 ## Datasheets
 

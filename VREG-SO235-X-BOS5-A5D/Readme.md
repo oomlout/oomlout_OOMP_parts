@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
 - Description: SMD (SOT-23-5) 5v Boost Voltage Regulator 500 mA
 - Long Link: [http://oom.lt/VREG-SO235-X-BOS5-A5D](http://oom.lt/VREG-SO235-X-BOS5-A5D)
-- Long Link: [http://oom.lt/VS25B](http://oom.lt/VS25B)
+- Short Link: [http://oom.lt/VS25B](http://oom.lt/VS25B)
 
 ## Datasheets
 

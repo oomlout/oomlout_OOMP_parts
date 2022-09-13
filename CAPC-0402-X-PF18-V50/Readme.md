@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 18 pF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 18 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF18-V50](http://oom.lt/CAPC-0402-X-PF18-V50)
-- Long Link: [http://oom.lt/C42P018](http://oom.lt/C42P018)
+- Short Link: [http://oom.lt/C42P018](http://oom.lt/C42P018)
 
 ## Datasheets
 

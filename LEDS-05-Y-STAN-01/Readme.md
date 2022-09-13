@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Yellow LED
 - Description: 5 mm Yellow LED
 - Long Link: [http://oom.lt/LEDS-05-Y-STAN-01](http://oom.lt/LEDS-05-Y-STAN-01)
-- Long Link: [http://oom.lt/L5Y](http://oom.lt/L5Y)
+- Short Link: [http://oom.lt/L5Y](http://oom.lt/L5Y)
 
 ## Datasheets
 

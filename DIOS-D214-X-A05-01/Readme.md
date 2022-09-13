@@ -20,7 +20,7 @@ Contents
 - Name: SMD (DO-214) 5 Amp Diode (Schottky)
 - Description: SMD (DO-214) 5 Amp Diode (Schottky)
 - Long Link: [http://oom.lt/DIOS-D214-X-A05-01](http://oom.lt/DIOS-D214-X-A05-01)
-- Long Link: [http://oom.lt/DS205](http://oom.lt/DS205)
+- Short Link: [http://oom.lt/DS205](http://oom.lt/DS205)
 
 ## Datasheets
 

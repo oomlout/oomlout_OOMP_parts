@@ -20,7 +20,7 @@ Contents
 - Name: TO-220 5 Amp NPN Transistor
 - Description: TO-220 5 Amp NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T220-BCE-A05-01](http://oom.lt/TRNN-T220-BCE-A05-01)
-- Long Link: [http://oom.lt/TN120](http://oom.lt/TN120)
+- Short Link: [http://oom.lt/TN120](http://oom.lt/TN120)
 
 ## Diagrams
   

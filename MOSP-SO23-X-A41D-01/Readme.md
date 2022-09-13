@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 4.1 Amp P-Ch. MOSFET
 - Description: SMD (SOT-23) 4.1 Amp P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-SO23-X-A41D-01](http://oom.lt/MOSP-SO23-X-A41D-01)
-- Long Link: [http://oom.lt/MPS241D](http://oom.lt/MPS241D)
+- Short Link: [http://oom.lt/MPS241D](http://oom.lt/MPS241D)
 
 ## Datasheets
 

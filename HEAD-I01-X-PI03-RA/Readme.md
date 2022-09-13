@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 3 Pin Header Right Angle
 - Description: 2.54 mm 3 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-I01-X-PI03-RA](http://oom.lt/HEAD-I01-X-PI03-RA)
-- Long Link: [http://oom.lt/HR03](http://oom.lt/HR03)
+- Short Link: [http://oom.lt/HR03](http://oom.lt/HR03)
 
 ## Diagrams
   

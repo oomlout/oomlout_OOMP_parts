@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 270 Ohm Resistor
 - Description: 1/4 Watt 270 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O271-01](http://oom.lt/RESE-W04-X-O271-01)
-- Long Link: [http://oom.lt/R4271](http://oom.lt/R4271)
+- Short Link: [http://oom.lt/R4271](http://oom.lt/R4271)
 
 ## Datasheets
 

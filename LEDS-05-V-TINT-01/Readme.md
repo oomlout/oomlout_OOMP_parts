@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Tinted Purple LED
 - Description: 5 mm Tinted Purple LED
 - Long Link: [http://oom.lt/LEDS-05-V-TINT-01](http://oom.lt/LEDS-05-V-TINT-01)
-- Long Link: [http://oom.lt/LT5V](http://oom.lt/LT5V)
+- Short Link: [http://oom.lt/LT5V](http://oom.lt/LT5V)
 
 ## Datasheets
 

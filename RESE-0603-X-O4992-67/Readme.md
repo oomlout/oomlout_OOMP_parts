@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 49.9k Ohm Resistor 1%
 - Description: SMD (0603) 49.9k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O4992-67](http://oom.lt/RESE-0603-X-O4992-67)
-- Long Link: [http://oom.lt/R64992A](http://oom.lt/R64992A)
+- Short Link: [http://oom.lt/R64992A](http://oom.lt/R64992A)
 
 ## Labels
   

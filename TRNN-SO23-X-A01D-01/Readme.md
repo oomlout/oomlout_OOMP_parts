@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 100 mA NPN Transistor
 - Description: SMD (SOT-23) 100 mA NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-A01D-01](http://oom.lt/TRNN-SO23-X-A01D-01)
-- Long Link: [http://oom.lt/TNS21D](http://oom.lt/TNS21D)
+- Short Link: [http://oom.lt/TNS21D](http://oom.lt/TNS21D)
 
 ## Datasheets
 

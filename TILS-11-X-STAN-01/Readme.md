@@ -20,7 +20,7 @@ Contents
 - Name: 11 mm Tilt Switch
 - Description: 11 mm Tilt Switch
 - Long Link: [http://oom.lt/TILS-11-X-STAN-01](http://oom.lt/TILS-11-X-STAN-01)
-- Long Link: [http://oom.lt/TS11](http://oom.lt/TS11)
+- Short Link: [http://oom.lt/TS11](http://oom.lt/TS11)
 
 ## Datasheets
 

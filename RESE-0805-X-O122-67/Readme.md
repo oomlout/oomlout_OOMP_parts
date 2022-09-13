@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 1.2k Ohm Resistor 1%
 - Description: SMD (0805) 1.2k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O122-67](http://oom.lt/RESE-0805-X-O122-67)
-- Long Link: [http://oom.lt/R85122A](http://oom.lt/R85122A)
+- Short Link: [http://oom.lt/R85122A](http://oom.lt/R85122A)
 
 ## Labels
   

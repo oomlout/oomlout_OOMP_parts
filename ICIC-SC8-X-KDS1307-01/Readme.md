@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOIC-8) Real Time Clock (DS1307)
 - Description: SMD (SOIC-8) Real Time Clock (DS1307)
 - Long Link: [http://oom.lt/ICIC-SC8-X-KDS1307-01](http://oom.lt/ICIC-SC8-X-KDS1307-01)
-- Long Link: [http://oom.lt/ICS1307](http://oom.lt/ICS1307)
+- Short Link: [http://oom.lt/ICS1307](http://oom.lt/ICS1307)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: M3 Nut
 - Description: M3 Nut
 - Long Link: [http://oom.lt/NUTT-M3-M-STAN-01](http://oom.lt/NUTT-M3-M-STAN-01)
-- Long Link: [http://oom.lt/NU3](http://oom.lt/NU3)
+- Short Link: [http://oom.lt/NU3](http://oom.lt/NU3)
 
 ## Datasheets
 

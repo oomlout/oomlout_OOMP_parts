@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 0 Ohm Resistor
 - Description: SMD (0402) 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O000-01](http://oom.lt/RESE-0402-X-O000-01)
-- Long Link: [http://oom.lt/R42000](http://oom.lt/R42000)
+- Short Link: [http://oom.lt/R42000](http://oom.lt/R42000)
 
 ## Datasheets
 

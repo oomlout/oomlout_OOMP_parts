@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 500 mA NPN Transistor
 - Description: SMD (SOT-23) 500 mA NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-A05D-01](http://oom.lt/TRNN-SO23-X-A05D-01)
-- Long Link: [http://oom.lt/TNS25D](http://oom.lt/TNS25D)
+- Short Link: [http://oom.lt/TNS25D](http://oom.lt/TNS25D)
 
 ## Datasheets
 

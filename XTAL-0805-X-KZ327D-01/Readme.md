@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 32.768 kHz Crystal
 - Description: SMD (0805) 32.768 kHz Crystal
 - Long Link: [http://oom.lt/XTAL-0805-X-KZ327D-01](http://oom.lt/XTAL-0805-X-KZ327D-01)
-- Long Link: [http://oom.lt/X85K327D](http://oom.lt/X85K327D)
+- Short Link: [http://oom.lt/X85K327D](http://oom.lt/X85K327D)
 
 ## Datasheets
 

@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 51 Ohm Resistor 1%
 - Description: SMD (0805) 51 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O510-67](http://oom.lt/RESE-0805-X-O510-67)
-- Long Link: [http://oom.lt/R85510A](http://oom.lt/R85510A)
+- Short Link: [http://oom.lt/R85510A](http://oom.lt/R85510A)
 
 ## Labels
   

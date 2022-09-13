@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Pink LED
 - Description: 10 mm Frosted Pink LED
 - Long Link: [http://oom.lt/LEDS-10-P-FROS-01](http://oom.lt/LEDS-10-P-FROS-01)
-- Long Link: [http://oom.lt/L10P](http://oom.lt/L10P)
+- Short Link: [http://oom.lt/L10P](http://oom.lt/L10P)
 
 ## Datasheets
 

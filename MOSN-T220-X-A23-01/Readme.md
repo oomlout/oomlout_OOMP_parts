@@ -19,7 +19,7 @@ Contents
 - Name: TO-220 23 Amp N-Ch. MOSFET
 - Description: TO-220 23 Amp N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T220-X-A23-01](http://oom.lt/MOSN-T220-X-A23-01)
-- Long Link: [http://oom.lt/MN220A23](http://oom.lt/MN220A23)
+- Short Link: [http://oom.lt/MN220A23](http://oom.lt/MN220A23)
 
 ## Datasheets
 

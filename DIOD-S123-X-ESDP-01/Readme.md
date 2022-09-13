@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOD-123) ESD Protection Diode
 - Description: SMD (SOD-123) ESD Protection Diode
 - Long Link: [http://oom.lt/DIOD-S123-X-ESDP-01](http://oom.lt/DIOD-S123-X-ESDP-01)
-- Long Link: [http://oom.lt/DS3EP](http://oom.lt/DS3EP)
+- Short Link: [http://oom.lt/DS3EP](http://oom.lt/DS3EP)
 
 ## Datasheets
 

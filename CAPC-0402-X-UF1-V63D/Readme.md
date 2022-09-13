@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 1 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (0402) 1 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF1-V63D](http://oom.lt/CAPC-0402-X-UF1-V63D)
-- Long Link: [http://oom.lt/C42U001V63D](http://oom.lt/C42U001V63D)
+- Short Link: [http://oom.lt/C42U001V63D](http://oom.lt/C42U001V63D)
 
 ## Datasheets
 

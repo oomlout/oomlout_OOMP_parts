@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) Red LED
 - Description: SMD (0603) Red LED
 - Long Link: [http://oom.lt/LEDS-0603-R-STAN-01](http://oom.lt/LEDS-0603-R-STAN-01)
-- Long Link: [http://oom.lt/L6R](http://oom.lt/L6R)
+- Short Link: [http://oom.lt/L6R](http://oom.lt/L6R)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm Light (Resistive) Sensor
 - Description: 5 mm Light (Resistive) Sensor
 - Long Link: [http://oom.lt/SENS-05-X-LIRE-01](http://oom.lt/SENS-05-X-LIRE-01)
-- Long Link: [http://oom.lt/SEPR](http://oom.lt/SEPR)
+- Short Link: [http://oom.lt/SEPR](http://oom.lt/SEPR)
 
 ## Datasheets
 

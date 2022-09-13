@@ -19,7 +19,7 @@ Contents
 - Name: 13 mm Temperature and Humidity Sensor
 - Description: 13 mm Temperature and Humidity Sensor
 - Long Link: [http://oom.lt/SENS-13-X-TEHU-01](http://oom.lt/SENS-13-X-TEHU-01)
-- Long Link: [http://oom.lt/SETH2](http://oom.lt/SETH2)
+- Short Link: [http://oom.lt/SETH2](http://oom.lt/SETH2)
 
 ## Datasheets
 

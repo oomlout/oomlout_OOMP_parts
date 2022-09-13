@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 82k Ohm Resistor 1%
 - Description: SMD (0402) 82k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O823-67](http://oom.lt/RESE-0402-X-O823-67)
-- Long Link: [http://oom.lt/R42823A](http://oom.lt/R42823A)
+- Short Link: [http://oom.lt/R42823A](http://oom.lt/R42823A)
 
 ## Labels
   

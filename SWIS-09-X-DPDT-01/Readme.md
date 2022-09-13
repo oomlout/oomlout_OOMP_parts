@@ -20,7 +20,7 @@ Contents
 - Name: 9 mm DPDT Switch (Slide)
 - Description: 9 mm DPDT Switch (Slide)
 - Long Link: [http://oom.lt/SWIS-09-X-DPDT-01](http://oom.lt/SWIS-09-X-DPDT-01)
-- Long Link: [http://oom.lt/SSW9D](http://oom.lt/SSW9D)
+- Short Link: [http://oom.lt/SSW9D](http://oom.lt/SSW9D)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Green Heat Shrink
 - Description: 6 mm Green Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-G-STAN-01](http://oom.lt/HESH-06-G-STAN-01)
-- Long Link: [http://oom.lt/HS6G](http://oom.lt/HS6G)
+- Short Link: [http://oom.lt/HS6G](http://oom.lt/HS6G)
 
 ## Datasheets
 

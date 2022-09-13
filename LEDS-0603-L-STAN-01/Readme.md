@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) Blue LED
 - Description: SMD (0603) Blue LED
 - Long Link: [http://oom.lt/LEDS-0603-L-STAN-01](http://oom.lt/LEDS-0603-L-STAN-01)
-- Long Link: [http://oom.lt/L6L](http://oom.lt/L6L)
+- Short Link: [http://oom.lt/L6L](http://oom.lt/L6L)
 
 ## Datasheets
 

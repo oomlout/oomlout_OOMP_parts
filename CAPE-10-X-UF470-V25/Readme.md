@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm 470 uF Capacitor (Electrolytic) 25v
 - Description: 10 mm 470 uF Capacitor (Electrolytic) 25v
 - Long Link: [http://oom.lt/CAPE-10-X-UF470-V25](http://oom.lt/CAPE-10-X-UF470-V25)
-- Long Link: [http://oom.lt/CEU470](http://oom.lt/CEU470)
+- Short Link: [http://oom.lt/CEU470](http://oom.lt/CEU470)
 
 ## Datasheets
 

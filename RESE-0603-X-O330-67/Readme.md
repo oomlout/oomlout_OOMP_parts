@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 33 Ohm Resistor 1%
 - Description: SMD (0603) 33 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O330-67](http://oom.lt/RESE-0603-X-O330-67)
-- Long Link: [http://oom.lt/R6330A](http://oom.lt/R6330A)
+- Short Link: [http://oom.lt/R6330A](http://oom.lt/R6330A)
 
 ## Datasheets
 

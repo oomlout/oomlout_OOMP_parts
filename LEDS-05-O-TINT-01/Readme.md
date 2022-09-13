@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Tinted Orange LED
 - Description: 5 mm Tinted Orange LED
 - Long Link: [http://oom.lt/LEDS-05-O-TINT-01](http://oom.lt/LEDS-05-O-TINT-01)
-- Long Link: [http://oom.lt/LT5O](http://oom.lt/LT5O)
+- Short Link: [http://oom.lt/LT5O](http://oom.lt/LT5O)
 
 ## Datasheets
 

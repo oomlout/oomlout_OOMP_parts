@@ -19,7 +19,7 @@ Contents
 - Name: SMD (2312) 100 uF Capacitor (Tantalum) 16v
 - Description: SMD (2312) 100 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-2312-X-UF100-V16](http://oom.lt/CAPT-2312-X-UF100-V16)
-- Long Link: [http://oom.lt/CTS3U100F](http://oom.lt/CTS3U100F)
+- Short Link: [http://oom.lt/CTS3U100F](http://oom.lt/CTS3U100F)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 2.54 mm 8 Pin White Header
 - Description: 2.54 mm 8 Pin White Header
 - Long Link: [http://oom.lt/HEAD-I01-W-PI08-01](http://oom.lt/HEAD-I01-W-PI08-01)
-- Long Link: [http://oom.lt/H08W](http://oom.lt/H08W)
+- Short Link: [http://oom.lt/H08W](http://oom.lt/H08W)
 
 ## Datasheets
 

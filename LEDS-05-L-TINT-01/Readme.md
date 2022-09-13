@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Tinted Blue LED
 - Description: 5 mm Tinted Blue LED
 - Long Link: [http://oom.lt/LEDS-05-L-TINT-01](http://oom.lt/LEDS-05-L-TINT-01)
-- Long Link: [http://oom.lt/LT5L](http://oom.lt/LT5L)
+- Short Link: [http://oom.lt/LT5L](http://oom.lt/LT5L)
 
 ## Datasheets
 

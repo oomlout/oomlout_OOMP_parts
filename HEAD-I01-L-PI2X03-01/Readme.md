@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin (2x3) Blue Header
 - Description: 2.54 mm 6 Pin (2x3) Blue Header
 - Long Link: [http://oom.lt/HEAD-I01-L-PI2X03-01](http://oom.lt/HEAD-I01-L-PI2X03-01)
-- Long Link: [http://oom.lt/H2X03L](http://oom.lt/H2X03L)
+- Short Link: [http://oom.lt/H2X03L](http://oom.lt/H2X03L)
 
 ## Datasheets
 

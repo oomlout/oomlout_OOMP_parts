@@ -20,7 +20,7 @@ Contents
 - Name: 16 Pin SMD (SOP) USB-Serial (CH340)
 - Description: 16 Pin SMD (SOP) USB-Serial (CH340)
 - Long Link: [http://oom.lt/ICIC-SP16-X-KCH340-01](http://oom.lt/ICIC-SP16-X-KCH340-01)
-- Long Link: [http://oom.lt/IC340](http://oom.lt/IC340)
+- Short Link: [http://oom.lt/IC340](http://oom.lt/IC340)
 
 ## Datasheets
 

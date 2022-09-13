@@ -20,7 +20,7 @@ Contents
 - Name: 14 Pin SMD (TSSOP) Quad Buffer (74HC125)
 - Description: 14 Pin SMD (TSSOP) Quad Buffer (74HC125)
 - Long Link: [http://oom.lt/ICIC-TS14-X-K125-01](http://oom.lt/ICIC-TS14-X-K125-01)
-- Long Link: [http://oom.lt/ICQB](http://oom.lt/ICQB)
+- Short Link: [http://oom.lt/ICQB](http://oom.lt/ICQB)
 
 ## Datasheets
 

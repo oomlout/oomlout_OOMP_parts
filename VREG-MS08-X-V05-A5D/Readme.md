@@ -19,7 +19,7 @@ Contents
 - Name: 8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA
 - Description: 8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA
 - Long Link: [http://oom.lt/VREG-MS08-X-V05-A5D](http://oom.lt/VREG-MS08-X-V05-A5D)
-- Long Link: [http://oom.lt/VS855D](http://oom.lt/VS855D)
+- Short Link: [http://oom.lt/VS855D](http://oom.lt/VS855D)
 
 ## Datasheets
 

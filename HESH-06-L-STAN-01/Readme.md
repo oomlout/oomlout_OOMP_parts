@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Blue Heat Shrink
 - Description: 6 mm Blue Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-L-STAN-01](http://oom.lt/HESH-06-L-STAN-01)
-- Long Link: [http://oom.lt/HS6L](http://oom.lt/HS6L)
+- Short Link: [http://oom.lt/HS6L](http://oom.lt/HS6L)
 
 ## Datasheets
 

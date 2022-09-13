@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm White Heat Shrink
 - Description: 3 mm White Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-W-STAN-01](http://oom.lt/HESH-03-W-STAN-01)
-- Long Link: [http://oom.lt/HS3W](http://oom.lt/HS3W)
+- Short Link: [http://oom.lt/HS3W](http://oom.lt/HS3W)
 
 ## Datasheets
 

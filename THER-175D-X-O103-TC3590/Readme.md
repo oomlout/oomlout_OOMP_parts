@@ -18,7 +18,7 @@ Contents
 - Name: 1.75 mm 10k Ohm Thermistor (3590)
 - Description: 1.75 mm 10k Ohm Thermistor (3590)
 - Long Link: [http://oom.lt/THER-175D-X-O103-TC3590](http://oom.lt/THER-175D-X-O103-TC3590)
-- Long Link: [http://oom.lt/TH1033](http://oom.lt/TH1033)
+- Short Link: [http://oom.lt/TH1033](http://oom.lt/TH1033)
 
 ## Labels
   

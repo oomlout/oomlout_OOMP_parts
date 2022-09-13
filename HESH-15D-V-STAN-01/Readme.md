@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Purple Heat Shrink
 - Description: 1.5 mm Purple Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-V-STAN-01](http://oom.lt/HESH-15D-V-STAN-01)
-- Long Link: [http://oom.lt/HS1V](http://oom.lt/HS1V)
+- Short Link: [http://oom.lt/HS1V](http://oom.lt/HS1V)
 
 ## Datasheets
 

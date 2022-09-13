@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-223) 5v Voltage Regulator 1 A
 - Description: SMD (SOT-223) 5v Voltage Regulator 1 A
 - Long Link: [http://oom.lt/VREG-SO223-X-V05-A1](http://oom.lt/VREG-SO223-X-V05-A1)
-- Long Link: [http://oom.lt/VS251](http://oom.lt/VS251)
+- Short Link: [http://oom.lt/VS251](http://oom.lt/VS251)
 
 ## Datasheets
 

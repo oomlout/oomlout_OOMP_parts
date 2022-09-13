@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Brown Heat Shrink
 - Description: 1.5 mm Brown Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-N-STAN-01](http://oom.lt/HESH-15D-N-STAN-01)
-- Long Link: [http://oom.lt/HS1N](http://oom.lt/HS1N)
+- Short Link: [http://oom.lt/HS1N](http://oom.lt/HS1N)
 
 ## Datasheets
 

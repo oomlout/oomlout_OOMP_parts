@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 220 Ohm Resistor 1%
 - Description: SMD (0402) 220 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O221-67](http://oom.lt/RESE-0402-X-O221-67)
-- Long Link: [http://oom.lt/R42221A](http://oom.lt/R42221A)
+- Short Link: [http://oom.lt/R42221A](http://oom.lt/R42221A)
 
 ## Labels
   

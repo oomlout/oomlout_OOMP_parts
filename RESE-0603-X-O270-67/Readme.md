@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 27 Ohm Resistor 1%
 - Description: SMD (0603) 27 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O270-67](http://oom.lt/RESE-0603-X-O270-67)
-- Long Link: [http://oom.lt/R6270](http://oom.lt/R6270)
+- Short Link: [http://oom.lt/R6270](http://oom.lt/R6270)
 
 ## Labels
   

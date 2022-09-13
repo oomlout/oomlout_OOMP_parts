@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm Header Right Angle (SMD)
 - Description: 2.54 mm Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-2X11PI-RS](http://oom.lt/HEAD-I01-X-2X11PI-RS)
-- Long Link: [http://oom.lt/HRS2X11](http://oom.lt/HRS2X11)
+- Short Link: [http://oom.lt/HRS2X11](http://oom.lt/HRS2X11)
 
 ## Labels
   

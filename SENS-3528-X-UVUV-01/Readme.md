@@ -19,7 +19,7 @@ Contents
 - Name: SMD (3528) Ultraviolet Sensor
 - Description: SMD (3528) Ultraviolet Sensor
 - Long Link: [http://oom.lt/SENS-3528-X-UVUV-01](http://oom.lt/SENS-3528-X-UVUV-01)
-- Long Link: [http://oom.lt/SEUV](http://oom.lt/SEUV)
+- Short Link: [http://oom.lt/SEUV](http://oom.lt/SEUV)
 
 ## Datasheets
 

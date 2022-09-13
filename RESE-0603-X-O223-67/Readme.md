@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 22k Ohm Resistor 1%
 - Description: SMD (0603) 22k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O223-67](http://oom.lt/RESE-0603-X-O223-67)
-- Long Link: [http://oom.lt/R6223A](http://oom.lt/R6223A)
+- Short Link: [http://oom.lt/R6223A](http://oom.lt/R6223A)
 
 ## Labels
   

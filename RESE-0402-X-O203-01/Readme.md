@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 20k Ohm Resistor
 - Description: SMD (0402) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O203-01](http://oom.lt/RESE-0402-X-O203-01)
-- Long Link: [http://oom.lt/R42203](http://oom.lt/R42203)
+- Short Link: [http://oom.lt/R42203](http://oom.lt/R42203)
 
 ## Labels
   

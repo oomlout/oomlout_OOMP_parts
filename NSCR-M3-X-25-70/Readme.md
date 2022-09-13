@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 25 mm Nylon Screw Cross Head
 - Description: M3 x 25 mm Nylon Screw Cross Head
 - Long Link: [http://oom.lt/NSCR-M3-X-25-70](http://oom.lt/NSCR-M3-X-25-70)
-- Long Link: [http://oom.lt/NN25](http://oom.lt/NN25)
+- Short Link: [http://oom.lt/NN25](http://oom.lt/NN25)
 
 ## Datasheets
 

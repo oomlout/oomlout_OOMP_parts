@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 10 Pin Header
 - Description: 2.54 mm 10 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI10-01](http://oom.lt/HEAD-I01-X-PI10-01)
-- Long Link: [http://oom.lt/H10](http://oom.lt/H10)
+- Short Link: [http://oom.lt/H10](http://oom.lt/H10)
 
 ## Diagrams
   

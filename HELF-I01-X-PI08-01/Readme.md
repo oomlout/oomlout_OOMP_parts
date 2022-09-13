@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin Female Header (Long)
 - Description: 2.54 mm 8 Pin Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-X-PI08-01](http://oom.lt/HELF-I01-X-PI08-01)
-- Long Link: [http://oom.lt/HLF08](http://oom.lt/HLF08)
+- Short Link: [http://oom.lt/HLF08](http://oom.lt/HLF08)
 
 ## Datasheets
 

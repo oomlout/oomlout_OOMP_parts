@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
 - Description: 2.54 mm 26 Pin (2x13) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-RS](http://oom.lt/HEAD-I01-X-PI2X13-RS)
-- Long Link: [http://oom.lt/HRS2X13](http://oom.lt/HRS2X13)
+- Short Link: [http://oom.lt/HRS2X13](http://oom.lt/HRS2X13)
 
 ## Labels
   

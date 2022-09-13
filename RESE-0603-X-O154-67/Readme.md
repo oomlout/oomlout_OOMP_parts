@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 150k Ohm Resistor 1%
 - Description: SMD (0603) 150k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O154-67](http://oom.lt/RESE-0603-X-O154-67)
-- Long Link: [http://oom.lt/R6154A](http://oom.lt/R6154A)
+- Short Link: [http://oom.lt/R6154A](http://oom.lt/R6154A)
 
 ## Datasheets
 

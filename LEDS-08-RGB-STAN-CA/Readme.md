@@ -20,7 +20,7 @@ Contents
 - Name: 8 mm RGB LED Common Anode
 - Description: 8 mm RGB LED Common Anode
 - Long Link: [http://oom.lt/LEDS-08-RGB-STAN-CA](http://oom.lt/LEDS-08-RGB-STAN-CA)
-- Long Link: [http://oom.lt/L8RGB](http://oom.lt/L8RGB)
+- Short Link: [http://oom.lt/L8RGB](http://oom.lt/L8RGB)
 
 ## Datasheets
 

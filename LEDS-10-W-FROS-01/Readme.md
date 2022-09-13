@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted White LED
 - Description: 10 mm Frosted White LED
 - Long Link: [http://oom.lt/LEDS-10-W-FROS-01](http://oom.lt/LEDS-10-W-FROS-01)
-- Long Link: [http://oom.lt/L10W](http://oom.lt/L10W)
+- Short Link: [http://oom.lt/L10W](http://oom.lt/L10W)
 
 ## Datasheets
 

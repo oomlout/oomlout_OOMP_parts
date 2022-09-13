@@ -6,6 +6,7 @@ Contents
 ========
 
 * [BT62 > 6 mm 2 Pin Pushbutton (Tactile)](#bt62--6-mm-2-pin-pushbutton-tactile)
+	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -20,7 +21,15 @@ Contents
 - Name: 6 mm 2 Pin Pushbutton (Tactile)
 - Description: 6 mm 2 Pin Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-06-X-PI02-01](http://oom.lt/BUTA-06-X-PI02-01)
-- Long Link: [http://oom.lt/BT62](http://oom.lt/BT62)
+- Short Link: [http://oom.lt/BT62](http://oom.lt/BT62)
+
+## Diagrams
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
+| :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -42,9 +51,9 @@ Contents
   
   
 
-|image|image_RE|image_BOTTOM|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|image|image_RE|image_BOTTOM|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![image_BOTTOM](image_BOTTOM_140.jpg)](image_BOTTOM.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

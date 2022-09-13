@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 6 Pin (2x3) Header Right Angle
 - Description: 2.54 mm 6 Pin (2x3) Header Right Angle
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-RA](http://oom.lt/HEAD-I01-X-PI2X03-RA)
-- Long Link: [http://oom.lt/HR2X03](http://oom.lt/HR2X03)
+- Short Link: [http://oom.lt/HR2X03](http://oom.lt/HR2X03)
 
 ## Labels
   

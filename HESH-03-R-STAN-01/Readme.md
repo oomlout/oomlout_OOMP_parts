@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Red Heat Shrink
 - Description: 3 mm Red Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-R-STAN-01](http://oom.lt/HESH-03-R-STAN-01)
-- Long Link: [http://oom.lt/HS3R](http://oom.lt/HS3R)
+- Short Link: [http://oom.lt/HS3R](http://oom.lt/HS3R)
 
 ## Datasheets
 

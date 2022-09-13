@@ -18,7 +18,7 @@ Contents
 - Name: TO-92 C1815 NPN Transistor
 - Description: TO-92 C1815 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-KC1815-01](http://oom.lt/TRNN-T92-X-KC1815-01)
-- Long Link: [http://oom.lt/TN91815](http://oom.lt/TN91815)
+- Short Link: [http://oom.lt/TN91815](http://oom.lt/TN91815)
 
 ## Labels
   

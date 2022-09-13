@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 8 Pin (2x4) Header Right Angle
 - Description: 2.54 mm 8 Pin (2x4) Header Right Angle
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-RA](http://oom.lt/HEAD-I01-X-PI2X04-RA)
-- Long Link: [http://oom.lt/HR2X03](http://oom.lt/HR2X03)
+- Short Link: [http://oom.lt/HR2X03](http://oom.lt/HR2X03)
 
 ## Labels
   

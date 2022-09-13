@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 2k Ohm Resistor
 - Description: SMD (0805) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O202-01](http://oom.lt/RESE-0805-X-O202-01)
-- Long Link: [http://oom.lt/R85202](http://oom.lt/R85202)
+- Short Link: [http://oom.lt/R85202](http://oom.lt/R85202)
 
 ## Datasheets
 

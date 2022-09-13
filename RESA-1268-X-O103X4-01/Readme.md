@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206-8) 10k Ohm (x4) Resistor Array
 - Description: SMD (1206-8) 10k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-1268-X-O103X4-01](http://oom.lt/RESA-1268-X-O103X4-01)
-- Long Link: [http://oom.lt/RA1103](http://oom.lt/RA1103)
+- Short Link: [http://oom.lt/RA1103](http://oom.lt/RA1103)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.1 mm Through Hole DC Jack
 - Description: 2.1 mm Through Hole DC Jack
 - Long Link: [http://oom.lt/DCJP-21D-X-THTH-02](http://oom.lt/DCJP-21D-X-THTH-02)
-- Long Link: [http://oom.lt/DJ2Z](http://oom.lt/DJ2Z)
+- Short Link: [http://oom.lt/DJ2Z](http://oom.lt/DJ2Z)
 
 ## Datasheets
 

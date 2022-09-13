@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 249 Ohm Resistor 1%
 - Description: SMD (0603) 249 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O2490-67](http://oom.lt/RESE-0603-X-O2490-67)
-- Long Link: [http://oom.lt/R6249A](http://oom.lt/R6249A)
+- Short Link: [http://oom.lt/R6249A](http://oom.lt/R6249A)
 
 ## Labels
   

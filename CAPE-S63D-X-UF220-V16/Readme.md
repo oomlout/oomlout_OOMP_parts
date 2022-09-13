@@ -20,7 +20,7 @@ Contents
 - Name: SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v
 - Description: SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v
 - Long Link: [http://oom.lt/CAPE-S63D-X-UF220-V16](http://oom.lt/CAPE-S63D-X-UF220-V16)
-- Long Link: [http://oom.lt/CESU220](http://oom.lt/CESU220)
+- Short Link: [http://oom.lt/CESU220](http://oom.lt/CESU220)
 
 ## Datasheets
 

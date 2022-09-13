@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOD-123) 200 mA Diode 100v
 - Description: SMD (SOD-123) 200 mA Diode 100v
 - Long Link: [http://oom.lt/DIOD-S123-X-A02D-V1](http://oom.lt/DIOD-S123-X-A02D-V1)
-- Long Link: [http://oom.lt/DS32D](http://oom.lt/DS32D)
+- Short Link: [http://oom.lt/DS32D](http://oom.lt/DS32D)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.1 mm 9v Cable
 - Description: 2.1 mm 9v Cable
 - Long Link: [http://oom.lt/CABL-21D-X-V09-01](http://oom.lt/CABL-21D-X-V09-01)
-- Long Link: [http://oom.lt/CB9V21](http://oom.lt/CB9V21)
+- Short Link: [http://oom.lt/CB9V21](http://oom.lt/CB9V21)
 
 ## Datasheets
 

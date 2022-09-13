@@ -19,7 +19,7 @@ Contents
 - Name: 2 mm 10 Pin White Header (Socket)
 - Description: 2 mm 10 Pin White Header (Socket)
 - Long Link: [http://oom.lt/HEAS-02-W-PI10-01](http://oom.lt/HEAS-02-W-PI10-01)
-- Long Link: [http://oom.lt/HS210W](http://oom.lt/HS210W)
+- Short Link: [http://oom.lt/HS210W](http://oom.lt/HS210W)
 
 ## Datasheets
 

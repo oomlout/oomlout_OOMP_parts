@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 47 nF Capacitor (Ceramic) 25v
 - Description: SMD (0402) 47 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF47-V25](http://oom.lt/CAPC-0402-X-NF47-V25)
-- Long Link: [http://oom.lt/C42N047](http://oom.lt/C42N047)
+- Short Link: [http://oom.lt/C42N047](http://oom.lt/C42N047)
 
 ## Datasheets
 

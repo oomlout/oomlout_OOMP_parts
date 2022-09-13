@@ -20,7 +20,7 @@ Contents
 - Name: 17 mm 1k Ohm Potentiometer Panel Mount
 - Description: 17 mm 1k Ohm Potentiometer Panel Mount
 - Long Link: [http://oom.lt/POTE-17-X-O102-69](http://oom.lt/POTE-17-X-O102-69)
-- Long Link: [http://oom.lt/PT7102](http://oom.lt/PT7102)
+- Short Link: [http://oom.lt/PT7102](http://oom.lt/PT7102)
 
 ## Datasheets
 

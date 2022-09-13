@@ -20,7 +20,7 @@ Contents
 - Name: 21 mm Socket RJ45
 - Description: 21 mm Socket RJ45
 - Long Link: [http://oom.lt/RJ45-21-X-SOCK-01](http://oom.lt/RJ45-21-X-SOCK-01)
-- Long Link: [http://oom.lt/R45S](http://oom.lt/R45S)
+- Short Link: [http://oom.lt/R45S](http://oom.lt/R45S)
 
 ## Datasheets
 

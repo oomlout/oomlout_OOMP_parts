@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 - Description: 2.54 mm 6 Pin (2x3) Blue Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-L-2X03PI-01](http://oom.lt/HELF-I01-L-2X03PI-01)
-- Long Link: [http://oom.lt/HFLX03L](http://oom.lt/HFLX03L)
+- Short Link: [http://oom.lt/HFLX03L](http://oom.lt/HFLX03L)
 
 ## Datasheets
 

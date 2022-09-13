@@ -20,7 +20,7 @@ Contents
 - Name: SMD (2312) 22 uF Capacitor (Tantalum) 25v
 - Description: SMD (2312) 22 uF Capacitor (Tantalum) 25v
 - Long Link: [http://oom.lt/CAPT-2312-X-UF22-V25](http://oom.lt/CAPT-2312-X-UF22-V25)
-- Long Link: [http://oom.lt/CTS3U022](http://oom.lt/CTS3U022)
+- Short Link: [http://oom.lt/CTS3U022](http://oom.lt/CTS3U022)
 
 ## Datasheets
 

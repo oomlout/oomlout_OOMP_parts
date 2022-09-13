@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Blue LED
 - Description: 5 mm Blue LED
 - Long Link: [http://oom.lt/LEDS-05-L-STAN-01](http://oom.lt/LEDS-05-L-STAN-01)
-- Long Link: [http://oom.lt/L5L](http://oom.lt/L5L)
+- Short Link: [http://oom.lt/L5L](http://oom.lt/L5L)
 
 ## Datasheets
 

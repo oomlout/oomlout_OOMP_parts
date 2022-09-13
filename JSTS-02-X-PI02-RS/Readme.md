@@ -20,7 +20,7 @@ Contents
 - Name: 2 mm 2 Pin JST Socket Right Angle (SMD)
 - Description: 2 mm 2 Pin JST Socket Right Angle (SMD)
 - Long Link: [http://oom.lt/JSTS-02-X-PI02-RS](http://oom.lt/JSTS-02-X-PI02-RS)
-- Long Link: [http://oom.lt/J204R](http://oom.lt/J204R)
+- Short Link: [http://oom.lt/J204R](http://oom.lt/J204R)
 
 ## Datasheets
 

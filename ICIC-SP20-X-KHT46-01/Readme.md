@@ -19,7 +19,7 @@ Contents
 - Name:  20 Pin SMD (SOP) Holtek HT46R066 
 - Description:  20 Pin SMD (SOP) Holtek HT46R066 
 - Long Link: [http://oom.lt/ICIC-SP20-X-KHT46-01](http://oom.lt/ICIC-SP20-X-KHT46-01)
-- Long Link: [http://oom.lt/ICSKHT46](http://oom.lt/ICSKHT46)
+- Short Link: [http://oom.lt/ICSKHT46](http://oom.lt/ICSKHT46)
 
 ## Datasheets
 

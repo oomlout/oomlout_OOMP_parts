@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) White LED
 - Description: SMD (0603) White LED
 - Long Link: [http://oom.lt/LEDS-0603-W-STAN-01](http://oom.lt/LEDS-0603-W-STAN-01)
-- Long Link: [http://oom.lt/L6W](http://oom.lt/L6W)
+- Short Link: [http://oom.lt/L6W](http://oom.lt/L6W)
 
 ## Datasheets
 

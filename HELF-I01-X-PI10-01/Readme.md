@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 10 Pin Female Header (Long)
 - Description: 2.54 mm 10 Pin Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-X-PI10-01](http://oom.lt/HELF-I01-X-PI10-01)
-- Long Link: [http://oom.lt/HLF10](http://oom.lt/HLF10)
+- Short Link: [http://oom.lt/HLF10](http://oom.lt/HLF10)
 
 ## Datasheets
 

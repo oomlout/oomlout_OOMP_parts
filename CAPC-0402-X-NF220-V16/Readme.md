@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 220 nF Capacitor (Ceramic) 16v
 - Description: SMD (0402) 220 nF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF220-V16](http://oom.lt/CAPC-0402-X-NF220-V16)
-- Long Link: [http://oom.lt/C42N220](http://oom.lt/C42N220)
+- Short Link: [http://oom.lt/C42N220](http://oom.lt/C42N220)
 
 ## Datasheets
 

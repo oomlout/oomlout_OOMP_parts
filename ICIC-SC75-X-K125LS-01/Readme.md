@@ -20,7 +20,7 @@ Contents
 - Name: 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
 - Description: 5 Pin SMD (SC70) Single Buffer (74LVC1G125)
 - Long Link: [http://oom.lt/ICIC-SC75-X-K125LS-01](http://oom.lt/ICIC-SC75-X-K125LS-01)
-- Long Link: [http://oom.lt/ICS125LS](http://oom.lt/ICS125LS)
+- Short Link: [http://oom.lt/ICS125LS](http://oom.lt/ICS125LS)
 
 ## Datasheets
 

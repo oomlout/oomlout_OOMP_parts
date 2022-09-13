@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Green Stranded Wire
 - Description: 28 AWG Green Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-G-STAN-01](http://oom.lt/WIRS-G28-G-STAN-01)
-- Long Link: [http://oom.lt/W2G](http://oom.lt/W2G)
+- Short Link: [http://oom.lt/W2G](http://oom.lt/W2G)
 
 ## Datasheets
 

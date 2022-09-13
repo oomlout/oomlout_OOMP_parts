@@ -20,7 +20,7 @@ Contents
 - Name: SMD (DO-214) 1 Amp Diode
 - Description: SMD (DO-214) 1 Amp Diode
 - Long Link: [http://oom.lt/DIOD-D214-X-A01-01](http://oom.lt/DIOD-D214-X-A01-01)
-- Long Link: [http://oom.lt/DS201](http://oom.lt/DS201)
+- Short Link: [http://oom.lt/DS201](http://oom.lt/DS201)
 
 ## Datasheets
 

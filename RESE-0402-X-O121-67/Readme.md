@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 120 Ohm Resistor 1%
 - Description: SMD (0402) 120 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O121-67](http://oom.lt/RESE-0402-X-O121-67)
-- Long Link: [http://oom.lt/R42121A](http://oom.lt/R42121A)
+- Short Link: [http://oom.lt/R42121A](http://oom.lt/R42121A)
 
 ## Labels
   

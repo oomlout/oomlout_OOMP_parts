@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
 - Description: SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-A21D-01](http://oom.lt/MOSN-SO23-X-A21D-01)
-- Long Link: [http://oom.lt/MNS221D](http://oom.lt/MNS221D)
+- Short Link: [http://oom.lt/MNS221D](http://oom.lt/MNS221D)
 
 ## Datasheets
 

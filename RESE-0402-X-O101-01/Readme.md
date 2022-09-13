@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 100 Ohm Resistor
 - Description: SMD (0402) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O101-01](http://oom.lt/RESE-0402-X-O101-01)
-- Long Link: [http://oom.lt/R42101](http://oom.lt/R42101)
+- Short Link: [http://oom.lt/R42101](http://oom.lt/R42101)
 
 ## Datasheets
 

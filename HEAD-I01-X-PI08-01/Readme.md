@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 8 Pin Header
 - Description: 2.54 mm 8 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI08-01](http://oom.lt/HEAD-I01-X-PI08-01)
-- Long Link: [http://oom.lt/H08](http://oom.lt/H08)
+- Short Link: [http://oom.lt/H08](http://oom.lt/H08)
 
 ## Diagrams
   

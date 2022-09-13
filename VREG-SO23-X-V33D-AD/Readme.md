@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 3.3v Voltage Regulator 250 mA
 - Description: SMD (SOT-23) 3.3v Voltage Regulator 250 mA
 - Long Link: [http://oom.lt/VREG-SO23-X-V33D-AD](http://oom.lt/VREG-SO23-X-V33D-AD)
-- Long Link: [http://oom.lt/VS332](http://oom.lt/VS332)
+- Short Link: [http://oom.lt/VS332](http://oom.lt/VS332)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206) 100 Ohm Resistor
 - Description: SMD (1206) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O101-01](http://oom.lt/RESE-1206-X-O101-01)
-- Long Link: [http://oom.lt/R1101](http://oom.lt/R1101)
+- Short Link: [http://oom.lt/R1101](http://oom.lt/R1101)
 
 ## Datasheets
 

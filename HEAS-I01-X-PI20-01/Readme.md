@@ -19,7 +19,7 @@ Contents
 - Name: 2.54 mm 20 Pin Header (Socket)
 - Description: 2.54 mm 20 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI20-01](http://oom.lt/HEAS-I01-X-PI20-01)
-- Long Link: [http://oom.lt/HS20](http://oom.lt/HS20)
+- Short Link: [http://oom.lt/HS20](http://oom.lt/HS20)
 
 ## Datasheets
 

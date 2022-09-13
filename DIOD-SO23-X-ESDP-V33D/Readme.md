@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) ESD Protection Diode 3.3v
 - Description: SMD (SOT-23) ESD Protection Diode 3.3v
 - Long Link: [http://oom.lt/DIOD-SO23-X-ESDP-V33D](http://oom.lt/DIOD-SO23-X-ESDP-V33D)
-- Long Link: [http://oom.lt/DS3EP3](http://oom.lt/DS3EP3)
+- Short Link: [http://oom.lt/DS3EP3](http://oom.lt/DS3EP3)
 
 ## Datasheets
 

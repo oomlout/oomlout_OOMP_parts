@@ -19,7 +19,7 @@ Contents
 - Name: 3.5 mm 8 Pin Blue Screw Terminal
 - Description: 3.5 mm 8 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI08-01](http://oom.lt/TERS-35D-L-PI08-01)
-- Long Link: [http://oom.lt/ST308L](http://oom.lt/ST308L)
+- Short Link: [http://oom.lt/ST308L](http://oom.lt/ST308L)
 
 ## Datasheets
 

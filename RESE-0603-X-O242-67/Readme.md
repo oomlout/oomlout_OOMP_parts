@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 2.4k Ohm Resistor 1%
 - Description: SMD (0603) 2.4k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O242-67](http://oom.lt/RESE-0603-X-O242-67)
-- Long Link: [http://oom.lt/R6242A](http://oom.lt/R6242A)
+- Short Link: [http://oom.lt/R6242A](http://oom.lt/R6242A)
 
 ## Labels
   

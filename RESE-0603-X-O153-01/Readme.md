@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 16k Ohm Resistor
 - Description: SMD (0603) 16k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O153-01](http://oom.lt/RESE-0603-X-O153-01)
-- Long Link: [http://oom.lt/R6153](http://oom.lt/R6153)
+- Short Link: [http://oom.lt/R6153](http://oom.lt/R6153)
 
 ## Datasheets
 

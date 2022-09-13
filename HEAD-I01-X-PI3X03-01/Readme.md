@@ -19,7 +19,7 @@ Contents
 - Name:  2.54 mm 9 Pin (3x3) Header 
 - Description:  2.54 mm 9 Pin (3x3) Header 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI3X03-01](http://oom.lt/HEAD-I01-X-PI3X03-01)
-- Long Link: [http://oom.lt/H3X03](http://oom.lt/H3X03)
+- Short Link: [http://oom.lt/H3X03](http://oom.lt/H3X03)
 
 ## Datasheets
 

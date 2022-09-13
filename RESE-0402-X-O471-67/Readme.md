@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 470 Ohm Resistor 1%
 - Description: SMD (0402) 470 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O471-67](http://oom.lt/RESE-0402-X-O471-67)
-- Long Link: [http://oom.lt/R42471A](http://oom.lt/R42471A)
+- Short Link: [http://oom.lt/R42471A](http://oom.lt/R42471A)
 
 ## Labels
   

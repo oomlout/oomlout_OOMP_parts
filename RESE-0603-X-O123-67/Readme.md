@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 12k Ohm Resistor 1%
 - Description: SMD (0603) 12k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O123-67](http://oom.lt/RESE-0603-X-O123-67)
-- Long Link: [http://oom.lt/R6123A](http://oom.lt/R6123A)
+- Short Link: [http://oom.lt/R6123A](http://oom.lt/R6123A)
 
 ## Datasheets
 

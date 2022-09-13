@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 2.2 uF Capacitor (Ceramic) 10v
 - Description: SMD (0603) 2.2 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF22D-V10](http://oom.lt/CAPC-0603-X-UF22D-V10)
-- Long Link: [http://oom.lt/C6U002](http://oom.lt/C6U002)
+- Short Link: [http://oom.lt/C6U002](http://oom.lt/C6U002)
 
 ## Datasheets
 

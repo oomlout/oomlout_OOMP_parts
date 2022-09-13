@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 6 mm Nylon Standoff (F-F)
 - Description: M3 x 6 mm Nylon Standoff (F-F)
 - Long Link: [http://oom.lt/NHFF-M3-X-06-01](http://oom.lt/NHFF-M3-X-06-01)
-- Long Link: [http://oom.lt/NFF06](http://oom.lt/NFF06)
+- Short Link: [http://oom.lt/NFF06](http://oom.lt/NFF06)
 
 ## Datasheets
 

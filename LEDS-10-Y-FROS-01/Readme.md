@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Yellow LED
 - Description: 10 mm Frosted Yellow LED
 - Long Link: [http://oom.lt/LEDS-10-Y-FROS-01](http://oom.lt/LEDS-10-Y-FROS-01)
-- Long Link: [http://oom.lt/L10Y](http://oom.lt/L10Y)
+- Short Link: [http://oom.lt/L10Y](http://oom.lt/L10Y)
 
 ## Datasheets
 

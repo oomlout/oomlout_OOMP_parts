@@ -20,7 +20,7 @@ Contents
 - Name: SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
 - Description: SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v
 - Long Link: [http://oom.lt/CAPE-S63D-X-UF47-V25](http://oom.lt/CAPE-S63D-X-UF47-V25)
-- Long Link: [http://oom.lt/CESU047](http://oom.lt/CESU047)
+- Short Link: [http://oom.lt/CESU047](http://oom.lt/CESU047)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
 - Description: SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)
 - Long Link: [http://oom.lt/ICIC-SO235-X-K1555-01](http://oom.lt/ICIC-SO235-X-K1555-01)
-- Long Link: [http://oom.lt/ICS1555](http://oom.lt/ICS1555)
+- Short Link: [http://oom.lt/ICS1555](http://oom.lt/ICS1555)
 
 ## Datasheets
 

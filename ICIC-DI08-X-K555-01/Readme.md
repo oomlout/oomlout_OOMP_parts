@@ -18,7 +18,7 @@ Contents
 - Name: 8 Pin DIP 555 Timer
 - Description: 8 Pin DIP 555 Timer
 - Long Link: [http://oom.lt/ICIC-DI08-X-K555-01](http://oom.lt/ICIC-DI08-X-K555-01)
-- Long Link: [http://oom.lt/IC555](http://oom.lt/IC555)
+- Short Link: [http://oom.lt/IC555](http://oom.lt/IC555)
 
 ## Labels
   

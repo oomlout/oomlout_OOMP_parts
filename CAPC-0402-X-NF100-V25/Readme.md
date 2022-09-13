@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 100 nF Capacitor (Ceramic) 25v
 - Description: SMD (0402) 100 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V25](http://oom.lt/CAPC-0402-X-NF100-V25)
-- Long Link: [http://oom.lt/C42N100V25](http://oom.lt/C42N100V25)
+- Short Link: [http://oom.lt/C42N100V25](http://oom.lt/C42N100V25)
 
 ## Datasheets
 

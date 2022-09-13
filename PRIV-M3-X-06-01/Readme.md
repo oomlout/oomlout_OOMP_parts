@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 6 mm Plastic Rivet
 - Description: M3 x 6 mm Plastic Rivet
 - Long Link: [http://oom.lt/PRIV-M3-X-06-01](http://oom.lt/PRIV-M3-X-06-01)
-- Long Link: [http://oom.lt/PR36](http://oom.lt/PR36)
+- Short Link: [http://oom.lt/PR36](http://oom.lt/PR36)
 
 ## Datasheets
 

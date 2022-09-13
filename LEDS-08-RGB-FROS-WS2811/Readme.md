@@ -19,7 +19,7 @@ Contents
 - Name: 8 mm Frosted RGB LED (WS2811)
 - Description: 8 mm Frosted RGB LED (WS2811)
 - Long Link: [http://oom.lt/LEDS-08-RGB-FROS-WS2811](http://oom.lt/LEDS-08-RGB-FROS-WS2811)
-- Long Link: [http://oom.lt/L8RGB21](http://oom.lt/L8RGB21)
+- Short Link: [http://oom.lt/L8RGB21](http://oom.lt/L8RGB21)
 
 ## Datasheets
 

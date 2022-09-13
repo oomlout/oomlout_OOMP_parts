@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 12 mm Machine Screw Cross Head
 - Description: M3 x 12 mm Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-M-12-70](http://oom.lt/SCRE-M3-M-12-70)
-- Long Link: [http://oom.lt/M312](http://oom.lt/M312)
+- Short Link: [http://oom.lt/M312](http://oom.lt/M312)
 
 ## Datasheets
 

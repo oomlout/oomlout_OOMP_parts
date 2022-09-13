@@ -21,7 +21,7 @@ Contents
 - Name: 6 mm Pushbutton (Tactile)
 - Description: 6 mm Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-06-X-STAN-01](http://oom.lt/BUTA-06-X-STAN-01)
-- Long Link: [http://oom.lt/B06](http://oom.lt/B06)
+- Short Link: [http://oom.lt/B06](http://oom.lt/B06)
 
 ## Diagrams
   

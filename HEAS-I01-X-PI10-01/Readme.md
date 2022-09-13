@@ -19,7 +19,7 @@ Contents
 - Name: 2.54 mm 10 Pin Header (Socket)
 - Description: 2.54 mm 10 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI10-01](http://oom.lt/HEAS-I01-X-PI10-01)
-- Long Link: [http://oom.lt/HS10](http://oom.lt/HS10)
+- Short Link: [http://oom.lt/HS10](http://oom.lt/HS10)
 
 ## Datasheets
 

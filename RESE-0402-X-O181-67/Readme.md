@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 180 Ohm Resistor 1%
 - Description: SMD (0402) 180 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O181-67](http://oom.lt/RESE-0402-X-O181-67)
-- Long Link: [http://oom.lt/R42181A](http://oom.lt/R42181A)
+- Short Link: [http://oom.lt/R42181A](http://oom.lt/R42181A)
 
 ## Labels
   

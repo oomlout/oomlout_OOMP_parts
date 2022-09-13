@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) White LED
 - Description: SMD (0402) White LED
 - Long Link: [http://oom.lt/LEDS-0402-W-STAN-01](http://oom.lt/LEDS-0402-W-STAN-01)
-- Long Link: [http://oom.lt/L42W](http://oom.lt/L42W)
+- Short Link: [http://oom.lt/L42W](http://oom.lt/L42W)
 
 ## Datasheets
 

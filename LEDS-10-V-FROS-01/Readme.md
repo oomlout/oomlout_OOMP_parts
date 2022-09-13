@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Purple LED
 - Description: 10 mm Frosted Purple LED
 - Long Link: [http://oom.lt/LEDS-10-V-FROS-01](http://oom.lt/LEDS-10-V-FROS-01)
-- Long Link: [http://oom.lt/L10V](http://oom.lt/L10V)
+- Short Link: [http://oom.lt/L10V](http://oom.lt/L10V)
 
 ## Datasheets
 

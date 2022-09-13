@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 20k Ohm Resistor
 - Description: SMD (0805) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O203-01](http://oom.lt/RESE-0805-X-O203-01)
-- Long Link: [http://oom.lt/R85203](http://oom.lt/R85203)
+- Short Link: [http://oom.lt/R85203](http://oom.lt/R85203)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Black Stranded Wire
 - Description: 28 AWG Black Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-B-STAN-01](http://oom.lt/WIRS-G28-B-STAN-01)
-- Long Link: [http://oom.lt/W2B](http://oom.lt/W2B)
+- Short Link: [http://oom.lt/W2B](http://oom.lt/W2B)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636)
 - Description: 18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636)
 - Long Link: [http://oom.lt/ICIC-DI18-X-KTM1636-01](http://oom.lt/ICIC-DI18-X-KTM1636-01)
-- Long Link: [http://oom.lt/IC1636](http://oom.lt/IC1636)
+- Short Link: [http://oom.lt/IC1636](http://oom.lt/IC1636)
 
 ## Datasheets
 

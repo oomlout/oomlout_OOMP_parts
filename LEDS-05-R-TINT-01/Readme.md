@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Tinted Red LED
 - Description: 5 mm Tinted Red LED
 - Long Link: [http://oom.lt/LEDS-05-R-TINT-01](http://oom.lt/LEDS-05-R-TINT-01)
-- Long Link: [http://oom.lt/LT5R](http://oom.lt/LT5R)
+- Short Link: [http://oom.lt/LT5R](http://oom.lt/LT5R)
 
 ## Datasheets
 

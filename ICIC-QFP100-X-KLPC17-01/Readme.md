@@ -19,7 +19,7 @@ Contents
 - Name: 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
 - Description: 100 Pin SMD (TQFP) LPC1768 (Cortex M3)
 - Long Link: [http://oom.lt/ICIC-QFP100-X-KLPC17-01](http://oom.lt/ICIC-QFP100-X-KLPC17-01)
-- Long Link: [http://oom.lt/ICSLPC17](http://oom.lt/ICSLPC17)
+- Short Link: [http://oom.lt/ICSLPC17](http://oom.lt/ICSLPC17)
 
 ## Datasheets
 

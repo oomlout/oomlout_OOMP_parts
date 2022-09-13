@@ -20,7 +20,7 @@ Contents
 - Name: 28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)
 - Description: 28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)
 - Long Link: [http://oom.lt/ICIC-DI28W-X-KLPC14-01](http://oom.lt/ICIC-DI28W-X-KLPC14-01)
-- Long Link: [http://oom.lt/ICLPC14](http://oom.lt/ICLPC14)
+- Short Link: [http://oom.lt/ICLPC14](http://oom.lt/ICLPC14)
 
 ## Datasheets
 

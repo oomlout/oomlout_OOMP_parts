@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 12k Ohm Resistor
 - Description: SMD (0805) 12k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O123-01](http://oom.lt/RESE-0805-X-O123-01)
-- Long Link: [http://oom.lt/R85123](http://oom.lt/R85123)
+- Short Link: [http://oom.lt/R85123](http://oom.lt/R85123)
 
 ## Labels
   

@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 6 Pin (2x3) Header
 - Description: 2.54 mm 6 Pin (2x3) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-01](http://oom.lt/HEAD-I01-X-PI2X03-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   

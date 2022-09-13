@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Red LED
 - Description: 5 mm Red LED
 - Long Link: [http://oom.lt/LEDS-05-R-STAN-01](http://oom.lt/LEDS-05-R-STAN-01)
-- Long Link: [http://oom.lt/L5R](http://oom.lt/L5R)
+- Short Link: [http://oom.lt/L5R](http://oom.lt/L5R)
 
 ## Datasheets
 

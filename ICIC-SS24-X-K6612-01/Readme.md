@@ -19,7 +19,7 @@ Contents
 - Name: 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
 - Description: 24 Pin SMD (SSOP) Dual H-Bridge (TB6612)
 - Long Link: [http://oom.lt/ICIC-SS24-X-K6612-01](http://oom.lt/ICIC-SS24-X-K6612-01)
-- Long Link: [http://oom.lt/ICS6612](http://oom.lt/ICS6612)
+- Short Link: [http://oom.lt/ICS6612](http://oom.lt/ICS6612)
 
 ## Datasheets
 

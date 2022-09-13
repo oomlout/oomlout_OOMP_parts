@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Blue Heat Shrink
 - Description: 3 mm Blue Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-L-STAN-01](http://oom.lt/HESH-03-L-STAN-01)
-- Long Link: [http://oom.lt/HS3L](http://oom.lt/HS3L)
+- Short Link: [http://oom.lt/HS3L](http://oom.lt/HS3L)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Header Right Angle
 - Description: 2.54 mm 6 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-I01-X-PI06-RA](http://oom.lt/HEAD-I01-X-PI06-RA)
-- Long Link: [http://oom.lt/HR06](http://oom.lt/HR06)
+- Short Link: [http://oom.lt/HR06](http://oom.lt/HR06)
 
 ## Datasheets
 

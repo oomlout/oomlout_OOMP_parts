@@ -18,7 +18,7 @@ Contents
 - Name: 
 - Description: 
 - Long Link: [http://oom.lt/----](http://oom.lt/----)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   

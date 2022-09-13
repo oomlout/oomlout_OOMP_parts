@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1812) 500 mA Resetable Fuse 15v
 - Description: SMD (1812) 500 mA Resetable Fuse 15v
 - Long Link: [http://oom.lt/REFU-1812-X-A05D-V15](http://oom.lt/REFU-1812-X-A05D-V15)
-- Long Link: [http://oom.lt/RF805](http://oom.lt/RF805)
+- Short Link: [http://oom.lt/RF805](http://oom.lt/RF805)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm IR (940 nm) LED
 - Description: 5 mm IR (940 nm) LED
 - Long Link: [http://oom.lt/LEDS-05-I9-STAN-01](http://oom.lt/LEDS-05-I9-STAN-01)
-- Long Link: [http://oom.lt/L5I9](http://oom.lt/L5I9)
+- Short Link: [http://oom.lt/L5I9](http://oom.lt/L5I9)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Brown Heat Shrink
 - Description: 3 mm Brown Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-N-STAN-01](http://oom.lt/HESH-03-N-STAN-01)
-- Long Link: [http://oom.lt/HS3N](http://oom.lt/HS3N)
+- Short Link: [http://oom.lt/HS3N](http://oom.lt/HS3N)
 
 ## Datasheets
 

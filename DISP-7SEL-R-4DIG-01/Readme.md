@@ -20,7 +20,7 @@ Contents
 - Name: 7 Segment LED 4 Digit Red Display
 - Description: 7 Segment LED 4 Digit Red Display
 - Long Link: [http://oom.lt/DISP-7SEL-R-4DIG-01](http://oom.lt/DISP-7SEL-R-4DIG-01)
-- Long Link: [http://oom.lt/DS74R](http://oom.lt/DS74R)
+- Short Link: [http://oom.lt/DS74R](http://oom.lt/DS74R)
 
 ## Datasheets
 

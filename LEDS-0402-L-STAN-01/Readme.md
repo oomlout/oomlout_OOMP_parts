@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) Blue LED
 - Description: SMD (0402) Blue LED
 - Long Link: [http://oom.lt/LEDS-0402-L-STAN-01](http://oom.lt/LEDS-0402-L-STAN-01)
-- Long Link: [http://oom.lt/L42L](http://oom.lt/L42L)
+- Short Link: [http://oom.lt/L42L](http://oom.lt/L42L)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 - Description: SMD (Power SO-20) Dual H-Bridge (L298) 4 A
 - Long Link: [http://oom.lt/ICIC-PS20-X-KL298-A4](http://oom.lt/ICIC-PS20-X-KL298-A4)
-- Long Link: [http://oom.lt/ICS298](http://oom.lt/ICS298)
+- Short Link: [http://oom.lt/ICS298](http://oom.lt/ICS298)
 
 ## Datasheets
 

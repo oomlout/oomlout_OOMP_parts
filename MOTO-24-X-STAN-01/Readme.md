@@ -19,7 +19,7 @@ Contents
 - Name: 24 mm Motor
 - Description: 24 mm Motor
 - Long Link: [http://oom.lt/MOTO-24-X-STAN-01](http://oom.lt/MOTO-24-X-STAN-01)
-- Long Link: [http://oom.lt/MT24](http://oom.lt/MT24)
+- Short Link: [http://oom.lt/MT24](http://oom.lt/MT24)
 
 ## Datasheets
 

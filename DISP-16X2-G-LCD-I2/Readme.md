@@ -19,7 +19,7 @@ Contents
 - Name:  16 x 2 Character LCD Green Display (I2C) 
 - Description:  16 x 2 Character LCD Green Display (I2C) 
 - Long Link: [http://oom.lt/DISP-16X2-G-LCD-I2](http://oom.lt/DISP-16X2-G-LCD-I2)
-- Long Link: [http://oom.lt/DS16](http://oom.lt/DS16)
+- Short Link: [http://oom.lt/DS16](http://oom.lt/DS16)
 
 ## Labels
   

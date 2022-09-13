@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 270 Ohm Resistor 1%
 - Description: SMD (0805) 270 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O271-67](http://oom.lt/RESE-0805-X-O271-67)
-- Long Link: [http://oom.lt/R85271A](http://oom.lt/R85271A)
+- Short Link: [http://oom.lt/R85271A](http://oom.lt/R85271A)
 
 ## Labels
   

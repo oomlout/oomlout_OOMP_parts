@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 0.1 Ohm Resistor
 - Description: SMD (0805) 0.1 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O001D-01](http://oom.lt/RESE-0805-X-O001D-01)
-- Long Link: [http://oom.lt/R85001D](http://oom.lt/R85001D)
+- Short Link: [http://oom.lt/R85001D](http://oom.lt/R85001D)
 
 ## Datasheets
 

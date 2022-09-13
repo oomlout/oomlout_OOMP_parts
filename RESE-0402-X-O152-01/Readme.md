@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 1.5k Ohm Resistor
 - Description: SMD (0402) 1.5k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O152-01](http://oom.lt/RESE-0402-X-O152-01)
-- Long Link: [http://oom.lt/R4152](http://oom.lt/R4152)
+- Short Link: [http://oom.lt/R4152](http://oom.lt/R4152)
 
 ## Datasheets
 

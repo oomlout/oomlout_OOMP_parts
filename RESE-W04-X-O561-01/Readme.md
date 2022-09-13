@@ -21,7 +21,7 @@ Contents
 - Name: 1/4 Watt 560 Ohm Resistor
 - Description: 1/4 Watt 560 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O561-01](http://oom.lt/RESE-W04-X-O561-01)
-- Long Link: [http://oom.lt/R4561](http://oom.lt/R4561)
+- Short Link: [http://oom.lt/R4561](http://oom.lt/R4561)
 
 ## Diagrams
   

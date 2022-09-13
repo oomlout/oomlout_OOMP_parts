@@ -20,7 +20,7 @@ Contents
 - Name: 2 mm SMD Metal UFL Socket
 - Description: 2 mm SMD Metal UFL Socket
 - Long Link: [http://oom.lt/UFLS-02-M-SMDS-01](http://oom.lt/UFLS-02-M-SMDS-01)
-- Long Link: [http://oom.lt/UFL02S](http://oom.lt/UFL02S)
+- Short Link: [http://oom.lt/UFL02S](http://oom.lt/UFL02S)
 
 ## Datasheets
 

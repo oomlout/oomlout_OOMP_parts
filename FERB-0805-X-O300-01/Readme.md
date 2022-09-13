@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 30 Ohm Ferrite Bead
 - Description: SMD (0805) 30 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0805-X-O300-01](http://oom.lt/FERB-0805-X-O300-01)
-- Long Link: [http://oom.lt/F8300](http://oom.lt/F8300)
+- Short Link: [http://oom.lt/F8300](http://oom.lt/F8300)
 
 ## Datasheets
 

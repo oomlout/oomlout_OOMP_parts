@@ -18,7 +18,7 @@ Contents
 - Name: TO-252 MNAOD4184A N-Ch. MOSFET
 - Description: TO-252 MNAOD4184A N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T252-X-A50-01](http://oom.lt/MOSN-T252-X-A50-01)
-- Long Link: [http://oom.lt/MNAOD4184A](http://oom.lt/MNAOD4184A)
+- Short Link: [http://oom.lt/MNAOD4184A](http://oom.lt/MNAOD4184A)
 
 ## Labels
   

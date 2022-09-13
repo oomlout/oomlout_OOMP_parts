@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) S8550 PNP Transistor
 - Description: SMD (SOT-23) S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KS8550-01](http://oom.lt/TRNP-SO23-X-KS8550-01)
-- Long Link: [http://oom.lt/TP985](http://oom.lt/TP985)
+- Short Link: [http://oom.lt/TP985](http://oom.lt/TP985)
 
 ## Datasheets
 

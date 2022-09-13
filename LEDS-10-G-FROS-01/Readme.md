@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Green LED
 - Description: 10 mm Frosted Green LED
 - Long Link: [http://oom.lt/LEDS-10-G-FROS-01](http://oom.lt/LEDS-10-G-FROS-01)
-- Long Link: [http://oom.lt/L10G](http://oom.lt/L10G)
+- Short Link: [http://oom.lt/L10G](http://oom.lt/L10G)
 
 ## Datasheets
 

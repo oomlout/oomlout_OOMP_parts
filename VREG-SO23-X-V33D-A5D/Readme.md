@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) 3.3v Voltage Regulator 500 mA
 - Description: SMD (SOT-23) 3.3v Voltage Regulator 500 mA
 - Long Link: [http://oom.lt/VREG-SO23-X-V33D-A5D](http://oom.lt/VREG-SO23-X-V33D-A5D)
-- Long Link: [http://oom.lt/VS235](http://oom.lt/VS235)
+- Short Link: [http://oom.lt/VS235](http://oom.lt/VS235)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
 - Description: 8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A
 - Long Link: [http://oom.lt/VREG-SP08-X-V36D-A2](http://oom.lt/VREG-SP08-X-V36D-A2)
-- Long Link: [http://oom.lt/VS836](http://oom.lt/VS836)
+- Short Link: [http://oom.lt/VS836](http://oom.lt/VS836)
 
 ## Datasheets
 

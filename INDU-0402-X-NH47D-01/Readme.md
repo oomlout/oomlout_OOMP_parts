@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 4.7 nH Inductor
 - Description: SMD (0402) 4.7 nH Inductor
 - Long Link: [http://oom.lt/INDU-0402-X-NH47D-01](http://oom.lt/INDU-0402-X-NH47D-01)
-- Long Link: [http://oom.lt/IN42N47D](http://oom.lt/IN42N47D)
+- Short Link: [http://oom.lt/IN42N47D](http://oom.lt/IN42N47D)
 
 ## Datasheets
 

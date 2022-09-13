@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 3.3 NH Inductor
 - Description: SMD (0402) 3.3 NH Inductor
 - Long Link: [http://oom.lt/INDU-0402-X-NH33D-01](http://oom.lt/INDU-0402-X-NH33D-01)
-- Long Link: [http://oom.lt/IN42N33D](http://oom.lt/IN42N33D)
+- Short Link: [http://oom.lt/IN42N33D](http://oom.lt/IN42N33D)
 
 ## Datasheets
 

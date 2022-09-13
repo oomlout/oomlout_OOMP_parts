@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 100 uF Capacitor (Electrolytic) 16v
 - Description: 5 mm 100 uF Capacitor (Electrolytic) 16v
 - Long Link: [http://oom.lt/CAPE-05-X-UF100-V16](http://oom.lt/CAPE-05-X-UF100-V16)
-- Long Link: [http://oom.lt/CEU100F](http://oom.lt/CEU100F)
+- Short Link: [http://oom.lt/CEU100F](http://oom.lt/CEU100F)
 
 ## Datasheets
 

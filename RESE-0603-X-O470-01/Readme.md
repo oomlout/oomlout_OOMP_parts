@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 47 Ohm Resistor
 - Description: SMD (0603) 47 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O470-01](http://oom.lt/RESE-0603-X-O470-01)
-- Long Link: [http://oom.lt/R6470](http://oom.lt/R6470)
+- Short Link: [http://oom.lt/R6470](http://oom.lt/R6470)
 
 ## Labels
   

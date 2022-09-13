@@ -18,7 +18,7 @@ Contents
 - Name: SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor
 - Description: SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor
 - Long Link: [http://oom.lt/SENS-SO235-X-K36-01](http://oom.lt/SENS-SO235-X-K36-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   

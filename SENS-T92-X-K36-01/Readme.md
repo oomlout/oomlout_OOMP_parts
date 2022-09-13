@@ -19,7 +19,7 @@ Contents
 - Name: TO-92 Temperature (TMP36) Sensor
 - Description: TO-92 Temperature (TMP36) Sensor
 - Long Link: [http://oom.lt/SENS-T92-X-K36-01](http://oom.lt/SENS-T92-X-K36-01)
-- Long Link: [http://oom.lt/SE36](http://oom.lt/SE36)
+- Short Link: [http://oom.lt/SE36](http://oom.lt/SE36)
 
 ## Datasheets
 

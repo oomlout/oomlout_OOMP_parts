@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 - Description: SMD (SOT-23) Adjustable Voltage Regulator 200 mA
 - Long Link: [http://oom.lt/VREG-SO23-X-ADJU-AE](http://oom.lt/VREG-SO23-X-ADJU-AE)
-- Long Link: [http://oom.lt/VS3A2D](http://oom.lt/VS3A2D)
+- Short Link: [http://oom.lt/VS3A2D](http://oom.lt/VS3A2D)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm White Heat Shrink
 - Description: 1.5 mm White Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-W-STAN-01](http://oom.lt/HESH-15D-W-STAN-01)
-- Long Link: [http://oom.lt/HS1W](http://oom.lt/HS1W)
+- Short Link: [http://oom.lt/HS1W](http://oom.lt/HS1W)
 
 ## Datasheets
 

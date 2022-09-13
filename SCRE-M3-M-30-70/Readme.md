@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 30 mm Metal Machine Screw Cross Head
 - Description: M3 x 30 mm Metal Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-M-30-70](http://oom.lt/SCRE-M3-M-30-70)
-- Long Link: [http://oom.lt/M330](http://oom.lt/M330)
+- Short Link: [http://oom.lt/M330](http://oom.lt/M330)
 
 ## Datasheets
 

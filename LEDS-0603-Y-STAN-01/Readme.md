@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) Yellow LED
 - Description: SMD (0603) Yellow LED
 - Long Link: [http://oom.lt/LEDS-0603-Y-STAN-01](http://oom.lt/LEDS-0603-Y-STAN-01)
-- Long Link: [http://oom.lt/L6Y](http://oom.lt/L6Y)
+- Short Link: [http://oom.lt/L6Y](http://oom.lt/L6Y)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 10 Pin Blue Female Header (Long)
 - Description: 2.54 mm 10 Pin Blue Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-L-PI10-01](http://oom.lt/HELF-I01-L-PI10-01)
-- Long Link: [http://oom.lt/HFL10L](http://oom.lt/HFL10L)
+- Short Link: [http://oom.lt/HFL10L](http://oom.lt/HFL10L)
 
 ## Datasheets
 

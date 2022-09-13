@@ -20,7 +20,7 @@ Contents
 - Name: SMD (5032) 12 MHz Crystal
 - Description: SMD (5032) 12 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ12-01](http://oom.lt/XTAL-5032-X-MZ12-01)
-- Long Link: [http://oom.lt/XS512](http://oom.lt/XS512)
+- Short Link: [http://oom.lt/XS512](http://oom.lt/XS512)
 
 ## Datasheets
 

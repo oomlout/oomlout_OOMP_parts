@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm Purple LED
 - Description: 5 mm Purple LED
 - Long Link: [http://oom.lt/LEDS-05-V-STAN-01](http://oom.lt/LEDS-05-V-STAN-01)
-- Long Link: [http://oom.lt/L5V](http://oom.lt/L5V)
+- Short Link: [http://oom.lt/L5V](http://oom.lt/L5V)
 
 ## Datasheets
 

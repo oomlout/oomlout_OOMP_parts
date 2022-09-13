@@ -21,7 +21,7 @@ Contents
 - Name: 9.5 mm 10k Ohm Blue Potentiometer
 - Description: 9.5 mm 10k Ohm Blue Potentiometer
 - Long Link: [http://oom.lt/POTE-95D-L-O103-01](http://oom.lt/POTE-95D-L-O103-01)
-- Long Link: [http://oom.lt/PTA103](http://oom.lt/PTA103)
+- Short Link: [http://oom.lt/PTA103](http://oom.lt/PTA103)
 
 ## Diagrams
   

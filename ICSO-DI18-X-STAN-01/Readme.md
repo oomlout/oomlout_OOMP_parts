@@ -19,7 +19,7 @@ Contents
 - Name: 18 Pin DIP IC Socket
 - Description: 18 Pin DIP IC Socket
 - Long Link: [http://oom.lt/ICSO-DI18-X-STAN-01](http://oom.lt/ICSO-DI18-X-STAN-01)
-- Long Link: [http://oom.lt/IS18](http://oom.lt/IS18)
+- Short Link: [http://oom.lt/IS18](http://oom.lt/IS18)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206) 4.7 uF Capacitor (Tantalum) 16v
 - Description: SMD (1206) 4.7 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-1206-X-UF47D-V16](http://oom.lt/CAPT-1206-X-UF47D-V16)
-- Long Link: [http://oom.lt/C1U004D](http://oom.lt/C1U004D)
+- Short Link: [http://oom.lt/C1U004D](http://oom.lt/C1U004D)
 
 ## Datasheets
 

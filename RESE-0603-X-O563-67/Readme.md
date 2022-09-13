@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 56k Ohm Resistor 1%
 - Description: SMD (0603) 56k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O563-67](http://oom.lt/RESE-0603-X-O563-67)
-- Long Link: [http://oom.lt/R6563A](http://oom.lt/R6563A)
+- Short Link: [http://oom.lt/R6563A](http://oom.lt/R6563A)
 
 ## Labels
   

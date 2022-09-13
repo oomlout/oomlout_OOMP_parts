@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0603) 5v Varistor
 - Description: SMD (0603) 5v Varistor
 - Long Link: [http://oom.lt/VARI-0603-X-V05-01](http://oom.lt/VARI-0603-X-V05-01)
-- Long Link: [http://oom.lt/V6305](http://oom.lt/V6305)
+- Short Link: [http://oom.lt/V6305](http://oom.lt/V6305)
 
 ## Datasheets
 

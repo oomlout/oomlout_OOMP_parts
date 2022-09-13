@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Blue Heat Shrink
 - Description: 1.5 mm Blue Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-L-STAN-01](http://oom.lt/HESH-15D-L-STAN-01)
-- Long Link: [http://oom.lt/HS1L](http://oom.lt/HS1L)
+- Short Link: [http://oom.lt/HS1L](http://oom.lt/HS1L)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 470 Ohm Ferrite Bead
 - Description: SMD (0805) 470 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0805-X-O471-01](http://oom.lt/FERB-0805-X-O471-01)
-- Long Link: [http://oom.lt/F85471](http://oom.lt/F85471)
+- Short Link: [http://oom.lt/F85471](http://oom.lt/F85471)
 
 ## Datasheets
 

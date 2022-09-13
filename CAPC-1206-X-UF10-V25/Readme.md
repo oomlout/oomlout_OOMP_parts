@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206) 10 uF Capacitor (Ceramic) 25v
 - Description: SMD (1206) 10 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF10-V25](http://oom.lt/CAPC-1206-X-UF10-V25)
-- Long Link: [http://oom.lt/C1U10](http://oom.lt/C1U10)
+- Short Link: [http://oom.lt/C1U10](http://oom.lt/C1U10)
 
 ## Datasheets
 

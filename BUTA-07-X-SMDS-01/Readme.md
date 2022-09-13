@@ -20,7 +20,7 @@ Contents
 - Name: 7 mm SMD Pushbutton (Tactile)
 - Description: 7 mm SMD Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-07-X-SMDS-01](http://oom.lt/BUTA-07-X-SMDS-01)
-- Long Link: [http://oom.lt/B7S](http://oom.lt/B7S)
+- Short Link: [http://oom.lt/B7S](http://oom.lt/B7S)
 
 ## Datasheets
 

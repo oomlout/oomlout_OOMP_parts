@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 100k Ohm Resistor 1%
 - Description: SMD (0603) 100k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O104-67](http://oom.lt/RESE-0603-X-O104-67)
-- Long Link: [http://oom.lt/R6104A](http://oom.lt/R6104A)
+- Short Link: [http://oom.lt/R6104A](http://oom.lt/R6104A)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
 - Description: 64 Pin SMD (TQFP) LPC11U24 (Cortex M0)
 - Long Link: [http://oom.lt/ICIC-QFP64-X-KLPC11-01](http://oom.lt/ICIC-QFP64-X-KLPC11-01)
-- Long Link: [http://oom.lt/ICSLPC11](http://oom.lt/ICSLPC11)
+- Short Link: [http://oom.lt/ICSLPC11](http://oom.lt/ICSLPC11)
 
 ## Datasheets
 

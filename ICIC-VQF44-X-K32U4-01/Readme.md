@@ -19,7 +19,7 @@ Contents
 - Name: 44 Pin SMD (VQFN) AtMega32U4
 - Description: 44 Pin SMD (VQFN) AtMega32U4
 - Long Link: [http://oom.lt/ICIC-VQF44-X-K32U4-01](http://oom.lt/ICIC-VQF44-X-K32U4-01)
-- Long Link: [http://oom.lt/ICSV32U4](http://oom.lt/ICSV32U4)
+- Short Link: [http://oom.lt/ICSV32U4](http://oom.lt/ICSV32U4)
 
 ## Datasheets
 

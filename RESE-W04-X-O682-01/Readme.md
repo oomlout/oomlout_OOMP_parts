@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 6.8k Ohm Resistor
 - Description: 1/4 Watt 6.8k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O682-01](http://oom.lt/RESE-W04-X-O682-01)
-- Long Link: [http://oom.lt/R4682](http://oom.lt/R4682)
+- Short Link: [http://oom.lt/R4682](http://oom.lt/R4682)
 
 ## Datasheets
 

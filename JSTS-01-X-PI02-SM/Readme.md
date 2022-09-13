@@ -20,7 +20,7 @@ Contents
 - Name: 1 mm 2 Pin JST Socket (SMD)
 - Description: 1 mm 2 Pin JST Socket (SMD)
 - Long Link: [http://oom.lt/JSTS-01-X-PI02-SM](http://oom.lt/JSTS-01-X-PI02-SM)
-- Long Link: [http://oom.lt/J102](http://oom.lt/J102)
+- Short Link: [http://oom.lt/J102](http://oom.lt/J102)
 
 ## Datasheets
 

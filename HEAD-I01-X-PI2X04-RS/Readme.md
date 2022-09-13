@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 8 Pin (2x4) Header Right Angle (SMD)
 - Description: 2.54 mm 8 Pin (2x4) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-RS](http://oom.lt/HEAD-I01-X-PI2X04-RS)
-- Long Link: [http://oom.lt/HRS2X04](http://oom.lt/HRS2X04)
+- Short Link: [http://oom.lt/HRS2X04](http://oom.lt/HRS2X04)
 
 ## Labels
   

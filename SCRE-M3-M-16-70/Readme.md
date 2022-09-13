@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 16 mm Machine Screw Cross Head
 - Description: M3 x 16 mm Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-M-16-70](http://oom.lt/SCRE-M3-M-16-70)
-- Long Link: [http://oom.lt/M316](http://oom.lt/M316)
+- Short Link: [http://oom.lt/M316](http://oom.lt/M316)
 
 ## Datasheets
 

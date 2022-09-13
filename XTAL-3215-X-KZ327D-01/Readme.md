@@ -20,7 +20,7 @@ Contents
 - Name: SMD (3215) 32.768 kHz Crystal
 - Description: SMD (3215) 32.768 kHz Crystal
 - Long Link: [http://oom.lt/XTAL-3215-X-KZ327D-01](http://oom.lt/XTAL-3215-X-KZ327D-01)
-- Long Link: [http://oom.lt/X3K327D](http://oom.lt/X3K327D)
+- Short Link: [http://oom.lt/X3K327D](http://oom.lt/X3K327D)
 
 ## Datasheets
 

@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 4 Pin (2x2) Header
 - Description: 2.54 mm 4 Pin (2x2) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2x02-01](http://oom.lt/HEAD-I01-X-PI2x02-01)
-- Long Link: [http://oom.lt/H2X02](http://oom.lt/H2X02)
+- Short Link: [http://oom.lt/H2X02](http://oom.lt/H2X02)
 
 ## Labels
   

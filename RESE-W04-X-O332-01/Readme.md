@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 3.3k Ohm Resistor
 - Description: 1/4 Watt 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O332-01](http://oom.lt/RESE-W04-X-O332-01)
-- Long Link: [http://oom.lt/R4332](http://oom.lt/R4332)
+- Short Link: [http://oom.lt/R4332](http://oom.lt/R4332)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: TO-220 5v Voltage Regulator 1 A
 - Description: TO-220 5v Voltage Regulator 1 A
 - Long Link: [http://oom.lt/VREG-T220-X-V05-A1](http://oom.lt/VREG-T220-X-V05-A1)
-- Long Link: [http://oom.lt/VT251](http://oom.lt/VT251)
+- Short Link: [http://oom.lt/VT251](http://oom.lt/VT251)
 
 ## Datasheets
 

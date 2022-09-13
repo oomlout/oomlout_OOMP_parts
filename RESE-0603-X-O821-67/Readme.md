@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 820 Ohm Resistor 1%
 - Description: SMD (0603) 820 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O821-67](http://oom.lt/RESE-0603-X-O821-67)
-- Long Link: [http://oom.lt/R6821A](http://oom.lt/R6821A)
+- Short Link: [http://oom.lt/R6821A](http://oom.lt/R6821A)
 
 ## Labels
   

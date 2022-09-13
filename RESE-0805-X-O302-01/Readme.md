@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 3k Ohm Resistor
 - Description: SMD (0805) 3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O302-01](http://oom.lt/RESE-0805-X-O302-01)
-- Long Link: [http://oom.lt/R85302](http://oom.lt/R85302)
+- Short Link: [http://oom.lt/R85302](http://oom.lt/R85302)
 
 ## Labels
   

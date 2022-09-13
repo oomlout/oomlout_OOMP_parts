@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Yellow Stranded Wire
 - Description: 28 AWG Yellow Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-Y-STAN-01](http://oom.lt/WIRS-G28-Y-STAN-01)
-- Long Link: [http://oom.lt/W2Y](http://oom.lt/W2Y)
+- Short Link: [http://oom.lt/W2Y](http://oom.lt/W2Y)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 12 mm 3v Buzzer
 - Description: 12 mm 3v Buzzer
 - Long Link: [http://oom.lt/BUZZ-12-X-V3-01](http://oom.lt/BUZZ-12-X-V3-01)
-- Long Link: [http://oom.lt/BZ12](http://oom.lt/BZ12)
+- Short Link: [http://oom.lt/BZ12](http://oom.lt/BZ12)
 
 ## Datasheets
 

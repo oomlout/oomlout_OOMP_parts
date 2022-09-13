@@ -20,7 +20,7 @@ Contents
 - Name: 28 Pin DIP IC Socket
 - Description: 28 Pin DIP IC Socket
 - Long Link: [http://oom.lt/ICSO-DI28-X-STAN-01](http://oom.lt/ICSO-DI28-X-STAN-01)
-- Long Link: [http://oom.lt/IS28](http://oom.lt/IS28)
+- Short Link: [http://oom.lt/IS28](http://oom.lt/IS28)
 
 ## Datasheets
 

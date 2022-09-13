@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin Black Crimp Housing
 - Description: 2.54 mm 8 Pin Black Crimp Housing
 - Long Link: [http://oom.lt/CRHO-I01-B-PI08-01](http://oom.lt/CRHO-I01-B-PI08-01)
-- Long Link: [http://oom.lt/CH08](http://oom.lt/CH08)
+- Short Link: [http://oom.lt/CH08](http://oom.lt/CH08)
 
 ## Datasheets
 

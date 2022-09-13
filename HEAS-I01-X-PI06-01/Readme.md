@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Header (Socket)
 - Description: 2.54 mm 6 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI06-01](http://oom.lt/HEAS-I01-X-PI06-01)
-- Long Link: [http://oom.lt/HS06](http://oom.lt/HS06)
+- Short Link: [http://oom.lt/HS06](http://oom.lt/HS06)
 
 ## Datasheets
 

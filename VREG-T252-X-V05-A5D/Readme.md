@@ -20,7 +20,7 @@ Contents
 - Name: TO-252 5v Voltage Regulator 500 mA
 - Description: TO-252 5v Voltage Regulator 500 mA
 - Long Link: [http://oom.lt/VREG-T252-X-V05-A5D](http://oom.lt/VREG-T252-X-V05-A5D)
-- Long Link: [http://oom.lt/VT555](http://oom.lt/VT555)
+- Short Link: [http://oom.lt/VT555](http://oom.lt/VT555)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm Header (Socket)
 - Description: 2.54 mm Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-2X04PI-01](http://oom.lt/HEAS-I01-X-2X04PI-01)
-- Long Link: [http://oom.lt/HSX4](http://oom.lt/HSX4)
+- Short Link: [http://oom.lt/HSX4](http://oom.lt/HSX4)
 
 ## Datasheets
 

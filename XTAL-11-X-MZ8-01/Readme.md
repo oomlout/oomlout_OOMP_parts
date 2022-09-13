@@ -20,7 +20,7 @@ Contents
 - Name: 11 mm 8 MHz Crystal
 - Description: 11 mm 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-11-X-MZ8-01](http://oom.lt/XTAL-11-X-MZ8-01)
-- Long Link: [http://oom.lt/XT8](http://oom.lt/XT8)
+- Short Link: [http://oom.lt/XT8](http://oom.lt/XT8)
 
 ## Datasheets
 

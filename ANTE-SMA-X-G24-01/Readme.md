@@ -6,6 +6,7 @@ Contents
 ========
 
 * [AN24SM > SMA 2.4 Ghz Antenna](#an24sm--sma-24-ghz-antenna)
+	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -20,7 +21,15 @@ Contents
 - Name: SMA 2.4 Ghz Antenna
 - Description: SMA 2.4 Ghz Antenna
 - Long Link: [http://oom.lt/ANTE-SMA-X-G24-01](http://oom.lt/ANTE-SMA-X-G24-01)
-- Long Link: [http://oom.lt/AN24SM](http://oom.lt/AN24SM)
+- Short Link: [http://oom.lt/AN24SM](http://oom.lt/AN24SM)
+
+## Diagrams
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
+| :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -42,9 +51,9 @@ Contents
   
   
 
-|image|image_RE|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

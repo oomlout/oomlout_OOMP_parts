@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOIC-8) LM358 Op Amp
 - Description: SMD (SOIC-8) LM358 Op Amp
 - Long Link: [http://oom.lt/OPAM-SC8-X-KLM358-01](http://oom.lt/OPAM-SC8-X-KLM358-01)
-- Long Link: [http://oom.lt/OAS358](http://oom.lt/OAS358)
+- Short Link: [http://oom.lt/OAS358](http://oom.lt/OAS358)
 
 ## Datasheets
 

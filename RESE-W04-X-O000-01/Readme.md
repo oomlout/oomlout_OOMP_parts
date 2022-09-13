@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 0 Ohm Resistor
 - Description: 1/4 Watt 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O000-01](http://oom.lt/RESE-W04-X-O000-01)
-- Long Link: [http://oom.lt/R4000](http://oom.lt/R4000)
+- Short Link: [http://oom.lt/R4000](http://oom.lt/R4000)
 
 ## Datasheets
 

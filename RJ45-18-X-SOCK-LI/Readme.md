@@ -20,7 +20,7 @@ Contents
 - Name: 18 mm Socket RJ45 w/Lights
 - Description: 18 mm Socket RJ45 w/Lights
 - Long Link: [http://oom.lt/RJ45-18-X-SOCK-LI](http://oom.lt/RJ45-18-X-SOCK-LI)
-- Long Link: [http://oom.lt/R45SL](http://oom.lt/R45SL)
+- Short Link: [http://oom.lt/R45SL](http://oom.lt/R45SL)
 
 ## Datasheets
 

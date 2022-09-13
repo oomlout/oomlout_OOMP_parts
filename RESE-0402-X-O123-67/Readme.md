@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 12k Ohm Resistor 1%
 - Description: SMD (0402) 12k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O123-67](http://oom.lt/RESE-0402-X-O123-67)
-- Long Link: [http://oom.lt/R42123A](http://oom.lt/R42123A)
+- Short Link: [http://oom.lt/R42123A](http://oom.lt/R42123A)
 
 ## Labels
   

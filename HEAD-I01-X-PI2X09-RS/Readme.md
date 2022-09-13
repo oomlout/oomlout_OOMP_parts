@@ -18,7 +18,7 @@ Contents
 - Name: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
 - Description: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-RS](http://oom.lt/HEAD-I01-X-PI2X09-RS)
-- Long Link: [http://oom.lt/HRS2X09](http://oom.lt/HRS2X09)
+- Short Link: [http://oom.lt/HRS2X09](http://oom.lt/HRS2X09)
 
 ## Labels
   

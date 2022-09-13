@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Grey Heat Shrink
 - Description: 6 mm Grey Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-E-STAN-01](http://oom.lt/HESH-06-E-STAN-01)
-- Long Link: [http://oom.lt/HS6E](http://oom.lt/HS6E)
+- Short Link: [http://oom.lt/HS6E](http://oom.lt/HS6E)
 
 ## Datasheets
 

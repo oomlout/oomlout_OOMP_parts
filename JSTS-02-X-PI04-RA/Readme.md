@@ -20,7 +20,7 @@ Contents
 - Name: 2 mm 4 Pin JST Socket Right Angle
 - Description: 2 mm 4 Pin JST Socket Right Angle
 - Long Link: [http://oom.lt/JSTS-02-X-PI04-RA](http://oom.lt/JSTS-02-X-PI04-RA)
-- Long Link: [http://oom.lt/J204R](http://oom.lt/J204R)
+- Short Link: [http://oom.lt/J204R](http://oom.lt/J204R)
 
 ## Datasheets
 

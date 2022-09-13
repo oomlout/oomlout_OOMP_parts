@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 3.3k Ohm Resistor
 - Description: SMD (0402) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O332-01](http://oom.lt/RESE-0402-X-O332-01)
-- Long Link: [http://oom.lt/R42332](http://oom.lt/R42332)
+- Short Link: [http://oom.lt/R42332](http://oom.lt/R42332)
 
 ## Datasheets
 

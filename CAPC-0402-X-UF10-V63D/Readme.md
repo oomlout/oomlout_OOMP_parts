@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF10-V63D](http://oom.lt/CAPC-0402-X-UF10-V63D)
-- Long Link: [http://oom.lt/C42U010](http://oom.lt/C42U010)
+- Short Link: [http://oom.lt/C42U010](http://oom.lt/C42U010)
 
 ## Datasheets
 

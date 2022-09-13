@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1210) 750 mA Resetable Fuse 6v
 - Description: SMD (1210) 750 mA Resetable Fuse 6v
 - Long Link: [http://oom.lt/REFU-1210-X-A075D-V6](http://oom.lt/REFU-1210-X-A075D-V6)
-- Long Link: [http://oom.lt/RF1175D](http://oom.lt/RF1175D)
+- Short Link: [http://oom.lt/RF1175D](http://oom.lt/RF1175D)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm 100 nF Capacitor (Ceramic) 50v
 - Description: 5 mm 100 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-05-X-NF100-V50](http://oom.lt/CAPC-05-X-NF100-V50)
-- Long Link: [http://oom.lt/CCN100](http://oom.lt/CCN100)
+- Short Link: [http://oom.lt/CCN100](http://oom.lt/CCN100)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
 - Description: 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)
 - Long Link: [http://oom.lt/ICIC-TS24-X-K9221-01](http://oom.lt/ICIC-TS24-X-K9221-01)
-- Long Link: [http://oom.lt/ICS9221](http://oom.lt/ICS9221)
+- Short Link: [http://oom.lt/ICS9221](http://oom.lt/ICS9221)
 
 ## Datasheets
 

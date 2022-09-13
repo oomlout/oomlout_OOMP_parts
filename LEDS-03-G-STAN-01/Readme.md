@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Green LED
 - Description: 3 mm Green LED
 - Long Link: [http://oom.lt/LEDS-03-G-STAN-01](http://oom.lt/LEDS-03-G-STAN-01)
-- Long Link: [http://oom.lt/L3G](http://oom.lt/L3G)
+- Short Link: [http://oom.lt/L3G](http://oom.lt/L3G)
 
 ## Datasheets
 

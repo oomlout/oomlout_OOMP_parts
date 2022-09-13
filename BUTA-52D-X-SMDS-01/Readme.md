@@ -18,7 +18,7 @@ Contents
 - Name: 5.2 mm SMD Pushbutton (Tactile)
 - Description: 5.2 mm SMD Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-52D-X-SMDS-01](http://oom.lt/BUTA-52D-X-SMDS-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Labels
   

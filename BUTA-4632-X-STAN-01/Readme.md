@@ -19,7 +19,7 @@ Contents
 - Name: SMD (4632) Pushbutton (Tactile)
 - Description: SMD (4632) Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-4632-X-STAN-01](http://oom.lt/BUTA-4632-X-STAN-01)
-- Long Link: [http://oom.lt/BT4632](http://oom.lt/BT4632)
+- Short Link: [http://oom.lt/BT4632](http://oom.lt/BT4632)
 
 ## Datasheets
 

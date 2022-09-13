@@ -20,7 +20,7 @@ Contents
 - Name: 200 mm Grove Cable
 - Description: 200 mm Grove Cable
 - Long Link: [http://oom.lt/CABL-200-X-GROV-01](http://oom.lt/CABL-200-X-GROV-01)
-- Long Link: [http://oom.lt/CBG200](http://oom.lt/CBG200)
+- Short Link: [http://oom.lt/CBG200](http://oom.lt/CBG200)
 
 ## Datasheets
 

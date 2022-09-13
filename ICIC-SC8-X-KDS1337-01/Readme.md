@@ -19,7 +19,7 @@ Contents
 - Name: 8 Pin SMD (SOIC) Real Time Clock (DS1337)
 - Description: 8 Pin SMD (SOIC) Real Time Clock (DS1337)
 - Long Link: [http://oom.lt/ICIC-SC8-X-KDS1337-01](http://oom.lt/ICIC-SC8-X-KDS1337-01)
-- Long Link: [http://oom.lt/ICS1337](http://oom.lt/ICS1337)
+- Short Link: [http://oom.lt/ICS1337](http://oom.lt/ICS1337)
 
 ## Datasheets
 

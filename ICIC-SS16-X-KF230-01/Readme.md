@@ -19,7 +19,7 @@ Contents
 - Name: 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
 - Description: 16 Pin SMD (SSOP) High Speed USB-Serial (FT230XS-R)
 - Long Link: [http://oom.lt/ICIC-SS16-X-KF230-01](http://oom.lt/ICIC-SS16-X-KF230-01)
-- Long Link: [http://oom.lt/IC230](http://oom.lt/IC230)
+- Short Link: [http://oom.lt/IC230](http://oom.lt/IC230)
 
 ## Datasheets
 

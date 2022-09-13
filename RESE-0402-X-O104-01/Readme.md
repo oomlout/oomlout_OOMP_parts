@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 110k Ohm Resistor
 - Description: SMD (0402) 110k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O104-01](http://oom.lt/RESE-0402-X-O104-01)
-- Long Link: [http://oom.lt/R42104](http://oom.lt/R42104)
+- Short Link: [http://oom.lt/R42104](http://oom.lt/R42104)
 
 ## Datasheets
 

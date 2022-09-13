@@ -19,7 +19,7 @@ Contents
 - Name:  20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) 
 - Description:  20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) 
 - Long Link: [http://oom.lt/ICIC-SP20-X-K1620-01](http://oom.lt/ICIC-SP20-X-K1620-01)
-- Long Link: [http://oom.lt/ICS1620](http://oom.lt/ICS1620)
+- Short Link: [http://oom.lt/ICS1620](http://oom.lt/ICS1620)
 
 ## Datasheets
 

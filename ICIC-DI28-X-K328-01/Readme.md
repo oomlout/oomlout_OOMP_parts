@@ -20,7 +20,7 @@ Contents
 - Name: 28 Pin DIP AtMega328P
 - Description: 28 Pin DIP AtMega328P
 - Long Link: [http://oom.lt/ICIC-DI28-X-K328-01](http://oom.lt/ICIC-DI28-X-K328-01)
-- Long Link: [http://oom.lt/IC328](http://oom.lt/IC328)
+- Short Link: [http://oom.lt/IC328](http://oom.lt/IC328)
 
 ## Datasheets
 

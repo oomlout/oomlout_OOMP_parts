@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 4.7k Ohm Resistor
 - Description: SMD (0805) 4.7k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O472-01](http://oom.lt/RESE-0805-X-O472-01)
-- Long Link: [http://oom.lt/R85472](http://oom.lt/R85472)
+- Short Link: [http://oom.lt/R85472](http://oom.lt/R85472)
 
 ## Datasheets
 

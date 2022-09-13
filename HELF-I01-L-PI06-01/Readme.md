@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Blue Female Header (Long)
 - Description: 2.54 mm 6 Pin Blue Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-L-PI06-01](http://oom.lt/HELF-I01-L-PI06-01)
-- Long Link: [http://oom.lt/HFL06L](http://oom.lt/HFL06L)
+- Short Link: [http://oom.lt/HFL06L](http://oom.lt/HFL06L)
 
 ## Datasheets
 

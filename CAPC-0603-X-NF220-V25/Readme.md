@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 220 nF Capacitor (Ceramic) 25v
 - Description: SMD (0603) 220 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF220-V25](http://oom.lt/CAPC-0603-X-NF220-V25)
-- Long Link: [http://oom.lt/C6N220](http://oom.lt/C6N220)
+- Short Link: [http://oom.lt/C6N220](http://oom.lt/C6N220)
 
 ## Datasheets
 

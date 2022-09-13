@@ -18,7 +18,7 @@ Contents
 - Name: 10 mm Flat Motor (Vibrating)
 - Description: 10 mm Flat Motor (Vibrating)
 - Long Link: [http://oom.lt/MOTV-10-X-FLAT-01](http://oom.lt/MOTV-10-X-FLAT-01)
-- Long Link: [http://oom.lt/MVF10](http://oom.lt/MVF10)
+- Short Link: [http://oom.lt/MVF10](http://oom.lt/MVF10)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin Yellow Header (Socket)
 - Description: 2.54 mm 8 Pin Yellow Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-Y-PI08-01](http://oom.lt/HEAS-I01-Y-PI08-01)
-- Long Link: [http://oom.lt/HS8Y](http://oom.lt/HS8Y)
+- Short Link: [http://oom.lt/HS8Y](http://oom.lt/HS8Y)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Orange LED
 - Description: 10 mm Frosted Orange LED
 - Long Link: [http://oom.lt/LEDS-10-O-FROS-01](http://oom.lt/LEDS-10-O-FROS-01)
-- Long Link: [http://oom.lt/L10O](http://oom.lt/L10O)
+- Short Link: [http://oom.lt/L10O](http://oom.lt/L10O)
 
 ## Datasheets
 

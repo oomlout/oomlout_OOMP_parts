@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 620 Ohm Resistor
 - Description: SMD (0603) 620 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O621-01](http://oom.lt/RESE-0603-X-O621-01)
-- Long Link: [http://oom.lt/R6621](http://oom.lt/R6621)
+- Short Link: [http://oom.lt/R6621](http://oom.lt/R6621)
 
 ## Datasheets
 

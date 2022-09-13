@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 4.7 nH Inductor
 - Description: SMD (0805) 4.7 nH Inductor
 - Long Link: [http://oom.lt/INDU-0805-X-NH47D-01](http://oom.lt/INDU-0805-X-NH47D-01)
-- Long Link: [http://oom.lt/IN85U22D](http://oom.lt/IN85U22D)
+- Short Link: [http://oom.lt/IN85U22D](http://oom.lt/IN85U22D)
 
 ## Datasheets
 

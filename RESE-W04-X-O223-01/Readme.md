@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 22k Ohm Resistor
 - Description: 1/4 Watt 22k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O223-01](http://oom.lt/RESE-W04-X-O223-01)
-- Long Link: [http://oom.lt/R4223](http://oom.lt/R4223)
+- Short Link: [http://oom.lt/R4223](http://oom.lt/R4223)
 
 ## Datasheets
 

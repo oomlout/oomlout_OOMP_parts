@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 3.3k Ohm Resistor
 - Description: SMD (0805) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O332-01](http://oom.lt/RESE-0805-X-O332-01)
-- Long Link: [http://oom.lt/R85332](http://oom.lt/R85332)
+- Short Link: [http://oom.lt/R85332](http://oom.lt/R85332)
 
 ## Datasheets
 

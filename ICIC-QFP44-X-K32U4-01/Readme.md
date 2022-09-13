@@ -20,7 +20,7 @@ Contents
 - Name: 44 Pin SMD (TQFP) AtMega32U4
 - Description: 44 Pin SMD (TQFP) AtMega32U4
 - Long Link: [http://oom.lt/ICIC-QFP44-X-K32U4-01](http://oom.lt/ICIC-QFP44-X-K32U4-01)
-- Long Link: [http://oom.lt/ICSQ32U4](http://oom.lt/ICSQ32U4)
+- Short Link: [http://oom.lt/ICSQ32U4](http://oom.lt/ICSQ32U4)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 5.1k Ohm Resistor 1%
 - Description: SMD (0402) 5.1k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O512-67](http://oom.lt/RESE-0402-X-O512-67)
-- Long Link: [http://oom.lt/R42512A](http://oom.lt/R42512A)
+- Short Link: [http://oom.lt/R42512A](http://oom.lt/R42512A)
 
 ## Labels
   

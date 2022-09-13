@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 7 Pin Header
 - Description: 2.54 mm 7 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI07-01](http://oom.lt/HEAD-I01-X-PI07-01)
-- Long Link: [http://oom.lt/H07](http://oom.lt/H07)
+- Short Link: [http://oom.lt/H07](http://oom.lt/H07)
 
 ## Diagrams
   

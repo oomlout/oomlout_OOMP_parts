@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 200k Ohm Resistor 1%
 - Description: SMD (0603) 200k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O204-67](http://oom.lt/RESE-0603-X-O204-67)
-- Long Link: [http://oom.lt/R6204A](http://oom.lt/R6204A)
+- Short Link: [http://oom.lt/R6204A](http://oom.lt/R6204A)
 
 ## Labels
   

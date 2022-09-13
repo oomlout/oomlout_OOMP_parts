@@ -19,7 +19,7 @@ Contents
 - Name: M2 x 5 mm Plastic Rivet
 - Description: M2 x 5 mm Plastic Rivet
 - Long Link: [http://oom.lt/PRIV-M2-X-05-01](http://oom.lt/PRIV-M2-X-05-01)
-- Long Link: [http://oom.lt/PR25](http://oom.lt/PR25)
+- Short Link: [http://oom.lt/PR25](http://oom.lt/PR25)
 
 ## Datasheets
 

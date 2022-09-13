@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 1.5k Ohm Resistor 1%
 - Description: SMD (0805) 1.5k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O152-67](http://oom.lt/RESE-0805-X-O152-67)
-- Long Link: [http://oom.lt/R85152A](http://oom.lt/R85152A)
+- Short Link: [http://oom.lt/R85152A](http://oom.lt/R85152A)
 
 ## Datasheets
 

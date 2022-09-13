@@ -19,7 +19,7 @@ Contents
 - Name:  7 mm Pushbutton Panel Mount 
 - Description:  7 mm Pushbutton Panel Mount 
 - Long Link: [http://oom.lt/BUTP-07-X-STAN-69](http://oom.lt/BUTP-07-X-STAN-69)
-- Long Link: [http://oom.lt/BP07](http://oom.lt/BP07)
+- Short Link: [http://oom.lt/BP07](http://oom.lt/BP07)
 
 ## Datasheets
 

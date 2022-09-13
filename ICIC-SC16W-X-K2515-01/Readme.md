@@ -20,7 +20,7 @@ Contents
 - Name: 16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)
 - Description: 16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)
 - Long Link: [http://oom.lt/ICIC-SC16W-X-K2515-01](http://oom.lt/ICIC-SC16W-X-K2515-01)
-- Long Link: [http://oom.lt/ICS2515](http://oom.lt/ICS2515)
+- Short Link: [http://oom.lt/ICS2515](http://oom.lt/ICS2515)
 
 ## Datasheets
 

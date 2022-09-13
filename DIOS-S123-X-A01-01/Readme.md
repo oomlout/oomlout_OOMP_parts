@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOD-123) 1 Amp Diode (Schottky)
 - Description: SMD (SOD-123) 1 Amp Diode (Schottky)
 - Long Link: [http://oom.lt/DIOS-S123-X-A01-01](http://oom.lt/DIOS-S123-X-A01-01)
-- Long Link: [http://oom.lt/DS35D1](http://oom.lt/DS35D1)
+- Short Link: [http://oom.lt/DS35D1](http://oom.lt/DS35D1)
 
 ## Datasheets
 

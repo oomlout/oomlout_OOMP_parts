@@ -19,7 +19,7 @@ Contents
 - Name: SMD (Mini MELF) 200 mA Diode 75v
 - Description: SMD (Mini MELF) 200 mA Diode 75v
 - Long Link: [http://oom.lt/DIOD-MMA-X-A02D-V75](http://oom.lt/DIOD-MMA-X-A02D-V75)
-- Long Link: [http://oom.lt/DSM2D](http://oom.lt/DSM2D)
+- Short Link: [http://oom.lt/DSM2D](http://oom.lt/DSM2D)
 
 ## Datasheets
 

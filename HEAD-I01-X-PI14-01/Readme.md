@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 14 Pin Header
 - Description: 2.54 mm 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-01](http://oom.lt/HEAD-I01-X-PI14-01)
-- Long Link: [http://oom.lt/H14](http://oom.lt/H14)
+- Short Link: [http://oom.lt/H14](http://oom.lt/H14)
 
 ## Diagrams
   

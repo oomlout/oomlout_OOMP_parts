@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 10 Pin Yellow Header (Socket)
 - Description: 2.54 mm 10 Pin Yellow Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-Y-PI10-01](http://oom.lt/HEAS-I01-Y-PI10-01)
-- Long Link: [http://oom.lt/HS10Y](http://oom.lt/HS10Y)
+- Short Link: [http://oom.lt/HS10Y](http://oom.lt/HS10Y)
 
 ## Datasheets
 

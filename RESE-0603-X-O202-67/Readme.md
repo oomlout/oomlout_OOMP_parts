@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 2k Ohm Resistor 1%
 - Description: SMD (0603) 2k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O202-67](http://oom.lt/RESE-0603-X-O202-67)
-- Long Link: [http://oom.lt/R6202A](http://oom.lt/R6202A)
+- Short Link: [http://oom.lt/R6202A](http://oom.lt/R6202A)
 
 ## Datasheets
 

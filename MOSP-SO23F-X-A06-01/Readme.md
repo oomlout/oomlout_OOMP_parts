@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
 - Description: SMD (SOT-23F) 6 Amp P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-SO23F-X-A06-01](http://oom.lt/MOSP-SO23F-X-A06-01)
-- Long Link: [http://oom.lt/MP2F6](http://oom.lt/MP2F6)
+- Short Link: [http://oom.lt/MP2F6](http://oom.lt/MP2F6)
 
 ## Datasheets
 

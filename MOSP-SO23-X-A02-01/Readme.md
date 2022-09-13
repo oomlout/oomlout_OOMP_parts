@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) 2 Amp P-Ch. MOSFET
 - Description: SMD (SOT-23) 2 Amp P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-SO23-X-A02-01](http://oom.lt/MOSP-SO23-X-A02-01)
-- Long Link: [http://oom.lt/MPSS202](http://oom.lt/MPSS202)
+- Short Link: [http://oom.lt/MPSS202](http://oom.lt/MPSS202)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: Micro SMD SD Card Socket
 - Description: Micro SMD SD Card Socket
 - Long Link: [http://oom.lt/SDCS-MC-M-SMDS-01](http://oom.lt/SDCS-MC-M-SMDS-01)
-- Long Link: [http://oom.lt/SDMS](http://oom.lt/SDMS)
+- Short Link: [http://oom.lt/SDMS](http://oom.lt/SDMS)
 
 ## Datasheets
 

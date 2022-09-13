@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 220k Ohm Resistor
 - Description: SMD (0603) 220k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O224-01](http://oom.lt/RESE-0603-X-O224-01)
-- Long Link: [http://oom.lt/R6224](http://oom.lt/R6224)
+- Short Link: [http://oom.lt/R6224](http://oom.lt/R6224)
 
 ## Labels
   

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206) 150 mA Diode 75v
 - Description: SMD (1206) 150 mA Diode 75v
 - Long Link: [http://oom.lt/DIOD-1206-X-A015D-01](http://oom.lt/DIOD-1206-X-A015D-01)
-- Long Link: [http://oom.lt/DS115](http://oom.lt/DS115)
+- Short Link: [http://oom.lt/DS115](http://oom.lt/DS115)
 
 ## Datasheets
 

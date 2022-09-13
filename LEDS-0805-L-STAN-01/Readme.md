@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) Blue LED
 - Description: SMD (0805) Blue LED
 - Long Link: [http://oom.lt/LEDS-0805-L-STAN-01](http://oom.lt/LEDS-0805-L-STAN-01)
-- Long Link: [http://oom.lt/L85L](http://oom.lt/L85L)
+- Short Link: [http://oom.lt/L85L](http://oom.lt/L85L)
 
 ## Datasheets
 

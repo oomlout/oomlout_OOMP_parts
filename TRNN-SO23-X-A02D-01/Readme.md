@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 200 mA NPN Transistor
 - Description: SMD (SOT-23) 200 mA NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-A02D-01](http://oom.lt/TRNN-SO23-X-A02D-01)
-- Long Link: [http://oom.lt/TNS22D](http://oom.lt/TNS22D)
+- Short Link: [http://oom.lt/TNS22D](http://oom.lt/TNS22D)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 330 Ohm Ferrite Bead
 - Description: SMD (0805) 330 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0805-X-O331-01](http://oom.lt/FERB-0805-X-O331-01)
-- Long Link: [http://oom.lt/F85331](http://oom.lt/F85331)
+- Short Link: [http://oom.lt/F85331](http://oom.lt/F85331)
 
 ## Datasheets
 

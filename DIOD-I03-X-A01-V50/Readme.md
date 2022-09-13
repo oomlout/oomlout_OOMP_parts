@@ -20,7 +20,7 @@ Contents
 - Name: 7.62 mm 1 Amp Diode 50v
 - Description: 7.62 mm 1 Amp Diode 50v
 - Long Link: [http://oom.lt/DIOD-I03-X-A01-V50](http://oom.lt/DIOD-I03-X-A01-V50)
-- Long Link: [http://oom.lt/DT01](http://oom.lt/DT01)
+- Short Link: [http://oom.lt/DT01](http://oom.lt/DT01)
 
 ## Datasheets
 

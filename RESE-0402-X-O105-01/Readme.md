@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 1M Ohm Resistor
 - Description: SMD (0402) 1M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O105-01](http://oom.lt/RESE-0402-X-O105-01)
-- Long Link: [http://oom.lt/R42105](http://oom.lt/R42105)
+- Short Link: [http://oom.lt/R42105](http://oom.lt/R42105)
 
 ## Datasheets
 

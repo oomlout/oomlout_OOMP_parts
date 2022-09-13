@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 4.7M Ohm Resistor
 - Description: SMD (0603) 4.7M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O475-01](http://oom.lt/RESE-0603-X-O475-01)
-- Long Link: [http://oom.lt/R6475](http://oom.lt/R6475)
+- Short Link: [http://oom.lt/R6475](http://oom.lt/R6475)
 
 ## Datasheets
 

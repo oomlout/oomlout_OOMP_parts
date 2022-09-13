@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin White Header (Socket)
 - Description: 2.54 mm 8 Pin White Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-W-PI08-01](http://oom.lt/HEAS-I01-W-PI08-01)
-- Long Link: [http://oom.lt/HS08W](http://oom.lt/HS08W)
+- Short Link: [http://oom.lt/HS08W](http://oom.lt/HS08W)
 
 ## Datasheets
 

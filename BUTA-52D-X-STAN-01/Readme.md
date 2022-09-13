@@ -19,7 +19,7 @@ Contents
 - Name: 5.2 mm Pushbutton (Tactile)
 - Description: 5.2 mm Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-52D-X-STAN-01](http://oom.lt/BUTA-52D-X-STAN-01)
-- Long Link: [http://oom.lt/BT52](http://oom.lt/BT52)
+- Short Link: [http://oom.lt/BT52](http://oom.lt/BT52)
 
 ## Datasheets
 

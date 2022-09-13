@@ -19,7 +19,7 @@ Contents
 - Name: 130 Size Motor
 - Description: 130 Size Motor
 - Long Link: [http://oom.lt/MOTO-SZ130-X-STAN-01](http://oom.lt/MOTO-SZ130-X-STAN-01)
-- Long Link: [http://oom.lt/MSZ130](http://oom.lt/MSZ130)
+- Short Link: [http://oom.lt/MSZ130](http://oom.lt/MSZ130)
 
 ## Datasheets
 

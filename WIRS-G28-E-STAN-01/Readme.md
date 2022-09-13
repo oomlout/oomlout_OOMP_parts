@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Grey Stranded Wire
 - Description: 28 AWG Grey Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-E-STAN-01](http://oom.lt/WIRS-G28-E-STAN-01)
-- Long Link: [http://oom.lt/W2E](http://oom.lt/W2E)
+- Short Link: [http://oom.lt/W2E](http://oom.lt/W2E)
 
 ## Datasheets
 

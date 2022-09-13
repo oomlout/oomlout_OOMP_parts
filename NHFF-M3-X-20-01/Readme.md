@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 20 mm Nylon Standoff (F-F)
 - Description: M3 x 20 mm Nylon Standoff (F-F)
 - Long Link: [http://oom.lt/NHFF-M3-X-20-01](http://oom.lt/NHFF-M3-X-20-01)
-- Long Link: [http://oom.lt/NFF20](http://oom.lt/NFF20)
+- Short Link: [http://oom.lt/NFF20](http://oom.lt/NFF20)
 
 ## Datasheets
 

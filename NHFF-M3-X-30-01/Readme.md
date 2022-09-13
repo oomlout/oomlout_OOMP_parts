@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 30 mm Nylon Standoff (F-F)
 - Description: M3 x 30 mm Nylon Standoff (F-F)
 - Long Link: [http://oom.lt/NHFF-M3-X-30-01](http://oom.lt/NHFF-M3-X-30-01)
-- Long Link: [http://oom.lt/NFF30](http://oom.lt/NFF30)
+- Short Link: [http://oom.lt/NFF30](http://oom.lt/NFF30)
 
 ## Datasheets
 

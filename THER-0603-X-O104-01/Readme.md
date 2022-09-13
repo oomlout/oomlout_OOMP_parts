@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0603) 100k Ohm Thermistor
 - Description: SMD (0603) 100k Ohm Thermistor
 - Long Link: [http://oom.lt/THER-0603-X-O104-01](http://oom.lt/THER-0603-X-O104-01)
-- Long Link: [http://oom.lt/TH6](http://oom.lt/TH6)
+- Short Link: [http://oom.lt/TH6](http://oom.lt/TH6)
 
 ## Datasheets
 

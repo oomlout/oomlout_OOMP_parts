@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) Red LED
 - Description: SMD (0805) Red LED
 - Long Link: [http://oom.lt/LEDS-0805-R-STAN-01](http://oom.lt/LEDS-0805-R-STAN-01)
-- Long Link: [http://oom.lt/L85R](http://oom.lt/L85R)
+- Short Link: [http://oom.lt/L85R](http://oom.lt/L85R)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin Blue Header
 - Description: 2.54 mm 8 Pin Blue Header
 - Long Link: [http://oom.lt/HEAD-I01-L-PI08-01](http://oom.lt/HEAD-I01-L-PI08-01)
-- Long Link: [http://oom.lt/H08L](http://oom.lt/H08L)
+- Short Link: [http://oom.lt/H08L](http://oom.lt/H08L)
 
 ## Datasheets
 

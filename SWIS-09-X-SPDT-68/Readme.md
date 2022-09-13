@@ -20,7 +20,7 @@ Contents
 - Name:  9 mm SPDT Switch (Slide) Side Adjust 
 - Description:  9 mm SPDT Switch (Slide) Side Adjust 
 - Long Link: [http://oom.lt/SWIS-09-X-SPDT-68](http://oom.lt/SWIS-09-X-SPDT-68)
-- Long Link: [http://oom.lt/SSW9S](http://oom.lt/SSW9S)
+- Short Link: [http://oom.lt/SSW9S](http://oom.lt/SSW9S)
 
 ## Datasheets
 

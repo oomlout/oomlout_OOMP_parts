@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Brown Heat Shrink
 - Description: 6 mm Brown Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-N-STAN-01](http://oom.lt/HESH-06-N-STAN-01)
-- Long Link: [http://oom.lt/HS6N](http://oom.lt/HS6N)
+- Short Link: [http://oom.lt/HS6N](http://oom.lt/HS6N)
 
 ## Datasheets
 

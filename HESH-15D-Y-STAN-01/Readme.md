@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Yellow Heat Shrink
 - Description: 1.5 mm Yellow Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-Y-STAN-01](http://oom.lt/HESH-15D-Y-STAN-01)
-- Long Link: [http://oom.lt/HS1Y](http://oom.lt/HS1Y)
+- Short Link: [http://oom.lt/HS1Y](http://oom.lt/HS1Y)
 
 ## Datasheets
 

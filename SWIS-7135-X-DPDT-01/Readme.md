@@ -20,7 +20,7 @@ Contents
 - Name: SMD (7135) DPDT Switch (Slide)
 - Description: SMD (7135) DPDT Switch (Slide)
 - Long Link: [http://oom.lt/SWIS-7135-X-DPDT-01](http://oom.lt/SWIS-7135-X-DPDT-01)
-- Long Link: [http://oom.lt/SS7135](http://oom.lt/SS7135)
+- Short Link: [http://oom.lt/SS7135](http://oom.lt/SS7135)
 
 ## Datasheets
 

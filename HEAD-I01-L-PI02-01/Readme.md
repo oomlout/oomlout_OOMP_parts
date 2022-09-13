@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 2 Pin Blue Header
 - Description: 2.54 mm 2 Pin Blue Header
 - Long Link: [http://oom.lt/HEAD-I01-L-PI02-01](http://oom.lt/HEAD-I01-L-PI02-01)
-- Long Link: [http://oom.lt/H02L](http://oom.lt/H02L)
+- Short Link: [http://oom.lt/H02L](http://oom.lt/H02L)
 
 ## Datasheets
 

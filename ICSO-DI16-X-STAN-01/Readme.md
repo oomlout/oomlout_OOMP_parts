@@ -20,7 +20,7 @@ Contents
 - Name: 16 Pin DIP IC Socket
 - Description: 16 Pin DIP IC Socket
 - Long Link: [http://oom.lt/ICSO-DI16-X-STAN-01](http://oom.lt/ICSO-DI16-X-STAN-01)
-- Long Link: [http://oom.lt/IS16](http://oom.lt/IS16)
+- Short Link: [http://oom.lt/IS16](http://oom.lt/IS16)
 
 ## Datasheets
 

@@ -21,7 +21,7 @@ Contents
 - Name: 10 mm Frosted Red LED
 - Description: 10 mm Frosted Red LED
 - Long Link: [http://oom.lt/LEDS-10-R-FROS-01](http://oom.lt/LEDS-10-R-FROS-01)
-- Long Link: [http://oom.lt/L10R](http://oom.lt/L10R)
+- Short Link: [http://oom.lt/L10R](http://oom.lt/L10R)
 
 ## Diagrams
   

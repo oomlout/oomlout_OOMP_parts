@@ -21,7 +21,7 @@ Contents
 - Name: 5 mm IR (940 nm) Phototransistor
 - Description: 5 mm IR (940 nm) Phototransistor
 - Long Link: [http://oom.lt/PHTR-05-I9-STAN-01](http://oom.lt/PHTR-05-I9-STAN-01)
-- Long Link: [http://oom.lt/PT5I9](http://oom.lt/PT5I9)
+- Short Link: [http://oom.lt/PT5I9](http://oom.lt/PT5I9)
 
 ## Diagrams
   

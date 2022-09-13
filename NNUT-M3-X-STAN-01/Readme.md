@@ -20,7 +20,7 @@ Contents
 - Name: M3 Nylon Nut
 - Description: M3 Nylon Nut
 - Long Link: [http://oom.lt/NNUT-M3-X-STAN-01](http://oom.lt/NNUT-M3-X-STAN-01)
-- Long Link: [http://oom.lt/NN3](http://oom.lt/NN3)
+- Short Link: [http://oom.lt/NN3](http://oom.lt/NN3)
 
 ## Datasheets
 

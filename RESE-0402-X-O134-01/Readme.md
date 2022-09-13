@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 130k Ohm Resistor
 - Description: SMD (0402) 130k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O134-01](http://oom.lt/RESE-0402-X-O134-01)
-- Long Link: [http://oom.lt/R42134](http://oom.lt/R42134)
+- Short Link: [http://oom.lt/R42134](http://oom.lt/R42134)
 
 ## Labels
   

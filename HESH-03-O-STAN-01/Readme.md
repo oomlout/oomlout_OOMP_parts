@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Orange Heat Shrink
 - Description: 3 mm Orange Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-O-STAN-01](http://oom.lt/HESH-03-O-STAN-01)
-- Long Link: [http://oom.lt/HS3O](http://oom.lt/HS3O)
+- Short Link: [http://oom.lt/HS3O](http://oom.lt/HS3O)
 
 ## Datasheets
 

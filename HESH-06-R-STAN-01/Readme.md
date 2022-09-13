@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Red Heat Shrink
 - Description: 6 mm Red Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-R-STAN-01](http://oom.lt/HESH-06-R-STAN-01)
-- Long Link: [http://oom.lt/HS6R](http://oom.lt/HS6R)
+- Short Link: [http://oom.lt/HS6R](http://oom.lt/HS6R)
 
 ## Datasheets
 

@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 6 Pin Header
 - Description: 2.54 mm 6 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI06-01](http://oom.lt/HEAD-I01-X-PI06-01)
-- Long Link: [http://oom.lt/H06](http://oom.lt/H06)
+- Short Link: [http://oom.lt/H06](http://oom.lt/H06)
 
 ## Diagrams
   

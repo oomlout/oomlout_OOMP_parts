@@ -18,7 +18,7 @@ Contents
 - Name: TO-92 S8550 PNP Transistor
 - Description: TO-92 S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KS8550-01](http://oom.lt/TRNP-T92-X-KS8550-01)
-- Long Link: [http://oom.lt/TP985](http://oom.lt/TP985)
+- Short Link: [http://oom.lt/TP985](http://oom.lt/TP985)
 
 ## Labels
   

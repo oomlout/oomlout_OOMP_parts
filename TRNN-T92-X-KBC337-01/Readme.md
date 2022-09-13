@@ -19,7 +19,7 @@ Contents
 - Name: TO-92 BC337 NPN Transistor
 - Description: TO-92 BC337 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-KBC337-01](http://oom.lt/TRNN-T92-X-KBC337-01)
-- Long Link: [http://oom.lt/TN9337](http://oom.lt/TN9337)
+- Short Link: [http://oom.lt/TN9337](http://oom.lt/TN9337)
 
 ## Datasheets
 

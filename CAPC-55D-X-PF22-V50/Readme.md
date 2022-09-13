@@ -20,7 +20,7 @@ Contents
 - Name: 5.5 mm 22 pF Capacitor (Ceramic) 50v
 - Description: 5.5 mm 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-55D-X-PF22-V50](http://oom.lt/CAPC-55D-X-PF22-V50)
-- Long Link: [http://oom.lt/CCP022](http://oom.lt/CCP022)
+- Short Link: [http://oom.lt/CCP022](http://oom.lt/CCP022)
 
 ## Datasheets
 

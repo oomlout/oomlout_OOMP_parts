@@ -19,7 +19,7 @@ Contents
 - Name: 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
 - Description: 24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)
 - Long Link: [http://oom.lt/ICIC-QFN24-X-K9250-01](http://oom.lt/ICIC-QFN24-X-K9250-01)
-- Long Link: [http://oom.lt/ICS9250](http://oom.lt/ICS9250)
+- Short Link: [http://oom.lt/ICS9250](http://oom.lt/ICS9250)
 
 ## Datasheets
 

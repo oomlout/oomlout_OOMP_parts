@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 680 Ohm Resistor
 - Description: 1/4 Watt 680 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O681-01](http://oom.lt/RESE-W04-X-O681-01)
-- Long Link: [http://oom.lt/R4681](http://oom.lt/R4681)
+- Short Link: [http://oom.lt/R4681](http://oom.lt/R4681)
 
 ## Datasheets
 

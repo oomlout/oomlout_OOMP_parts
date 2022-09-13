@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Blue Header
 - Description: 2.54 mm 6 Pin Blue Header
 - Long Link: [http://oom.lt/HEAD-I01-L-PI06-01](http://oom.lt/HEAD-I01-L-PI06-01)
-- Long Link: [http://oom.lt/H06L](http://oom.lt/H06L)
+- Short Link: [http://oom.lt/H06L](http://oom.lt/H06L)
 
 ## Datasheets
 

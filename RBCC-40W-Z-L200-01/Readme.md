@@ -20,7 +20,7 @@ Contents
 - Name: 40 Wire 200 mm Rainbow Crimped Ribbon Cable
 - Description: 40 Wire 200 mm Rainbow Crimped Ribbon Cable
 - Long Link: [http://oom.lt/RBCC-40W-Z-L200-01](http://oom.lt/RBCC-40W-Z-L200-01)
-- Long Link: [http://oom.lt/RBC2](http://oom.lt/RBC2)
+- Short Link: [http://oom.lt/RBC2](http://oom.lt/RBC2)
 
 ## Datasheets
 

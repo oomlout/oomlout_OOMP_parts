@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 22k Ohm Resistor
 - Description: SMD (0805) 22k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O223-01](http://oom.lt/RESE-0805-X-O223-01)
-- Long Link: [http://oom.lt/R85223](http://oom.lt/R85223)
+- Short Link: [http://oom.lt/R85223](http://oom.lt/R85223)
 
 ## Datasheets
 

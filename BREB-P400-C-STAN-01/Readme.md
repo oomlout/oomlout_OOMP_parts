@@ -6,6 +6,7 @@ Contents
 ========
 
 * [BB4C > 400 Point Clear Breadboard](#bb4c--400-point-clear-breadboard)
+	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -20,7 +21,15 @@ Contents
 - Name: 400 Point Clear Breadboard
 - Description: 400 Point Clear Breadboard
 - Long Link: [http://oom.lt/BREB-P400-C-STAN-01](http://oom.lt/BREB-P400-C-STAN-01)
-- Long Link: [http://oom.lt/BB4C](http://oom.lt/BB4C)
+- Short Link: [http://oom.lt/BB4C](http://oom.lt/BB4C)
+
+## Diagrams
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
+| :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Datasheets
 
@@ -42,9 +51,9 @@ Contents
   
   
 
-|image|image_RE|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 31k Ohm Resistor 1%
 - Description: SMD (0603) 31k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O303-67](http://oom.lt/RESE-0603-X-O303-67)
-- Long Link: [http://oom.lt/R6303A](http://oom.lt/R6303A)
+- Short Link: [http://oom.lt/R6303A](http://oom.lt/R6303A)
 
 ## Datasheets
 

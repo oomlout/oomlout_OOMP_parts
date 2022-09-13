@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 470 Ohm Resistor 1%
 - Description: SMD (0805) 470 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O471-67](http://oom.lt/RESE-0805-X-O471-67)
-- Long Link: [http://oom.lt/R85471A](http://oom.lt/R85471A)
+- Short Link: [http://oom.lt/R85471A](http://oom.lt/R85471A)
 
 ## Labels
   

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) 200 mA PNP Transistor
 - Description: SMD (SOT-23) 200 mA PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-A02D-01](http://oom.lt/TRNP-SO23-X-A02D-01)
-- Long Link: [http://oom.lt/TPS22D](http://oom.lt/TPS22D)
+- Short Link: [http://oom.lt/TPS22D](http://oom.lt/TPS22D)
 
 ## Datasheets
 

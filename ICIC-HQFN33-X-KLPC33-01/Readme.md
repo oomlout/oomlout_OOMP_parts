@@ -19,7 +19,7 @@ Contents
 - Name: 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
 - Description: 33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)
 - Long Link: [http://oom.lt/ICIC-HQFN33-X-KLPC33-01](http://oom.lt/ICIC-HQFN33-X-KLPC33-01)
-- Long Link: [http://oom.lt/ICSLPC33](http://oom.lt/ICSLPC33)
+- Short Link: [http://oom.lt/ICSLPC33](http://oom.lt/ICSLPC33)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 14 mm Black Piezo Element
 - Description: 14 mm Black Piezo Element
 - Long Link: [http://oom.lt/PIEZ-14-B-STAN-01](http://oom.lt/PIEZ-14-B-STAN-01)
-- Long Link: [http://oom.lt/PZ14](http://oom.lt/PZ14)
+- Short Link: [http://oom.lt/PZ14](http://oom.lt/PZ14)
 
 ## Datasheets
 

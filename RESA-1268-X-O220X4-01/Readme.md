@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206-8) 22 Ohm (x4) Resistor Array
 - Description: SMD (1206-8) 22 Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-1268-X-O220X4-01](http://oom.lt/RESA-1268-X-O220X4-01)
-- Long Link: [http://oom.lt/RA1220](http://oom.lt/RA1220)
+- Short Link: [http://oom.lt/RA1220](http://oom.lt/RA1220)
 
 ## Datasheets
 

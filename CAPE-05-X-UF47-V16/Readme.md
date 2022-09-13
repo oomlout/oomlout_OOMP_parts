@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 47 uF Capacitor (Electrolytic) 16v
 - Description: 5 mm 47 uF Capacitor (Electrolytic) 16v
 - Long Link: [http://oom.lt/CAPE-05-X-UF47-V16](http://oom.lt/CAPE-05-X-UF47-V16)
-- Long Link: [http://oom.lt/CEU047](http://oom.lt/CEU047)
+- Short Link: [http://oom.lt/CEU047](http://oom.lt/CEU047)
 
 ## Datasheets
 

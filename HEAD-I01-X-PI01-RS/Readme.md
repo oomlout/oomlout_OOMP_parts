@@ -19,7 +19,7 @@ Contents
 - Name: 2.54 mm 1 Pin Header Right Angle (SMD)
 - Description: 2.54 mm 1 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI01-RS](http://oom.lt/HEAD-I01-X-PI01-RS)
-- Long Link: [http://oom.lt/HRS01](http://oom.lt/HRS01)
+- Short Link: [http://oom.lt/HRS01](http://oom.lt/HRS01)
 
 ## Datasheets
 

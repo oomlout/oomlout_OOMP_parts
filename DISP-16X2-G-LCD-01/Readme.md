@@ -20,7 +20,7 @@ Contents
 - Name:  16 x 2 Character LCD Green Display 
 - Description:  16 x 2 Character LCD Green Display 
 - Long Link: [http://oom.lt/DISP-16X2-G-LCD-01](http://oom.lt/DISP-16X2-G-LCD-01)
-- Long Link: [http://oom.lt/DS16](http://oom.lt/DS16)
+- Short Link: [http://oom.lt/DS16](http://oom.lt/DS16)
 
 ## Datasheets
 

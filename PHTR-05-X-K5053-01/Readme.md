@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm SGPT5053C Phototransistor
 - Description: 5 mm SGPT5053C Phototransistor
 - Long Link: [http://oom.lt/PHTR-05-X-K5053-01](http://oom.lt/PHTR-05-X-K5053-01)
-- Long Link: [http://oom.lt/PT55053](http://oom.lt/PT55053)
+- Short Link: [http://oom.lt/PT55053](http://oom.lt/PT55053)
 
 ## Datasheets
 

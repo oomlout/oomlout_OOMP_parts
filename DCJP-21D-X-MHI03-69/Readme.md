@@ -19,7 +19,7 @@ Contents
 - Name:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 - Description:  2.1 mm (7 mm mounting hole) DC Jack Panel Mount 
 - Long Link: [http://oom.lt/DCJP-21D-X-MHI03-69](http://oom.lt/DCJP-21D-X-MHI03-69)
-- Long Link: [http://oom.lt/GJP3](http://oom.lt/GJP3)
+- Short Link: [http://oom.lt/GJP3](http://oom.lt/GJP3)
 
 ## Datasheets
 

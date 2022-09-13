@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 20 mm Metal Machine Screw Cross Head
 - Description: M3 x 20 mm Metal Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-M-20-70](http://oom.lt/SCRE-M3-M-20-70)
-- Long Link: [http://oom.lt/M320](http://oom.lt/M320)
+- Short Link: [http://oom.lt/M320](http://oom.lt/M320)
 
 ## Datasheets
 

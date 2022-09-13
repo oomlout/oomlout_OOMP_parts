@@ -20,7 +20,7 @@ Contents
 - Name: 9.8 mm 10k Ohm Potentiometer
 - Description: 9.8 mm 10k Ohm Potentiometer
 - Long Link: [http://oom.lt/POTE-98D-X-O103-01](http://oom.lt/POTE-98D-X-O103-01)
-- Long Link: [http://oom.lt/PT98103](http://oom.lt/PT98103)
+- Short Link: [http://oom.lt/PT98103](http://oom.lt/PT98103)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-223) 3.3v Voltage Regulator 1 A
 - Description: SMD (SOT-223) 3.3v Voltage Regulator 1 A
 - Long Link: [http://oom.lt/VREG-SO223-X-V33D-A1](http://oom.lt/VREG-SO223-X-V33D-A1)
-- Long Link: [http://oom.lt/VS231](http://oom.lt/VS231)
+- Short Link: [http://oom.lt/VS231](http://oom.lt/VS231)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 3.5 mm 2 Pin Green Screw Terminal
 - Description: 3.5 mm 2 Pin Green Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-G-PI02-01](http://oom.lt/TERS-35D-G-PI02-01)
-- Long Link: [http://oom.lt/ST302G](http://oom.lt/ST302G)
+- Short Link: [http://oom.lt/ST302G](http://oom.lt/ST302G)
 
 ## Datasheets
 

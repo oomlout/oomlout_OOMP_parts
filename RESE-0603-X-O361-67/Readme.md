@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 360 Ohm Resistor 1%
 - Description: SMD (0603) 360 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O361-67](http://oom.lt/RESE-0603-X-O361-67)
-- Long Link: [http://oom.lt/R6361A](http://oom.lt/R6361A)
+- Short Link: [http://oom.lt/R6361A](http://oom.lt/R6361A)
 
 ## Labels
   

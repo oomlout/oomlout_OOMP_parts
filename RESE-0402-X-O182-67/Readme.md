@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 1.8k Ohm Resistor 1%
 - Description: SMD (0402) 1.8k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O182-67](http://oom.lt/RESE-0402-X-O182-67)
-- Long Link: [http://oom.lt/R42182A](http://oom.lt/R42182A)
+- Short Link: [http://oom.lt/R42182A](http://oom.lt/R42182A)
 
 ## Labels
   

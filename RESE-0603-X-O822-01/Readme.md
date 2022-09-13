@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 8.2k Ohm Resistor
 - Description: SMD (0603) 8.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O822-01](http://oom.lt/RESE-0603-X-O822-01)
-- Long Link: [http://oom.lt/R6822](http://oom.lt/R6822)
+- Short Link: [http://oom.lt/R6822](http://oom.lt/R6822)
 
 ## Labels
   

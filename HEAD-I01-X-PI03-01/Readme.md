@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 3 Pin Header
 - Description: 2.54 mm 3 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI03-01](http://oom.lt/HEAD-I01-X-PI03-01)
-- Long Link: [http://oom.lt/H03](http://oom.lt/H03)
+- Short Link: [http://oom.lt/H03](http://oom.lt/H03)
 
 ## Diagrams
   

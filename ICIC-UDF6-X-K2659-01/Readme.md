@@ -19,7 +19,7 @@ Contents
 - Name: SMD (UDFN-6) GPS Amplifier (MAX2659)
 - Description: SMD (UDFN-6) GPS Amplifier (MAX2659)
 - Long Link: [http://oom.lt/ICIC-UDF6-X-K2659-01](http://oom.lt/ICIC-UDF6-X-K2659-01)
-- Long Link: [http://oom.lt/ICSGPS](http://oom.lt/ICSGPS)
+- Short Link: [http://oom.lt/ICSGPS](http://oom.lt/ICSGPS)
 
 ## Datasheets
 

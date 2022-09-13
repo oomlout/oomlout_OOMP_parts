@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) Green LED
 - Description: SMD (0805) Green LED
 - Long Link: [http://oom.lt/LEDS-0805-G-STAN-01](http://oom.lt/LEDS-0805-G-STAN-01)
-- Long Link: [http://oom.lt/L85G](http://oom.lt/L85G)
+- Short Link: [http://oom.lt/L85G](http://oom.lt/L85G)
 
 ## Datasheets
 

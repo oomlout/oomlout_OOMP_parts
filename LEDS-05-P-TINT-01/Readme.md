@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Tinted Pink LED
 - Description: 5 mm Tinted Pink LED
 - Long Link: [http://oom.lt/LEDS-05-P-TINT-01](http://oom.lt/LEDS-05-P-TINT-01)
-- Long Link: [http://oom.lt/LT5P](http://oom.lt/LT5P)
+- Short Link: [http://oom.lt/LT5P](http://oom.lt/LT5P)
 
 ## Datasheets
 

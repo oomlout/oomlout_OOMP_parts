@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 - Description: 5 mm 2.2 uF Capacitor (Electrolytic) 63v
 - Long Link: [http://oom.lt/CAPE-05-X-UF22D-V63D](http://oom.lt/CAPE-05-X-UF22D-V63D)
-- Long Link: [http://oom.lt/CEU002](http://oom.lt/CEU002)
+- Short Link: [http://oom.lt/CEU002](http://oom.lt/CEU002)
 
 ## Datasheets
 

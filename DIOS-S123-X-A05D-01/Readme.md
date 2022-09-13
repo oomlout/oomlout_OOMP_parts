@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOD-123) 500 mA Diode (Schottky)
 - Description: SMD (SOD-123) 500 mA Diode (Schottky)
 - Long Link: [http://oom.lt/DIOS-S123-X-A05D-01](http://oom.lt/DIOS-S123-X-A05D-01)
-- Long Link: [http://oom.lt/DS35D](http://oom.lt/DS35D)
+- Short Link: [http://oom.lt/DS35D](http://oom.lt/DS35D)
 
 ## Datasheets
 

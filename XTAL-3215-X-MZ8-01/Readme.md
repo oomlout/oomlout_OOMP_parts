@@ -18,7 +18,7 @@ Contents
 - Name: SMD (3215) 8 MHz Crystal
 - Description: SMD (3215) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-3215-X-MZ8-01](http://oom.lt/XTAL-3215-X-MZ8-01)
-- Long Link: [http://oom.lt/XS38](http://oom.lt/XS38)
+- Short Link: [http://oom.lt/XS38](http://oom.lt/XS38)
 
 ## Labels
   

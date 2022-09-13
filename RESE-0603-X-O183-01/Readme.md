@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 18k Ohm Resistor
 - Description: SMD (0603) 18k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O183-01](http://oom.lt/RESE-0603-X-O183-01)
-- Long Link: [http://oom.lt/R6183](http://oom.lt/R6183)
+- Short Link: [http://oom.lt/R6183](http://oom.lt/R6183)
 
 ## Datasheets
 

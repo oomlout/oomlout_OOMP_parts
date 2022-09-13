@@ -6,6 +6,7 @@ Contents
 ========
 
 * [BB1 > 170 Point Breadboard](#bb1--170-point-breadboard)
+	* [Diagrams](#diagrams)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -18,7 +19,15 @@ Contents
 - Name: 170 Point Breadboard
 - Description: 170 Point Breadboard
 - Long Link: [http://oom.lt/BREB-P170-X-STAN-01](http://oom.lt/BREB-P170-X-STAN-01)
-- Long Link: [http://oom.lt/BB1](http://oom.lt/BB1)
+- Short Link: [http://oom.lt/BB1](http://oom.lt/BB1)
+
+## Diagrams
+  
+  
+
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|
+| :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|
 
 ## Labels
   
@@ -36,9 +45,9 @@ Contents
   
   
 
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

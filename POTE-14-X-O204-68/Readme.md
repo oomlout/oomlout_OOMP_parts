@@ -20,7 +20,7 @@ Contents
 - Name: 14 mm 200k Ohm Potentiometer Side Adjust
 - Description: 14 mm 200k Ohm Potentiometer Side Adjust
 - Long Link: [http://oom.lt/POTE-14-X-O204-68](http://oom.lt/POTE-14-X-O204-68)
-- Long Link: [http://oom.lt/PT4204S](http://oom.lt/PT4204S)
+- Short Link: [http://oom.lt/PT4204S](http://oom.lt/PT4204S)
 
 ## Datasheets
 

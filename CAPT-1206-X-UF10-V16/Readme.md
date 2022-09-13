@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206) 10 uF Capacitor (Tantalum) 16v
 - Description: SMD (1206) 10 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-1206-X-UF10-V16](http://oom.lt/CAPT-1206-X-UF10-V16)
-- Long Link: [http://oom.lt/CTS1U010F](http://oom.lt/CTS1U010F)
+- Short Link: [http://oom.lt/CTS1U010F](http://oom.lt/CTS1U010F)
 
 ## Datasheets
 

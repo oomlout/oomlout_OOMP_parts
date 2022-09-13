@@ -20,7 +20,7 @@ Contents
 - Name: 11 mm 16 MHz Crystal
 - Description: 11 mm 16 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-11-X-MZ16-01](http://oom.lt/XTAL-11-X-MZ16-01)
-- Long Link: [http://oom.lt/XT16](http://oom.lt/XT16)
+- Short Link: [http://oom.lt/XT16](http://oom.lt/XT16)
 
 ## Datasheets
 

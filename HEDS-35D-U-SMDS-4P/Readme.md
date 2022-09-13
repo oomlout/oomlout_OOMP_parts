@@ -20,7 +20,7 @@ Contents
 - Name: 3.5 mm SMD Headphone Socket (4 Pin)
 - Description: 3.5 mm SMD Headphone Socket (4 Pin)
 - Long Link: [http://oom.lt/HEDS-35D-U-SMDS-4P](http://oom.lt/HEDS-35D-U-SMDS-4P)
-- Long Link: [http://oom.lt/HP34U](http://oom.lt/HP34U)
+- Short Link: [http://oom.lt/HP34U](http://oom.lt/HP34U)
 
 ## Datasheets
 

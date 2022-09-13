@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 2 Pin Black Crimp Housing
 - Description: 2.54 mm 2 Pin Black Crimp Housing
 - Long Link: [http://oom.lt/CRHO-I01-B-PI02-01](http://oom.lt/CRHO-I01-B-PI02-01)
-- Long Link: [http://oom.lt/CH02](http://oom.lt/CH02)
+- Short Link: [http://oom.lt/CH02](http://oom.lt/CH02)
 
 ## Datasheets
 

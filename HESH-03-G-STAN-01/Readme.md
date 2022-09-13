@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Green Heat Shrink
 - Description: 3 mm Green Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-G-STAN-01](http://oom.lt/HESH-03-G-STAN-01)
-- Long Link: [http://oom.lt/HS3G](http://oom.lt/HS3G)
+- Short Link: [http://oom.lt/HS3G](http://oom.lt/HS3G)
 
 ## Datasheets
 

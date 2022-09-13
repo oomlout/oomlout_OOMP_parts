@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 330 Ohm Resistor
 - Description: 1/4 Watt 330 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O331-01](http://oom.lt/RESE-W04-X-O331-01)
-- Long Link: [http://oom.lt/R4331](http://oom.lt/R4331)
+- Short Link: [http://oom.lt/R4331](http://oom.lt/R4331)
 
 ## Datasheets
 

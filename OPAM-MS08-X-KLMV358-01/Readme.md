@@ -20,7 +20,7 @@ Contents
 - Name: 8 Pin SMD (MSOP) LMV358 Op Amp
 - Description: 8 Pin SMD (MSOP) LMV358 Op Amp
 - Long Link: [http://oom.lt/OPAM-MS08-X-KLMV358-01](http://oom.lt/OPAM-MS08-X-KLMV358-01)
-- Long Link: [http://oom.lt/OAM358](http://oom.lt/OAM358)
+- Short Link: [http://oom.lt/OAM358](http://oom.lt/OAM358)
 
 ## Datasheets
 

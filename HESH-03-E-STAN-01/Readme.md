@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Grey Heat Shrink
 - Description: 3 mm Grey Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-E-STAN-01](http://oom.lt/HESH-03-E-STAN-01)
-- Long Link: [http://oom.lt/HS3E](http://oom.lt/HS3E)
+- Short Link: [http://oom.lt/HS3E](http://oom.lt/HS3E)
 
 ## Datasheets
 

@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 75 Ohm Resistor 1%
 - Description: SMD (0805) 75 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O750-67](http://oom.lt/RESE-0805-X-O750-67)
-- Long Link: [http://oom.lt/R85750A](http://oom.lt/R85750A)
+- Short Link: [http://oom.lt/R85750A](http://oom.lt/R85750A)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm 10 uH Inductor
 - Description: 6 mm 10 uH Inductor
 - Long Link: [http://oom.lt/INDU-06-X-UH10-01](http://oom.lt/INDU-06-X-UH10-01)
-- Long Link: [http://oom.lt/IN06U10](http://oom.lt/IN06U10)
+- Short Link: [http://oom.lt/IN06U10](http://oom.lt/IN06U10)
 
 ## Datasheets
 

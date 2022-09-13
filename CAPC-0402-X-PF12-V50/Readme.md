@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF12-V50](http://oom.lt/CAPC-0402-X-PF12-V50)
-- Long Link: [http://oom.lt/C42P012](http://oom.lt/C42P012)
+- Short Link: [http://oom.lt/C42P012](http://oom.lt/C42P012)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Orange Heat Shrink
 - Description: 6 mm Orange Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-O-STAN-01](http://oom.lt/HESH-06-O-STAN-01)
-- Long Link: [http://oom.lt/HS6O](http://oom.lt/HS6O)
+- Short Link: [http://oom.lt/HS6O](http://oom.lt/HS6O)
 
 ## Datasheets
 

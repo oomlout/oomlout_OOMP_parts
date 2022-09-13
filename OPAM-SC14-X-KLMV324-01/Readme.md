@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOIC-14) LMV324 Op Amp
 - Description: SMD (SOIC-14) LMV324 Op Amp
 - Long Link: [http://oom.lt/OPAM-SC14-X-KLMV324-01](http://oom.lt/OPAM-SC14-X-KLMV324-01)
-- Long Link: [http://oom.lt/OAS324](http://oom.lt/OAS324)
+- Short Link: [http://oom.lt/OAS324](http://oom.lt/OAS324)
 
 ## Datasheets
 

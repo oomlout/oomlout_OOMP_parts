@@ -19,7 +19,7 @@ Contents
 - Name: 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
 - Description: 16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)
 - Long Link: [http://oom.lt/ICIC-QFN16-X-K5883-01](http://oom.lt/ICIC-QFN16-X-K5883-01)
-- Long Link: [http://oom.lt/ICS5883](http://oom.lt/ICS5883)
+- Short Link: [http://oom.lt/ICS5883](http://oom.lt/ICS5883)
 
 ## Datasheets
 

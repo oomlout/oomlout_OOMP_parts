@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Red LED
 - Description: 3 mm Red LED
 - Long Link: [http://oom.lt/LEDS-03-R-STAN-01](http://oom.lt/LEDS-03-R-STAN-01)
-- Long Link: [http://oom.lt/L3R](http://oom.lt/L3R)
+- Short Link: [http://oom.lt/L3R](http://oom.lt/L3R)
 
 ## Datasheets
 

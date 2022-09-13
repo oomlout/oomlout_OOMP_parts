@@ -19,7 +19,7 @@ Contents
 - Name: 16 Pin DIP Dual H-Bridge (L293D)
 - Description: 16 Pin DIP Dual H-Bridge (L293D)
 - Long Link: [http://oom.lt/ICIC-DI16-X-KL293D-01](http://oom.lt/ICIC-DI16-X-KL293D-01)
-- Long Link: [http://oom.lt/ICL293D](http://oom.lt/ICL293D)
+- Short Link: [http://oom.lt/ICL293D](http://oom.lt/ICL293D)
 
 ## Datasheets
 

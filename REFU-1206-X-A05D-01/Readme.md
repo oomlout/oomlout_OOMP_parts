@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206) 500 mA Resetable Fuse
 - Description: SMD (1206) 500 mA Resetable Fuse
 - Long Link: [http://oom.lt/REFU-1206-X-A05D-01](http://oom.lt/REFU-1206-X-A05D-01)
-- Long Link: [http://oom.lt/RF1205](http://oom.lt/RF1205)
+- Short Link: [http://oom.lt/RF1205](http://oom.lt/RF1205)
 
 ## Datasheets
 

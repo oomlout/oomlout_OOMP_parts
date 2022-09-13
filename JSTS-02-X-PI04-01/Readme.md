@@ -20,7 +20,7 @@ Contents
 - Name: 2 mm 4 Pin JST Socket
 - Description: 2 mm 4 Pin JST Socket
 - Long Link: [http://oom.lt/JSTS-02-X-PI04-01](http://oom.lt/JSTS-02-X-PI04-01)
-- Long Link: [http://oom.lt/J204](http://oom.lt/J204)
+- Short Link: [http://oom.lt/J204](http://oom.lt/J204)
 
 ## Datasheets
 

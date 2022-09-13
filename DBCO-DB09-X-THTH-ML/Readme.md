@@ -20,7 +20,7 @@ Contents
 - Name: DB9 Connector Male
 - Description: DB9 Connector Male
 - Long Link: [http://oom.lt/DBCO-DB09-X-THTH-ML](http://oom.lt/DBCO-DB09-X-THTH-ML)
-- Long Link: [http://oom.lt/DB09M](http://oom.lt/DB09M)
+- Short Link: [http://oom.lt/DB09M](http://oom.lt/DB09M)
 
 ## Datasheets
 

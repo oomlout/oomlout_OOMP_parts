@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 10 uF Capacitor (Ceramic) 25v
 - Description: SMD (0805) 10 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF10-V25](http://oom.lt/CAPC-0805-X-UF10-V25)
-- Long Link: [http://oom.lt/C85U010](http://oom.lt/C85U010)
+- Short Link: [http://oom.lt/C85U010](http://oom.lt/C85U010)
 
 ## Datasheets
 

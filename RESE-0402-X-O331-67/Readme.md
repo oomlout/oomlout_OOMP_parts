@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 330 Ohm Resistor 1%
 - Description: SMD (0402) 330 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O331-67](http://oom.lt/RESE-0402-X-O331-67)
-- Long Link: [http://oom.lt/R42331A](http://oom.lt/R42331A)
+- Short Link: [http://oom.lt/R42331A](http://oom.lt/R42331A)
 
 ## Datasheets
 

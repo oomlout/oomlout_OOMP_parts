@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1210) 22 uF Capacitor (Tantalum) 10v
 - Description: SMD (1210) 22 uF Capacitor (Tantalum) 10v
 - Long Link: [http://oom.lt/CAPT-1210-X-UF22-V10](http://oom.lt/CAPT-1210-X-UF22-V10)
-- Long Link: [http://oom.lt/CTS2U022](http://oom.lt/CTS2U022)
+- Short Link: [http://oom.lt/CTS2U022](http://oom.lt/CTS2U022)
 
 ## Datasheets
 

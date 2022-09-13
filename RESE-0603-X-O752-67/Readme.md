@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 7.5k Ohm Resistor 1%
 - Description: SMD (0603) 7.5k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O752-67](http://oom.lt/RESE-0603-X-O752-67)
-- Long Link: [http://oom.lt/R6752A](http://oom.lt/R6752A)
+- Short Link: [http://oom.lt/R6752A](http://oom.lt/R6752A)
 
 ## Labels
   

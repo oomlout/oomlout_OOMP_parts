@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0806) 10 uH Inductor
 - Description: SMD (0806) 10 uH Inductor
 - Long Link: [http://oom.lt/INDU-0806-X-UH10-01](http://oom.lt/INDU-0806-X-UH10-01)
-- Long Link: [http://oom.lt/IN86U10](http://oom.lt/IN86U10)
+- Short Link: [http://oom.lt/IN86U10](http://oom.lt/IN86U10)
 
 ## Datasheets
 

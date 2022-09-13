@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 47k Ohm Resistor 1%
 - Description: SMD (0805) 47k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O473-67](http://oom.lt/RESE-0805-X-O473-67)
-- Long Link: [http://oom.lt/R85473A](http://oom.lt/R85473A)
+- Short Link: [http://oom.lt/R85473A](http://oom.lt/R85473A)
 
 ## Datasheets
 

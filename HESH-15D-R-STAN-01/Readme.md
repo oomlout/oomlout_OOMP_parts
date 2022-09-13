@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Red Heat Shrink
 - Description: 1.5 mm Red Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-R-STAN-01](http://oom.lt/HESH-15D-R-STAN-01)
-- Long Link: [http://oom.lt/HS1R](http://oom.lt/HS1R)
+- Short Link: [http://oom.lt/HS1R](http://oom.lt/HS1R)
 
 ## Datasheets
 

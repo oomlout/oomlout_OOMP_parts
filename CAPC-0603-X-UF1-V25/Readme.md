@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 1 uF Capacitor (Ceramic) 25v
 - Description: SMD (0603) 1 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF1-V25](http://oom.lt/CAPC-0603-X-UF1-V25)
-- Long Link: [http://oom.lt/C6U001](http://oom.lt/C6U001)
+- Short Link: [http://oom.lt/C6U001](http://oom.lt/C6U001)
 
 ## Datasheets
 

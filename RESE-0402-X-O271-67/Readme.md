@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 270 Ohm Resistor 1%
 - Description: SMD (0402) 270 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O271-67](http://oom.lt/RESE-0402-X-O271-67)
-- Long Link: [http://oom.lt/R42](http://oom.lt/R42)
+- Short Link: [http://oom.lt/R42](http://oom.lt/R42)
 
 ## Labels
   

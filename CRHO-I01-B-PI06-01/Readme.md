@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Black Crimp Housing
 - Description: 2.54 mm 6 Pin Black Crimp Housing
 - Long Link: [http://oom.lt/CRHO-I01-B-PI06-01](http://oom.lt/CRHO-I01-B-PI06-01)
-- Long Link: [http://oom.lt/CH06](http://oom.lt/CH06)
+- Short Link: [http://oom.lt/CH06](http://oom.lt/CH06)
 
 ## Datasheets
 

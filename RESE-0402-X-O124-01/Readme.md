@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 120k Ohm Resistor
 - Description: SMD (0402) 120k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O124-01](http://oom.lt/RESE-0402-X-O124-01)
-- Long Link: [http://oom.lt/R42124](http://oom.lt/R42124)
+- Short Link: [http://oom.lt/R42124](http://oom.lt/R42124)
 
 ## Labels
   

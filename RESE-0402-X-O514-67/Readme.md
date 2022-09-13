@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 510k Ohm Resistor 1%
 - Description: SMD (0402) 510k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O514-67](http://oom.lt/RESE-0402-X-O514-67)
-- Long Link: [http://oom.lt/R42514A](http://oom.lt/R42514A)
+- Short Link: [http://oom.lt/R42514A](http://oom.lt/R42514A)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 8 Pin SMD (SOIC) LM2904 Dual Op Amp
 - Description: 8 Pin SMD (SOIC) LM2904 Dual Op Amp
 - Long Link: [http://oom.lt/OPAM-SC8-X-K2904-01](http://oom.lt/OPAM-SC8-X-K2904-01)
-- Long Link: [http://oom.lt/OAS2904](http://oom.lt/OAS2904)
+- Short Link: [http://oom.lt/OAS2904](http://oom.lt/OAS2904)
 
 ## Datasheets
 

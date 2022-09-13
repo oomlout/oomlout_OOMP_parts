@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA
 - Description: SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA
 - Long Link: [http://oom.lt/VREG-SO235-X-V33D-AC](http://oom.lt/VREG-SO235-X-V33D-AC)
-- Long Link: [http://oom.lt/VS533](http://oom.lt/VS533)
+- Short Link: [http://oom.lt/VS533](http://oom.lt/VS533)
 
 ## Datasheets
 

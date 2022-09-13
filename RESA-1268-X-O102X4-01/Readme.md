@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206-8) 1k Ohm (x4) Resistor Array
 - Description: SMD (1206-8) 1k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-1268-X-O102X4-01](http://oom.lt/RESA-1268-X-O102X4-01)
-- Long Link: [http://oom.lt/RA1102](http://oom.lt/RA1102)
+- Short Link: [http://oom.lt/RA1102](http://oom.lt/RA1102)
 
 ## Datasheets
 

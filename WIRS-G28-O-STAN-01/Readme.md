@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Orange Stranded Wire
 - Description: 28 AWG Orange Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-O-STAN-01](http://oom.lt/WIRS-G28-O-STAN-01)
-- Long Link: [http://oom.lt/W2O](http://oom.lt/W2O)
+- Short Link: [http://oom.lt/W2O](http://oom.lt/W2O)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 10k Ohm Resistor
 - Description: SMD (0805) 10k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O103-01](http://oom.lt/RESE-0805-X-O103-01)
-- Long Link: [http://oom.lt/R85103](http://oom.lt/R85103)
+- Short Link: [http://oom.lt/R85103](http://oom.lt/R85103)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 10 Segment LED Bargraph Green, Yellow, Red Display
 - Description: 10 Segment LED Bargraph Green, Yellow, Red Display
 - Long Link: [http://oom.lt/DISP-10SEL-GYR-STAN-01](http://oom.lt/DISP-10SEL-GYR-STAN-01)
-- Long Link: [http://oom.lt/DS10M](http://oom.lt/DS10M)
+- Short Link: [http://oom.lt/DS10M](http://oom.lt/DS10M)
 
 ## Datasheets
 

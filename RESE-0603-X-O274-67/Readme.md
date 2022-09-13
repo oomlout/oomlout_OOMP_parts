@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 270k Ohm Resistor 1%
 - Description: SMD (0603) 270k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O274-67](http://oom.lt/RESE-0603-X-O274-67)
-- Long Link: [http://oom.lt/R6274A](http://oom.lt/R6274A)
+- Short Link: [http://oom.lt/R6274A](http://oom.lt/R6274A)
 
 ## Labels
   

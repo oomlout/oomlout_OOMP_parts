@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 6.8k Ohm Resistor
 - Description: SMD (0805) 6.8k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O682-01](http://oom.lt/RESE-0805-X-O682-01)
-- Long Link: [http://oom.lt/R85682](http://oom.lt/R85682)
+- Short Link: [http://oom.lt/R85682](http://oom.lt/R85682)
 
 ## Labels
   

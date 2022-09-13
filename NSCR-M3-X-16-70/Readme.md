@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 16 mm Nylon Screw Cross Head
 - Description: M3 x 16 mm Nylon Screw Cross Head
 - Long Link: [http://oom.lt/NSCR-M3-X-16-70](http://oom.lt/NSCR-M3-X-16-70)
-- Long Link: [http://oom.lt/NS16](http://oom.lt/NS16)
+- Short Link: [http://oom.lt/NS16](http://oom.lt/NS16)
 
 ## Datasheets
 

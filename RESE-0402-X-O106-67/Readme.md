@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 10M Ohm Resistor 1%
 - Description: SMD (0402) 10M Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O106-67](http://oom.lt/RESE-0402-X-O106-67)
-- Long Link: [http://oom.lt/R42106A](http://oom.lt/R42106A)
+- Short Link: [http://oom.lt/R42106A](http://oom.lt/R42106A)
 
 ## Datasheets
 

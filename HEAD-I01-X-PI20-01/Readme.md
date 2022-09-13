@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 20 Pin Header
 - Description: 2.54 mm 20 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI20-01](http://oom.lt/HEAD-I01-X-PI20-01)
-- Long Link: [http://oom.lt/H20](http://oom.lt/H20)
+- Short Link: [http://oom.lt/H20](http://oom.lt/H20)
 
 ## Datasheets
 

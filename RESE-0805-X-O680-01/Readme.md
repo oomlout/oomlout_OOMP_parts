@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 68 Ohm Resistor
 - Description: SMD (0805) 68 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O680-01](http://oom.lt/RESE-0805-X-O680-01)
-- Long Link: [http://oom.lt/R85680](http://oom.lt/R85680)
+- Short Link: [http://oom.lt/R85680](http://oom.lt/R85680)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 100 Ohm Resistor
 - Description: SMD (0805) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O101-01](http://oom.lt/RESE-0805-X-O101-01)
-- Long Link: [http://oom.lt/R85101](http://oom.lt/R85101)
+- Short Link: [http://oom.lt/R85101](http://oom.lt/R85101)
 
 ## Datasheets
 

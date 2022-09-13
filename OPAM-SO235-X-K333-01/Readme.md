@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23-5) OPA333 Op Amp
 - Description: SMD (SOT-23-5) OPA333 Op Amp
 - Long Link: [http://oom.lt/OPAM-SO235-X-K333-01](http://oom.lt/OPAM-SO235-X-K333-01)
-- Long Link: [http://oom.lt/OA333](http://oom.lt/OA333)
+- Short Link: [http://oom.lt/OA333](http://oom.lt/OA333)
 
 ## Datasheets
 

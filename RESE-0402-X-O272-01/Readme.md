@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 2.7k Ohm Resistor
 - Description: SMD (0402) 2.7k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O272-01](http://oom.lt/RESE-0402-X-O272-01)
-- Long Link: [http://oom.lt/R42272](http://oom.lt/R42272)
+- Short Link: [http://oom.lt/R42272](http://oom.lt/R42272)
 
 ## Labels
   

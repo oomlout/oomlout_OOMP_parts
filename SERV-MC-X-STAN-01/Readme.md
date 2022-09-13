@@ -18,7 +18,7 @@ Contents
 - Name: Micro Servo
 - Description: Micro Servo
 - Long Link: [http://oom.lt/SERV-MC-X-STAN-01](http://oom.lt/SERV-MC-X-STAN-01)
-- Long Link: [http://oom.lt/SVM](http://oom.lt/SVM)
+- Short Link: [http://oom.lt/SVM](http://oom.lt/SVM)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 6.3 mm 100 uF Capacitor (Electrolytic) 25v
 - Description: 6.3 mm 100 uF Capacitor (Electrolytic) 25v
 - Long Link: [http://oom.lt/CAPE-63D-X-UF100-V25](http://oom.lt/CAPE-63D-X-UF100-V25)
-- Long Link: [http://oom.lt/CEU100](http://oom.lt/CEU100)
+- Short Link: [http://oom.lt/CEU100](http://oom.lt/CEU100)
 
 ## Datasheets
 

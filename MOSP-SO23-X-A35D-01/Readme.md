@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
 - Description: SMD (SOT-23) 3.5 Amp P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-SO23-X-A35D-01](http://oom.lt/MOSP-SO23-X-A35D-01)
-- Long Link: [http://oom.lt/MPS235D](http://oom.lt/MPS235D)
+- Short Link: [http://oom.lt/MPS235D](http://oom.lt/MPS235D)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
 - Description: 48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)
 - Long Link: [http://oom.lt/ICIC-QFN48-X-KRF822-01](http://oom.lt/ICIC-QFN48-X-KRF822-01)
-- Long Link: [http://oom.lt/IC822](http://oom.lt/IC822)
+- Short Link: [http://oom.lt/IC822](http://oom.lt/IC822)
 
 ## Datasheets
 

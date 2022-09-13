@@ -20,7 +20,7 @@ Contents
 - Name: TO-92 Adjustable Voltage Regulator 100 mA
 - Description: TO-92 Adjustable Voltage Regulator 100 mA
 - Long Link: [http://oom.lt/VREG-T92-X-ADJU-AH](http://oom.lt/VREG-T92-X-ADJU-AH)
-- Long Link: [http://oom.lt/V92A](http://oom.lt/V92A)
+- Short Link: [http://oom.lt/V92A](http://oom.lt/V92A)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 4 Pin Header (Socket)
 - Description: 2.54 mm 4 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI04-01](http://oom.lt/HEAS-I01-X-PI04-01)
-- Long Link: [http://oom.lt/HS04](http://oom.lt/HS04)
+- Short Link: [http://oom.lt/HS04](http://oom.lt/HS04)
 
 ## Datasheets
 

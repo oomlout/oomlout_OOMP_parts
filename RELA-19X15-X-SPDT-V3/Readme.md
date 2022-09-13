@@ -20,7 +20,7 @@ Contents
 - Name: 19 x 15 mm SPDT Relay 3v
 - Description: 19 x 15 mm SPDT Relay 3v
 - Long Link: [http://oom.lt/RELA-19X15-X-SPDT-V3](http://oom.lt/RELA-19X15-X-SPDT-V3)
-- Long Link: [http://oom.lt/RL19S3](http://oom.lt/RL19S3)
+- Short Link: [http://oom.lt/RL19S3](http://oom.lt/RL19S3)
 
 ## Datasheets
 

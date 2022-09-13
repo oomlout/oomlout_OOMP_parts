@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Black Heat Shrink
 - Description: 6 mm Black Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-B-STAN-01](http://oom.lt/HESH-06-B-STAN-01)
-- Long Link: [http://oom.lt/HS6B](http://oom.lt/HS6B)
+- Short Link: [http://oom.lt/HS6B](http://oom.lt/HS6B)
 
 ## Datasheets
 

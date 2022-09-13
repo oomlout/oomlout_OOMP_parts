@@ -20,7 +20,7 @@ Contents
 - Name: Mini SMD Metal USB Socket
 - Description: Mini SMD Metal USB Socket
 - Long Link: [http://oom.lt/USBS-MN-M-SMDS-01](http://oom.lt/USBS-MN-M-SMDS-01)
-- Long Link: [http://oom.lt/USN](http://oom.lt/USN)
+- Short Link: [http://oom.lt/USN](http://oom.lt/USN)
 
 ## Datasheets
 

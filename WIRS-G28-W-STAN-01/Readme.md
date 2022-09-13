@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG White Stranded Wire
 - Description: 28 AWG White Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-W-STAN-01](http://oom.lt/WIRS-G28-W-STAN-01)
-- Long Link: [http://oom.lt/W2W](http://oom.lt/W2W)
+- Short Link: [http://oom.lt/W2W](http://oom.lt/W2W)
 
 ## Datasheets
 

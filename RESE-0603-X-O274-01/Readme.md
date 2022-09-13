@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 280k Ohm Resistor
 - Description: SMD (0603) 280k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O274-01](http://oom.lt/RESE-0603-X-O274-01)
-- Long Link: [http://oom.lt/R6274](http://oom.lt/R6274)
+- Short Link: [http://oom.lt/R6274](http://oom.lt/R6274)
 
 ## Labels
   

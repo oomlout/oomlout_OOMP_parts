@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 2.2 Ohm Resistor 1%
 - Description: SMD (0603) 2.2 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O22X-67](http://oom.lt/RESE-0603-X-O22X-67)
-- Long Link: [http://oom.lt/R622X](http://oom.lt/R622X)
+- Short Link: [http://oom.lt/R622X](http://oom.lt/R622X)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 - Description: 8 Pin SMD (SOIC) CAN Tranceiver (MCP2521)
 - Long Link: [http://oom.lt/ICIC-SC8-X-K2551-01](http://oom.lt/ICIC-SC8-X-K2551-01)
-- Long Link: [http://oom.lt/ICS2551](http://oom.lt/ICS2551)
+- Short Link: [http://oom.lt/ICS2551](http://oom.lt/ICS2551)
 
 ## Datasheets
 

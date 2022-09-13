@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206-3) 12 MHz Ceramic Resonator
 - Description: SMD (1206-3) 12 MHz Ceramic Resonator
 - Long Link: [http://oom.lt/CERE-1263-X-MZ12-01](http://oom.lt/CERE-1263-X-MZ12-01)
-- Long Link: [http://oom.lt/CR16312](http://oom.lt/CR16312)
+- Short Link: [http://oom.lt/CR16312](http://oom.lt/CR16312)
 
 ## Datasheets
 

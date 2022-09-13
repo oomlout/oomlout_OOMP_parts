@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Yellow Heat Shrink
 - Description: 3 mm Yellow Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-Y-STAN-01](http://oom.lt/HESH-03-Y-STAN-01)
-- Long Link: [http://oom.lt/HS3Y](http://oom.lt/HS3Y)
+- Short Link: [http://oom.lt/HS3Y](http://oom.lt/HS3Y)
 
 ## Datasheets
 

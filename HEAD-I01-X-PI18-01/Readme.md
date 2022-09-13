@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 18 Pin Header
 - Description: 2.54 mm 18 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI18-01](http://oom.lt/HEAD-I01-X-PI18-01)
-- Long Link: [http://oom.lt/H18](http://oom.lt/H18)
+- Short Link: [http://oom.lt/H18](http://oom.lt/H18)
 
 ## Diagrams
   

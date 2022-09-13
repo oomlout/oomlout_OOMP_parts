@@ -20,7 +20,7 @@ Contents
 - Name: 3.5 mm SMD Headphone Socket
 - Description: 3.5 mm SMD Headphone Socket
 - Long Link: [http://oom.lt/HEDS-35D-X-SMDS-01](http://oom.lt/HEDS-35D-X-SMDS-01)
-- Long Link: [http://oom.lt/10C1](http://oom.lt/10C1)
+- Short Link: [http://oom.lt/10C1](http://oom.lt/10C1)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: TO-92 2222A NPN Transistor
 - Description: TO-92 2222A NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-K222-01](http://oom.lt/TRNN-T92-X-K222-01)
-- Long Link: [http://oom.lt/NT92222](http://oom.lt/NT92222)
+- Short Link: [http://oom.lt/NT92222](http://oom.lt/NT92222)
 
 ## Datasheets
 

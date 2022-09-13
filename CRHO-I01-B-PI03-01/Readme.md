@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 3 Pin Black Crimp Housing
 - Description: 2.54 mm 3 Pin Black Crimp Housing
 - Long Link: [http://oom.lt/CRHO-I01-B-PI03-01](http://oom.lt/CRHO-I01-B-PI03-01)
-- Long Link: [http://oom.lt/CH03](http://oom.lt/CH03)
+- Short Link: [http://oom.lt/CH03](http://oom.lt/CH03)
 
 ## Datasheets
 

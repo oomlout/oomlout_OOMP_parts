@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin White Header (Socket)
 - Description: 2.54 mm 6 Pin White Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-W-PI06-01](http://oom.lt/HEAS-I01-W-PI06-01)
-- Long Link: [http://oom.lt/HS6W](http://oom.lt/HS6W)
+- Short Link: [http://oom.lt/HS6W](http://oom.lt/HS6W)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 47 Ohm Resistor
 - Description: 1/4 Watt 47 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O470-01](http://oom.lt/RESE-W04-X-O470-01)
-- Long Link: [http://oom.lt/R4470](http://oom.lt/R4470)
+- Short Link: [http://oom.lt/R4470](http://oom.lt/R4470)
 
 ## Datasheets
 

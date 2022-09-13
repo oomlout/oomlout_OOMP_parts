@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 51 Ohm Resistor 1%
 - Description: SMD (0603) 51 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O510-67](http://oom.lt/RESE-0603-X-O510-67)
-- Long Link: [http://oom.lt/R6510A](http://oom.lt/R6510A)
+- Short Link: [http://oom.lt/R6510A](http://oom.lt/R6510A)
 
 ## Labels
   

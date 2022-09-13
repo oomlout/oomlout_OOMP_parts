@@ -19,7 +19,7 @@ Contents
 - Name: 9.2 mm PIRS Sensor
 - Description: 9.2 mm PIRS Sensor
 - Long Link: [http://oom.lt/SENS-92D-X-PIRS-01](http://oom.lt/SENS-92D-X-PIRS-01)
-- Long Link: [http://oom.lt/SEPI](http://oom.lt/SEPI)
+- Short Link: [http://oom.lt/SEPI](http://oom.lt/SEPI)
 
 ## Datasheets
 

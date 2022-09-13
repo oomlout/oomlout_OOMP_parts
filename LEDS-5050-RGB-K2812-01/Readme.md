@@ -19,7 +19,7 @@ Contents
 - Name: SMD (5050) Smart Controller (WS2812B) RGB LED
 - Description: SMD (5050) Smart Controller (WS2812B) RGB LED
 - Long Link: [http://oom.lt/LEDS-5050-RGB-K2812-01](http://oom.lt/LEDS-5050-RGB-K2812-01)
-- Long Link: [http://oom.lt/L502](http://oom.lt/L502)
+- Short Link: [http://oom.lt/L502](http://oom.lt/L502)
 
 ## Datasheets
 

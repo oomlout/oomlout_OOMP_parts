@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-89) 3.3v Voltage Regulator 1 A
 - Description: SMD (SOT-89) 3.3v Voltage Regulator 1 A
 - Long Link: [http://oom.lt/VREG-SO89-X-V33D-A1](http://oom.lt/VREG-SO89-X-V33D-A1)
-- Long Link: [http://oom.lt/VS831](http://oom.lt/VS831)
+- Short Link: [http://oom.lt/VS831](http://oom.lt/VS831)
 
 ## Datasheets
 

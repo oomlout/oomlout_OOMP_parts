@@ -20,7 +20,7 @@ Contents
 - Name: SMD (5032) 16 MHz Crystal
 - Description: SMD (5032) 16 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ16-01](http://oom.lt/XTAL-5032-X-MZ16-01)
-- Long Link: [http://oom.lt/XS516](http://oom.lt/XS516)
+- Short Link: [http://oom.lt/XS516](http://oom.lt/XS516)
 
 ## Datasheets
 

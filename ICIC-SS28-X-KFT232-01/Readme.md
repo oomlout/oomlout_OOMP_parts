@@ -19,7 +19,7 @@ Contents
 - Name: 28 Pin SMD (SSOP) USB-Serial (FT232RL)
 - Description: 28 Pin SMD (SSOP) USB-Serial (FT232RL)
 - Long Link: [http://oom.lt/ICIC-SS28-X-KFT232-01](http://oom.lt/ICIC-SS28-X-KFT232-01)
-- Long Link: [http://oom.lt/ICSF232](http://oom.lt/ICSF232)
+- Short Link: [http://oom.lt/ICSF232](http://oom.lt/ICSF232)
 
 ## Datasheets
 

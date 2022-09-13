@@ -20,7 +20,7 @@ Contents
 - Name: Micro SMD Metal SD Card Socket
 - Description: Micro SMD Metal SD Card Socket
 - Long Link: [http://oom.lt/SDCS-MC-M-SMDS-03](http://oom.lt/SDCS-MC-M-SMDS-03)
-- Long Link: [http://oom.lt/SDMS3](http://oom.lt/SDMS3)
+- Short Link: [http://oom.lt/SDMS3](http://oom.lt/SDMS3)
 
 ## Datasheets
 

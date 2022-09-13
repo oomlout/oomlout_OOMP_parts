@@ -18,7 +18,7 @@ Contents
 - Name: TO-92 2N3906 PNP Transistor
 - Description: TO-92 2N3906 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-K2N3906-01](http://oom.lt/TRNP-T92-X-K2N3906-01)
-- Long Link: [http://oom.lt/TP92N36](http://oom.lt/TP92N36)
+- Short Link: [http://oom.lt/TP92N36](http://oom.lt/TP92N36)
 
 ## Labels
   

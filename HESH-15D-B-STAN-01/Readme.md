@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Black Heat Shrink
 - Description: 1.5 mm Black Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-B-STAN-01](http://oom.lt/HESH-15D-B-STAN-01)
-- Long Link: [http://oom.lt/HS1B](http://oom.lt/HS1B)
+- Short Link: [http://oom.lt/HS1B](http://oom.lt/HS1B)
 
 ## Datasheets
 

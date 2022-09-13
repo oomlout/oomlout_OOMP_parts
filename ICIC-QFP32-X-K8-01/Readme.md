@@ -20,7 +20,7 @@ Contents
 - Name: 32 Pin SMD (TQFP) AtMega8A
 - Description: 32 Pin SMD (TQFP) AtMega8A
 - Long Link: [http://oom.lt/ICIC-QFP32-X-K8-01](http://oom.lt/ICIC-QFP32-X-K8-01)
-- Long Link: [http://oom.lt/ICS008](http://oom.lt/ICS008)
+- Short Link: [http://oom.lt/ICS008](http://oom.lt/ICS008)
 
 ## Datasheets
 

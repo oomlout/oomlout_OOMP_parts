@@ -19,7 +19,7 @@ Contents
 - Name: SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
 - Description: SMD (DFN-10) 3-Axis Accelerometer (MMA7660FCR1)
 - Long Link: [http://oom.lt/ICIC-DFN10-X-K7660-01](http://oom.lt/ICIC-DFN10-X-K7660-01)
-- Long Link: [http://oom.lt/ICS7660](http://oom.lt/ICS7660)
+- Short Link: [http://oom.lt/ICS7660](http://oom.lt/ICS7660)
 
 ## Datasheets
 

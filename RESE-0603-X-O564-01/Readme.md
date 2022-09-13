@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 560k Ohm Resistor
 - Description: SMD (0603) 560k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O564-01](http://oom.lt/RESE-0603-X-O564-01)
-- Long Link: [http://oom.lt/R6564](http://oom.lt/R6564)
+- Short Link: [http://oom.lt/R6564](http://oom.lt/R6564)
 
 ## Datasheets
 

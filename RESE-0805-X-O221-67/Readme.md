@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 220 Ohm Resistor 1%
 - Description: SMD (0805) 220 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O221-67](http://oom.lt/RESE-0805-X-O221-67)
-- Long Link: [http://oom.lt/R85221A](http://oom.lt/R85221A)
+- Short Link: [http://oom.lt/R85221A](http://oom.lt/R85221A)
 
 ## Labels
   

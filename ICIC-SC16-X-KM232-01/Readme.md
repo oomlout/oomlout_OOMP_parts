@@ -20,7 +20,7 @@ Contents
 - Name: 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
 - Description: 16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)
 - Long Link: [http://oom.lt/ICIC-SC16-X-KM232-01](http://oom.lt/ICIC-SC16-X-KM232-01)
-- Long Link: [http://oom.lt/ICSM232](http://oom.lt/ICSM232)
+- Short Link: [http://oom.lt/ICSM232](http://oom.lt/ICSM232)
 
 ## Datasheets
 

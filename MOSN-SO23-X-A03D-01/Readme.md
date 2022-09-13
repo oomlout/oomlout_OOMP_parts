@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 300 mA N-Ch. MOSFET
 - Description: SMD (SOT-23) 300 mA N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-A03D-01](http://oom.lt/MOSN-SO23-X-A03D-01)
-- Long Link: [http://oom.lt/MNS23D](http://oom.lt/MNS23D)
+- Short Link: [http://oom.lt/MNS23D](http://oom.lt/MNS23D)
 
 ## Datasheets
 

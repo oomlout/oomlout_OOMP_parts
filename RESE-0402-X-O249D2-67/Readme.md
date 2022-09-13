@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 2.49 Ohm Resistor 1%
 - Description: SMD (0402) 2.49 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O249D2-67](http://oom.lt/RESE-0402-X-O249D2-67)
-- Long Link: [http://oom.lt/R42249D2A](http://oom.lt/R42249D2A)
+- Short Link: [http://oom.lt/R42249D2A](http://oom.lt/R42249D2A)
 
 ## Labels
   

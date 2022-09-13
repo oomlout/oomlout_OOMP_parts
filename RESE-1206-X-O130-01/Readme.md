@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206) 13 Ohm Resistor
 - Description: SMD (1206) 13 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O130-01](http://oom.lt/RESE-1206-X-O130-01)
-- Long Link: [http://oom.lt/R1130](http://oom.lt/R1130)
+- Short Link: [http://oom.lt/R1130](http://oom.lt/R1130)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF100-V63D](http://oom.lt/CAPC-1206-X-UF100-V63D)
-- Long Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
+- Short Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
 
 ## Datasheets
 

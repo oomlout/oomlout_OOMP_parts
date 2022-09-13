@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm RGB LED
 - Description: 5 mm RGB LED
 - Long Link: [http://oom.lt/LEDS-05-RGB-STAN-01](http://oom.lt/LEDS-05-RGB-STAN-01)
-- Long Link: [http://oom.lt/L5RGB](http://oom.lt/L5RGB)
+- Short Link: [http://oom.lt/L5RGB](http://oom.lt/L5RGB)
 
 ## Datasheets
 

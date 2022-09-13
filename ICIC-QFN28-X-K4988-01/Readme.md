@@ -19,7 +19,7 @@ Contents
 - Name: 28 Pin SMD (QFN) Stepper Motor Driver (A4988)
 - Description: 28 Pin SMD (QFN) Stepper Motor Driver (A4988)
 - Long Link: [http://oom.lt/ICIC-QFN28-X-K4988-01](http://oom.lt/ICIC-QFN28-X-K4988-01)
-- Long Link: [http://oom.lt/IC4988](http://oom.lt/IC4988)
+- Short Link: [http://oom.lt/IC4988](http://oom.lt/IC4988)
 
 ## Datasheets
 

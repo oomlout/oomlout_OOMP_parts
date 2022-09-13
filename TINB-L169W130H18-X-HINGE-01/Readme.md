@@ -18,7 +18,7 @@ Contents
 - Name: 169 mm x 130 mm x 18 mm Hinged Tin Box
 - Description: 169 mm x 130 mm x 18 mm Hinged Tin Box
 - Long Link: [http://oom.lt/TINB-L169W130H18-X-HINGE-01](http://oom.lt/TINB-L169W130H18-X-HINGE-01)
-- Long Link: [http://oom.lt/TB01](http://oom.lt/TB01)
+- Short Link: [http://oom.lt/TB01](http://oom.lt/TB01)
 
 ## Labels
   

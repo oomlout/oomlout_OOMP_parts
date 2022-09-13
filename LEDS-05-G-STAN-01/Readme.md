@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm Green LED
 - Description: 5 mm Green LED
 - Long Link: [http://oom.lt/LEDS-05-G-STAN-01](http://oom.lt/LEDS-05-G-STAN-01)
-- Long Link: [http://oom.lt/L5G](http://oom.lt/L5G)
+- Short Link: [http://oom.lt/L5G](http://oom.lt/L5G)
 
 ## Datasheets
 

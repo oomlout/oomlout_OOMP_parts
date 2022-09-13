@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 15k Ohm Resistor
 - Description: SMD (0805) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O153-01](http://oom.lt/RESE-0805-X-O153-01)
-- Long Link: [http://oom.lt/R85153](http://oom.lt/R85153)
+- Short Link: [http://oom.lt/R85153](http://oom.lt/R85153)
 
 ## Datasheets
 

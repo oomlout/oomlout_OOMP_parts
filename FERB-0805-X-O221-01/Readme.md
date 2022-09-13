@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0805) 220 Ohm Ferrite Bead
 - Description: SMD (0805) 220 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0805-X-O221-01](http://oom.lt/FERB-0805-X-O221-01)
-- Long Link: [http://oom.lt/F8221](http://oom.lt/F8221)
+- Short Link: [http://oom.lt/F8221](http://oom.lt/F8221)
 
 ## Datasheets
 

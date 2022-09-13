@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
 - Description: SMD (SOT-23-5) Adjustable Voltage Regulator 1.2 A
 - Long Link: [http://oom.lt/VREG-SO235-X-ADJU-AB](http://oom.lt/VREG-SO235-X-ADJU-AB)
-- Long Link: [http://oom.lt/VS5AB](http://oom.lt/VS5AB)
+- Short Link: [http://oom.lt/VS5AB](http://oom.lt/VS5AB)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: American Style (120v) 5v (USB) Power Adapter 1 A
 - Description: American Style (120v) 5v (USB) Power Adapter 1 A
 - Long Link: [http://oom.lt/POAD-ACUS-X-V05U-A1](http://oom.lt/POAD-ACUS-X-V05U-A1)
-- Long Link: [http://oom.lt/PAU5](http://oom.lt/PAU5)
+- Short Link: [http://oom.lt/PAU5](http://oom.lt/PAU5)
 
 ## Datasheets
 

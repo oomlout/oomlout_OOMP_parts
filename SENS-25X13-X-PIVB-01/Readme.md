@@ -19,7 +19,7 @@ Contents
 - Name: 25 x 13 mm Piezo Vibration Sensor
 - Description: 25 x 13 mm Piezo Vibration Sensor
 - Long Link: [http://oom.lt/SENS-25X13-X-PIVB-01](http://oom.lt/SENS-25X13-X-PIVB-01)
-- Long Link: [http://oom.lt/SEVB](http://oom.lt/SEVB)
+- Short Link: [http://oom.lt/SEVB](http://oom.lt/SEVB)
 
 ## Datasheets
 

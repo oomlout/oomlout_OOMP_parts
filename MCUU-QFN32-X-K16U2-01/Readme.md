@@ -19,7 +19,7 @@ Contents
 - Name: 32 Pin SMD (QFN) AtMega32U4 MCU
 - Description: 32 Pin SMD (QFN) AtMega32U4 MCU
 - Long Link: [http://oom.lt/MCUU-QFN32-X-K16U2-01](http://oom.lt/MCUU-QFN32-X-K16U2-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Datasheets
 

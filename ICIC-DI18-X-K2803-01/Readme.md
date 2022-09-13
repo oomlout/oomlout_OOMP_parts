@@ -20,7 +20,7 @@ Contents
 - Name: 18 Pin DIP ULN2803A Octal Transistor Array
 - Description: 18 Pin DIP ULN2803A Octal Transistor Array
 - Long Link: [http://oom.lt/ICIC-DI18-X-K2803-01](http://oom.lt/ICIC-DI18-X-K2803-01)
-- Long Link: [http://oom.lt/IC2803](http://oom.lt/IC2803)
+- Short Link: [http://oom.lt/IC2803](http://oom.lt/IC2803)
 
 ## Datasheets
 

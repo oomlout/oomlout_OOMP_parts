@@ -19,7 +19,7 @@ Contents
 - Name: 7 mm 1k Ohm Potentiometer
 - Description: 7 mm 1k Ohm Potentiometer
 - Long Link: [http://oom.lt/POTE-07-X-O102-01](http://oom.lt/POTE-07-X-O102-01)
-- Long Link: [http://oom.lt/PT7102](http://oom.lt/PT7102)
+- Short Link: [http://oom.lt/PT7102](http://oom.lt/PT7102)
 
 ## Datasheets
 

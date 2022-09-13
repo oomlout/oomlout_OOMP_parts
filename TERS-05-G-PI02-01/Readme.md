@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 2 Pin Green Screw Terminal
 - Description: 5 mm 2 Pin Green Screw Terminal
 - Long Link: [http://oom.lt/TERS-05-G-PI02-01](http://oom.lt/TERS-05-G-PI02-01)
-- Long Link: [http://oom.lt/ST502G](http://oom.lt/ST502G)
+- Short Link: [http://oom.lt/ST502G](http://oom.lt/ST502G)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: TO-92 S8050 NPN Transistor
 - Description: TO-92 S8050 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-KS8050-01](http://oom.lt/TRNN-T92-X-KS8050-01)
-- Long Link: [http://oom.lt/TN98050](http://oom.lt/TN98050)
+- Short Link: [http://oom.lt/TN98050](http://oom.lt/TN98050)
 
 ## Datasheets
 

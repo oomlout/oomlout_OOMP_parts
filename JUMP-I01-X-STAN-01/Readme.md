@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm Jumper
 - Description: 2.54 mm Jumper
 - Long Link: [http://oom.lt/JUMP-I01-X-STAN-01](http://oom.lt/JUMP-I01-X-STAN-01)
-- Long Link: [http://oom.lt/JU01](http://oom.lt/JU01)
+- Short Link: [http://oom.lt/JU01](http://oom.lt/JU01)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 14 Pin DIP Voice Recorder (ISD1820P)
 - Description: 14 Pin DIP Voice Recorder (ISD1820P)
 - Long Link: [http://oom.lt/ICIC-DI14-X-K1820-01](http://oom.lt/ICIC-DI14-X-K1820-01)
-- Long Link: [http://oom.lt/IC1820P](http://oom.lt/IC1820P)
+- Short Link: [http://oom.lt/IC1820P](http://oom.lt/IC1820P)
 
 ## Datasheets
 

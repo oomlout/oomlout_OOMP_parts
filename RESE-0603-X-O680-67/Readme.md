@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 68 Ohm Resistor 1%
 - Description: SMD (0603) 68 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O680-67](http://oom.lt/RESE-0603-X-O680-67)
-- Long Link: [http://oom.lt/R6680A](http://oom.lt/R6680A)
+- Short Link: [http://oom.lt/R6680A](http://oom.lt/R6680A)
 
 ## Labels
   

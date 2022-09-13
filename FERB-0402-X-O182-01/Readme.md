@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 1.8k Ohm Ferrite Bead
 - Description: SMD (0402) 1.8k Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0402-X-O182-01](http://oom.lt/FERB-0402-X-O182-01)
-- Long Link: [http://oom.lt/F42182](http://oom.lt/F42182)
+- Short Link: [http://oom.lt/F42182](http://oom.lt/F42182)
 
 ## Datasheets
 

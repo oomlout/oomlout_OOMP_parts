@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 - Description: SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A
 - Long Link: [http://oom.lt/VREG-SO23-X-BUCA-A2](http://oom.lt/VREG-SO23-X-BUCA-A2)
-- Long Link: [http://oom.lt/VS3BA](http://oom.lt/VS3BA)
+- Short Link: [http://oom.lt/VS3BA](http://oom.lt/VS3BA)
 
 ## Datasheets
 

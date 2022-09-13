@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 2.5v Voltage Regulator 200 mA
 - Description: SMD (SOT-23) 2.5v Voltage Regulator 200 mA
 - Long Link: [http://oom.lt/VREG-SO23-X-V25D-AE](http://oom.lt/VREG-SO23-X-V25D-AE)
-- Long Link: [http://oom.lt/VS325D1](http://oom.lt/VS325D1)
+- Short Link: [http://oom.lt/VS325D1](http://oom.lt/VS325D1)
 
 ## Datasheets
 

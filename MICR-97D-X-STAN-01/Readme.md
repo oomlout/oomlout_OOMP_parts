@@ -20,7 +20,7 @@ Contents
 - Name: 9.7 mm Microphone
 - Description: 9.7 mm Microphone
 - Long Link: [http://oom.lt/MICR-97D-X-STAN-01](http://oom.lt/MICR-97D-X-STAN-01)
-- Long Link: [http://oom.lt/MI97D](http://oom.lt/MI97D)
+- Short Link: [http://oom.lt/MI97D](http://oom.lt/MI97D)
 
 ## Datasheets
 

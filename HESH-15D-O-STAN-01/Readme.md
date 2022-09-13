@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Orange Heat Shrink
 - Description: 1.5 mm Orange Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-O-STAN-01](http://oom.lt/HESH-15D-O-STAN-01)
-- Long Link: [http://oom.lt/HS1O](http://oom.lt/HS1O)
+- Short Link: [http://oom.lt/HS1O](http://oom.lt/HS1O)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 2 Pin Header (Socket) (Round)
 - Description: 2.54 mm 2 Pin Header (Socket) (Round)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI02-RO](http://oom.lt/HEAS-I01-X-PI02-RO)
-- Long Link: [http://oom.lt/HS2R](http://oom.lt/HS2R)
+- Short Link: [http://oom.lt/HS2R](http://oom.lt/HS2R)
 
 ## Datasheets
 

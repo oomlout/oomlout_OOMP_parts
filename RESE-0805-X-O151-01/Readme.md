@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 150 Ohm Resistor
 - Description: SMD (0805) 150 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O151-01](http://oom.lt/RESE-0805-X-O151-01)
-- Long Link: [http://oom.lt/R85151](http://oom.lt/R85151)
+- Short Link: [http://oom.lt/R85151](http://oom.lt/R85151)
 
 ## Labels
   

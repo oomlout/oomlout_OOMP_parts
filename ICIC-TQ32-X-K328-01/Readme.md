@@ -20,7 +20,7 @@ Contents
 - Name: 32 Pin SMD (TQFP) AtMega328P
 - Description: 32 Pin SMD (TQFP) AtMega328P
 - Long Link: [http://oom.lt/ICIC-TQ32-X-K328-01](http://oom.lt/ICIC-TQ32-X-K328-01)
-- Long Link: [http://oom.lt/ICS328](http://oom.lt/ICS328)
+- Short Link: [http://oom.lt/ICS328](http://oom.lt/ICS328)
 
 ## Datasheets
 

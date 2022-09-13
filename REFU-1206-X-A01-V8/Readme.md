@@ -20,7 +20,7 @@ Contents
 - Name: SMD (1206) 1 Amp Resetable Fuse 8v
 - Description: SMD (1206) 1 Amp Resetable Fuse 8v
 - Long Link: [http://oom.lt/REFU-1206-X-A01-V8](http://oom.lt/REFU-1206-X-A01-V8)
-- Long Link: [http://oom.lt/RF121](http://oom.lt/RF121)
+- Short Link: [http://oom.lt/RF121](http://oom.lt/RF121)
 
 ## Datasheets
 

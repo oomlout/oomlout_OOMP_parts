@@ -19,7 +19,7 @@ Contents
 - Name: TO-220 19 Amp P-Ch. MOSFET
 - Description: TO-220 19 Amp P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-T220-X-A19-01](http://oom.lt/MOSP-T220-X-A19-01)
-- Long Link: [http://oom.lt/MP220A19](http://oom.lt/MP220A19)
+- Short Link: [http://oom.lt/MP220A19](http://oom.lt/MP220A19)
 
 ## Datasheets
 

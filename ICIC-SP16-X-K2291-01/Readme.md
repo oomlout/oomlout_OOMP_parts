@@ -19,7 +19,7 @@ Contents
 - Name: 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
 - Description: 16 Pin SMD (SOP) PIR Motion Sensing (TM2291)
 - Long Link: [http://oom.lt/ICIC-SP16-X-K2291-01](http://oom.lt/ICIC-SP16-X-K2291-01)
-- Long Link: [http://oom.lt/ICS2291](http://oom.lt/ICS2291)
+- Short Link: [http://oom.lt/ICS2291](http://oom.lt/ICS2291)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (7827) SPDT Switch (Slide)
 - Description: SMD (7827) SPDT Switch (Slide)
 - Long Link: [http://oom.lt/SWIS-7827-X-SPDT-01](http://oom.lt/SWIS-7827-X-SPDT-01)
-- Long Link: [http://oom.lt/SS7827](http://oom.lt/SS7827)
+- Short Link: [http://oom.lt/SS7827](http://oom.lt/SS7827)
 
 ## Datasheets
 

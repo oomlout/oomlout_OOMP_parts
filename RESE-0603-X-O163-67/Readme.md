@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 16k Ohm Resistor 1%
 - Description: SMD (0603) 16k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O163-67](http://oom.lt/RESE-0603-X-O163-67)
-- Long Link: [http://oom.lt/R6163A](http://oom.lt/R6163A)
+- Short Link: [http://oom.lt/R6163A](http://oom.lt/R6163A)
 
 ## Datasheets
 

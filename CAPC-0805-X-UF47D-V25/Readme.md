@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Description: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF47D-V25](http://oom.lt/CAPC-0805-X-UF47D-V25)
-- Long Link: [http://oom.lt/C85U004](http://oom.lt/C85U004)
+- Short Link: [http://oom.lt/C85U004](http://oom.lt/C85U004)
 
 ## Datasheets
 

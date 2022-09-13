@@ -20,7 +20,7 @@ Contents
 - Name: 1.5 mm Grey Heat Shrink
 - Description: 1.5 mm Grey Heat Shrink
 - Long Link: [http://oom.lt/HESH-15D-E-STAN-01](http://oom.lt/HESH-15D-E-STAN-01)
-- Long Link: [http://oom.lt/HS1E](http://oom.lt/HS1E)
+- Short Link: [http://oom.lt/HS1E](http://oom.lt/HS1E)
 
 ## Datasheets
 

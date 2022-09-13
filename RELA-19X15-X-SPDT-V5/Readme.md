@@ -20,7 +20,7 @@ Contents
 - Name: 19 x 15 mm SPDT Relay
 - Description: 19 x 15 mm SPDT Relay
 - Long Link: [http://oom.lt/RELA-19X15-X-SPDT-V5](http://oom.lt/RELA-19X15-X-SPDT-V5)
-- Long Link: [http://oom.lt/RL19S](http://oom.lt/RL19S)
+- Short Link: [http://oom.lt/RL19S](http://oom.lt/RL19S)
 
 ## Datasheets
 

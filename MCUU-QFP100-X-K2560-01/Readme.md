@@ -19,7 +19,7 @@ Contents
 - Name: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
 - Description: 100 Pin SMD (TQFP) Stepper Motor Driver (A4988) MCU
 - Long Link: [http://oom.lt/MCUU-QFP100-X-K2560-01](http://oom.lt/MCUU-QFP100-X-K2560-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (2312) 47 uF Capacitor (Tantalum) 16v
 - Description: SMD (2312) 47 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-2312-X-UF47-V16](http://oom.lt/CAPT-2312-X-UF47-V16)
-- Long Link: [http://oom.lt/CTS3U047](http://oom.lt/CTS3U047)
+- Short Link: [http://oom.lt/CTS3U047](http://oom.lt/CTS3U047)
 
 ## Datasheets
 

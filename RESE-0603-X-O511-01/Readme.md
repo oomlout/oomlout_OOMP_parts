@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 510 Ohm Resistor
 - Description: SMD (0603) 510 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O511-01](http://oom.lt/RESE-0603-X-O511-01)
-- Long Link: [http://oom.lt/R6511](http://oom.lt/R6511)
+- Short Link: [http://oom.lt/R6511](http://oom.lt/R6511)
 
 ## Datasheets
 

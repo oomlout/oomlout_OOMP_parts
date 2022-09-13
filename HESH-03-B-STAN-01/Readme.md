@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Black Heat Shrink
 - Description: 3 mm Black Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-B-STAN-01](http://oom.lt/HESH-03-B-STAN-01)
-- Long Link: [http://oom.lt/HS3B](http://oom.lt/HS3B)
+- Short Link: [http://oom.lt/HS3B](http://oom.lt/HS3B)
 
 ## Datasheets
 

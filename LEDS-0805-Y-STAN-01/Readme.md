@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) Yellow LED
 - Description: SMD (0805) Yellow LED
 - Long Link: [http://oom.lt/LEDS-0805-Y-STAN-01](http://oom.lt/LEDS-0805-Y-STAN-01)
-- Long Link: [http://oom.lt/L85Y](http://oom.lt/L85Y)
+- Short Link: [http://oom.lt/L85Y](http://oom.lt/L85Y)
 
 ## Datasheets
 

@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 43k Ohm Resistor
 - Description: SMD (0603) 43k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O433-01](http://oom.lt/RESE-0603-X-O433-01)
-- Long Link: [http://oom.lt/R6433](http://oom.lt/R6433)
+- Short Link: [http://oom.lt/R6433](http://oom.lt/R6433)
 
 ## Labels
   

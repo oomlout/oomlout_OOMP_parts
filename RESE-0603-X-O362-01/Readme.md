@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 3.6k Ohm Resistor
 - Description: SMD (0603) 3.6k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O362-01](http://oom.lt/RESE-0603-X-O362-01)
-- Long Link: [http://oom.lt/R6362](http://oom.lt/R6362)
+- Short Link: [http://oom.lt/R6362](http://oom.lt/R6362)
 
 ## Labels
   

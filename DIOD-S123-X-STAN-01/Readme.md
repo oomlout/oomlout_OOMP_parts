@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOD-123) Diode
 - Description: SMD (SOD-123) Diode
 - Long Link: [http://oom.lt/DIOD-S123-X-STAN-01](http://oom.lt/DIOD-S123-X-STAN-01)
-- Long Link: [http://oom.lt/DS301](http://oom.lt/DS301)
+- Short Link: [http://oom.lt/DS301](http://oom.lt/DS301)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: 5 mm Orange LED
 - Description: 5 mm Orange LED
 - Long Link: [http://oom.lt/LEDS-05-O-STAN-01](http://oom.lt/LEDS-05-O-STAN-01)
-- Long Link: [http://oom.lt/L5O](http://oom.lt/L5O)
+- Short Link: [http://oom.lt/L5O](http://oom.lt/L5O)
 
 ## Datasheets
 

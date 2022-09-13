@@ -19,7 +19,7 @@ Contents
 - Name: 2.54 mm 15 Pin Header (Socket)
 - Description: 2.54 mm 15 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI15-01](http://oom.lt/HEAS-I01-X-PI15-01)
-- Long Link: [http://oom.lt/HS15](http://oom.lt/HS15)
+- Short Link: [http://oom.lt/HS15](http://oom.lt/HS15)
 
 ## Datasheets
 

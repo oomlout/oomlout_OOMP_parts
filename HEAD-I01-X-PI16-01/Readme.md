@@ -21,7 +21,7 @@ Contents
 - Name: 2.54 mm 16 Pin Header
 - Description: 2.54 mm 16 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI16-01](http://oom.lt/HEAD-I01-X-PI16-01)
-- Long Link: [http://oom.lt/H16](http://oom.lt/H16)
+- Short Link: [http://oom.lt/H16](http://oom.lt/H16)
 
 ## Diagrams
   

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 1k Ohm Resistor 1%
 - Description: SMD (0603) 1k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O102-67](http://oom.lt/RESE-0603-X-O102-67)
-- Long Link: [http://oom.lt/R6102A](http://oom.lt/R6102A)
+- Short Link: [http://oom.lt/R6102A](http://oom.lt/R6102A)
 
 ## Datasheets
 

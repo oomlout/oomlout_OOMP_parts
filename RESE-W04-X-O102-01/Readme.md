@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 1k Ohm Resistor
 - Description: 1/4 Watt 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O102-01](http://oom.lt/RESE-W04-X-O102-01)
-- Long Link: [http://oom.lt/R4102](http://oom.lt/R4102)
+- Short Link: [http://oom.lt/R4102](http://oom.lt/R4102)
 
 ## Datasheets
 

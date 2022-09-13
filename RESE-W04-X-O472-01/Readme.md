@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 4.7k Ohm Resistor
 - Description: 1/4 Watt 4.7k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O472-01](http://oom.lt/RESE-W04-X-O472-01)
-- Long Link: [http://oom.lt/R4472](http://oom.lt/R4472)
+- Short Link: [http://oom.lt/R4472](http://oom.lt/R4472)
 
 ## Datasheets
 

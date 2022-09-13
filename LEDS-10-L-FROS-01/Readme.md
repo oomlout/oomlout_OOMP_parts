@@ -20,7 +20,7 @@ Contents
 - Name: 10 mm Frosted Blue LED
 - Description: 10 mm Frosted Blue LED
 - Long Link: [http://oom.lt/LEDS-10-L-FROS-01](http://oom.lt/LEDS-10-L-FROS-01)
-- Long Link: [http://oom.lt/L10L](http://oom.lt/L10L)
+- Short Link: [http://oom.lt/L10L](http://oom.lt/L10L)
 
 ## Datasheets
 

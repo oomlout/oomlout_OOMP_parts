@@ -20,7 +20,7 @@ Contents
 - Name: SMD (DFN-8) Lithium Ion Battery Charger (CN3065)
 - Description: SMD (DFN-8) Lithium Ion Battery Charger (CN3065)
 - Long Link: [http://oom.lt/ICIC-DFN8-X-KCN3065-01](http://oom.lt/ICIC-DFN8-X-KCN3065-01)
-- Long Link: [http://oom.lt/ICS3065](http://oom.lt/ICS3065)
+- Short Link: [http://oom.lt/ICS3065](http://oom.lt/ICS3065)
 
 ## Datasheets
 

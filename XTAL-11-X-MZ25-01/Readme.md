@@ -20,7 +20,7 @@ Contents
 - Name: 11 mm 25 MHz Crystal
 - Description: 11 mm 25 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-11-X-MZ25-01](http://oom.lt/XTAL-11-X-MZ25-01)
-- Long Link: [http://oom.lt/XT25](http://oom.lt/XT25)
+- Short Link: [http://oom.lt/XT25](http://oom.lt/XT25)
 
 ## Datasheets
 

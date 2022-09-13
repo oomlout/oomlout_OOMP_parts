@@ -20,7 +20,7 @@ Contents
 - Name: 2 mm 4 Pin JST Socket SMD
 - Description: 2 mm 4 Pin JST Socket SMD
 - Long Link: [http://oom.lt/JSTS-02-X-PI04-SM](http://oom.lt/JSTS-02-X-PI04-SM)
-- Long Link: [http://oom.lt/J204S](http://oom.lt/J204S)
+- Short Link: [http://oom.lt/J204S](http://oom.lt/J204S)
 
 ## Datasheets
 

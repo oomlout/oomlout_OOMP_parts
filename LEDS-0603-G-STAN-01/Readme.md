@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0603) Green LED
 - Description: SMD (0603) Green LED
 - Long Link: [http://oom.lt/LEDS-0603-G-STAN-01](http://oom.lt/LEDS-0603-G-STAN-01)
-- Long Link: [http://oom.lt/L6G](http://oom.lt/L6G)
+- Short Link: [http://oom.lt/L6G](http://oom.lt/L6G)
 
 ## Datasheets
 

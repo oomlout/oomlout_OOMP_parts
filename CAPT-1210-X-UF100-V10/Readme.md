@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1210) 100 uF Capacitor (Tantalum) 10v
 - Description: SMD (1210) 100 uF Capacitor (Tantalum) 10v
 - Long Link: [http://oom.lt/CAPT-1210-X-UF100-V10](http://oom.lt/CAPT-1210-X-UF100-V10)
-- Long Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
+- Short Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
 
 ## Datasheets
 

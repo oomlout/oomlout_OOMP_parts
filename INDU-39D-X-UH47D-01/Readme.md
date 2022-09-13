@@ -19,7 +19,7 @@ Contents
 - Name: 3.9 mm 4.7 uH Inductor
 - Description: 3.9 mm 4.7 uH Inductor
 - Long Link: [http://oom.lt/INDU-39D-X-UH47D-01](http://oom.lt/INDU-39D-X-UH47D-01)
-- Long Link: [http://oom.lt/IN39U47](http://oom.lt/IN39U47)
+- Short Link: [http://oom.lt/IN39U47](http://oom.lt/IN39U47)
 
 ## Datasheets
 

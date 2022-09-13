@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 1 uF Capacitor (Electrolytic) 63v
 - Description: 5 mm 1 uF Capacitor (Electrolytic) 63v
 - Long Link: [http://oom.lt/CAPE-05-X-UF1-V63D](http://oom.lt/CAPE-05-X-UF1-V63D)
-- Long Link: [http://oom.lt/CEU001](http://oom.lt/CEU001)
+- Short Link: [http://oom.lt/CEU001](http://oom.lt/CEU001)
 
 ## Datasheets
 

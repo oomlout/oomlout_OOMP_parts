@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 13k Ohm Resistor 1%
 - Description: SMD (0603) 13k Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O133-67](http://oom.lt/RESE-0603-X-O133-67)
-- Long Link: [http://oom.lt/R6133A](http://oom.lt/R6133A)
+- Short Link: [http://oom.lt/R6133A](http://oom.lt/R6133A)
 
 ## Labels
   

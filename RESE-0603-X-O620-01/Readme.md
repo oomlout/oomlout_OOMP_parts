@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 62 Ohm Resistor
 - Description: SMD (0603) 62 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O620-01](http://oom.lt/RESE-0603-X-O620-01)
-- Long Link: [http://oom.lt/R6620](http://oom.lt/R6620)
+- Short Link: [http://oom.lt/R6620](http://oom.lt/R6620)
 
 ## Labels
   

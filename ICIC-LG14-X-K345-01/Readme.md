@@ -20,7 +20,7 @@ Contents
 - Name: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
 - Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
 - Long Link: [http://oom.lt/ICIC-LG14-X-K345-01](http://oom.lt/ICIC-LG14-X-K345-01)
-- Long Link: [http://oom.lt/ICS345](http://oom.lt/ICS345)
+- Short Link: [http://oom.lt/ICS345](http://oom.lt/ICS345)
 
 ## Datasheets
 

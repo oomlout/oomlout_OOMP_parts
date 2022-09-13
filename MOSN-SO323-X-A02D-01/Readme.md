@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-323) 200 mA N-Ch. MOSFET
 - Description: SMD (SOT-323) 200 mA N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO323-X-A02D-01](http://oom.lt/MOSN-SO323-X-A02D-01)
-- Long Link: [http://oom.lt/MNS22D](http://oom.lt/MNS22D)
+- Short Link: [http://oom.lt/MNS22D](http://oom.lt/MNS22D)
 
 ## Datasheets
 

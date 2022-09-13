@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin (2x3) Yellow Header
 - Description: 2.54 mm 6 Pin (2x3) Yellow Header
 - Long Link: [http://oom.lt/HEAD-I01-Y-2X03PI-01](http://oom.lt/HEAD-I01-Y-2X03PI-01)
-- Long Link: [http://oom.lt/H2X03Y](http://oom.lt/H2X03Y)
+- Short Link: [http://oom.lt/H2X03Y](http://oom.lt/H2X03Y)
 
 ## Datasheets
 

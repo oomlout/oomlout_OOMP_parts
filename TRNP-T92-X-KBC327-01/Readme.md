@@ -18,7 +18,7 @@ Contents
 - Name: TO-92 BC327 PNP Transistor
 - Description: TO-92 BC327 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KBC327-01](http://oom.lt/TRNP-T92-X-KBC327-01)
-- Long Link: [http://oom.lt/TP9BC327](http://oom.lt/TP9BC327)
+- Short Link: [http://oom.lt/TP9BC327](http://oom.lt/TP9BC327)
 
 ## Labels
   

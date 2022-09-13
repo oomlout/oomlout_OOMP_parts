@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 30k Ohm Resistor
 - Description: SMD (0805) 30k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O303-01](http://oom.lt/RESE-0805-X-O303-01)
-- Long Link: [http://oom.lt/R85303](http://oom.lt/R85303)
+- Short Link: [http://oom.lt/R85303](http://oom.lt/R85303)
 
 ## Labels
   

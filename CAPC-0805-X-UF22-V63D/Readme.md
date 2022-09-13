@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (0805) 22 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF22-V63D](http://oom.lt/CAPC-0805-X-UF22-V63D)
-- Long Link: [http://oom.lt/C85U022](http://oom.lt/C85U022)
+- Short Link: [http://oom.lt/C85U022](http://oom.lt/C85U022)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: 8 Pin SMD (SOIC) Dual Differential Comparator (LM293)
 - Description: 8 Pin SMD (SOIC) Dual Differential Comparator (LM293)
 - Long Link: [http://oom.lt/ICIC-SC8-X-KM293-01](http://oom.lt/ICIC-SC8-X-KM293-01)
-- Long Link: [http://oom.lt/ICSM293](http://oom.lt/ICSM293)
+- Short Link: [http://oom.lt/ICSM293](http://oom.lt/ICSM293)
 
 ## Datasheets
 

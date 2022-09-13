@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 1.2k Ohm Resistor
 - Description: SMD (0603) 1.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O122-01](http://oom.lt/RESE-0603-X-O122-01)
-- Long Link: [http://oom.lt/R6122](http://oom.lt/R6122)
+- Short Link: [http://oom.lt/R6122](http://oom.lt/R6122)
 
 ## Labels
   

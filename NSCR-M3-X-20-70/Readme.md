@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 20 mm Nylon Screw Cross Head
 - Description: M3 x 20 mm Nylon Screw Cross Head
 - Long Link: [http://oom.lt/NSCR-M3-X-20-70](http://oom.lt/NSCR-M3-X-20-70)
-- Long Link: [http://oom.lt/NS20](http://oom.lt/NS20)
+- Short Link: [http://oom.lt/NS20](http://oom.lt/NS20)
 
 ## Datasheets
 

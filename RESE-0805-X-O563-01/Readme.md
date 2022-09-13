@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0805) 56k Ohm Resistor
 - Description: SMD (0805) 56k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O563-01](http://oom.lt/RESE-0805-X-O563-01)
-- Long Link: [http://oom.lt/R85563](http://oom.lt/R85563)
+- Short Link: [http://oom.lt/R85563](http://oom.lt/R85563)
 
 ## Datasheets
 

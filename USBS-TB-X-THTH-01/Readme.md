@@ -19,7 +19,7 @@ Contents
 - Name: Type B Through Hole USB Socket
 - Description: Type B Through Hole USB Socket
 - Long Link: [http://oom.lt/USBS-TB-X-THTH-01](http://oom.lt/USBS-TB-X-THTH-01)
-- Long Link: [http://oom.lt/UTB](http://oom.lt/UTB)
+- Short Link: [http://oom.lt/UTB](http://oom.lt/UTB)
 
 ## Datasheets
 

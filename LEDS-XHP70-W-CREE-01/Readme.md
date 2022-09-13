@@ -19,7 +19,7 @@ Contents
 - Name: XHP 70 Cree White LED
 - Description: XHP 70 Cree White LED
 - Long Link: [http://oom.lt/LEDS-XHP70-W-CREE-01](http://oom.lt/LEDS-XHP70-W-CREE-01)
-- Long Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/](http://oom.lt/)
 
 ## Datasheets
 

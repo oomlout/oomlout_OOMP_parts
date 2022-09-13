@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 2.2 nF Capacitor (Ceramic) 50v
 - Description: SMD (0603) 2.2 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF22D-V50](http://oom.lt/CAPC-0603-X-NF22D-V50)
-- Long Link: [http://oom.lt/C6N002](http://oom.lt/C6N002)
+- Short Link: [http://oom.lt/C6N002](http://oom.lt/C6N002)
 
 ## Datasheets
 

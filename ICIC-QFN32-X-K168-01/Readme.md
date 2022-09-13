@@ -19,7 +19,7 @@ Contents
 - Name: 32 Pin SMD (QFN) AtMega168P
 - Description: 32 Pin SMD (QFN) AtMega168P
 - Long Link: [http://oom.lt/ICIC-QFN32-X-K168-01](http://oom.lt/ICIC-QFN32-X-K168-01)
-- Long Link: [http://oom.lt/ICSQ168](http://oom.lt/ICSQ168)
+- Short Link: [http://oom.lt/ICSQ168](http://oom.lt/ICSQ168)
 
 ## Datasheets
 

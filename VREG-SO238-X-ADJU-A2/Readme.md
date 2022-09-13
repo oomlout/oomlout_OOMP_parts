@@ -19,7 +19,7 @@ Contents
 - Name: SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
 - Description: SMD (SOT-23-8) Adjustable Voltage Regulator 2 A
 - Long Link: [http://oom.lt/VREG-SO238-X-ADJU-A2](http://oom.lt/VREG-SO238-X-ADJU-A2)
-- Long Link: [http://oom.lt/VS8A2](http://oom.lt/VS8A2)
+- Short Link: [http://oom.lt/VS8A2](http://oom.lt/VS8A2)
 
 ## Datasheets
 

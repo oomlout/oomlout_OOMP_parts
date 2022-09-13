@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 36 Pin Header (Long)
 - Description: 2.54 mm 36 Pin Header (Long)
 - Long Link: [http://oom.lt/HEAL-I01-X-PI36-01](http://oom.lt/HEAL-I01-X-PI36-01)
-- Long Link: [http://oom.lt/HL36](http://oom.lt/HL36)
+- Short Link: [http://oom.lt/HL36](http://oom.lt/HL36)
 
 ## Datasheets
 

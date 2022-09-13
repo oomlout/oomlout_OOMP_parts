@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 500 mA PNP Transistor
 - Description: SMD (SOT-23) 500 mA PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-A05D-01](http://oom.lt/TRNP-SO23-X-A05D-01)
-- Long Link: [http://oom.lt/TPS25D](http://oom.lt/TPS25D)
+- Short Link: [http://oom.lt/TPS25D](http://oom.lt/TPS25D)
 
 ## Datasheets
 

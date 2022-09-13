@@ -19,7 +19,7 @@ Contents
 - Name: 20 Pin SMD (TSSOP) 8-bit Level Shifter (TXS108E)
 - Description: 20 Pin SMD (TSSOP) 8-bit Level Shifter (TXS108E)
 - Long Link: [http://oom.lt/ICIC-TS20-X-K108-01](http://oom.lt/ICIC-TS20-X-K108-01)
-- Long Link: [http://oom.lt/ICS108](http://oom.lt/ICS108)
+- Short Link: [http://oom.lt/ICS108](http://oom.lt/ICS108)
 
 ## Datasheets
 

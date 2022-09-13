@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm 22 uF Capacitor (Electrolytic) 25v
 - Description: 5 mm 22 uF Capacitor (Electrolytic) 25v
 - Long Link: [http://oom.lt/CAPE-05-X-UF22-V25](http://oom.lt/CAPE-05-X-UF22-V25)
-- Long Link: [http://oom.lt/CEU022](http://oom.lt/CEU022)
+- Short Link: [http://oom.lt/CEU022](http://oom.lt/CEU022)
 
 ## Datasheets
 

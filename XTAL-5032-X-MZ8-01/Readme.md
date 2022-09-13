@@ -19,7 +19,7 @@ Contents
 - Name: SMD (5032) 8 MHz Crystal
 - Description: SMD (5032) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ8-01](http://oom.lt/XTAL-5032-X-MZ8-01)
-- Long Link: [http://oom.lt/XS58](http://oom.lt/XS58)
+- Short Link: [http://oom.lt/XS58](http://oom.lt/XS58)
 
 ## Datasheets
 

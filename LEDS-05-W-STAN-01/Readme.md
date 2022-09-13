@@ -20,7 +20,7 @@ Contents
 - Name: 5 mm White LED
 - Description: 5 mm White LED
 - Long Link: [http://oom.lt/LEDS-05-W-STAN-01](http://oom.lt/LEDS-05-W-STAN-01)
-- Long Link: [http://oom.lt/L5W](http://oom.lt/L5W)
+- Short Link: [http://oom.lt/L5W](http://oom.lt/L5W)
 
 ## Datasheets
 

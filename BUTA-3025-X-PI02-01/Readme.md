@@ -20,7 +20,7 @@ Contents
 - Name: SMD (3025) 2 Pin Pushbutton (Tactile)
 - Description: SMD (3025) 2 Pin Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-3025-X-PI02-01](http://oom.lt/BUTA-3025-X-PI02-01)
-- Long Link: [http://oom.lt/BT3025](http://oom.lt/BT3025)
+- Short Link: [http://oom.lt/BT3025](http://oom.lt/BT3025)
 
 ## Datasheets
 

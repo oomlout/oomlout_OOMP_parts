@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 6 Pin Yellow Header (Socket)
 - Description: 2.54 mm 6 Pin Yellow Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-Y-PI06-01](http://oom.lt/HEAS-I01-Y-PI06-01)
-- Long Link: [http://oom.lt/HS06Y](http://oom.lt/HS06Y)
+- Short Link: [http://oom.lt/HS06Y](http://oom.lt/HS06Y)
 
 ## Datasheets
 

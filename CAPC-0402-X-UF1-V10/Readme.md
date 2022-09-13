@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0402) 1 uF Capacitor (Ceramic) 10v
 - Description: SMD (0402) 1 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF1-V10](http://oom.lt/CAPC-0402-X-UF1-V10)
-- Long Link: [http://oom.lt/C42U001](http://oom.lt/C42U001)
+- Short Link: [http://oom.lt/C42U001](http://oom.lt/C42U001)
 
 ## Datasheets
 

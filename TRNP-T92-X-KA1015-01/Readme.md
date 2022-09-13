@@ -18,7 +18,7 @@ Contents
 - Name: TO-92 A1015 PNP Transistor
 - Description: TO-92 A1015 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KA1015-01](http://oom.lt/TRNP-T92-X-KA1015-01)
-- Long Link: [http://oom.lt/TP9A15](http://oom.lt/TP9A15)
+- Short Link: [http://oom.lt/TP9A15](http://oom.lt/TP9A15)
 
 ## Labels
   

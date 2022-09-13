@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm Purple Heat Shrink
 - Description: 6 mm Purple Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-V-STAN-01](http://oom.lt/HESH-06-V-STAN-01)
-- Long Link: [http://oom.lt/HS6V](http://oom.lt/HS6V)
+- Short Link: [http://oom.lt/HS6V](http://oom.lt/HS6V)
 
 ## Datasheets
 

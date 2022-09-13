@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 220 Ohm Resistor 1%
 - Description: SMD (0603) 220 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0603-X-O221-67](http://oom.lt/RESE-0603-X-O221-67)
-- Long Link: [http://oom.lt/R6221A](http://oom.lt/R6221A)
+- Short Link: [http://oom.lt/R6221A](http://oom.lt/R6221A)
 
 ## Labels
   

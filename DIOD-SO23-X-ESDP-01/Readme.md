@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) ESD Protection Diode
 - Description: SMD (SOT-23) ESD Protection Diode
 - Long Link: [http://oom.lt/DIOD-SO23-X-ESDP-01](http://oom.lt/DIOD-SO23-X-ESDP-01)
-- Long Link: [http://oom.lt/DS2EP](http://oom.lt/DS2EP)
+- Short Link: [http://oom.lt/DS2EP](http://oom.lt/DS2EP)
 
 ## Datasheets
 

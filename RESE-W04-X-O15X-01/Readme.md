@@ -20,7 +20,7 @@ Contents
 - Name: 1/4 Watt 1.5 Ohm Resistor
 - Description: 1/4 Watt 1.5 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O15X-01](http://oom.lt/RESE-W04-X-O15X-01)
-- Long Link: [http://oom.lt/R415A](http://oom.lt/R415A)
+- Short Link: [http://oom.lt/R415A](http://oom.lt/R415A)
 
 ## Datasheets
 

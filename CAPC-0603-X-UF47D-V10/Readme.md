@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 4.7 uF Capacitor (Ceramic) 10v
 - Description: SMD (0603) 4.7 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF47D-V10](http://oom.lt/CAPC-0603-X-UF47D-V10)
-- Long Link: [http://oom.lt/C6U004](http://oom.lt/C6U004)
+- Short Link: [http://oom.lt/C6U004](http://oom.lt/C6U004)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
 - Description: SMD (1206) 1 nF Capacitor (Ceramic) 1000v
 - Long Link: [http://oom.lt/CAPC-1206-X-NF1-V1000](http://oom.lt/CAPC-1206-X-NF1-V1000)
-- Long Link: [http://oom.lt/C1N001](http://oom.lt/C1N001)
+- Short Link: [http://oom.lt/C1N001](http://oom.lt/C1N001)
 
 ## Datasheets
 

@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 150 Ohm Resistor 1%
 - Description: SMD (0402) 150 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0402-X-O151-67](http://oom.lt/RESE-0402-X-O151-67)
-- Long Link: [http://oom.lt/R42151A](http://oom.lt/R42151A)
+- Short Link: [http://oom.lt/R42151A](http://oom.lt/R42151A)
 
 ## Labels
   

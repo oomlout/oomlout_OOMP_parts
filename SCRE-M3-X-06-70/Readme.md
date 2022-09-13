@@ -19,7 +19,7 @@ Contents
 - Name: M3 x 6 mm Machine Screw Cross Head
 - Description: M3 x 6 mm Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-X-06-70](http://oom.lt/SCRE-M3-X-06-70)
-- Long Link: [http://oom.lt/M36](http://oom.lt/M36)
+- Short Link: [http://oom.lt/M36](http://oom.lt/M36)
 
 ## Datasheets
 

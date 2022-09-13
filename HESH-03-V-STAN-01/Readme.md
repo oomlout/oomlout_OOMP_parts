@@ -20,7 +20,7 @@ Contents
 - Name: 3 mm Purple Heat Shrink
 - Description: 3 mm Purple Heat Shrink
 - Long Link: [http://oom.lt/HESH-03-V-STAN-01](http://oom.lt/HESH-03-V-STAN-01)
-- Long Link: [http://oom.lt/HS3V](http://oom.lt/HS3V)
+- Short Link: [http://oom.lt/HS3V](http://oom.lt/HS3V)
 
 ## Datasheets
 

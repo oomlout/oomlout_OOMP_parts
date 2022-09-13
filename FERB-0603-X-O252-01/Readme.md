@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 2.5k Ohm Ferrite Bead
 - Description: SMD (0603) 2.5k Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0603-X-O252-01](http://oom.lt/FERB-0603-X-O252-01)
-- Long Link: [http://oom.lt/F6252](http://oom.lt/F6252)
+- Short Link: [http://oom.lt/F6252](http://oom.lt/F6252)
 
 ## Datasheets
 

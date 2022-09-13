@@ -19,7 +19,7 @@ Contents
 - Name: SMD (6035) Pushbutton (Tactile)
 - Description: SMD (6035) Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-6035-X-STAN-01](http://oom.lt/BUTA-6035-X-STAN-01)
-- Long Link: [http://oom.lt/B6035](http://oom.lt/B6035)
+- Short Link: [http://oom.lt/B6035](http://oom.lt/B6035)
 
 ## Datasheets
 

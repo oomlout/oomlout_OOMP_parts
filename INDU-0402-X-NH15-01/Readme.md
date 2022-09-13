@@ -19,7 +19,7 @@ Contents
 - Name: SMD (0402) 15 nH Inductor
 - Description: SMD (0402) 15 nH Inductor
 - Long Link: [http://oom.lt/INDU-0402-X-NH15-01](http://oom.lt/INDU-0402-X-NH15-01)
-- Long Link: [http://oom.lt/IN42N15](http://oom.lt/IN42N15)
+- Short Link: [http://oom.lt/IN42N15](http://oom.lt/IN42N15)
 
 ## Datasheets
 

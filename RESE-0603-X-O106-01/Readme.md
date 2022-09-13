@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 10M Ohm Resistor
 - Description: SMD (0603) 10M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O106-01](http://oom.lt/RESE-0603-X-O106-01)
-- Long Link: [http://oom.lt/R6106](http://oom.lt/R6106)
+- Short Link: [http://oom.lt/R6106](http://oom.lt/R6106)
 
 ## Datasheets
 

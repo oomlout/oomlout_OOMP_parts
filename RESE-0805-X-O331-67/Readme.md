@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 330 Ohm Resistor 1%
 - Description: SMD (0805) 330 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O331-67](http://oom.lt/RESE-0805-X-O331-67)
-- Long Link: [http://oom.lt/R85331A](http://oom.lt/R85331A)
+- Short Link: [http://oom.lt/R85331A](http://oom.lt/R85331A)
 
 ## Labels
   

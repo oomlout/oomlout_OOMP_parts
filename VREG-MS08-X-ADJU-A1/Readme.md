@@ -20,7 +20,7 @@ Contents
 - Name: 8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A
 - Description: 8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A
 - Long Link: [http://oom.lt/VREG-MS08-X-ADJU-A1](http://oom.lt/VREG-MS08-X-ADJU-A1)
-- Long Link: [http://oom.lt/VS8A1](http://oom.lt/VS8A1)
+- Short Link: [http://oom.lt/VS8A1](http://oom.lt/VS8A1)
 
 ## Datasheets
 

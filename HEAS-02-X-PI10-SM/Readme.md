@@ -19,7 +19,7 @@ Contents
 - Name: 2 mm 10 Pin Header (Socket) (SMD)
 - Description: 2 mm 10 Pin Header (Socket) (SMD)
 - Long Link: [http://oom.lt/HEAS-02-X-PI10-SM](http://oom.lt/HEAS-02-X-PI10-SM)
-- Long Link: [http://oom.lt/HS210S](http://oom.lt/HS210S)
+- Short Link: [http://oom.lt/HS210S](http://oom.lt/HS210S)
 
 ## Datasheets
 

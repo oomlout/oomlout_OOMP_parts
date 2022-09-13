@@ -20,7 +20,7 @@ Contents
 - Name: 16 Pin DIP 74HC595 8-Bit Shift Register (Latching)
 - Description: 16 Pin DIP 74HC595 8-Bit Shift Register (Latching)
 - Long Link: [http://oom.lt/ICIC-DI16-X-K595-01](http://oom.lt/ICIC-DI16-X-K595-01)
-- Long Link: [http://oom.lt/ICSR](http://oom.lt/ICSR)
+- Short Link: [http://oom.lt/ICSR](http://oom.lt/ICSR)
 
 ## Datasheets
 

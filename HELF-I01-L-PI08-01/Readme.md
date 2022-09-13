@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 8 Pin Blue Female Header (Long)
 - Description: 2.54 mm 8 Pin Blue Female Header (Long)
 - Long Link: [http://oom.lt/HELF-I01-L-PI08-01](http://oom.lt/HELF-I01-L-PI08-01)
-- Long Link: [http://oom.lt/HFL08L](http://oom.lt/HFL08L)
+- Short Link: [http://oom.lt/HFL08L](http://oom.lt/HFL08L)
 
 ## Datasheets
 

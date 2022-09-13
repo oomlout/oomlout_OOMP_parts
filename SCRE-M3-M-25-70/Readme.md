@@ -20,7 +20,7 @@ Contents
 - Name: M3 x 25 mm Machine Screw Cross Head
 - Description: M3 x 25 mm Machine Screw Cross Head
 - Long Link: [http://oom.lt/SCRE-M3-M-25-70](http://oom.lt/SCRE-M3-M-25-70)
-- Long Link: [http://oom.lt/M325](http://oom.lt/M325)
+- Short Link: [http://oom.lt/M325](http://oom.lt/M325)
 
 ## Datasheets
 

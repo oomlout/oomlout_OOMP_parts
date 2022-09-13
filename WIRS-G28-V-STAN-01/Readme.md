@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Purple Stranded Wire
 - Description: 28 AWG Purple Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-V-STAN-01](http://oom.lt/WIRS-G28-V-STAN-01)
-- Long Link: [http://oom.lt/W2V](http://oom.lt/W2V)
+- Short Link: [http://oom.lt/W2V](http://oom.lt/W2V)
 
 ## Datasheets
 

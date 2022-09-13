@@ -19,7 +19,7 @@ Contents
 - Name: 4.5 mm 10 nF Capacitor (Ceramic) 50v
 - Description: 4.5 mm 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-45D-X-NF10-V50](http://oom.lt/CAPC-45D-X-NF10-V50)
-- Long Link: [http://oom.lt/CCN010](http://oom.lt/CCN010)
+- Short Link: [http://oom.lt/CCN010](http://oom.lt/CCN010)
 
 ## Datasheets
 

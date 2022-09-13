@@ -19,7 +19,7 @@ Contents
 - Name: 2 mm 10 Pin Header (Socket)
 - Description: 2 mm 10 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-02-X-PI10-01](http://oom.lt/HEAS-02-X-PI10-01)
-- Long Link: [http://oom.lt/HS210](http://oom.lt/HS210)
+- Short Link: [http://oom.lt/HS210](http://oom.lt/HS210)
 
 ## Datasheets
 

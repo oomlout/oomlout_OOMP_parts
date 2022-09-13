@@ -19,7 +19,7 @@ Contents
 - Name: 32 Pin SMD (VQFN) AtMega328P
 - Description: 32 Pin SMD (VQFN) AtMega328P
 - Long Link: [http://oom.lt/ICIC-VQF32-X-K328-01](http://oom.lt/ICIC-VQF32-X-K328-01)
-- Long Link: [http://oom.lt/ICSV328](http://oom.lt/ICSV328)
+- Short Link: [http://oom.lt/ICSV328](http://oom.lt/ICSV328)
 
 ## Datasheets
 

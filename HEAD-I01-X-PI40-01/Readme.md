@@ -20,7 +20,7 @@ Contents
 - Name: 2.54 mm 40 Pin Header
 - Description: 2.54 mm 40 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI40-01](http://oom.lt/HEAD-I01-X-PI40-01)
-- Long Link: [http://oom.lt/H40](http://oom.lt/H40)
+- Short Link: [http://oom.lt/H40](http://oom.lt/H40)
 
 ## Datasheets
 

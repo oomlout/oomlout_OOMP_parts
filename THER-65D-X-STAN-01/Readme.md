@@ -20,7 +20,7 @@ Contents
 - Name: 6.5 mm Thermistor
 - Description: 6.5 mm Thermistor
 - Long Link: [http://oom.lt/THER-65D-X-STAN-01](http://oom.lt/THER-65D-X-STAN-01)
-- Long Link: [http://oom.lt/TH65D](http://oom.lt/TH65D)
+- Short Link: [http://oom.lt/TH65D](http://oom.lt/TH65D)
 
 ## Datasheets
 

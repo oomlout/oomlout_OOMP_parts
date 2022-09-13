@@ -20,7 +20,7 @@ Contents
 - Name: SMD (SOT-23) 200 mA Diode (Schottky)
 - Description: SMD (SOT-23) 200 mA Diode (Schottky)
 - Long Link: [http://oom.lt/DIOS-SO23-X-A02D-01](http://oom.lt/DIOS-SO23-X-A02D-01)
-- Long Link: [http://oom.lt/DS22D](http://oom.lt/DS22D)
+- Short Link: [http://oom.lt/DS22D](http://oom.lt/DS22D)
 
 ## Datasheets
 

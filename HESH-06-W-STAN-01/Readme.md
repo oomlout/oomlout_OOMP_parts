@@ -20,7 +20,7 @@ Contents
 - Name: 6 mm White Heat Shrink
 - Description: 6 mm White Heat Shrink
 - Long Link: [http://oom.lt/HESH-06-W-STAN-01](http://oom.lt/HESH-06-W-STAN-01)
-- Long Link: [http://oom.lt/HS6W](http://oom.lt/HS6W)
+- Short Link: [http://oom.lt/HS6W](http://oom.lt/HS6W)
 
 ## Datasheets
 

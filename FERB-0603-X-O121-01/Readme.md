@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 120 Ohm Ferrite Bead
 - Description: SMD (0603) 120 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0603-X-O121-01](http://oom.lt/FERB-0603-X-O121-01)
-- Long Link: [http://oom.lt/F6121](http://oom.lt/F6121)
+- Short Link: [http://oom.lt/F6121](http://oom.lt/F6121)
 
 ## Datasheets
 

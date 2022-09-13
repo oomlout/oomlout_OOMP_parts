@@ -20,7 +20,7 @@ Contents
 - Name: 28 AWG Red Stranded Wire
 - Description: 28 AWG Red Stranded Wire
 - Long Link: [http://oom.lt/WIRS-G28-R-STAN-01](http://oom.lt/WIRS-G28-R-STAN-01)
-- Long Link: [http://oom.lt/W2R](http://oom.lt/W2R)
+- Short Link: [http://oom.lt/W2R](http://oom.lt/W2R)
 
 ## Datasheets
 

@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0805) 390 Ohm Resistor 1%
 - Description: SMD (0805) 390 Ohm Resistor 1%
 - Long Link: [http://oom.lt/RESE-0805-X-O391-67](http://oom.lt/RESE-0805-X-O391-67)
-- Long Link: [http://oom.lt/R85391A](http://oom.lt/R85391A)
+- Short Link: [http://oom.lt/R85391A](http://oom.lt/R85391A)
 
 ## Labels
   

@@ -20,7 +20,7 @@ Contents
 - Name: 3.6 mm 100 nF Capacitor (Tantalum) 50v
 - Description: 3.6 mm 100 nF Capacitor (Tantalum) 50v
 - Long Link: [http://oom.lt/CAPT-36D-X-NF100-V50](http://oom.lt/CAPT-36D-X-NF100-V50)
-- Long Link: [http://oom.lt/CTN100](http://oom.lt/CTN100)
+- Short Link: [http://oom.lt/CTN100](http://oom.lt/CTN100)
 
 ## Datasheets
 

@@ -20,7 +20,7 @@ Contents
 - Name: SMD (0603) 39 Ohm Resistor
 - Description: SMD (0603) 39 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O390-01](http://oom.lt/RESE-0603-X-O390-01)
-- Long Link: [http://oom.lt/R6390](http://oom.lt/R6390)
+- Short Link: [http://oom.lt/R6390](http://oom.lt/R6390)
 
 ## Datasheets
 

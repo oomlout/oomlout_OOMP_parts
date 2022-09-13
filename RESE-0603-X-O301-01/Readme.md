@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 300 Ohm Resistor
 - Description: SMD (0603) 300 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O301-01](http://oom.lt/RESE-0603-X-O301-01)
-- Long Link: [http://oom.lt/R6301](http://oom.lt/R6301)
+- Short Link: [http://oom.lt/R6301](http://oom.lt/R6301)
 
 ## Labels
   

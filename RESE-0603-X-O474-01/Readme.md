@@ -18,7 +18,7 @@ Contents
 - Name: SMD (0603) 470k Ohm Resistor
 - Description: SMD (0603) 470k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O474-01](http://oom.lt/RESE-0603-X-O474-01)
-- Long Link: [http://oom.lt/R6474](http://oom.lt/R6474)
+- Short Link: [http://oom.lt/R6474](http://oom.lt/R6474)
 
 ## Labels
   

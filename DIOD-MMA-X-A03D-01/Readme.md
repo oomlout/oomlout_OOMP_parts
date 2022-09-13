@@ -20,7 +20,7 @@ Contents
 - Name: SMD (Mini MELF) 300 mA Diode
 - Description: SMD (Mini MELF) 300 mA Diode
 - Long Link: [http://oom.lt/DIOD-MMA-X-A03D-01](http://oom.lt/DIOD-MMA-X-A03D-01)
-- Long Link: [http://oom.lt/DSM3D](http://oom.lt/DSM3D)
+- Short Link: [http://oom.lt/DSM3D](http://oom.lt/DSM3D)
 
 ## Datasheets
 

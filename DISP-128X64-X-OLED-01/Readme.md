@@ -19,7 +19,7 @@ Contents
 - Name: 128 x 64 Pixels OLED Display
 - Description: 128 x 64 Pixels OLED Display
 - Long Link: [http://oom.lt/DISP-128X64-X-OLED-01](http://oom.lt/DISP-128X64-X-OLED-01)
-- Long Link: [http://oom.lt/DS16OL](http://oom.lt/DS16OL)
+- Short Link: [http://oom.lt/DS16OL](http://oom.lt/DS16OL)
 
 ## Datasheets
 
