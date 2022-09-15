@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "SENS"
+        },
+        {
+            "name": "oompSize",
+            "value": "T92"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K18B20"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "OW918B20"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-T92-X-K18B20-01"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-T92-X-K18B20-01"
+        },
+        {
+            "name": "name",
+            "value": "TO-92 DS18B20 (1-Wire Digital Thermometer) Sensor"
+        }
+    ]
+}

@@ -21,6 +21,7 @@ Contents
 	* [DBCO > Connector](#dbco--connector)
 	* [CRHO > Crimp Housing](#crho--crimp-housing)
 	* [DCJP > DC Jack](#dcjp--dc-jack)
+	* [DCPP > DC Plug](#dcpp--dc-plug)
 	* [DIOD > Diode](#diod--diode)
 	* [DIOS > Diode (Schottky)](#dios--diode-schottky)
 	* [DISP > Display](#disp--display)
@@ -193,6 +194,12 @@ Contents
   
 
 |<br>[DCJP-21D-X-MHI03-69 <br>  2.1 mm (7 mm mounting hole) DC Jack Panel Mount ](DCJP-21D-X-MHI03-69/)<br>[GJP3](DCJP-21D-X-MHI03-69/)|![2.1 mm Through Hole DC Jack](DCJP-21D-X-THTH-01/image_140.jpg)<br>[DCJP-21D-X-THTH-01 <br> 2.1 mm Through Hole DC Jack](DCJP-21D-X-THTH-01/)<br>[DJ21](DCJP-21D-X-THTH-01/)|![2.1 mm Through Hole DC Jack](DCJP-21D-X-THTH-02/image_140.jpg)<br>[DCJP-21D-X-THTH-02 <br> 2.1 mm Through Hole DC Jack](DCJP-21D-X-THTH-02/)<br>[DJ2Z](DCJP-21D-X-THTH-02/)||
+| :---: | :---: | :---: | :---: |
+
+## DCPP > DC Plug
+  
+
+|<br>[DCPP-21D-X-STAN-01 <br> 2.1 mm DC Plug](DCPP-21D-X-STAN-01/)<br>[DCP21](DCPP-21D-X-STAN-01/)|<br>[DCPP-25D-X-STAN-01 <br> 2.5 mm DC Plug](DCPP-25D-X-STAN-01/)<br>[DCP21](DCPP-25D-X-STAN-01/)|||
 | :---: | :---: | :---: | :---: |
 
 ## DIOD > Diode
@@ -580,7 +587,7 @@ Contents
 |<br>[SENS-05-X-LIRE-01 <br> 5 mm Light (Resistive) Sensor](SENS-05-X-LIRE-01/)<br>[SEPR](SENS-05-X-LIRE-01/)|<br>[SENS-12-X-TEHU-01 <br> 12 mm Temperature and Humidity Sensor](SENS-12-X-TEHU-01/)<br>[SETH1](SENS-12-X-TEHU-01/)|<br>[SENS-13-X-TEHU-01 <br> 13 mm Temperature and Humidity Sensor](SENS-13-X-TEHU-01/)<br>[SETH2](SENS-13-X-TEHU-01/)|<br>[SENS-25X13-X-PIVB-01 <br> 25 x 13 mm Piezo Vibration Sensor](SENS-25X13-X-PIVB-01/)<br>[SEVB](SENS-25X13-X-PIVB-01/)|
 | :---: | :---: | :---: | :---: |
 |<br>[SENS-3528-X-UVUV-01 <br> SMD (3528) Ultraviolet Sensor](SENS-3528-X-UVUV-01/)<br>[SEUV](SENS-3528-X-UVUV-01/)|<br>[SENS-87DX45D-X-K1550-01 <br> 8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor](SENS-87DX45D-X-K1550-01/)<br>[SEPR](SENS-87DX45D-X-K1550-01/)|<br>[SENS-92D-X-PIRS-01 <br> 9.2 mm PIRS Sensor](SENS-92D-X-PIRS-01/)<br>[SEPI](SENS-92D-X-PIRS-01/)|<br>[SENS-SO235-X-K36-01 <br> SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor](SENS-SO235-X-K36-01/)<br>|
-|<br>[SENS-T92-X-K36-01 <br> TO-92 Temperature (TMP36) Sensor](SENS-T92-X-K36-01/)<br>[SE36](SENS-T92-X-K36-01/)||||
+|<br>[SENS-T92-X-K18B20-01 <br> TO-92 DS18B20 (1-Wire Digital Thermometer) Sensor](SENS-T92-X-K18B20-01/)<br>[OW918B20](SENS-T92-X-K18B20-01/)|<br>[SENS-T92-X-K36-01 <br> TO-92 Temperature (TMP36) Sensor](SENS-T92-X-K36-01/)<br>[SE36](SENS-T92-X-K36-01/)|||
 
 ## SERV > Servo
   

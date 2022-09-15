@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "DCPP"
+        },
+        {
+            "name": "oompSize",
+            "value": "25D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "DCP21"
+        },
+        {
+            "name": "oompID",
+            "value": "DCPP-25D-X-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "DCPP-25D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "2.5 mm DC Plug"
+        }
+    ]
+}

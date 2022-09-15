@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "DCPP"
+        },
+        {
+            "name": "oompSize",
+            "value": "21D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "DCP21"
+        },
+        {
+            "name": "oompID",
+            "value": "DCPP-21D-X-STAN-01"
+        },
+        {
+            "name": "oompID",
+            "value": "DCPP-21D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "2.1 mm DC Plug"
+        }
+    ]
+}
