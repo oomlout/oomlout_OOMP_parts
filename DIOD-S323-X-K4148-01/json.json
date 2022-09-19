@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "DIOD"
+        },
+        {
+            "name": "oompSize",
+            "value": "S323"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K4148"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "D34148"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S323-X-K4148-01"
+        },
+        {
+            "name": "oompID",
+            "value": "DIOD-S323-X-K4148-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOD-323) Diode"
+        }
+    ]
+}

@@ -12,7 +12,7 @@ oSize = "25D"
 oColor = "X"
 oDesc = "STAN"
 oIndex = "01"
-hexId = "DCP21"
+hexId = "DCP25"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

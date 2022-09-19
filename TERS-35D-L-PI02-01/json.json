@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TERS"
+        },
+        {
+            "name": "oompSize",
+            "value": "35D"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "T35L3"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI02-01"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI02-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm 2 Pin Blue Screw Terminal"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "DCJP"
+        },
+        {
+            "name": "oompSize",
+            "value": "25D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "INLI"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "DCJ25I"
+        },
+        {
+            "name": "oompID",
+            "value": "DCJP-25D-X-INLI-01"
+        },
+        {
+            "name": "oompID",
+            "value": "DCJP-25D-X-INLI-01"
+        },
+        {
+            "name": "name",
+            "value": "2.5 mm (Inline) DC Jack"
+        }
+    ]
+}

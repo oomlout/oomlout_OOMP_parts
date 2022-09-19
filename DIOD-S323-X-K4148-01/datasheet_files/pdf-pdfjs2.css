@@ -1,0 +1,91 @@
+
+/* overriding light mode variables */
+:root {
+  --main-color: #c2ccd6;
+  --body-bg-color: #182839;
+  --toolbar-bg-color: #121e2b;
+  --toolbar-icon-bg-color: #c2ccd6;
+  --dropdown-btn-bg-color: rgba(74, 74, 79, 0.1);
+  --doorhanger-bg-color: rgba(74, 74, 79, 1);
+  --field-color: #f6f7f9;
+  --field-bg-color:  #060a0e;
+  --toolbar-border-color:  #121e2b;
+  --separator-color: #060a0e;
+  --toggled-btn-color: #f6f7f9;
+  --toolbar-icon-hover-bg-color: #f6f7f9;
+  --button-hover-color: rgba(255, 255, 255, 0.2);
+  --toggled-hover-active-btn-color: rgba(0, 0, 0, 0.4);
+  --sidebar-narrow-bg-color: #121e2b;
+  --sidebar-toolbar-bg-color: #121e2b;
+
+  --loading-icon: url("/vendor/pdfjs2/web/images/loading.svg");
+  --treeitem-expanded-icon: url("/vendor/pdfjs2/web/images/treeitem-expanded.svg");
+  --treeitem-collapsed-icon: url("/vendor/pdfjs2/web/images/treeitem-collapsed.svg");
+  --toolbarButton-menuArrow-icon: url("/vendor/pdfjs2/web/images/toolbarButton-menuArrow.svg");
+  --toolbarButton-sidebarToggle-icon: url("/vendor/pdfjs2/web/images/toolbarButton-sidebarToggle.svg");
+  --toolbarButton-secondaryToolbarToggle-icon: url("/vendor/pdfjs2/web/images/toolbarButton-secondaryToolbarToggle.svg");
+  --toolbarButton-pageUp-icon: url("/vendor/pdfjs2/web/images/toolbarButton-pageUp.svg");
+  --toolbarButton-pageDown-icon: url("/vendor/pdfjs2/web/images/toolbarButton-pageDown.svg");
+  --toolbarButton-zoomOut-icon: url("/vendor/pdfjs2/web/images/toolbarButton-zoomOut.svg");
+  --toolbarButton-zoomIn-icon: url("/vendor/pdfjs2/web/images/toolbarButton-zoomIn.svg");
+  --toolbarButton-presentationMode-icon: url("/vendor/pdfjs2/web/images/toolbarButton-presentationMode.svg");
+  --toolbarButton-print-icon: url("/vendor/pdfjs2/web/images/toolbarButton-print.svg");
+  --toolbarButton-openFile-icon: url("/vendor/pdfjs2/web/images/toolbarButton-openFile.svg");
+  --toolbarButton-download-icon: url("/vendor/pdfjs2/web/images/toolbarButton-download.svg");
+  --toolbarButton-bookmark-icon: url("/vendor/pdfjs2/web/images/toolbarButton-bookmark.svg");
+  --toolbarButton-viewThumbnail-icon: url("/vendor/pdfjs2/web/images/toolbarButton-viewThumbnail.svg");
+  --toolbarButton-viewOutline-icon: url("/vendor/pdfjs2/web/images/toolbarButton-viewOutline.svg");
+  --toolbarButton-viewAttachments-icon: url("/vendor/pdfjs2/web/images/toolbarButton-viewAttachments.svg");
+  --toolbarButton-viewLayers-icon: url("/vendor/pdfjs2/web/images/toolbarButton-viewLayers.svg");
+  --toolbarButton-currentOutlineItem-icon: url("/vendor/pdfjs2/web/images/toolbarButton-currentOutlineItem.svg");
+  --toolbarButton-search-icon: url("/vendor/pdfjs2/web/images/toolbarButton-search.svg");
+  --findbarButton-previous-icon: url("/vendor/pdfjs2/web/images/findbarButton-previous.svg");
+  --findbarButton-next-icon: url("/vendor/pdfjs2/web/images/findbarButton-next.svg");
+  --secondaryToolbarButton-firstPage-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-firstPage.svg");
+  --secondaryToolbarButton-lastPage-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-lastPage.svg");
+  --secondaryToolbarButton-rotateCcw-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-rotateCcw.svg");
+  --secondaryToolbarButton-rotateCw-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-rotateCw.svg");
+  --secondaryToolbarButton-selectTool-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-selectTool.svg");
+  --secondaryToolbarButton-handTool-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-handTool.svg");
+  --secondaryToolbarButton-scrollPage-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-scrollPage.svg");
+  --secondaryToolbarButton-scrollVertical-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-scrollVertical.svg");
+  --secondaryToolbarButton-scrollHorizontal-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-scrollHorizontal.svg");
+  --secondaryToolbarButton-scrollWrapped-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-scrollWrapped.svg");
+  --secondaryToolbarButton-spreadNone-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-spreadNone.svg");
+  --secondaryToolbarButton-spreadOdd-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-spreadOdd.svg");
+  --secondaryToolbarButton-spreadEven-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-spreadEven.svg");
+  --secondaryToolbarButton-documentProperties-icon: url("/vendor/pdfjs2/web/images/secondaryToolbarButton-documentProperties.svg");
+}
+/* theme colors */
+.doorHanger::before, .doorHanger::after {
+    border-bottom-color: #121e2b !important; /* night-dark */
+}
+.toolbarButton:not(:disabled):active svg, .toolbarButton.toggled svg {
+    fill: #f6f7f9; /* gray-lightest */
+}
+.toolbarButton:not(:disabled):hover svg {
+    fill: #ebf4ff; /* blue-primary-light */
+}
+
+/* fix janky gradient on Safari */
+.dropdownToolbarButton > select {
+  -webkit-appearance: none;
+  padding-left: 8px !important;
+}
+
+#secondaryToolbarToggle {
+    display: none !important;
+}
+#viewBookmark {
+    display: none !important;
+}
+#openFile {
+    display: none !important;
+}
+
+/* preview not available */
+.preview-unavailable #viewerContainer {
+    background-image: url("/images/unavailable.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}

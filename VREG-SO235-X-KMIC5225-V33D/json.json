@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KMIC5225"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V33D"
+        },
+        {
+            "name": "hexID",
+            "value": "V235MIC522533"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-KMIC5225-V33D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-KMIC5225-V33D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "LP298XS"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V33D"
+        },
+        {
+            "name": "hexID",
+            "value": "V235LP298XS33"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-LP298XS-V33D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-LP298XS-V33D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) Voltage Regulator 3.3v"
+        }
+    ]
+}

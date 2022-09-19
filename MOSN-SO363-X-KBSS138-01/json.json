@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "MOSN"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO363"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KBSS138"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "MN363BSS138"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-SO363-X-KBSS138-01"
+        },
+        {
+            "name": "oompID",
+            "value": "MOSN-SO363-X-KBSS138-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-363) BSS138 N-Ch. MOSFET"
+        }
+    ]
+}
