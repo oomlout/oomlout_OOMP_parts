@@ -89,6 +89,41 @@
             "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R15",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R17",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R21",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R23",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-SPAR-13968-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0603-X-O433-01"
         },

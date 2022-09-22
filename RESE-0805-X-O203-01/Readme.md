@@ -30,6 +30,20 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 14 times.  
+Prevalance: (14\9905) 0.1413%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1580-STAN-01<br> Adafruit AR1100 Resistive Touch Controller PCB <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1580-STAN-01/)|
+|[PROJ-ADAF-1716-STAN-01<br> Adafruit Qualia Driver PCB <br>Used 5 times.<br>R4, R6, R7, R9, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1716-STAN-01/)|
+|[PROJ-ADAF-1752-STAN-01<br> Adafruit MAX9744 Amplifier PCB <br>Used 4 times.<br>R6, R7, R8, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1752-STAN-01/)|
+|[PROJ-ADAF-2453-STAN-01<br> Adafruit DPI Kippah PCB <br>Used 3 times.<br>R1, R5, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2453-STAN-01/)|
+|[PROJ-ADAF-3305-STAN-01<br> Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3305-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -61,3 +75,17 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1580-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1752-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1752-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1752-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1752-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2453-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2453-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2453-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3305-STAN-01', 'ID': 'R1'}

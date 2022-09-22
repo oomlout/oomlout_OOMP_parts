@@ -67,6 +67,7 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10864-STAN-01', 'ID': 'R12'}
 
 
 

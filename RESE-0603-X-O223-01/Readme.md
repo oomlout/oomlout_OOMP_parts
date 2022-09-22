@@ -39,8 +39,25 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 9 times.  
+Prevalance: (9\9905) 0.0909%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-5165-STAN-01<br> Adafruit MCP9601 PCB <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5165-STAN-01/)|
+|[PROJ-SPAR-12000-STAN-01<br> WAV Trigger <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12000-STAN-01/)|
+|[PROJ-SPAR-12011-STAN-01<br> Tilt-a-Whirl Breakout <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12011-STAN-01/)|
+|[PROJ-SPAR-12642-STAN-01<br> Sound Detector <br>Used 1 times.<br>R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12642-STAN-01/)|
+|[PROJ-SPAR-13794-STAN-01<br> Blynk Board ESP8266 <br>Used 1 times.<br>R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13794-STAN-01/)|
+|[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
+|[PROJ-SPAR-14544-STAN-01<br> Current Sensor Breakout-ACS723-Low Current <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14544-STAN-01/)|
+|[PROJ-SPAR-14765-STAN-01<br> Single Supply Logic Level Converter <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14765-STAN-01/)|
 
 ### Symbols
 
@@ -76,6 +93,15 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5165-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12000-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12011-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12011-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12642-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13794-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14544-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14765-STAN-01', 'ID': 'R2'}
 
 
 

@@ -39,8 +39,33 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 26 times.  
+Prevalance: (26\9905) 0.2625%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1904-STAN-01<br> Adafruit MicroLipo PCB <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1904-STAN-01/)|
+|[PROJ-ADAF-2226-STAN-01<br> Adafruit NeoPixel Jewel 7 <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2226-STAN-01/)|
+|[PROJ-ADAF-3201-STAN-01<br> Adafruit Ethernet FeatherWing PCB <br>Used 2 times.<br>R13, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3201-STAN-01/)|
+|[PROJ-ADAF-4740-STAN-01<br> Adafruit MIDI FeatherWing PCB <br>Used 1 times.<br>R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4740-STAN-01/)|
+|[PROJ-SPAR-11343-STAN-01<br> IOIO-OTG <br>Used 1 times.<br>R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11343-STAN-01/)|
+|[PROJ-SPAR-11520-STAN-01<br> Fio v3 <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|
+|[PROJ-SPAR-12000-STAN-01<br> WAV Trigger <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12000-STAN-01/)|
+|[PROJ-SPAR-12660-STAN-01<br> MP3 Player Shield <br>Used 2 times.<br>R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12660-STAN-01/)|
+|[PROJ-SPAR-13911-STAN-01<br> Serial Controlled Motor Driver <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13911-STAN-01/)|
+|[PROJ-SPAR-14006-STAN-01<br> Lil Soundie Audio Player <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14006-STAN-01/)|
+|[PROJ-SPAR-14030-STAN-01<br> Mini GPS Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14030-STAN-01/)|
+|[PROJ-SPAR-14051-STAN-01<br> Wireless Joystick <br>Used 3 times.<br>R4, R6, R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14051-STAN-01/)|
+|[PROJ-SPAR-14380-STAN-01<br> Adjustable Lipo Charger <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14380-STAN-01/)|
+|[PROJ-SPAR-14414-STAN-01<br> SparkFun GPS Breakout XA1110 Qwiic <br>Used 3 times.<br>R3, R6, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14414-STAN-01/)|
+|[PROJ-SPAR-14430-STAN-01<br> ESP32 Motion Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14430-STAN-01/)|
+|[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
 
 ### Symbols
 
@@ -77,6 +102,32 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1904-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1904-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2226-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3201-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3201-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4740-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11343-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12000-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12000-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R21'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R22'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13911-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14006-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14006-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14030-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14051-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14051-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14051-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14380-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14414-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14414-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14414-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14430-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R7'}
 
 
 

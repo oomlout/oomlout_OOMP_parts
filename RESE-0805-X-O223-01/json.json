@@ -77,6 +77,20 @@
             "value": "R1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R7",
+                "PROJECT": "PROJ-ADAF-1063-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R1",
+                "PROJECT": "PROJ-ADAF-1697-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0805-X-O223-01"
         },

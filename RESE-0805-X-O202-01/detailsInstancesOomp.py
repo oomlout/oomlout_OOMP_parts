@@ -1,0 +1,18 @@
+import OOMP
+newPart = OOMP.getPartByID("RESE-0805-X-O202-01")
+
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-1944-STAN-01', 'ID': 'R8'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-1963-STAN-01', 'ID': 'R3'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2078-STAN-01', 'ID': 'R2'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2078-STAN-01', 'ID': 'R4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2479-STAN-01', 'ID': 'R7'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2487-STAN-01', 'ID': 'R1'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2487-STAN-01', 'ID': 'R2'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2487-STAN-01', 'ID': 'R4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2542-STAN-01', 'ID': 'R3'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2633-STAN-01', 'ID': 'R1'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2633-STAN-01', 'ID': 'R2'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2636-STAN-01', 'ID': 'R3'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R1'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R10'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-390-STAN-01', 'ID': 'R11'})

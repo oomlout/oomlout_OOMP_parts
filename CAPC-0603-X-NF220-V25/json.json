@@ -73,6 +73,55 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C4",
+                "PROJECT": "PROJ-ADAF-3387-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C9",
+                "PROJECT": "PROJ-SPAR-10025-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-10025-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C7",
+                "PROJECT": "PROJ-SPAR-10311-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C2",
+                "PROJECT": "PROJ-SPAR-11295-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C2",
+                "PROJECT": "PROJ-SPAR-12636-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C5",
+                "PROJECT": "PROJ-SPAR-13033-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0603-X-NF220-V25"
         },

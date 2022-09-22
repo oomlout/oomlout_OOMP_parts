@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "CTS60U100F"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPC6032UF100"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "6032"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-6032-X-UF100-V16"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-6032-X-UF100-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6032) 100 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

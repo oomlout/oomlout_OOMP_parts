@@ -36,6 +36,17 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 4 times.  
+Prevalance: (4\9905) 0.0404%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-2468-STAN-01<br> Adafruit FONA 800 Shield PCB <br>Used 2 times.<br>R3, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2468-STAN-01/)|
+|[PROJ-ADAF-292-STAN-01<br> Adafruit I2C SPI LCD Backpack PCB <br>Used 2 times.<br>R4, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-292-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -67,6 +78,10 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2468-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2468-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-292-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-292-STAN-01', 'ID': 'R5'}
 
 
 

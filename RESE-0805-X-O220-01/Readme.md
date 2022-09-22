@@ -36,6 +36,26 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 23 times.  
+Prevalance: (23\9905) 0.2322%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1060-STAN-01<br> Adafruit Flora Smart NeoPixel <br>Used 2 times.<br>R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1060-STAN-01/)|
+|[PROJ-ADAF-1601-STAN-01<br> Adafruit PiTFT 2.8 inch Display PCB <br>Used 2 times.<br>R10, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1601-STAN-01/)|
+|[PROJ-ADAF-1788-STAN-01<br> Adafruit Music Maker MP3 Shield PCB <br>Used 2 times.<br>R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1788-STAN-01/)|
+|[PROJ-ADAF-2298-STAN-01<br> Adafruit PiTFT Plus 2.8 PCB <br>Used 2 times.<br>R10, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2298-STAN-01/)|
+|[PROJ-ADAF-2455-STAN-01<br> Adafruit PiTFT 2.4 Inch HAT PCB <br>Used 2 times.<br>R10, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2455-STAN-01/)|
+|[PROJ-ADAF-2616-STAN-01<br> Adafruit PiTFT Plus 3.2 PCB <br>Used 2 times.<br>R22, R23](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2616-STAN-01/)|
+|[PROJ-ADAF-2661-STAN-01<br> Adafruit Bluefruit LE Micro PCB <br>Used 2 times.<br>R4, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2661-STAN-01/)|
+|[PROJ-ADAF-3538-STAN-01<br> Adafruit AMG8833 Breakout PCB <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3538-STAN-01/)|
+|[PROJ-ADAF-376-STAN-01<br> Adafruit_2.8_Inch_TFT_Shield_PCB <br>Used 4 times.<br>R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-376-STAN-01/)|
+|[PROJ-ADAF-659-STAN-01<br> Adafruit Flora Mainboard <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-659-STAN-01/)|
+|[PROJ-ADAF-782-STAN-01<br> Adafruit USB Serial RGB Character Backpack PCB <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-782-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -67,6 +87,29 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1060-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1060-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1601-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1601-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1788-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1788-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2298-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2298-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2455-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2455-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2616-STAN-01', 'ID': 'R22'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2616-STAN-01', 'ID': 'R23'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2661-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2661-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3538-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-376-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-376-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-376-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-376-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-659-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-659-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'R2'}
 
 
 

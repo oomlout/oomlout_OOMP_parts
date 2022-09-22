@@ -36,6 +36,16 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 3 times.  
+Prevalance: (3\9905) 0.0303%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 3 times.<br>C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -66,6 +76,9 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: C1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14155-STAN-01', 'ID': 'C1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14155-STAN-01', 'ID': 'C2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14155-STAN-01', 'ID': 'C3'}
 
 
 

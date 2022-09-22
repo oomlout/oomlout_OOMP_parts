@@ -6,7 +6,9 @@ Contents
 ========
 
 * [MNS22D > SMD (SOT-323) 200 mA N-Ch. MOSFET](#mns22d--smd-sot-323-200-ma-n-ch-mosfet)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # MNS22D > SMD (SOT-323) 200 mA N-Ch. MOSFET
@@ -18,9 +20,25 @@ Contents
 - Long Link: [http://oom.lt/MOSN-SO323-X-A02D-01](http://oom.lt/MOSN-SO323-X-A02D-01)
 - Short Link: [http://oom.lt/MNS22D](http://oom.lt/MNS22D)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

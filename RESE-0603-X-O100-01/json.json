@@ -89,6 +89,174 @@
             "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R12",
+                "PROJECT": "PROJ-ADAF-3201-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R1",
+                "PROJECT": "PROJ-ADAF-3321-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-3787-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R23",
+                "PROJECT": "PROJ-ADAF-4300-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-4313-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-4393-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-4500-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R6",
+                "PROJECT": "PROJ-ADAF-4500-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-4506-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R4",
+                "PROJECT": "PROJ-ADAF-4740-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-5206-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-ADAF-5393-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R9",
+                "PROJECT": "PROJ-SPAR-12660-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R37",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R38",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R39",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R40",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R41",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R42",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R43",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R44",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R27",
+                "PROJECT": "PROJ-SPAR-14006-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R27",
+                "PROJECT": "PROJ-SPAR-14554-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R14",
+                "PROJECT": "PROJ-SPAR-15005-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0603-X-O100-01"
         },

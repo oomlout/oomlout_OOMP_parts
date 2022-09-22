@@ -1,0 +1,68 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "4280"
+        },
+        {
+            "name": "hexID",
+            "value": "CTS35U010F"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "3528"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF10-V16"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF10-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) 10 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

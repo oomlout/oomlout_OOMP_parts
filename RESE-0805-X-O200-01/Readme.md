@@ -30,6 +30,16 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1381-STAN-01<br> Adafruit VS1053 Breakout PCB <br>Used 2 times.<br>R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1381-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -61,3 +71,5 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1381-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1381-STAN-01', 'ID': 'R4'}

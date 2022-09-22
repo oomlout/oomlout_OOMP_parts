@@ -36,6 +36,18 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 21 times.  
+Prevalance: (21\9905) 0.212%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1588-STAN-01<br> Adafruit Bluefruit Classic PCBs <br>Used 2 times.<br>R8, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1588-STAN-01/)|
+|[PROJ-ADAF-1628-STAN-01<br> Adafruit Bluefruit EZ Link Shield PCB <br>Used 2 times.<br>R8, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1628-STAN-01/)|
+|[PROJ-ADAF-815-STAN-01<br> Adafruit 16 Channel PWM Servo Driver PCB <br>Used 17 times.<br>R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-815-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -67,6 +79,27 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1588-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1588-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1628-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1628-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R15'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R18'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R19'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R21'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R22'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R23'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R24'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R25'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-815-STAN-01', 'ID': 'R26'}
 
 
 

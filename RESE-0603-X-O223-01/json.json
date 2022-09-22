@@ -89,6 +89,69 @@
             "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R4",
+                "PROJECT": "PROJ-ADAF-5165-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R9",
+                "PROJECT": "PROJ-SPAR-12000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R1",
+                "PROJECT": "PROJ-SPAR-12011-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R2",
+                "PROJECT": "PROJ-SPAR-12011-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R7",
+                "PROJECT": "PROJ-SPAR-12642-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R3",
+                "PROJECT": "PROJ-SPAR-13794-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R5",
+                "PROJECT": "PROJ-SPAR-13810-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R1",
+                "PROJECT": "PROJ-SPAR-14544-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R2",
+                "PROJECT": "PROJ-SPAR-14765-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0603-X-O223-01"
         },

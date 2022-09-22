@@ -39,8 +39,28 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 24 times.  
+Prevalance: (24\9905) 0.2423%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-10025-STAN-01<br> EiBotBoard <br>Used 1 times.<br>R27](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
+|[PROJ-SPAR-10878-STAN-01<br> EL Escudo Dos <br>Used 9 times.<br>R2, R5, R8, R11, R14, R17, R20, R23, R26](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10878-STAN-01/)|
+|[PROJ-SPAR-11323-STAN-01<br> EL Sequencer <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11323-STAN-01/)|
+|[PROJ-SPAR-12071-STAN-01<br> CC3000 WiFi Shield <br>Used 2 times.<br>R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12071-STAN-01/)|
+|[PROJ-SPAR-12779-STAN-01<br> Easy Driver <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12779-STAN-01/)|
+|[PROJ-SPAR-12859-STAN-01<br> Big Easy Driver <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12859-STAN-01/)|
+|[PROJ-SPAR-13032-STAN-01<br> Breadboard Power Supply Stick 5V-3.3V <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13032-STAN-01/)|
+|[PROJ-SPAR-13321-STAN-01<br> Photon RedBoard <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13321-STAN-01/)|
+|[PROJ-SPAR-13720-STAN-01<br> MP3 Trigger <br>Used 1 times.<br>R17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13720-STAN-01/)|
+|[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 2 times.<br>R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
+|[PROJ-SPAR-14589-STAN-01<br> SparkFun Differential I2C Breakout PCA9615 Qwiic <br>Used 4 times.<br>R1, R3, R4, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14589-STAN-01/)|
 
 ### Symbols
 
@@ -80,6 +100,30 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R27'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R23'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R26'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11323-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12779-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13032-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13321-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13720-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R6'}
 
 
 

@@ -36,6 +36,16 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-11736-STAN-01<br> FT231X Breakout <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11736-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -66,6 +76,8 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: C1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11736-STAN-01', 'ID': 'C3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11736-STAN-01', 'ID': 'C4'}
 
 
 

@@ -73,6 +73,34 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C12",
+                "PROJECT": "PROJ-SPAR-10587-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C11",
+                "PROJECT": "PROJ-SPAR-10608-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C16",
+                "PROJECT": "PROJ-SPAR-11013-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C11",
+                "PROJECT": "PROJ-SPAR-11684-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0402-X-NF47-V25"
         },

@@ -39,8 +39,20 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 7 times.  
+Prevalance: (7\9905) 0.0707%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-11924-STAN-01<br> Purpletooth Jamboree <br>Used 4 times.<br>R13, R16, R19, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11924-STAN-01/)|
+|[PROJ-SPAR-12858-STAN-01<br> Vernier Interface Shield <br>Used 2 times.<br>R14, R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12858-STAN-01/)|
+|[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 
 ### Symbols
 
@@ -76,6 +88,13 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R19'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R22'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R4'}
 
 
 

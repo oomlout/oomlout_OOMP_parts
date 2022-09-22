@@ -36,6 +36,20 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 7 times.  
+Prevalance: (7\9905) 0.0707%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-10116-STAN-01<br> Arduino Fio <br>Used 1 times.<br>R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|
+|[PROJ-SPAR-10701-STAN-01<br> Color Light Sensor Evaluation Board <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10701-STAN-01/)|
+|[PROJ-SPAR-10889-STAN-01<br> ProtoSnap-Pro Mini <br>Used 2 times.<br>R5, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10889-STAN-01/)|
+|[PROJ-SPAR-11168-STAN-01<br> AVR ISP Shield <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11168-STAN-01/)|
+|[PROJ-SPAR-11262-STAN-01<br> ProtoSnap-LilyPad Development Board <br>Used 2 times.<br>R4, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11262-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -66,6 +80,13 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10116-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10701-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10889-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10889-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11168-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11262-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11262-STAN-01', 'ID': 'R5'}
 
 
 

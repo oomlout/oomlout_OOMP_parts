@@ -73,6 +73,55 @@
             "value": "R1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R6",
+                "PROJECT": "PROJ-SPAR-10507-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R13",
+                "PROJECT": "PROJ-SPAR-10507-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R20",
+                "PROJECT": "PROJ-SPAR-10507-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R27",
+                "PROJECT": "PROJ-SPAR-10507-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R9",
+                "PROJECT": "PROJ-SPAR-11129-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R10",
+                "PROJECT": "PROJ-SPAR-11129-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R1",
+                "PROJECT": "PROJ-SPAR-11703-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0402-X-O203-01"
         },

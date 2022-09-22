@@ -33,8 +33,23 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 11 times.  
+Prevalance: (11\9905) 0.1111%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-12660-STAN-01<br> MP3 Player Shield <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12660-STAN-01/)|
+|[PROJ-SPAR-13720-STAN-01<br> MP3 Trigger <br>Used 3 times.<br>R9, R10, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13720-STAN-01/)|
+|[PROJ-SPAR-14006-STAN-01<br> Lil Soundie Audio Player <br>Used 2 times.<br>R8, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14006-STAN-01/)|
+|[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>R8, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
+|[PROJ-SPAR-14607-STAN-01<br> Qwiic GRIDEye <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14607-STAN-01/)|
+|[PROJ-SPAR-15031-STAN-01<br> ESP8266 WiFi IR Blaster <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15031-STAN-01/)|
 
 ### Symbols
 
@@ -70,3 +85,14 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13720-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13720-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13720-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14006-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14006-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-14607-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'R6'}

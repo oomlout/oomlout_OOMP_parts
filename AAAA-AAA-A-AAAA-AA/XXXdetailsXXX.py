@@ -7,12 +7,12 @@ import OOMPtags
 
 newPart = OOMP.oompItem()
 
-oType = ""
-oSize = ""
-oColor = ""
-oDesc = ""
-oIndex = ""
-hexId = ""
+oType = "TYPEZZ"
+oSize = "SIZEZZ"
+oColor = "COLORZZ"
+oDesc = "DESCZZ"
+oIndex = "INDEXZZ"
+hexId = "HEXZZ"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

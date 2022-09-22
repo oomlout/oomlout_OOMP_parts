@@ -73,6 +73,118 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-10587-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C11",
+                "PROJECT": "PROJ-SPAR-10587-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-10608-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C12",
+                "PROJECT": "PROJ-SPAR-10608-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C23",
+                "PROJECT": "PROJ-SPAR-10608-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C24",
+                "PROJECT": "PROJ-SPAR-10608-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-10612-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C2",
+                "PROJECT": "PROJ-SPAR-10617-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C14",
+                "PROJECT": "PROJ-SPAR-11013-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C15",
+                "PROJECT": "PROJ-SPAR-11013-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C6",
+                "PROJECT": "PROJ-SPAR-11341-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-11486-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-11684-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C12",
+                "PROJECT": "PROJ-SPAR-11684-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C23",
+                "PROJECT": "PROJ-SPAR-11684-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C24",
+                "PROJECT": "PROJ-SPAR-11684-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0402-X-NF10-V50"
         },

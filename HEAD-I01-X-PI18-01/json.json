@@ -133,6 +133,20 @@
             "value": "HEAD-I01-X-PI18-01"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP1",
+                "PROJECT": "PROJ-ADAF-782-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP4",
+                "PROJECT": "PROJ-SPAR-13632-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI18-01"
         },

@@ -77,6 +77,20 @@
             "value": "R1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R11",
+                "PROJECT": "PROJ-SPAR-11129-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "R12",
+                "PROJECT": "PROJ-SPAR-11129-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "RESE-0402-X-O473-01"
         },

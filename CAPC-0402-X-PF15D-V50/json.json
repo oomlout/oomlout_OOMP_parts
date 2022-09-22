@@ -73,6 +73,13 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C15",
+                "PROJECT": "PROJ-ADAF-1697-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0402-X-PF15D-V50"
         },

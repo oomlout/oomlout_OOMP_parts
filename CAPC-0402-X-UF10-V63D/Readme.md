@@ -66,6 +66,7 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: C1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11801-STAN-01', 'ID': 'C3'}
 
 
 

@@ -31,6 +31,17 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-10617-STAN-01<br> Lipo Fuel Gauge <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|
+|[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -61,6 +72,8 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10617-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12081-STAN-01', 'ID': 'R2'}
 
 
 

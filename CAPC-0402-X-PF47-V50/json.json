@@ -73,6 +73,20 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-11736-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C4",
+                "PROJECT": "PROJ-SPAR-11736-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0402-X-PF47-V50"
         },

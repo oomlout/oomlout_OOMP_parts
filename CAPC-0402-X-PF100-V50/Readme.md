@@ -36,6 +36,17 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-5325-STAN-01<br> Adafruit QT Py ESP32 S2 PCB <br>Used 1 times.<br>C16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5325-STAN-01/)|
+|[PROJ-SPAR-13990-STAN-01<br> nRF52832 Breakout <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13990-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -66,6 +77,8 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: C1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5325-STAN-01', 'ID': 'C16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13990-STAN-01', 'ID': 'C5'}
 
 
 

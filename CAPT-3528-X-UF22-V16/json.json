@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "C3528U022F"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPT3528UF22"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "3528"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF22"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF22-V16"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF22-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) 22 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

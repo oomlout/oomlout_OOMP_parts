@@ -30,6 +30,16 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 3 times.  
+Prevalance: (3\9905) 0.0303%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-259-STAN-01<br> Adafruit_MCP73833_PCB <br>Used 3 times.<br>R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-259-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -61,3 +71,6 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R3'}

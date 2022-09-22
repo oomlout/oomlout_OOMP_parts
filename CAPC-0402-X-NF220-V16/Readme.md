@@ -36,6 +36,18 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 6 times.  
+Prevalance: (6\9905) 0.0606%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-10507-STAN-01<br> Quadstepper Motor Driver <br>Used 4 times.<br>C8, C14, C20, C26](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|
+|[PROJ-SPAR-10530-STAN-01<br> Triple Axis Magnetometer-HMC5883L <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10530-STAN-01/)|
+|[PROJ-SPAR-10888-STAN-01<br> LSM303 Breakout <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10888-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -66,6 +78,12 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: C1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10507-STAN-01', 'ID': 'C8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10507-STAN-01', 'ID': 'C14'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10507-STAN-01', 'ID': 'C20'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10507-STAN-01', 'ID': 'C26'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10530-STAN-01', 'ID': 'C2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10888-STAN-01', 'ID': 'C3'}
 
 
 

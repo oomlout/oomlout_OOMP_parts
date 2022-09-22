@@ -89,6 +89,132 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C18",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C19",
+                "PROJECT": "PROJ-SPAR-11924-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C7",
+                "PROJECT": "PROJ-SPAR-13672-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C9",
+                "PROJECT": "PROJ-SPAR-13672-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-14001-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C12",
+                "PROJECT": "PROJ-SPAR-14001-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C9",
+                "PROJECT": "PROJ-SPAR-14051-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-14051-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C1",
+                "PROJECT": "PROJ-SPAR-14063-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C2",
+                "PROJECT": "PROJ-SPAR-14063-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C15",
+                "PROJECT": "PROJ-SPAR-14779-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C16",
+                "PROJECT": "PROJ-SPAR-14779-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C7",
+                "PROJECT": "PROJ-SPAR-14812-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C9",
+                "PROJECT": "PROJ-SPAR-14812-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C2",
+                "PROJECT": "PROJ-SPAR-14916-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-14916-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C10",
+                "PROJECT": "PROJ-SPAR-14997-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C15",
+                "PROJECT": "PROJ-SPAR-14997-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0603-X-PF15-V50"
         },

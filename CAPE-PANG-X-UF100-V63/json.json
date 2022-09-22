@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "PANG"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF100"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V63"
+        },
+        {
+            "name": "hexID",
+            "value": "CESU100V63"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-PANG-X-UF100-V63"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-PANG-X-UF100-V63"
+        },
+        {
+            "name": "name",
+            "value": "SMD (10 mm) (Panasonic G) 100 uF Capacitor (Electrolytic) 63v"
+        }
+    ]
+}

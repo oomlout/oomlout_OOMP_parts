@@ -1,0 +1,15 @@
+import OOMP
+newPart = OOMP.getPartByID("CAPC-0603-X-PF10-V50")
+
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'C6'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'C4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'C5'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13711-STAN-01', 'ID': 'C3'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13711-STAN-01', 'ID': 'C4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13794-STAN-01', 'ID': 'C3'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13794-STAN-01', 'ID': 'C4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'C20'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13830-STAN-01', 'ID': 'C7'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-13830-STAN-01', 'ID': 'C8'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C4'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C5'})

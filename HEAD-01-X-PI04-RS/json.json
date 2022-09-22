@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "hexID",
+            "value": "H14RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-01-X-PI04-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-01-X-PI04-RS"
+        },
+        {
+            "name": "name",
+            "value": "1 mm 4 Pin Header Right Angle (SMD)"
+        }
+    ]
+}

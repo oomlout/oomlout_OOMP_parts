@@ -36,6 +36,22 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 7 times.  
+Prevalance: (7\9905) 0.0707%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ARDU-DUE-STAN-01<br> Arduino DUE <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|
+|[PROJ-SPAR-10587-STAN-01<br> Music Instrument Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10587-STAN-01/)|
+|[PROJ-SPAR-10608-STAN-01<br> MP3 Breakout-VS1033D <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10608-STAN-01/)|
+|[PROJ-SPAR-10864-STAN-01<br> PoEthernet Shield <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10864-STAN-01/)|
+|[PROJ-SPAR-11013-STAN-01<br> LilyPad MP3 Player <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11013-STAN-01/)|
+|[PROJ-SPAR-11214-STAN-01<br> MOSFET Power Controller <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11214-STAN-01/)|
+|[PROJ-SPAR-11684-STAN-01<br> MP3 Breakout-VS1063 <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11684-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -67,6 +83,13 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ARDU-DUE-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10587-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10864-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11214-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11684-STAN-01', 'ID': 'R1'}
 
 
 

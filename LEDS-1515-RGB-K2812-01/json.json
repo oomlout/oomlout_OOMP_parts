@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "1515"
+        },
+        {
+            "name": "oompColor",
+            "value": "RGB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2812"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "L152812"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-1515-RGB-K2812-01"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-1515-RGB-K2812-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1515) Smart Controller (WS2812B) RGB LED"
+        }
+    ]
+}

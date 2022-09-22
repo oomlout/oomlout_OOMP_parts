@@ -121,6 +121,209 @@
             "value": "D1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-1272-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-2078-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-2267-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-2466-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-2466-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2999-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-3382-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-3382-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D1",
+                "PROJECT": "PROJ-ADAF-3458-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D5",
+                "PROJECT": "PROJ-ADAF-3458-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-3505-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-3505-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-4000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-4000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-4064-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-4064-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RXLED",
+                "PROJECT": "PROJ-ADAF-659-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TXLED",
+                "PROJECT": "PROJ-ADAF-659-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "L",
+                "PROJECT": "PROJ-ARDU-LEO-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RX",
+                "PROJECT": "PROJ-ARDU-LEO-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TX",
+                "PROJECT": "PROJ-ARDU-LEO-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RX",
+                "PROJECT": "PROJ-ARDU-MICRO-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TX",
+                "PROJECT": "PROJ-ARDU-MICRO-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "L",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RX",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TX",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "L",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-SM"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "RX",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-SM"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "TX",
+                "PROJECT": "PROJ-ARDU-UNO-REV3-SM"
+            }
+        },
+        {
             "name": "oompID",
             "value": "LEDS-0805-Y-STAN-01"
         },

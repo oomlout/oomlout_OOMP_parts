@@ -36,6 +36,17 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1063-STAN-01<br> Adafruit MAX4466 Electret Mic Amplifier PCBs <br>Used 1 times.<br>R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1063-STAN-01/)|
+|[PROJ-ADAF-1697-STAN-01<br> Adafruit Bluefruit LE nRF8001 PCB <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1697-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -67,6 +78,8 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0805-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1063-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'R1'}
 
 
 

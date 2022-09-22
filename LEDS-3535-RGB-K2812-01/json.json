@@ -1,0 +1,915 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "LEDS"
+        },
+        {
+            "name": "oompSize",
+            "value": "3535"
+        },
+        {
+            "name": "oompColor",
+            "value": "RGB"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K2812"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "L352812"
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-3535-RGB-K2812-01"
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED11",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED12",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED13",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED14",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED15",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED16",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED17",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED18",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED19",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED20",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED21",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED22",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED23",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED24",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED25",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED26",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED27",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED28",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED29",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED30",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED31",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED32",
+                "PROJECT": "PROJ-ADAF-2945-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-3000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-3333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3382-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3403-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3505-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3857-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3900-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED11",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED12",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED13",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED14",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED15",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED16",
+                "PROJECT": "PROJ-ADAF-3954-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4064-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-4333-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4382-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4500-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4516-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4745-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4759-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4775-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4870-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-4870-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-4870-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-4870-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4978-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4979-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-4979-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4980-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-4980-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-4980-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-4980-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-4991-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5020-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5021-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-5021-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5022-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-5022-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED5",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED6",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED7",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED8",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED9",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED10",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED11",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED12",
+                "PROJECT": "PROJ-ADAF-5100-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5295-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-5295-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-5295-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-5295-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED1",
+                "PROJECT": "PROJ-ADAF-5400-STAN-01"
+            }
+        },
+        {
+            "name": "oompID",
+            "value": "LEDS-3535-RGB-K2812-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3535) Smart Controller (WS2812B) RGB LED"
+        }
+    ]
+}

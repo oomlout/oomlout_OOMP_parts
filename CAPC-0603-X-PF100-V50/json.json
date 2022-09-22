@@ -73,6 +73,97 @@
             "value": "C1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C28",
+                "PROJECT": "PROJ-ADAF-4757-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C29",
+                "PROJECT": "PROJ-ADAF-4757-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C30",
+                "PROJECT": "PROJ-ADAF-4757-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C31",
+                "PROJECT": "PROJ-ADAF-4757-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C1",
+                "PROJECT": "PROJ-SPAR-10661-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-10661-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-12958-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C5",
+                "PROJECT": "PROJ-SPAR-12958-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C7",
+                "PROJECT": "PROJ-SPAR-12958-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C3",
+                "PROJECT": "PROJ-SPAR-14002-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C5",
+                "PROJECT": "PROJ-SPAR-14003-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C6",
+                "PROJECT": "PROJ-SPAR-14003-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "C1",
+                "PROJECT": "PROJ-SPAR-14544-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "CAPC-0603-X-PF100-V50"
         },

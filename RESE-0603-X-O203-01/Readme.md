@@ -39,8 +39,29 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 34 times.  
+Prevalance: (34\9905) 0.3433%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-3000-STAN-01<br> Adafruit Circuit Playground PCB <br>Used 1 times.<br>R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3000-STAN-01/)|
+|[PROJ-ADAF-5335-STAN-01<br> Adafruit CP2102N Friend PCB <br>Used 3 times.<br>R1, R2, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5335-STAN-01/)|
+|[PROJ-SPAR-10025-STAN-01<br> EiBotBoard <br>Used 2 times.<br>R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
+|[PROJ-SPAR-10101-STAN-01<br> Window Comparator <br>Used 1 times.<br>R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|
+|[PROJ-SPAR-12009-STAN-01<br> Logic Level Converter <br>Used 2 times.<br>R5, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12009-STAN-01/)|
+|[PROJ-SPAR-12779-STAN-01<br> Easy Driver <br>Used 2 times.<br>R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12779-STAN-01/)|
+|[PROJ-SPAR-12858-STAN-01<br> Vernier Interface Shield <br>Used 6 times.<br>R2, R3, R4, R8, R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12858-STAN-01/)|
+|[PROJ-SPAR-12859-STAN-01<br> Big Easy Driver <br>Used 9 times.<br>R1, R2, R3, R4, R5, R10, R11, R12, R20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12859-STAN-01/)|
+|[PROJ-SPAR-12938-STAN-01<br> Si4703 FM Tuner Evaluation Board <br>Used 4 times.<br>R4, R5, R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12938-STAN-01/)|
+|[PROJ-SPAR-13230-STAN-01<br> HX711-Load-Cell-Amplifier <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13230-STAN-01/)|
+|[PROJ-SPAR-13261-STAN-01<br> OpenScale <br>Used 1 times.<br>R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13261-STAN-01/)|
+|[PROJ-SPAR-13714-STAN-01<br> FreeSoc2 <br>Used 2 times.<br>R5, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13714-STAN-01/)|
 
 ### Symbols
 
@@ -76,6 +97,40 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3000-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5335-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5335-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5335-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10101-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12009-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12009-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12779-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12779-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12859-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12938-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12938-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12938-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12938-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13230-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13261-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13714-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13714-STAN-01', 'ID': 'R6'}
 
 
 

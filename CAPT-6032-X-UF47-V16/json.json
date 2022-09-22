@@ -1,0 +1,76 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": ""
+        },
+        {
+            "name": "hexID",
+            "value": "CTS60U047"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "6032"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF47"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V16"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "ooWidth",
+            "value": "0.8 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "1.6 mm"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "2"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-6032-X-UF47-V16"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-6032-X-UF47-V16"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6032) 47 uF Capacitor (Tantalum) 16v"
+        }
+    ]
+}

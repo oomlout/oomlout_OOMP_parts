@@ -29,6 +29,132 @@
             "value": "TERS-35D-L-PI03-01"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X1",
+                "PROJECT": "PROJ-ADAF-1752-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X2",
+                "PROJECT": "PROJ-ADAF-2923-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X5",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X6",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X7",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X8",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X9",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X10",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X11",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X12",
+                "PROJECT": "PROJ-ADAF-2926-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X3",
+                "PROJECT": "PROJ-ADAF-4409-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "X4",
+                "PROJECT": "PROJ-ADAF-4759-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP2",
+                "PROJECT": "PROJ-SPAR-10124-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP4",
+                "PROJECT": "PROJ-SPAR-12959-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP4",
+                "PROJECT": "PROJ-SPAR-13261-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J2",
+                "PROJECT": "PROJ-SPAR-13815-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J7",
+                "PROJECT": "PROJ-SPAR-14153-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J3",
+                "PROJECT": "PROJ-SPAR-14155-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "TERS-35D-L-PI03-01"
         },

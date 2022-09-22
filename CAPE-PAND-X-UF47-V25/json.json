@@ -1,0 +1,134 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "9876"
+        },
+        {
+            "name": "hexID",
+            "value": "CESU047"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPE"
+        },
+        {
+            "name": "oompSize",
+            "value": "PAND"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF47"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "oompSkip",
+            "value": "true"
+        },
+        {
+            "name": "ooWidth",
+            "value": "6.6"
+        },
+        {
+            "name": "ooHeight",
+            "value": "5.4"
+        },
+        {
+            "name": "ooDiameter",
+            "value": "6.3"
+        },
+        {
+            "name": "ooLength",
+            "value": "6.6"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "25 v"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "20%"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPE-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-PAND-X-UF47-V25"
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-2466-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-3382-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-3505-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-4000-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-4064-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PC1",
+                "PROJECT": "PROJ-ADAF-4775-STAN-01"
+            }
+        },
+        {
+            "name": "oompID",
+            "value": "CAPE-PAND-X-UF47-V25"
+        },
+        {
+            "name": "name",
+            "value": "SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v"
+        }
+    ]
+}

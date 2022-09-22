@@ -1,0 +1,100 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "4087"
+        },
+        {
+            "name": "hexID",
+            "value": "CTS2U010B"
+        },
+        {
+            "name": "oompSort",
+            "value": "35280.00001000000000"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "3528"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V10"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "2.80 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "3.50 mm"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "AVX"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "TAJB106K010RNJ"
+        },
+        {
+            "name": "ooMaxVoltage",
+            "value": "10 V"
+        },
+        {
+            "name": "ooTolerance",
+            "value": "10%"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "302020019"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "SMD CAP Tantalum 10uF-10V 10%"
+        },
+        {
+            "name": "oompClass",
+            "value": "Surface Mount"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "SMDS"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF10-V10"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-3528-X-UF10-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (3528) 10 uF Capacitor (Tantalum) 10v"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "hexID",
+            "value": "CTS4U470"
+        },
+        {
+            "name": "oompSort",
+            "value": "CAPT73UF470"
+        },
+        {
+            "name": "oompType",
+            "value": "CAPT"
+        },
+        {
+            "name": "oompSize",
+            "value": "7343"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF470"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V63D"
+        },
+        {
+            "name": "oompVersion",
+            "value": "98"
+        },
+        {
+            "name": "oompSchem",
+            "value": "template;CAPT-XXXX-X-XXXX-XX-schem"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "C1"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-7343-X-UF470-V63D"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPT-7343-X-UF470-V63D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (7343) 470 uF Capacitor (Tantalum) 6.3v"
+        }
+    ]
+}

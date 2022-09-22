@@ -33,8 +33,20 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 25 times.  
+Prevalance: (25\9905) 0.2524%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-11040-STAN-01<br> LED RingCoder Breakout <br>Used 17 times.<br>R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R19](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11040-STAN-01/)|
+|[PROJ-SPAR-12651-STAN-01<br> Digital Sandbox <br>Used 6 times.<br>R8, R9, R10, R11, R12, R17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12651-STAN-01/)|
+|[PROJ-SPAR-13321-STAN-01<br> Photon RedBoard <br>Used 2 times.<br>R5, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13321-STAN-01/)|
 
 ### Symbols
 
@@ -70,3 +82,28 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R4'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R15'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11040-STAN-01', 'ID': 'R19'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13321-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13321-STAN-01', 'ID': 'R10'}

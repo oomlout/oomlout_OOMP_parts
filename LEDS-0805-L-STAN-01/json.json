@@ -57,6 +57,167 @@
             "value": "D1"
         },
         {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-1588-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-1588-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-1628-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-1628-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PWR",
+                "PROJECT": "PROJ-ADAF-1944-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "NETSTAT",
+                "PROJECT": "PROJ-ADAF-1963-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-2078-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-2218-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-2260-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED4",
+                "PROJECT": "PROJ-ADAF-2267-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED3",
+                "PROJECT": "PROJ-ADAF-2406-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "LED2",
+                "PROJECT": "PROJ-ADAF-2465-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "NETSTAT",
+                "PROJECT": "PROJ-ADAF-2468-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2487-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "PWRSTAT",
+                "PROJECT": "PROJ-ADAF-2542-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2633-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "NETSTAT",
+                "PROJECT": "PROJ-ADAF-2636-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2661-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2746-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D2",
+                "PROJECT": "PROJ-ADAF-2829-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "D3",
+                "PROJECT": "PROJ-ADAF-2995-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "NETSTAT",
+                "PROJECT": "PROJ-ADAF-3027-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "ON",
+                "PROJECT": "PROJ-ARDU-MICRO-STAN-01"
+            }
+        },
+        {
             "name": "oompID",
             "value": "LEDS-0805-L-STAN-01"
         },

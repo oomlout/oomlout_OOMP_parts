@@ -31,6 +31,17 @@ Contents
 
 ## EDA
 
+### Instances
+  
+  
+Used 19 times.  
+Prevalance: (19\9905) 0.1918%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-SPAR-10615-STAN-01<br> PWM Shield <br>Used 17 times.<br>R3, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10615-STAN-01/)|
+|[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
+
 ### Symbols
 
 ## Images
@@ -61,6 +72,25 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0402-X-XXXX-XX-simp
 - ooDesignator: R1
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R7'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R8'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R15'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R18'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R19'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R21'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12081-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-12081-STAN-01', 'ID': 'R10'}
 
 
 

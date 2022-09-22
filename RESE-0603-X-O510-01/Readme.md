@@ -33,8 +33,20 @@ Contents
 ### Footprints
   
 
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||||
+|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 41 times.  
+Prevalance: (41\9905) 0.4139%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-4538-STAN-01<br> Adafruit NAU7802 PCB <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4538-STAN-01/)|
+|[PROJ-ADAF-5201-STAN-01<br> Adafruit IS31FL3741 PCB <br>Used 13 times.<br>R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5201-STAN-01/)|
+|[PROJ-ADAF-5217-STAN-01<br> Adafruit EyeLights LED Glasses and Driver PCB <br>Used 26 times.<br>R2, R3, R5, R6, R9, R11, R12, R14, R15, R17, R18, R20, R21, R23, R24, R26, R28, R29, R31, R32, R34, R35, R37, R38, R40, R41](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5217-STAN-01/)|
 
 ### Symbols
 
@@ -70,3 +82,44 @@ Contents
 - footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 - footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4538-STAN-01', 'ID': 'R1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4538-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R10'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R13'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R15'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R16'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R18'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R19'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R21'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R22'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R3'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R5'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R6'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R9'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R11'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R12'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R14'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R15'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R17'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R18'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R20'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R21'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R23'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R24'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R26'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R28'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R29'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R31'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R32'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R34'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R35'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R37'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R38'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R40'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R41'}

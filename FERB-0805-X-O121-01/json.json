@@ -1,0 +1,47 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "FERB"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O121"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "F6121"
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O121-01"
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "FB1",
+                "PROJECT": "PROJ-ADAF-1697-STAN-01"
+            }
+        },
+        {
+            "name": "oompID",
+            "value": "FERB-0805-X-O121-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 120 Ohm Ferrite Bead"
+        }
+    ]
+}

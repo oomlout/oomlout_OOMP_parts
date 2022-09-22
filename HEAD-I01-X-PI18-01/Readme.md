@@ -48,8 +48,19 @@ Contents
 ### Footprints
   
 
-|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/)|||
+|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/)||
 | :---: | :---: | :---: | :---: |
+
+### Instances
+  
+  
+Used 2 times.  
+Prevalance: (2\9905) 0.0202%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-782-STAN-01<br> Adafruit USB Serial RGB Character Backpack PCB <br>Used 1 times.<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-782-STAN-01/)|
+|[PROJ-SPAR-13632-STAN-01<br> SparkFun Simblee Breakout Board <br>Used 1 times.<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13632-STAN-01/)|
 
 ### Symbols
 
@@ -96,6 +107,8 @@ Contents
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK
 - footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical
 - oompID: HEAD-I01-X-PI18-01
+- oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'JP1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-13632-STAN-01', 'ID': 'JP4'}
 
 
 

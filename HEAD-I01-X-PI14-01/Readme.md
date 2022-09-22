@@ -48,9 +48,29 @@ Contents
 ### Footprints
   
 
-|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK/)|
+|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_LOCK_LONGPADS/)|
 | :---: | :---: | :---: | :---: |
-|||||
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK/)||||
+
+### Instances
+  
+  
+Used 20 times.  
+Prevalance: (20\9905) 0.2019%  
+
+|OOMP Instances|
+| :---: |
+|[PROJ-ADAF-1752-STAN-01<br> Adafruit MAX9744 Amplifier PCB <br>Used 1 times.<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1752-STAN-01/)|
+|[PROJ-ADAF-2133-STAN-01<br> Adafruit Audio FX Sound Board PCBs <br>Used 2 times.<br>CONTROL, GPIO1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2133-STAN-01/)|
+|[PROJ-ADAF-3677-STAN-01<br> Adafruit ItsyBitsy 32u4 PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3677-STAN-01/)|
+|[PROJ-ADAF-3727-STAN-01<br> Adafruit ItsyBitsy M0 PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3727-STAN-01/)|
+|[PROJ-ADAF-3800-STAN-01<br> Adafruit ItsyBitsy M4 Express PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3800-STAN-01/)|
+|[PROJ-ADAF-4363-STAN-01<br> Adafruit Airlift Bitsy Add On PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4363-STAN-01/)|
+|[PROJ-ADAF-4481-STAN-01<br> Adafruit ItsyBitsy nRF52840 Express PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4481-STAN-01/)|
+|[PROJ-ADAF-4888-STAN-01<br> Adafruit ItsyBitsy RP2040 PCB <br>Used 2 times.<br>JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4888-STAN-01/)|
+|[PROJ-ARDU-UNO-REV3-SM<br> Arduino Rev3 Uno (SMD) <br>Used 1 times.<br>J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
+|[PROJ-SPAR-10116-STAN-01<br> Arduino Fio <br>Used 2 times.<br>JP1, JP5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|
+|[PROJ-SPAR-11520-STAN-01<br> Fio v3 <br>Used 2 times.<br>JP1, JP2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|
 
 ### Symbols
 
@@ -99,6 +119,26 @@ Contents
 - footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X14_NO_SILK
 - footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical
 - oompID: HEAD-I01-X-PI14-01
+- oompInstances: {'PROJECT': 'PROJ-ADAF-1752-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2133-STAN-01', 'ID': 'CONTROL'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-2133-STAN-01', 'ID': 'GPIO1'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3677-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3677-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3727-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3727-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3800-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-3800-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4363-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4363-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4481-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4481-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4888-STAN-01', 'ID': 'JP2'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-4888-STAN-01', 'ID': 'JP4'}
+- oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'J1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10116-STAN-01', 'ID': 'JP1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-10116-STAN-01', 'ID': 'JP5'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'JP1'}
+- oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'JP2'}
 
 
 

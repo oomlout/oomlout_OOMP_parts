@@ -1,0 +1,262 @@
+{
+    "tags": [
+        {
+            "name": "index",
+            "value": "4283"
+        },
+        {
+            "name": "hexID",
+            "value": "DJ21"
+        },
+        {
+            "name": "oompType",
+            "value": "DCJP"
+        },
+        {
+            "name": "oompSize",
+            "value": "21D"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "STAN"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oompVersion",
+            "value": "99"
+        },
+        {
+            "name": "ooWidth",
+            "value": "14.2 mm"
+        },
+        {
+            "name": "ooHeight",
+            "value": "11 mm"
+        },
+        {
+            "name": "ooLength",
+            "value": "9 mm"
+        },
+        {
+            "name": "ooManufacturer",
+            "value": "C-BEST"
+        },
+        {
+            "name": "ooManufacturerPartNumber",
+            "value": "DC-005"
+        },
+        {
+            "name": "ooNumPins",
+            "value": "3"
+        },
+        {
+            "name": "ooFootprint",
+            "value": "OOMP-DCJP-21D-X-STAN-01"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "useID",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "importance",
+            "value": "1"
+        },
+        {
+            "name": "useTitle",
+            "value": "DC Input"
+        },
+        {
+            "name": "useTitle",
+            "value": "Arduino Power"
+        },
+        {
+            "name": "useDescription",
+            "value": "a socket for low voltage DC power."
+        },
+        {
+            "name": "useDescription",
+            "value": "Used as the power adapter jack on the Arduino UNO"
+        },
+        {
+            "name": "ooSEEEDsku",
+            "value": "3410020P1"
+        },
+        {
+            "name": "ooSEEEDdesc",
+            "value": "CONN POWER JACK 2.1MM"
+        },
+        {
+            "name": "oompAbout",
+            "value": "A commonly used adapter for connecting DC power to a project. Often reffered to as a barrel jack. It is common (although not always) practice to wire these up centre pin positive."
+        },
+        {
+            "name": "ooSEEED3dModel",
+            "value": "http://www.seeedstudio.com/wiki/File:PW-3P-2.1.zip"
+        },
+        {
+            "name": "oompClass",
+            "value": "Through Hole Component"
+        },
+        {
+            "name": "oompClassCode",
+            "value": "THTH"
+        },
+        {
+            "name": "ooDesignator",
+            "value": "J1"
+        },
+        {
+            "name": "oompID",
+            "value": "DCJP-21D-X-STAN-01"
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP4",
+                "PROJECT": "PROJ-SPAR-10914-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-10930-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J2",
+                "PROJECT": "PROJ-SPAR-11007-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-11043-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J3",
+                "PROJECT": "PROJ-SPAR-11197-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-114-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-11561-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J2",
+                "PROJECT": "PROJ-SPAR-12885-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP4",
+                "PROJECT": "PROJ-SPAR-13124-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-13157-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP2",
+                "PROJECT": "PROJ-SPAR-13288-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP3",
+                "PROJECT": "PROJ-SPAR-13672-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP18",
+                "PROJECT": "PROJ-SPAR-13714-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J1",
+                "PROJECT": "PROJ-SPAR-13720-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J3",
+                "PROJECT": "PROJ-SPAR-13975-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J2",
+                "PROJECT": "PROJ-SPAR-14155-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "J3",
+                "PROJECT": "PROJ-SPAR-14669-STAN-01"
+            }
+        },
+        {
+            "name": "oompInstances",
+            "value": {
+                "ID": "JP3",
+                "PROJECT": "PROJ-SPAR-14812-STAN-01"
+            }
+        },
+        {
+            "name": "oompID",
+            "value": "DCJP-21D-X-STAN-01"
+        },
+        {
+            "name": "name",
+            "value": "2.1 mm DC Jack"
+        }
+    ]
+}
