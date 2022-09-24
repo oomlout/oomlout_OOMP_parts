@@ -6,7 +6,9 @@ Contents
 ========
 
 * [BT4628 > SMD (4628) Pushbutton (Tactile)](#bt4628--smd-4628-pushbutton-tactile)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # BT4628 > SMD (4628) Pushbutton (Tactile)
@@ -17,6 +19,14 @@ Contents
 - Description: SMD (4628) Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-4628-X-STAN-01](http://oom.lt/BUTA-4628-X-STAN-01)
 - Short Link: [http://oom.lt/BT4628](http://oom.lt/BT4628)
+
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -96,6 +106,14 @@ Prevalance: (85\9905) 0.8582%
 |[PROJ-ADAF-904-STAN-01<br> Adafruit INA219 Current Sensor PCB <br>Used 1 times.<br>SW1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-904-STAN-01/)|
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

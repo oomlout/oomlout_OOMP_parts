@@ -7,7 +7,9 @@ Contents
 
 * [V235MIC52055 > SMD (SOT-23-5) MIC5205 Voltage Regulator 5v](#v235mic52055--smd-sot-23-5-mic5205-voltage-regulator-5v)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # V235MIC52055 > SMD (SOT-23-5) MIC5205 Voltage Regulator 5v
@@ -23,9 +25,25 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

@@ -6,7 +6,9 @@ Contents
 ========
 
 * [DJS21 > 2.1 mm (SMD) DC Jack](#djs21--21-mm-smd-dc-jack)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # DJS21 > 2.1 mm (SMD) DC Jack
@@ -17,6 +19,14 @@ Contents
 - Description: 2.1 mm (SMD) DC Jack
 - Long Link: [http://oom.lt/DCJP-S21D-X-STAN-01](http://oom.lt/DCJP-S21D-X-STAN-01)
 - Short Link: [http://oom.lt/DJS21](http://oom.lt/DJS21)
+
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## EDA
 
@@ -33,6 +43,14 @@ Prevalance: (4\9905) 0.0404%
 |[PROJ-SPAR-13032-STAN-01<br> Breadboard Power Supply Stick 5V-3.3V <br>Used 1 times.<br>J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13032-STAN-01/)|
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 

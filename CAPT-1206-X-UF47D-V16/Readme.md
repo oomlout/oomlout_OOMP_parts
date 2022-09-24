@@ -6,7 +6,9 @@ Contents
 ========
 
 * [C1U004D > SMD (1206) 4.7 uF Capacitor (Tantalum) 16v](#c1u004d--smd-1206-47-uf-capacitor-tantalum-16v)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C1U004D > SMD (1206) 4.7 uF Capacitor (Tantalum) 16v
@@ -18,9 +20,25 @@ Contents
 - Long Link: [http://oom.lt/CAPT-1206-X-UF47D-V16](http://oom.lt/CAPT-1206-X-UF47D-V16)
 - Short Link: [http://oom.lt/C1U004D](http://oom.lt/C1U004D)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+
 ## EDA
 
 ### Symbols
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
 
 ## Tags
 
