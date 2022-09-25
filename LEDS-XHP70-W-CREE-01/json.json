@@ -37,6 +37,14 @@
             "value": "LEDS-XHP70-W-CREE-01"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-XHP70-W-CREE-01"
         },

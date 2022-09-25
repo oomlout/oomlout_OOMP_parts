@@ -85,6 +85,18 @@
             "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
         },
         {
+            "name": "footprintEagle",
+            "value": "Adafruit-Eagle-Library/adafruit/R0603"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
+        },
+        {
             "name": "oompID",
             "value": "RESE-0603-X-O510-67"
         },

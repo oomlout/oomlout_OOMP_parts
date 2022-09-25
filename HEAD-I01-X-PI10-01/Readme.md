@@ -41,22 +41,24 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
 ### Footprints
   
 
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS/)|
+|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/)|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK/)|
 | :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK/)||||
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK/)|
+|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK/)|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM/)|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED/)|
+|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER/)|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED/)|||
 
 ### Instances
   
   
 Used 91 times.  
-Prevalance: (91\9905) 0.9187%  
+Prevalance: (91\10986) 0.8283%  
 
 |OOMP Instances|
 | :---: |
@@ -136,7 +138,7 @@ Prevalance: (91\9905) 0.9187%
 
 |image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -168,12 +170,6 @@ Prevalance: (91\9905) 0.9187%
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI10-XX
 - pcbFootprint: HEAD-I01-X-PI10-01
-- kicadSymbol: Connector/Conn_01x10_Male
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical
 - oompID: HEAD-I01-X-PI10-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1083-STAN-01', 'ID': 'JP1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1272-STAN-01', 'ID': 'U$9'}
@@ -266,6 +262,20 @@ Prevalance: (91\9905) 0.9187%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14916-STAN-01', 'ID': 'J3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14916-STAN-01', 'ID': 'J6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'J5'}
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_LOCK_LONGPADS
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X10_NO_SILK
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED
+- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical
+- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical
 
 
 

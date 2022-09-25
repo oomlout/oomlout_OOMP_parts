@@ -166,20 +166,6 @@
         {
             "name": "oompInstances",
             "value": {
-                "ID": "C3",
-                "PROJECT": "PROJ-ADAF-1673-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C4",
-                "PROJECT": "PROJ-ADAF-1673-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
                 "ID": "C7",
                 "PROJECT": "PROJ-ADAF-1697-STAN-01"
             }
@@ -432,13 +418,6 @@
         {
             "name": "oompInstances",
             "value": {
-                "ID": "C2",
-                "PROJECT": "PROJ-ADAF-2746-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
                 "ID": "C1",
                 "PROJECT": "PROJ-ADAF-2900-STAN-01"
             }
@@ -546,20 +525,6 @@
             "value": {
                 "ID": "C3",
                 "PROJECT": "PROJ-ADAF-3661-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C1",
-                "PROJECT": "PROJ-ADAF-391-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C2",
-                "PROJECT": "PROJ-ADAF-391-STAN-01"
             }
         },
         {
@@ -699,34 +664,6 @@
             "name": "oompInstances",
             "value": {
                 "ID": "C1",
-                "PROJECT": "PROJ-ADAF-661-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C2",
-                "PROJECT": "PROJ-ADAF-661-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C3",
-                "PROJECT": "PROJ-ADAF-661-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C4",
-                "PROJECT": "PROJ-ADAF-661-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C1",
                 "PROJECT": "PROJ-ADAF-931-STAN-01"
             }
         },
@@ -853,13 +790,6 @@
             "name": "oompInstances",
             "value": {
                 "ID": "C2",
-                "PROJECT": "PROJ-SPAR-13287-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C2",
                 "PROJECT": "PROJ-SPAR-13628-STAN-01"
             }
         },
@@ -871,95 +801,40 @@
             }
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C7",
-                "PROJECT": "PROJ-SPAR-13664-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C3",
-                "PROJECT": "PROJ-SPAR-13672-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C5",
-                "PROJECT": "PROJ-SPAR-13711-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C7",
-                "PROJECT": "PROJ-SPAR-13794-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C5",
-                "PROJECT": "PROJ-SPAR-14030-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C1",
-                "PROJECT": "PROJ-SPAR-14051-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C5",
-                "PROJECT": "PROJ-SPAR-14130-STAN-01"
-            }
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C2",
-                "PROJECT": "PROJ-SPAR-14532-STAN-01"
-            }
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric"
         },
         {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C3",
-                "PROJECT": "PROJ-SPAR-14532-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C2",
-                "PROJECT": "PROJ-SPAR-14606-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C7",
-                "PROJECT": "PROJ-SPAR-14691-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C8",
-                "PROJECT": "PROJ-SPAR-14779-STAN-01"
-            }
-        },
-        {
-            "name": "oompInstances",
-            "value": {
-                "ID": "C3",
-                "PROJECT": "PROJ-SPAR-14812-STAN-01"
-            }
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
         },
         {
             "name": "oompID",

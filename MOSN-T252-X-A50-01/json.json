@@ -69,6 +69,10 @@
             "value": "AOD4184A"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2"
+        },
+        {
             "name": "oompID",
             "value": "MOSN-T252-X-A50-01"
         },

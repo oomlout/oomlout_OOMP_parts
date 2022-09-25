@@ -32,7 +32,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
@@ -40,7 +40,7 @@ Contents
   
   
 Used 3 times.  
-Prevalance: (3\9905) 0.0303%  
+Prevalance: (3\10986) 0.0273%  
 
 |OOMP Instances|
 | :---: |
@@ -54,7 +54,7 @@ Prevalance: (3\9905) 0.0303%
 
 |image|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![image](image_140.jpg)](image.jpg)|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 

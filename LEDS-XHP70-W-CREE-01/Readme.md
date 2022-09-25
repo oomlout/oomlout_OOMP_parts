@@ -31,15 +31,16 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/)|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/)|||
+|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/)|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/)|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V/)|![kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V/)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ### Symbols
 
@@ -49,7 +50,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -62,3 +63,5 @@ Contents
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V
 - oompID: LEDS-XHP70-W-CREE-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V

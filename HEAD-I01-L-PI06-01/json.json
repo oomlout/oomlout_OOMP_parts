@@ -145,6 +145,42 @@
             "value": "HEAD-I01-X-PI06-01"
         },
         {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-L-PI06-01"
         },

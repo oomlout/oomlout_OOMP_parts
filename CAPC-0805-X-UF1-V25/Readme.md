@@ -32,15 +32,23 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Footprints
+  
+
+|![kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric/)|![kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R/)|
+| :---: | :---: | :---: | :---: |
+|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR/)|![eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805/image_140.png)<br> [eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805/)|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE/)|
+|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805/)||||
 
 ### Instances
   
   
-Used 127 times.  
-Prevalance: (127\9905) 1.2822%  
+Used 104 times.  
+Prevalance: (104\10986) 0.9467%  
 
 |OOMP Instances|
 | :---: |
@@ -50,7 +58,6 @@ Prevalance: (127\9905) 1.2822%
 |[PROJ-ADAF-1510-STAN-01<br> Adafruit CC3000 Breakout PCB <br>Used 2 times.<br>C4, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1510-STAN-01/)|
 |[PROJ-ADAF-1552-STAN-01<br> Adafruit TPA2012 or TS2012 Breakout PCB <br>Used 4 times.<br>C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1552-STAN-01/)|
 |[PROJ-ADAF-1590-STAN-01<br> Adafruit RA8875 Breakout Board PCB <br>Used 2 times.<br>C17, C20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1590-STAN-01/)|
-|[PROJ-ADAF-1673-STAN-01<br> Adafruit 1.27inch Color OLED Breakout PCB <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1673-STAN-01/)|
 |[PROJ-ADAF-1697-STAN-01<br> Adafruit Bluefruit LE nRF8001 PCB <br>Used 1 times.<br>C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1697-STAN-01/)|
 |[PROJ-ADAF-1712-STAN-01<br> Adafruit TPA2016 PCB <br>Used 4 times.<br>C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1712-STAN-01/)|
 |[PROJ-ADAF-1788-STAN-01<br> Adafruit Music Maker MP3 Shield PCB <br>Used 5 times.<br>C12, C13, C14, C15, C17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1788-STAN-01/)|
@@ -67,7 +74,6 @@ Prevalance: (127\9905) 1.2822%
 |[PROJ-ADAF-2479-STAN-01<br> Adafruit Bluefruit LE UART Friend PCB <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2479-STAN-01/)|
 |[PROJ-ADAF-2487-STAN-01<br> Adafruit Flora Bluefruit LE PCB <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2487-STAN-01/)|
 |[PROJ-ADAF-2661-STAN-01<br> Adafruit Bluefruit LE Micro PCB <br>Used 2 times.<br>C2, C9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2661-STAN-01/)|
-|[PROJ-ADAF-2746-STAN-01<br> Adafruit Bluefruit LE Shield PCB <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2746-STAN-01/)|
 |[PROJ-ADAF-2900-STAN-01<br> Adafruit OLED FeatherWing PCB <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2900-STAN-01/)|
 |[PROJ-ADAF-3028-STAN-01<br> Adafruit DS3231 Precision RTC FeatherWing PCB <br>Used 1 times.<br>C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3028-STAN-01/)|
 |[PROJ-ADAF-326-STAN-01<br> Adafruit 128x64 Monochrome OLED PCB <br>Used 3 times.<br>C1, C2, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|
@@ -78,7 +84,6 @@ Prevalance: (127\9905) 1.2822%
 |[PROJ-ADAF-3538-STAN-01<br> Adafruit AMG8833 Breakout PCB <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3538-STAN-01/)|
 |[PROJ-ADAF-3651-STAN-01<br> Adafruit 3.5in TFT Featherwing PCB <br>Used 3 times.<br>C1, C16, C20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3651-STAN-01/)|
 |[PROJ-ADAF-3661-STAN-01<br> Adafruit AP3602A PCB <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3661-STAN-01/)|
-|[PROJ-ADAF-391-STAN-01<br> Adafruit BMP085 PCB <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-391-STAN-01/)|
 |[PROJ-ADAF-4172-STAN-01<br> Adafruit ESP32 HUZZAH Breakout PCB <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4172-STAN-01/)|
 |[PROJ-ADAF-4428-STAN-01<br> Adafruit Circuit Playground Tri Color E Ink Gizmo PCB <br>Used 4 times.<br>C9, C13, C16, C24](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4428-STAN-01/)|
 |[PROJ-ADAF-4632-STAN-01<br> Adafruit PMSA003I PCB <br>Used 1 times.<br>C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4632-STAN-01/)|
@@ -86,7 +91,6 @@ Prevalance: (127\9905) 1.2822%
 |[PROJ-ADAF-4687-STAN-01<br> Adafruit 2 13in eInk Bonnet PCB <br>Used 2 times.<br>C16, C24](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4687-STAN-01/)|
 |[PROJ-ADAF-4800-STAN-01<br> Adafruit_MagTag_PCBs <br>Used 9 times.<br>C19, C23, C24, C25, C26, C27, C28, C30, C31](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4800-STAN-01/)|
 |[PROJ-ADAF-5296-STAN-01<br> Adafruit LED Arcade Button 1x4 PCB <br>Used 1 times.<br>C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5296-STAN-01/)|
-|[PROJ-ADAF-661-STAN-01<br> Adafruit 128x32 SPI OLED breakout board PCB <br>Used 4 times.<br>C1, C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-661-STAN-01/)|
 |[PROJ-ADAF-931-STAN-01<br> Adafruit 128x32 I2C OLED Breakout PCB <br>Used 4 times.<br>C1, C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|
 |[PROJ-ADAF-987-STAN-01<br> Adafruit MAX98306 Class D Amp PCB <br>Used 4 times.<br>C2, C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-987-STAN-01/)|
 |[PROJ-ADAF-992-STAN-01<br> Adafruit MPL115A2 Breakout PCB <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-992-STAN-01/)|
@@ -95,20 +99,7 @@ Prevalance: (127\9905) 1.2822%
 |[PROJ-SPAR-11924-STAN-01<br> Purpletooth Jamboree <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11924-STAN-01/)|
 |[PROJ-SPAR-11927-STAN-01<br> BC127 Breakout Board <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11927-STAN-01/)|
 |[PROJ-SPAR-12071-STAN-01<br> CC3000 WiFi Shield <br>Used 2 times.<br>C4, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12071-STAN-01/)|
-|[PROJ-SPAR-13287-STAN-01<br> ESP8266 WiFi Shield <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13287-STAN-01/)|
 |[PROJ-SPAR-13628-STAN-01<br> Photon OLED Shield <br>Used 2 times.<br>C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13628-STAN-01/)|
-|[PROJ-SPAR-13664-STAN-01<br> SAMD21 Mini Breakout <br>Used 1 times.<br>C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13664-STAN-01/)|
-|[PROJ-SPAR-13672-STAN-01<br> SAMD21 Dev Breakout <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13672-STAN-01/)|
-|[PROJ-SPAR-13711-STAN-01<br> ESP8266 Thing Dev 4H <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13711-STAN-01/)|
-|[PROJ-SPAR-13794-STAN-01<br> Blynk Board ESP8266 <br>Used 1 times.<br>C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13794-STAN-01/)|
-|[PROJ-SPAR-14030-STAN-01<br> Mini GPS Shield <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14030-STAN-01/)|
-|[PROJ-SPAR-14051-STAN-01<br> Wireless Joystick <br>Used 1 times.<br>C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14051-STAN-01/)|
-|[PROJ-SPAR-14130-STAN-01<br> Roshamglo <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14130-STAN-01/)|
-|[PROJ-SPAR-14532-STAN-01<br> Qwiic Micro OLED <br>Used 2 times.<br>C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14532-STAN-01/)|
-|[PROJ-SPAR-14606-STAN-01<br> Flexible Grayscale OLED <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14606-STAN-01/)|
-|[PROJ-SPAR-14691-STAN-01<br> Qwiic Transparent OLED HUD <br>Used 1 times.<br>C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14691-STAN-01/)|
-|[PROJ-SPAR-14779-STAN-01<br> LumiDrive <br>Used 1 times.<br>C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14779-STAN-01/)|
-|[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
 
 ### Symbols
 
@@ -118,7 +109,7 @@ Prevalance: (127\9905) 1.2822%
 
 |image|image_RE|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -153,8 +144,6 @@ Prevalance: (127\9905) 1.2822%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1552-STAN-01', 'ID': 'C8'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1590-STAN-01', 'ID': 'C17'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1590-STAN-01', 'ID': 'C20'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-1673-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-1673-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'C7'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1712-STAN-01', 'ID': 'C5'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1712-STAN-01', 'ID': 'C6'}
@@ -191,7 +180,6 @@ Prevalance: (127\9905) 1.2822%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2487-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2661-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2661-STAN-01', 'ID': 'C9'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2900-STAN-01', 'ID': 'C1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2900-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3028-STAN-01', 'ID': 'C1'}
@@ -208,8 +196,6 @@ Prevalance: (127\9905) 1.2822%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3651-STAN-01', 'ID': 'C16'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3651-STAN-01', 'ID': 'C20'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3661-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-391-STAN-01', 'ID': 'C1'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-391-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4172-STAN-01', 'ID': 'C5'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4428-STAN-01', 'ID': 'C9'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4428-STAN-01', 'ID': 'C13'}
@@ -229,10 +215,6 @@ Prevalance: (127\9905) 1.2822%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4800-STAN-01', 'ID': 'C30'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4800-STAN-01', 'ID': 'C31'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5296-STAN-01', 'ID': 'C10'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-661-STAN-01', 'ID': 'C1'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-661-STAN-01', 'ID': 'C2'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-661-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-661-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-931-STAN-01', 'ID': 'C1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-931-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-931-STAN-01', 'ID': 'C3'}
@@ -251,22 +233,17 @@ Prevalance: (127\9905) 1.2822%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11927-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'C5'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13628-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13628-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-13664-STAN-01', 'ID': 'C7'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-13672-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-13711-STAN-01', 'ID': 'C5'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-13794-STAN-01', 'ID': 'C7'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14030-STAN-01', 'ID': 'C5'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14051-STAN-01', 'ID': 'C1'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14130-STAN-01', 'ID': 'C5'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14532-STAN-01', 'ID': 'C2'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14532-STAN-01', 'ID': 'C3'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14606-STAN-01', 'ID': 'C2'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14691-STAN-01', 'ID': 'C7'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14779-STAN-01', 'ID': 'C8'}
-- oompInstances: {'PROJECT': 'PROJ-SPAR-14812-STAN-01', 'ID': 'C3'}
+- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
+- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
+- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
+- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR
+- footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 
 
 

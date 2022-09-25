@@ -41,22 +41,23 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
 ### Footprints
   
 
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS/)|
+|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/)|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK/)|
 | :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK/)||||
+|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK/)|
+|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK_LONGPADS/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_NO_SILK/)|||
 
 ### Instances
   
   
 Used 47 times.  
-Prevalance: (47\9905) 0.4745%  
+Prevalance: (47\10986) 0.4278%  
 
 |OOMP Instances|
 | :---: |
@@ -112,7 +113,7 @@ Prevalance: (47\9905) 0.4745%
 
 |image|image_RE|diagBBLS|diagDIAG|diagIDEN|diagSCHEM|diagSIMP|label-front|label-inventory|label-spec|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![image](image_140.jpg)](image.jpg)|[![image_RE](image_RE_140.jpg)](image_RE.jpg)|[![diagBBLS](diagBBLS_140.png)](diagBBLS.png)|[![diagDIAG](diagDIAG_140.png)](diagDIAG.png)|[![diagIDEN](diagIDEN_140.png)](diagIDEN.png)|[![diagSCHEM](diagSCHEM_140.png)](diagSCHEM.png)|[![diagSIMP](diagSIMP_140.png)](diagSIMP.png)|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -144,12 +145,6 @@ Prevalance: (47\9905) 0.4745%
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI16-XX
 - pcbFootprint: HEAD-I01-X-PI16-01
-- kicadSymbol: Connector/Conn_01x16_Male
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical
 - oompID: HEAD-I01-X-PI16-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1381-STAN-01', 'ID': 'JP2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1381-STAN-01', 'ID': 'JP3'}
@@ -198,6 +193,16 @@ Prevalance: (47\9905) 0.4745%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13632-STAN-01', 'ID': 'JP3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14449-STAN-01', 'ID': 'J2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14713-STAN-01', 'ID': 'J2'}
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_LOCK_LONGPADS
+- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X16_NO_SILK
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_LOCK_LONGPADS
+- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X16_NO_SILK
+- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical
+- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x16_P2.54mm_Vertical
 
 
 

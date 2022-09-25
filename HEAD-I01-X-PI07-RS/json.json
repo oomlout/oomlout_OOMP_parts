@@ -65,6 +65,26 @@
             "value": "HEAD-I01-X-PI07-RS"
         },
         {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X07_NO_SILK"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x07_P2.54mm_Vertical"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI07-RS"
         },

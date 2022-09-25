@@ -161,6 +161,10 @@
             "value": "HEAD-I01-X-PI36-01"
         },
         {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI36-01"
         },

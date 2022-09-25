@@ -31,14 +31,14 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)||||
+|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)|||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
@@ -49,7 +49,7 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.pdf)|[![label-inventory](label-inventory_140.png)](label-inventory.pdf)|[![label-spec](label-spec_140.png)](label-spec.pdf)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -61,3 +61,4 @@ Contents
 - hexID: TN98050
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23
 - oompID: TRNN-SO23-X-KS8050-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23

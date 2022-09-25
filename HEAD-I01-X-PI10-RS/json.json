@@ -109,6 +109,42 @@
             "value": "HEAD-I01-X-PI10-RS"
         },
         {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X10_NO_SILK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BCREAM"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER-ROUNDED"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED-BIGGER"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-110-0.1&quot;-CASTELLATED"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x10_P2.54mm_Vertical"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI10-RS"
         },

@@ -33,6 +33,10 @@
             "value": "TRNN-SO23-X-KS8050-01"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23"
+        },
+        {
             "name": "oompID",
             "value": "TRNN-SO23-X-KS8050-01"
         },

@@ -113,30 +113,6 @@
             "value": "HEAD-I01-X-PI04-01"
         },
         {
-            "name": "kicadSymbol",
-            "value": "Connector/Conn_01x04_Male"
-        },
-        {
-            "name": "footprintEagle",
-            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04"
-        },
-        {
-            "name": "footprintEagle",
-            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_LOCK"
-        },
-        {
-            "name": "footprintEagle",
-            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_LOCK_LONGPADS"
-        },
-        {
-            "name": "footprintEagle",
-            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_NO_SILK"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical"
-        },
-        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI04-01"
         },
@@ -1203,6 +1179,50 @@
                 "ID": "J3",
                 "PROJECT": "PROJ-SPAR-15005-STAN-01"
             }
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X04_NO_SILK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical"
         },
         {
             "name": "oompID",
