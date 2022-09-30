@@ -537,7 +537,7 @@
    id="text242"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.9909px;line-height:0%;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:start;text-anchor:start;fill:#1f1a17"><tspan
      style="font-size:12.7px"
-     id="tspan3235">VREG-SO23-X-V33D-A5D</tspan></text>
+     id="tspan3235">SERV-ST-X-STAN-01</tspan></text>
 
 
 <rect
@@ -598,7 +598,7 @@
    id="text248"
    style="font-weight:bold;font-size:4.87966px;line-height:0%;font-family:Tahoma;text-align:center;text-anchor:middle;fill:#1f1a17"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.68111px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
-     id="tspan3174">VS235</tspan></text>
+     id="tspan3174">SV</tspan></text>
 
 
 
@@ -643,7 +643,7 @@
    y="66.5383"
    x="19.603983"><tspan
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
-     id="tspan3237">VS235</tspan></text>
+     id="tspan3237">SV</tspan></text>
 
 
 
@@ -1071,7 +1071,7 @@
    id="text272-0"
    style="font-weight:bold;font-size:2.8222px;line-height:0%;font-family:Tahoma;text-align:end;text-anchor:end;fill:#1f1a17;fill-rule:evenodd"><tspan
      style="font-size:1.83444px"
-     id="tspan3244">Voltage Regulator</tspan></text>
+     id="tspan3244">Servo</tspan></text>
 
 
 <text
@@ -1081,7 +1081,7 @@
    id="text274-9"
    style="font-weight:bold;font-size:2.8222px;line-height:0%;font-family:Tahoma;text-align:end;text-anchor:end;fill:#1f1a17;fill-rule:evenodd"><tspan
      style="font-size:1.83444px"
-     id="tspan3246">SMD (SOT-23)</tspan></text>
+     id="tspan3246">Standard</tspan></text>
 
 
 <text
@@ -1101,7 +1101,7 @@
    id="text278-8"
    style="font-weight:bold;font-size:2.8222px;line-height:0%;font-family:Tahoma;text-align:end;text-anchor:end;fill:#1f1a17;fill-rule:evenodd"><tspan
      style="font-size:1.83444px"
-     id="tspan3250">3.3v</tspan></text>
+     id="tspan3250"></tspan></text>
 
 
 <text
@@ -1111,7 +1111,7 @@
    id="text280-8"
    style="font-weight:bold;font-size:2.8222px;line-height:0%;font-family:Tahoma;text-align:end;text-anchor:end;fill:#1f1a17;fill-rule:evenodd"><tspan
      style="font-size:1.83444px"
-     id="tspan3252">500 mA</tspan></text>
+     id="tspan3252">1 mm</tspan></text>
 
 
 <text
@@ -1243,7 +1243,7 @@
        y="9.7342291"
        style="fill:#ffffff" /></flowRegion><flowPara
      id="flowPara3203"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">SMD (SOT-23) 3.3v Voltage Regulator 500 mA</flowPara></flowRoot><flowRoot
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'">Standard Servo</flowPara></flowRoot><flowRoot
    xml:space="preserve"
    id="flowRoot3217"
    style="font-style:normal;font-weight:bold;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
@@ -1268,5 +1268,5 @@
        x="60.948315"
        y="131.96031" /></flowRegion><flowPara
      id="flowPara3231"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#ffffff">VREG-SO23-X-V33D-A5D</flowPara></flowRoot></g>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';fill:#ffffff">SERV-ST-X-STAN-01</flowPara></flowRoot></g>
 </svg>

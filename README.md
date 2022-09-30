@@ -598,7 +598,7 @@ Contents
 ## SERV > Servo
   
 
-|<br>[SERV-MC-X-STAN-01 <br> Micro Servo](SERV-MC-X-STAN-01/)<br>[SVM](SERV-MC-X-STAN-01/)||||
+|<br>[SERV-MC-X-STAN-01 <br> Micro Servo](SERV-MC-X-STAN-01/)<br>[SVM](SERV-MC-X-STAN-01/)|<br>[SERV-ST-X-STAN-01 <br> Standard Servo](SERV-ST-X-STAN-01/)<br>[SV](SERV-ST-X-STAN-01/)|||
 | :---: | :---: | :---: | :---: |
 
 ## SWIS > Switch (Slide)
