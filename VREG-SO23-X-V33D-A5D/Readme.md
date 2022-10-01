@@ -7,9 +7,7 @@ Contents
 
 * [VS235 > SMD (SOT-23) 3.3v Voltage Regulator 500 mA](#vs235--smd-sot-23-33v-voltage-regulator-500-ma)
 	* [Datasheets](#datasheets)
-	* [Labels](#labels)
 	* [EDA](#eda)
-	* [Images](#images)
 	* [Tags](#tags)
 
 # VS235 > SMD (SOT-23) 3.3v Voltage Regulator 500 mA
@@ -25,25 +23,9 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
-## Labels
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
-
 ## EDA
 
 ### Symbols
-
-## Images
-  
-  
-
-|label-front|label-inventory|label-spec|
-| :---: | :---: | :---: |
-|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
