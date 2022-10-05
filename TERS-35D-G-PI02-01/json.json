@@ -53,6 +53,14 @@
             "value": "J1"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02"
+        },
+        {
             "name": "oompID",
             "value": "TERS-35D-G-PI02-01"
         },

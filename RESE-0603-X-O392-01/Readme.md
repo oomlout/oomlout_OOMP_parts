@@ -36,13 +36,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|![kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> [kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|
-| :---: | :---: | :---: | :---: |
-|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)|![eagle/Adafruit-Eagle-Library/adafruit/R0603](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/image_140.png)<br> [eagle/Adafruit-Eagle-Library/adafruit/R0603](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/Adafruit-Eagle-Library/adafruit/R0603/)|||
-
 ### Instances
   
   
@@ -87,15 +80,9 @@ Prevalance: (3\10986) 0.0273%
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: R1
-- footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
-- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13672-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13956-STAN-01', 'ID': 'R8'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14812-STAN-01', 'ID': 'R1'}
-- footprintEagle: Adafruit-Eagle-Library/adafruit/R0603
-- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- footprintKicad: kicad-footprints/Resistor_SMD/R_0603_1608Metric
 
 
 

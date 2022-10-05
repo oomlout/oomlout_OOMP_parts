@@ -1,26 +1,56 @@
+
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-pitch = 3.5
-pins = 8
-newPart.addTag('oompID','TERS-35D-L-PI08-01')
-newPart.addTag('name','3.5 mm 8 Pin Blue Screw Terminal')
-newPart.addTag('hexID','ST308L')
-newPart.addTag('oompSort','TERS35D08PI')
-newPart.addTag('oompClass','Through Hole')
-newPart.addTag('oompClassCode','THTH')
-newPart.addTag('oompType','TERS')
-newPart.addTag('oompSize','35D')
-newPart.addTag('oompColor','L')
-newPart.addTag('oompDesc','PI08')
-newPart.addTag('oompIndex','01')
-newPart.addTag('oompVersion','98')
-newPart.addTag('ooPitch','3.5mm')
-newPart.addTag('ooNumPins','8')
-newPart.addTag('ooFootprint','OOMP-TERS-35D-X-PI08-01')
-newPart.addTag('ooDesignator','J1')
-newPart = OOMPtags.addTags(newPart,"TERS-35D-L-PI08-01",pitch = 3.5,pins = 8)
+
+oType = "TERS"
+oSize = "35D"
+oColor = "L"
+oDesc = "PI08"
+oIndex = "01"
+hexId = "T35L8"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+
+######  Specs
+#manufacturersPartNumber = ''
+#newPart.addTag('manufacturersPartNumber',manufacturersPartNumber)
+#pitch = 2.54 
+#newPart.addTag('ooPitch',str(pitch))
+
+######  Common
+newPart.addTag('hexID',hexId)
+#newPart.addTag('oompSort','')
+#newPart.addTag('oompVersion','99')
+
+######  About
+#newPart.addTag('useDescription','')
+#newPart.addTag('oompAbout','')
+
+
+
+######  Dimensions
+
+#newPart.addTag('ooWidth','')
+#newPart.addTag('ooHeight','')
+#newPart.addTag('ooDepth','')
+#newPart.addTag('oompBbls','')
+
+######  EDA
+#newPart.addTag("footprintKicad","")  
+#newPart.addTag("symbolKicad","")  
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

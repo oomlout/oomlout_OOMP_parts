@@ -35,13 +35,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS/)|
-| :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG/)|||
-
 ### Symbols
 
 ## Images
@@ -81,9 +74,5 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI04-XX
 - pcbFootprint: HEAD-I01-X-PI04-RS
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x04_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04_Male

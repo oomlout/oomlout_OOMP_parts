@@ -1,0 +1,76 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X08"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SHRO"
+        },
+        {
+            "name": "hexID",
+            "value": "H2X8SH"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X08-SHRO"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08_P2.54mm_Horizontal"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08_P2.54mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0808_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x08_AB"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x08_Row_Letter_First"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x08_Row_Letter_Last"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x08_Counter_Clockwise"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x08_Odd_Even"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x08_Top_Bottom"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X08-SHRO"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm 16 Pin (2x8) Header Shrouded (IDC)"
+        }
+    ]
+}

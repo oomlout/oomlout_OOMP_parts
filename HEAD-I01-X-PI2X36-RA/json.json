@@ -49,6 +49,34 @@
             "value": "HEAD-I01-X-PI2X36-RA"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x3636_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x36_AB"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x36_Row_Letter_First"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x36_Row_Letter_Last"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x36_Counter_Clockwise"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x36_Odd_Even"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x36_Top_Bottom"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-I01-X-PI2X36-RA"
         },

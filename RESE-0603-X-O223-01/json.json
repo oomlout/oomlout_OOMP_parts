@@ -77,18 +77,6 @@
             "value": "R1"
         },
         {
-            "name": "footprintEagle",
-            "value": "Adafruit-Eagle-Library/adafruit/R0603"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
-        },
-        {
             "name": "oompInstances",
             "value": {
                 "ID": "R4",
@@ -150,18 +138,6 @@
                 "ID": "R2",
                 "PROJECT": "PROJ-SPAR-14765-STAN-01"
             }
-        },
-        {
-            "name": "footprintEagle",
-            "value": "Adafruit-Eagle-Library/adafruit/R0603"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "kicad-footprints/Resistor_SMD/R_0603_1608Metric"
         },
         {
             "name": "oompID",

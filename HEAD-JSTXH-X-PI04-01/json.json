@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTXH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI04"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "HXH4"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTXH-X-PI04-01"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04_Male"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTXH-X-PI04-01"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (2.5 mm) 4 Pin Header"
+        }
+    ]
+}

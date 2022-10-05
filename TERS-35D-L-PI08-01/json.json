@@ -1,30 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "TERS-35D-L-PI08-01"
-        },
-        {
-            "name": "name",
-            "value": "3.5 mm 8 Pin Blue Screw Terminal"
-        },
-        {
-            "name": "hexID",
-            "value": "ST308L"
-        },
-        {
-            "name": "oompSort",
-            "value": "TERS35D08PI"
-        },
-        {
-            "name": "oompClass",
-            "value": "Through Hole"
-        },
-        {
-            "name": "oompClassCode",
-            "value": "THTH"
-        },
-        {
             "name": "oompType",
             "value": "TERS"
         },
@@ -45,24 +21,20 @@
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "98"
+            "name": "hexID",
+            "value": "T35L8"
         },
         {
-            "name": "ooPitch",
-            "value": "3.5mm"
+            "name": "oompID",
+            "value": "TERS-35D-L-PI08-01"
         },
         {
-            "name": "ooNumPins",
-            "value": "8"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical"
         },
         {
-            "name": "ooFootprint",
-            "value": "OOMP-TERS-35D-X-PI08-01"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "J1"
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x08"
         },
         {
             "name": "oompID",

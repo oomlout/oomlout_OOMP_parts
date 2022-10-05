@@ -48,9 +48,9 @@ Contents
 ### Footprints
   
 
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/)|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18/)|![eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK/)|
+|![kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical/)|![eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18/image_140.png)<br> [eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18/)|![eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK/image_140.png)<br> [eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18/)|
 | :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18/)||
+|||||
 
 ### Instances
   
@@ -99,20 +99,17 @@ Prevalance: (2\10986) 0.0182%
 - oompSimp: variable;pins;18
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooNumPins: 18
-- ooFootprint: OOMP-HEAD-I01-X-PI18-01
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI18-XX
-- pcbFootprint: HEAD-I01-X-PI18-01
 - oompID: HEAD-I01-X-PI18-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'JP1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13632-STAN-01', 'ID': 'JP4'}
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18
-- footprintEagle: SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X18_NO_SILK
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK
+- footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18
+- footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x18_P2.54mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18_Male
 
 
 

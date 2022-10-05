@@ -67,6 +67,13 @@ Contents
 - ooFootprint: OOMP-HEAD-I01-X-PI2X03-01
 - ooDesignator: J1
 - oompID: HEAD-I01-L-PI2X03-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0303_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Top_Bottom
 
 
 

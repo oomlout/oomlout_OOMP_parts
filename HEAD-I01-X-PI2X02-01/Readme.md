@@ -64,3 +64,10 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: J1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0202_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x02_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Top_Bottom

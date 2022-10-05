@@ -1,0 +1,48 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "TERS"
+        },
+        {
+            "name": "oompSize",
+            "value": "35D"
+        },
+        {
+            "name": "oompColor",
+            "value": "L"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI07"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "T35L7"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI07-01"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x07_P3.50mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07"
+        },
+        {
+            "name": "oompID",
+            "value": "TERS-35D-L-PI07-01"
+        },
+        {
+            "name": "name",
+            "value": "3.5 mm 7 Pin Blue Screw Terminal"
+        }
+    ]
+}

@@ -118,3 +118,10 @@ Prevalance: (31\10986) 0.2822%
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-01', 'ID': 'ICSP1'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0303_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Top_Bottom

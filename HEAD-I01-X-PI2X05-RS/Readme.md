@@ -58,3 +58,10 @@ Contents
 - numRows: 2
 - oompFootprint: HEAD-I01-X-PI2x05-RS
 - oompID: HEAD-I01-X-PI2X05-RS
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0505_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x05_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x05_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x05_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x05_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x05_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x05_Top_Bottom

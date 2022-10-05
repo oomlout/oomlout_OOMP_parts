@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [ST308L > 3.5 mm 8 Pin Blue Screw Terminal](#st308l--35-mm-8-pin-blue-screw-terminal)
+* [T35L8 > 3.5 mm 8 Pin Blue Screw Terminal](#t35l8--35-mm-8-pin-blue-screw-terminal)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# ST308L > 3.5 mm 8 Pin Blue Screw Terminal
+# T35L8 > 3.5 mm 8 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI08-01
-- Hex ID: ST308L
+- Hex ID: T35L8
 - Name: 3.5 mm 8 Pin Blue Screw Terminal
 - Description: 3.5 mm 8 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI08-01](http://oom.lt/TERS-35D-L-PI08-01)
-- Short Link: [http://oom.lt/ST308L](http://oom.lt/ST308L)
+- Short Link: [http://oom.lt/T35L8](http://oom.lt/T35L8)
 
 ## Datasheets
 
@@ -35,6 +35,12 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|![kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical/)||||
+| :---: | :---: | :---: | :---: |
+
 ### Symbols
 
 ## Images
@@ -47,19 +53,12 @@ Contents
 
 ## Tags
 
-- oompID: TERS-35D-L-PI08-01
-- name: 3.5 mm 8 Pin Blue Screw Terminal
-- hexID: ST308L
-- oompSort: TERS35D08PI
-- oompClass: Through Hole
-- oompClassCode: THTH
 - oompType: TERS
 - oompSize: 35D
 - oompColor: L
 - oompDesc: PI08
 - oompIndex: 01
-- oompVersion: 98
-- ooPitch: 3.5mm
-- ooNumPins: 8
-- ooFootprint: OOMP-TERS-35D-X-PI08-01
-- ooDesignator: J1
+- hexID: T35L8
+- oompID: TERS-35D-L-PI08-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x08

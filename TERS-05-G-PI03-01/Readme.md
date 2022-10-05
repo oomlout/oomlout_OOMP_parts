@@ -63,6 +63,7 @@ Contents
 - ooNumPins: 3
 - ooFootprint: OOMP-TERS-05-X-PI03-01
 - ooDesignator: J1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03
 
 
 

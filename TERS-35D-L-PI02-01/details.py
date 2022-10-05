@@ -12,7 +12,7 @@ oSize = "35D"
 oColor = "L"
 oDesc = "PI02"
 oIndex = "01"
-hexId = "T35L3"
+hexId = "T35L2"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

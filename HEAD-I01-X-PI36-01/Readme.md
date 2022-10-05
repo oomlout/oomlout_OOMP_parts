@@ -39,7 +39,7 @@ Contents
 ### Footprints
   
 
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/)||||
+|![kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
@@ -93,7 +93,9 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI36-XX
 - pcbFootprint: HEAD-I01-X-PI36-01
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36_Male
 
 
 

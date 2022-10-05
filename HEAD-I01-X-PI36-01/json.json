@@ -162,7 +162,15 @@
         },
         {
             "name": "footprintKicad",
-            "value": "kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical"
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36_Male"
         },
         {
             "name": "oompID",

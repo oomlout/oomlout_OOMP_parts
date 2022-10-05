@@ -36,14 +36,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS/)|
-| :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK/)|
-|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN/)||||
-
 ### Symbols
 
 ## Images
@@ -88,15 +80,8 @@ Contents
 - oompSimp: variable;pins;6
 - oompSimp: template;XXXX-I01-X-XX-RA-simp
 - ooDesignator: J1
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_NO_SILK
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEANBIG
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x06_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06_Male
 
 
 

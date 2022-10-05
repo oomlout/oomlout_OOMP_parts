@@ -35,14 +35,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|![kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical/image_140.png)<br> [kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK/)|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS/)|
-| :---: | :---: | :---: | :---: |
-|![eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_NO_SILK](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_NO_SILK/image_140.png)<br> [eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_NO_SILK](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_NO_SILK/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12/)|![eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12-CB](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12-CB/image_140.png)<br> [eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12-CB](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12-CB/)|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112/)|
-|![eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE/image_140.png)<br> [eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/eagle/FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE/)||||
-
 ### Symbols
 
 ## Images
@@ -82,12 +74,5 @@ Contents
 - ooDesignator: J1
 - schematicSymbol: HEAD-XX-X-PI12-XX
 - pcbFootprint: HEAD-I01-X-PI12-RS
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS
-- footprintEagle: SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_NO_SILK
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12
-- footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X12-CB
-- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112
-- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE
-- footprintKicad: kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x12_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12_Male

@@ -61,6 +61,10 @@
             "value": "J1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03"
+        },
+        {
             "name": "oompID",
             "value": "TERS-05-G-PI03-01"
         },

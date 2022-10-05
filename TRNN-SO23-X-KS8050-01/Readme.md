@@ -38,7 +38,7 @@ Contents
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)|||
+|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
@@ -61,4 +61,3 @@ Contents
 - hexID: TN98050
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23
 - oompID: TRNN-SO23-X-KS8050-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23
