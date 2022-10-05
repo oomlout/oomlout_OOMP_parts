@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 24 times.  
 Prevalance: (24\10986) 0.2185%  
@@ -55,8 +55,6 @@ Prevalance: (24\10986) 0.2185%
 |[PROJ-SPAR-13720-STAN-01<br> MP3 Trigger <br>Used 1 times.<br>R17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13720-STAN-01/)|
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 2 times.<br>R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-14589-STAN-01<br> SparkFun Differential I2C Breakout PCA9615 Qwiic <br>Used 4 times.<br>R1, R3, R4, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14589-STAN-01/)|
-
-### Symbols
 
 ## Images
   

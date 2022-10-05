@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 12 times.  
 Prevalance: (12\10986) 0.1092%  
@@ -51,8 +51,6 @@ Prevalance: (12\10986) 0.1092%
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>C20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-13830-STAN-01<br> USB UART Serial Breakout-CY7C65213 <br>Used 2 times.<br>C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13830-STAN-01/)|
 |[PROJ-SPAR-14050-STAN-01<br> Serial Basic Breakout-CH340G <br>Used 2 times.<br>C4, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14050-STAN-01/)|
-
-### Symbols
 
 ## Images
   

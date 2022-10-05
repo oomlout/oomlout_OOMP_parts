@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 7 times.  
 Prevalance: (7\10986) 0.0637%  
@@ -42,8 +42,6 @@ Prevalance: (7\10986) 0.0637%
 |[PROJ-SPAR-13287-STAN-01<br> ESP8266 WiFi Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13287-STAN-01/)|
 |[PROJ-SPAR-13711-STAN-01<br> ESP8266 Thing Dev 4H <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13711-STAN-01/)|
 |[PROJ-SPAR-13794-STAN-01<br> Blynk Board ESP8266 <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13794-STAN-01/)|
-
-### Symbols
 
 ## Images
   

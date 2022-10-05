@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 8 times.  
 Prevalance: (8\10986) 0.0728%  
@@ -45,8 +45,6 @@ Prevalance: (8\10986) 0.0728%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-13279-STAN-01<br> Large Digit Driver <br>Used 8 times.<br>R1, R2, R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13279-STAN-01/)|
-
-### Symbols
 
 ## Images
   

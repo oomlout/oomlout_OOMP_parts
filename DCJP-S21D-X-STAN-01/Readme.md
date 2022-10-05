@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -41,8 +41,6 @@ Prevalance: (4\10986) 0.0364%
 |[PROJ-SPAR-10025-STAN-01<br> EiBotBoard <br>Used 2 times.<br>J6, J7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
 |[PROJ-SPAR-12711-STAN-01<br> USB LiPolyCharger SingleCell <br>Used 1 times.<br>J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12711-STAN-01/)|
 |[PROJ-SPAR-13032-STAN-01<br> Breadboard Power Supply Stick 5V-3.3V <br>Used 1 times.<br>J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13032-STAN-01/)|
-
-### Symbols
 
 ## Images
   

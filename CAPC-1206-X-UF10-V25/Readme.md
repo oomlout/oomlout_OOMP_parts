@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 14 times.  
 Prevalance: (14\10986) 0.1274%  
@@ -54,8 +54,6 @@ Prevalance: (14\10986) 0.1274%
 |[PROJ-SPAR-13034-STAN-01<br> Edison I2C Breakout Block <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13034-STAN-01/)|
 |[PROJ-SPAR-13040-STAN-01<br> Edison UART Block <br>Used 1 times.<br>C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13040-STAN-01/)|
 |[PROJ-SPAR-13158-STAN-01<br> LiPower-Shield <br>Used 1 times.<br>C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13158-STAN-01/)|
-
-### Symbols
 
 ## Images
   

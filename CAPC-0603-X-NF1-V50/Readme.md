@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 14 times.  
 Prevalance: (14\10986) 0.1274%  
@@ -52,8 +52,6 @@ Prevalance: (14\10986) 0.1274%
 |[PROJ-SPAR-13155-STAN-01<br> SparkFun Stepoko <br>Used 6 times.<br>C12, C13, C21, C22, C33, C34](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|
 |[PROJ-SPAR-13679-STAN-01<br> Current Sensor Breakout-ACS723 <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13679-STAN-01/)|
 |[PROJ-SPAR-14544-STAN-01<br> Current Sensor Breakout-ACS723-Low Current <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14544-STAN-01/)|
-
-### Symbols
 
 ## Images
   

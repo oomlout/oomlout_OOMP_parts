@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -45,8 +45,6 @@ Prevalance: (4\10986) 0.0364%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-11013-STAN-01<br> LilyPad MP3 Player <br>Used 4 times.<br>C30, C31, C32, C33](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11013-STAN-01/)|
-
-### Symbols
 
 ## Images
   

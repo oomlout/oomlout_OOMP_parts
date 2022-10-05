@@ -30,9 +30,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 7 times.  
 Prevalance: (7\10986) 0.0637%  
@@ -42,8 +42,6 @@ Prevalance: (7\10986) 0.0637%
 |[PROJ-SPAR-10507-STAN-01<br> Quadstepper Motor Driver <br>Used 4 times.<br>R6, R13, R20, R27](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|
 |[PROJ-SPAR-11129-STAN-01<br> Si4707 Breakout <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11129-STAN-01/)|
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
-
-### Symbols
 
 ## Images
   

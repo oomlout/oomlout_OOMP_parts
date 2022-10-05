@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 347 times.  
 Prevalance: (347\10986) 3.1586%  
@@ -188,8 +188,6 @@ Prevalance: (347\10986) 3.1586%
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 5 times.<br>R1, R5, R11, R12, R13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
 |[PROJ-SPAR-15006-STAN-01<br> ESP32 LoRa 1Ch Gateway <br>Used 2 times.<br>R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15006-STAN-01/)|
 |[PROJ-SPAR-15031-STAN-01<br> ESP8266 WiFi IR Blaster <br>Used 3 times.<br>R3, R5, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15031-STAN-01/)|
-
-### Symbols
 
 ## Images
   

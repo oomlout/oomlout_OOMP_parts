@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -46,8 +46,6 @@ Prevalance: (4\10986) 0.0364%
 | :---: |
 |[PROJ-ADAF-5100-STAN-01<br> Adafruit MacroPad RP2040 PCB <br>Used 2 times.<br>C19, C20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5100-STAN-01/)|
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 2 times.<br>C7, C9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
-
-### Symbols
 
 ## Images
   

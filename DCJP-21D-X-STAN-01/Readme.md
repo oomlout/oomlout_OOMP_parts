@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 18 times.  
 Prevalance: (18\10986) 0.1638%  
@@ -62,8 +62,6 @@ Prevalance: (18\10986) 0.1638%
 |[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 1 times.<br>J2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
 |[PROJ-SPAR-14669-STAN-01<br> BlackBoard <br>Used 1 times.<br>J3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14669-STAN-01/)|
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 1 times.<br>JP3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
-
-### Symbols
 
 ## Images
   

@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 52 times.  
 Prevalance: (52\10986) 0.4733%  
@@ -62,8 +62,6 @@ Prevalance: (52\10986) 0.4733%
 |[PROJ-SPAR-11197-STAN-01<br> ATmega128RFA1 Dev <br>Used 5 times.<br>C1, C2, C3, C4, C12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|
 |[PROJ-SPAR-11645-STAN-01<br> OpenSegment <br>Used 1 times.<br>C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11645-STAN-01/)|
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 2 times.<br>C1, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
-
-### Symbols
 
 ## Images
   

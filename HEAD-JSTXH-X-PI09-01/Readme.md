@@ -33,10 +33,14 @@ Contents
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical/)|![kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical/)|||
+|![FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B9B-XH-AM_1x09_P2.50mm_Vertical/)|![FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical/)|||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
+  
+
+|![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
+| :---: | :---: | :---: | :---: |
 
 ## Images
   

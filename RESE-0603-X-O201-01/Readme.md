@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 10 times.  
 Prevalance: (10\10986) 0.091%  
@@ -50,8 +50,6 @@ Prevalance: (10\10986) 0.091%
 |[PROJ-SPAR-13735-STAN-01<br> LilyPad Tri-Color LED <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13735-STAN-01/)|
 |[PROJ-SPAR-13794-STAN-01<br> Blynk Board ESP8266 <br>Used 1 times.<br>R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13794-STAN-01/)|
 |[PROJ-SPAR-14891-STAN-01<br> gator starter <br>Used 1 times.<br>R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14891-STAN-01/)|
-
-### Symbols
 
 ## Images
   

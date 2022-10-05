@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 9 times.  
 Prevalance: (9\10986) 0.0819%  
@@ -52,8 +52,6 @@ Prevalance: (9\10986) 0.0819%
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-14544-STAN-01<br> Current Sensor Breakout-ACS723-Low Current <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14544-STAN-01/)|
 |[PROJ-SPAR-14765-STAN-01<br> Single Supply Logic Level Converter <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14765-STAN-01/)|
-
-### Symbols
 
 ## Images
   

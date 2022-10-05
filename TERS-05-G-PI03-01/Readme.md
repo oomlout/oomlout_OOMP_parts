@@ -37,6 +37,10 @@ Contents
 ## EDA
 
 ### Symbols
+  
+
+|![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03/)||||
+| :---: | :---: | :---: | :---: |
 
 ## Images
   

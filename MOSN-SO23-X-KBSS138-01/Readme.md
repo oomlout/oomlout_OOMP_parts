@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 104 times.  
 Prevalance: (104\10986) 0.9467%  
@@ -104,8 +104,6 @@ Prevalance: (104\10986) 0.9467%
 |[PROJ-ADAF-789-STAN-01<br> Adafruit PN532 RFID NFC Shield <br>Used 5 times.<br>Q1, Q2, Q3, Q4, Q6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-789-STAN-01/)|
 |[PROJ-ADAF-931-STAN-01<br> Adafruit 128x32 I2C OLED Breakout PCB <br>Used 2 times.<br>Q1, Q2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|
 |[PROJ-ADAF-938-STAN-01<br> Adafruit 1.3inch 128x64 Mono OLED PCB <br>Used 2 times.<br>Q1, Q2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-938-STAN-01/)|
-
-### Symbols
 
 ## Images
   

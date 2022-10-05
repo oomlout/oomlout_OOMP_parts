@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 7 times.  
 Prevalance: (7\10986) 0.0637%  
@@ -51,8 +51,6 @@ Prevalance: (7\10986) 0.0637%
 |[PROJ-SPAR-11013-STAN-01<br> LilyPad MP3 Player <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11013-STAN-01/)|
 |[PROJ-SPAR-11214-STAN-01<br> MOSFET Power Controller <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11214-STAN-01/)|
 |[PROJ-SPAR-11684-STAN-01<br> MP3 Breakout-VS1063 <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11684-STAN-01/)|
-
-### Symbols
 
 ## Images
   

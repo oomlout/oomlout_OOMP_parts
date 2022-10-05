@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 19 times.  
 Prevalance: (19\10986) 0.1729%  
@@ -55,8 +55,6 @@ Prevalance: (19\10986) 0.1729%
 |[PROJ-SPAR-11201-STAN-01<br> ProtoSnap-LilyPad Dev Simple <br>Used 2 times.<br>C9, C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11201-STAN-01/)|
 |[PROJ-SPAR-11262-STAN-01<br> ProtoSnap-LilyPad Development Board <br>Used 2 times.<br>C9, C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11262-STAN-01/)|
 |[PROJ-SPAR-13926-STAN-01<br> MMA8452 Accelerometer <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13926-STAN-01/)|
-
-### Symbols
 
 ## Images
   

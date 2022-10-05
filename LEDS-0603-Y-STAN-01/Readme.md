@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 50 times.  
 Prevalance: (50\10986) 0.4551%  
@@ -87,8 +87,6 @@ Prevalance: (50\10986) 0.4551%
 |[PROJ-SPAR-14916-STAN-01<br> SAMD21 Pro RF <br>Used 1 times.<br>D6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14916-STAN-01/)|
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 1 times.<br>D2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 1 times.<br>D1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
-
-### Symbols
 
 ## Images
   

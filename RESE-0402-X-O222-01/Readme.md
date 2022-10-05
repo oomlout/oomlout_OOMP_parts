@@ -30,9 +30,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 19 times.  
 Prevalance: (19\10986) 0.1729%  
@@ -41,8 +41,6 @@ Prevalance: (19\10986) 0.1729%
 | :---: |
 |[PROJ-SPAR-10615-STAN-01<br> PWM Shield <br>Used 17 times.<br>R3, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10615-STAN-01/)|
 |[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
-
-### Symbols
 
 ## Images
   

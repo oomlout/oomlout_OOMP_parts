@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 54 times.  
 Prevalance: (54\10986) 0.4915%  
@@ -97,8 +97,6 @@ Prevalance: (54\10986) 0.4915%
 |[PROJ-ADAF-4279-STAN-01<br> Adafruit Ultimate GPS <br>Used 1 times.<br>U2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4279-STAN-01/)|
 |[PROJ-ADAF-4383-STAN-01<br> Adafruit 1.14 inch 240x135 TFT PCB <br>Used 1 times.<br>U2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4383-STAN-01/)|
 |[PROJ-ADAF-512-STAN-01<br> Adafruit 9 DOF and 10 DOF PCBs <br>Used 1 times.<br>U4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-512-STAN-01/)|
-
-### Symbols
 
 ## Images
   

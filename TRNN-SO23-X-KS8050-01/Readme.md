@@ -38,10 +38,8 @@ Contents
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23/)||||
+|![FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23/)||||
 | :---: | :---: | :---: | :---: |
-
-### Symbols
 
 ## Images
   

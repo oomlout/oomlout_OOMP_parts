@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 202 times.  
 Prevalance: (202\10986) 1.8387%  
@@ -132,8 +132,6 @@ Prevalance: (202\10986) 1.8387%
 |[PROJ-SPAR-14669-STAN-01<br> BlackBoard <br>Used 5 times.<br>R1, R7, R8, R12, R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14669-STAN-01/)|
 |[PROJ-SPAR-14686-STAN-01<br> Qwiic IMU BNO080 <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14686-STAN-01/)|
 |[PROJ-SPAR-14779-STAN-01<br> LumiDrive <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14779-STAN-01/)|
-
-### Symbols
 
 ## Images
   

@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 854 times.  
 Prevalance: (854\10986) 7.7735%  
@@ -346,8 +346,6 @@ Prevalance: (854\10986) 7.7735%
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 5 times.<br>C2, C4, C8, C13, C19](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
 |[PROJ-SPAR-15006-STAN-01<br> ESP32 LoRa 1Ch Gateway <br>Used 3 times.<br>C2, C3, C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15006-STAN-01/)|
-
-### Symbols
 
 ## Images
   

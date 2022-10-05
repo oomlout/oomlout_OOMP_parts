@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -39,8 +39,6 @@ Prevalance: (6\10986) 0.0546%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-13155-STAN-01<br> SparkFun Stepoko <br>Used 6 times.<br>R4, R5, R12, R13, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|
-
-### Symbols
 
 ## Images
   

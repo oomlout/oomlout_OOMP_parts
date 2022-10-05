@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 264 times.  
 Prevalance: (264\10986) 2.4031%  
@@ -149,8 +149,6 @@ Prevalance: (264\10986) 2.4031%
 |[PROJ-SPAR-13614-STAN-01<br> Qduino Mini SFE <br>Used 3 times.<br>C3, C4, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13614-STAN-01/)|
 |[PROJ-SPAR-13628-STAN-01<br> Photon OLED Shield <br>Used 2 times.<br>C4, C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13628-STAN-01/)|
 |[PROJ-SPAR-14478-STAN-01<br> MaKeyMaKey <br>Used 2 times.<br>C2, C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14478-STAN-01/)|
-
-### Symbols
 
 ## Images
   

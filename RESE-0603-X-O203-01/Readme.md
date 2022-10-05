@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 34 times.  
 Prevalance: (34\10986) 0.3095%  
@@ -56,8 +56,6 @@ Prevalance: (34\10986) 0.3095%
 |[PROJ-SPAR-13230-STAN-01<br> HX711-Load-Cell-Amplifier <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13230-STAN-01/)|
 |[PROJ-SPAR-13261-STAN-01<br> OpenScale <br>Used 1 times.<br>R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13261-STAN-01/)|
 |[PROJ-SPAR-13714-STAN-01<br> FreeSoc2 <br>Used 2 times.<br>R5, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13714-STAN-01/)|
-
-### Symbols
 
 ## Images
   

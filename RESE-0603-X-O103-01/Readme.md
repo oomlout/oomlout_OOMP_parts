@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 710 times.  
 Prevalance: (710\10986) 6.4628%  
@@ -301,8 +301,6 @@ Prevalance: (710\10986) 6.4628%
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 2 times.<br>R4, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
 |[PROJ-SPAR-15006-STAN-01<br> ESP32 LoRa 1Ch Gateway <br>Used 5 times.<br>R1, R4, R5, R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15006-STAN-01/)|
 |[PROJ-SPAR-15031-STAN-01<br> ESP8266 WiFi IR Blaster <br>Used 4 times.<br>R1, R2, R4, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15031-STAN-01/)|
-
-### Symbols
 
 ## Images
   

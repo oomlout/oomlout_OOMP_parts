@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 3 times.  
 Prevalance: (3\10986) 0.0273%  
@@ -47,8 +47,6 @@ Prevalance: (3\10986) 0.0273%
 |[PROJ-SPAR-13672-STAN-01<br> SAMD21 Dev Breakout <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13672-STAN-01/)|
 |[PROJ-SPAR-13956-STAN-01<br> Weather Shield <br>Used 1 times.<br>R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13956-STAN-01/)|
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
-
-### Symbols
 
 ## Images
   

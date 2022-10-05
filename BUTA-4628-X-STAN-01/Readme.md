@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 85 times.  
 Prevalance: (85\10986) 0.7737%  
@@ -104,8 +104,6 @@ Prevalance: (85\10986) 0.7737%
 |[PROJ-ADAF-5405-STAN-01<br> Adafruit QT Py ESP32 C3 PCB <br>Used 1 times.<br>Q1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5405-STAN-01/)|
 |[PROJ-ADAF-5426-STAN-01<br> Adafruit QT Py ESP32 S3 PCB <br>Used 2 times.<br>Q1, Q2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5426-STAN-01/)|
 |[PROJ-ADAF-904-STAN-01<br> Adafruit INA219 Current Sensor PCB <br>Used 1 times.<br>SW1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-904-STAN-01/)|
-
-### Symbols
 
 ## Images
   

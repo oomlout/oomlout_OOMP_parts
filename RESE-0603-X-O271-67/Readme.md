@@ -30,8 +30,6 @@ Contents
 
 ## EDA
 
-### Symbols
-
 ## Images
   
   

@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 46 times.  
 Prevalance: (46\10986) 0.4187%  
@@ -63,8 +63,6 @@ Prevalance: (46\10986) 0.4187%
 |[PROJ-SPAR-11282-STAN-01<br> BMP085 Breakout <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11282-STAN-01/)|
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 4 times.<br>R7, R9, R13, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
 |[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 3 times.<br>R4, R5, R17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
-
-### Symbols
 
 ## Images
   

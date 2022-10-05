@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 163 times.  
 Prevalance: (163\10986) 1.4837%  
@@ -106,8 +106,6 @@ Prevalance: (163\10986) 1.4837%
 |[PROJ-SPAR-14713-STAN-01<br> SAMD51 Thing Plus <br>Used 1 times.<br>R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14713-STAN-01/)|
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 6 times.<br>R2, R6, R7, R8, R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
 |[PROJ-SPAR-14890-STAN-01<br> gator color <br>Used 4 times.<br>R2, R3, R5, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14890-STAN-01/)|
-
-### Symbols
 
 ## Images
   

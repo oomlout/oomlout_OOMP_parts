@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 125 times.  
 Prevalance: (125\10986) 1.1378%  
@@ -67,8 +67,6 @@ Prevalance: (125\10986) 1.1378%
 |[PROJ-ADAF-5100-STAN-01<br> Adafruit MacroPad RP2040 PCB <br>Used 12 times.<br>LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5100-STAN-01/)|
 |[PROJ-ADAF-5295-STAN-01<br> Adafruit NeoSlider PCB <br>Used 4 times.<br>LED1, LED2, LED3, LED4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5295-STAN-01/)|
 |[PROJ-ADAF-5400-STAN-01<br> Adafruit ESP32 Feather V2 PCB <br>Used 1 times.<br>LED1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5400-STAN-01/)|
-
-### Symbols
 
 ## Images
   

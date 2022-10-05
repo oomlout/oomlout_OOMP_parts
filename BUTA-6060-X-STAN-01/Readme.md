@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 55 times.  
 Prevalance: (55\10986) 0.5006%  
@@ -77,8 +77,6 @@ Prevalance: (55\10986) 0.5006%
 |[PROJ-ADAF-4757-STAN-01<br> Adafruit Voice Bonnet PCB <br>Used 1 times.<br>SW1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4757-STAN-01/)|
 |[PROJ-ADAF-802-STAN-01<br> Adafruit 1.8 TFT Shield PCB <br>Used 1 times.<br>U$4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-802-STAN-01/)|
 |[PROJ-ADAF-91-STAN-01<br> Adafruit_USB_Boarduino_PCB <br>Used 1 times.<br>S1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|
-
-### Symbols
 
 ## Images
   

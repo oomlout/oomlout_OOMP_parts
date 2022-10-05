@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -45,8 +45,6 @@ Prevalance: (6\10986) 0.0546%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-12650-STAN-01<br> AD8232 Heart Rate Monitor <br>Used 6 times.<br>R1, R2, R10, R11, R13, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12650-STAN-01/)|
-
-### Symbols
 
 ## Images
   

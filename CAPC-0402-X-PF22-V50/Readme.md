@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 28 times.  
 Prevalance: (28\10986) 0.2549%  
@@ -57,8 +57,6 @@ Prevalance: (28\10986) 0.2549%
 |[PROJ-SPAR-11083-STAN-01<br> FM Tuner Basic Breakout-Si4703 <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11083-STAN-01/)|
 |[PROJ-SPAR-11129-STAN-01<br> Si4707 Breakout <br>Used 2 times.<br>C5, C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11129-STAN-01/)|
 |[PROJ-SPAR-11197-STAN-01<br> ATmega128RFA1 Dev <br>Used 1 times.<br>C11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|
-
-### Symbols
 
 ## Images
   

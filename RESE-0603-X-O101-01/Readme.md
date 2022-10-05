@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 139 times.  
 Prevalance: (139\10986) 1.2652%  
@@ -86,8 +86,6 @@ Prevalance: (139\10986) 1.2652%
 |[PROJ-SPAR-14346-STAN-01<br> LilyPad ProtoSnap Plus <br>Used 4 times.<br>R25, R26, R29, R30](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14346-STAN-01/)|
 |[PROJ-SPAR-14589-STAN-01<br> SparkFun Differential I2C Breakout PCA9615 Qwiic <br>Used 2 times.<br>R2, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14589-STAN-01/)|
 |[PROJ-SPAR-14891-STAN-01<br> gator starter <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14891-STAN-01/)|
-
-### Symbols
 
 ## Images
   

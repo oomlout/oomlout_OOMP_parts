@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 42 times.  
 Prevalance: (42\10986) 0.3823%  
@@ -63,8 +63,6 @@ Prevalance: (42\10986) 0.3823%
 |[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>R1, R15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
 |[PROJ-SPAR-14809-STAN-01<br> I2S Audio Breakout <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14809-STAN-01/)|
 |[PROJ-SPAR-14916-STAN-01<br> SAMD21 Pro RF <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14916-STAN-01/)|
-
-### Symbols
 
 ## Images
   

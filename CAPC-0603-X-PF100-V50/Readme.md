@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 13 times.  
 Prevalance: (13\10986) 0.1183%  
@@ -50,8 +50,6 @@ Prevalance: (13\10986) 0.1183%
 |[PROJ-SPAR-14002-STAN-01<br> THAT 1206 Breakout <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14002-STAN-01/)|
 |[PROJ-SPAR-14003-STAN-01<br> THAT 1646 Breakout <br>Used 2 times.<br>C5, C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14003-STAN-01/)|
 |[PROJ-SPAR-14544-STAN-01<br> Current Sensor Breakout-ACS723-Low Current <br>Used 1 times.<br>C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14544-STAN-01/)|
-
-### Symbols
 
 ## Images
   

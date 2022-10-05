@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 86 times.  
 Prevalance: (86\10986) 0.7828%  
@@ -47,8 +47,6 @@ Prevalance: (86\10986) 0.7828%
 |[PROJ-ADAF-1463-STAN-01<br> Adafruit NeoPixel Ring <br>Used 15 times.<br>LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1463-STAN-01/)|
 |[PROJ-ADAF-2226-STAN-01<br> Adafruit NeoPixel Jewel 7 <br>Used 7 times.<br>LED1, LED2, LED3, LED4, LED5, LED6, LED7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2226-STAN-01/)|
 |[PROJ-ADAF-2268-STAN-01<br> Adafruit Particle Spark Neopixel Ring PCB <br>Used 24 times.<br>LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10, LED11, LED12, LED13, LED14, LED15, LED16, LED17, LED18, LED19, LED20, LED21, LED22, LED23, LED24](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2268-STAN-01/)|
-
-### Symbols
 
 ## Images
   

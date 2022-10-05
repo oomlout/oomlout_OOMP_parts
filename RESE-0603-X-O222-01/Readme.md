@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 108 times.  
 Prevalance: (108\10986) 0.9831%  
@@ -100,8 +100,6 @@ Prevalance: (108\10986) 0.9831%
 |[PROJ-SPAR-14874-STAN-01<br> TSH82 Configurable Op Amp Board <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14874-STAN-01/)|
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 2 times.<br>R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
 |[PROJ-SPAR-15006-STAN-01<br> ESP32 LoRa 1Ch Gateway <br>Used 2 times.<br>R6, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15006-STAN-01/)|
-
-### Symbols
 
 ## Images
   

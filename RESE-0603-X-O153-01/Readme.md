@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 7 times.  
 Prevalance: (7\10986) 0.0637%  
@@ -47,8 +47,6 @@ Prevalance: (7\10986) 0.0637%
 |[PROJ-SPAR-11924-STAN-01<br> Purpletooth Jamboree <br>Used 4 times.<br>R13, R16, R19, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11924-STAN-01/)|
 |[PROJ-SPAR-12858-STAN-01<br> Vernier Interface Shield <br>Used 2 times.<br>R14, R16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12858-STAN-01/)|
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
-
-### Symbols
 
 ## Images
   

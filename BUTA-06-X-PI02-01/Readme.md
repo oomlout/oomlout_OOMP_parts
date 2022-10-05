@@ -45,8 +45,6 @@ Contents
 
 ## EDA
 
-### Symbols
-
 ## Images
   
   

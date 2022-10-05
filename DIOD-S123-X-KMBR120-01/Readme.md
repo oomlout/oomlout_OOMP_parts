@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 62 times.  
 Prevalance: (62\10986) 0.5644%  
@@ -90,8 +90,6 @@ Prevalance: (62\10986) 0.5644%
 |[PROJ-ADAF-4741-STAN-01<br> Adafruit Grayscale 1.5 inch 128x128 OLED PCB <br>Used 1 times.<br>D2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4741-STAN-01/)|
 |[PROJ-ADAF-5297-STAN-01<br> Adafruit 1.12in 128x128 OLED PCB <br>Used 1 times.<br>D2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5297-STAN-01/)|
 |[PROJ-ADAF-5397-STAN-01<br> Adafruit Charger BFF PCB <br>Used 1 times.<br>D2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5397-STAN-01/)|
-
-### Symbols
 
 ## Images
   

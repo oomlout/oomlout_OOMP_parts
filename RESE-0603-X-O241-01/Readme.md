@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 25 times.  
 Prevalance: (25\10986) 0.2276%  
@@ -56,8 +56,6 @@ Prevalance: (25\10986) 0.2276%
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 2 times.<br>R11, R12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-13975-STAN-01<br> RedBoard <br>Used 1 times.<br>R15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13975-STAN-01/)|
 |[PROJ-SPAR-14669-STAN-01<br> BlackBoard <br>Used 1 times.<br>R15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14669-STAN-01/)|
-
-### Symbols
 
 ## Images
   

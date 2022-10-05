@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 7 times.  
 Prevalance: (7\10986) 0.0637%  
@@ -50,8 +50,6 @@ Prevalance: (7\10986) 0.0637%
 |[PROJ-SPAR-11295-STAN-01<br> HIH6130 Breakout <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11295-STAN-01/)|
 |[PROJ-SPAR-12636-STAN-01<br> LSM9DS0 Breakout <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12636-STAN-01/)|
 |[PROJ-SPAR-13033-STAN-01<br> Edison 9DOF Block <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13033-STAN-01/)|
-
-### Symbols
 
 ## Images
   

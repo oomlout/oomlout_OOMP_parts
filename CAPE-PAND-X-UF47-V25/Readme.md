@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -50,8 +50,6 @@ Prevalance: (6\10986) 0.0546%
 |[PROJ-ADAF-4000-STAN-01<br> Adafruit Metro M4 Express AirLift PCB <br>Used 1 times.<br>PC1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4000-STAN-01/)|
 |[PROJ-ADAF-4064-STAN-01<br> Adafruit Grand Central PCB <br>Used 1 times.<br>PC1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4064-STAN-01/)|
 |[PROJ-ADAF-4775-STAN-01<br> Adafruit Metro ESP32 S2 PCB <br>Used 1 times.<br>PC1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4775-STAN-01/)|
-
-### Symbols
 
 ## Images
   

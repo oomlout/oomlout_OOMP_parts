@@ -38,11 +38,17 @@ Contents
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical/)||||
+|![FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x02_P3.50mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x02_P3.50mm_Vertical/)||||
 | :---: | :---: | :---: | :---: |
 
-### Instances
+### Symbols
   
+
+|![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02/)||||
+| :---: | :---: | :---: | :---: |
+  
+
+### Instances
   
 Used 119 times.  
 Prevalance: (119\10986) 1.0832%  
@@ -108,8 +114,6 @@ Prevalance: (119\10986) 1.0832%
 |[PROJ-SPAR-14129-STAN-01<br> Ardumoto-Motor Driver Shield <br>Used 1 times.<br>J10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14129-STAN-01/)|
 |[PROJ-SPAR-14449-STAN-01<br> Variable Load <br>Used 1 times.<br>J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14449-STAN-01/)|
 |[PROJ-SPAR-14809-STAN-01<br> I2S Audio Breakout <br>Used 1 times.<br>J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14809-STAN-01/)|
-
-### Symbols
 
 ## Images
   

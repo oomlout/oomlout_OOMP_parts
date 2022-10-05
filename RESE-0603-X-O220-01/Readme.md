@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 57 times.  
 Prevalance: (57\10986) 0.5188%  
@@ -69,8 +69,6 @@ Prevalance: (57\10986) 0.5188%
 |[PROJ-SPAR-13321-STAN-01<br> Photon RedBoard <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13321-STAN-01/)|
 |[PROJ-SPAR-13614-STAN-01<br> Qduino Mini SFE <br>Used 2 times.<br>R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13614-STAN-01/)|
 |[PROJ-SPAR-14478-STAN-01<br> MaKeyMaKey <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14478-STAN-01/)|
-
-### Symbols
 
 ## Images
   

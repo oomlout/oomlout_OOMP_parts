@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -48,8 +48,6 @@ Prevalance: (4\10986) 0.0364%
 |[PROJ-ADAF-1697-STAN-01<br> Adafruit Bluefruit LE nRF8001 PCB <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1697-STAN-01/)|
 |[PROJ-SPAR-11486-STAN-01<br> MPU-9150 Breakout <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11486-STAN-01/)|
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
-
-### Symbols
 
 ## Images
   

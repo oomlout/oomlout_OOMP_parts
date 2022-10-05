@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 10 times.  
 Prevalance: (10\10986) 0.091%  
@@ -50,8 +50,6 @@ Prevalance: (10\10986) 0.091%
 |[PROJ-SPAR-12772-STAN-01<br> Logomatic <br>Used 2 times.<br>R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12772-STAN-01/)|
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 4 times.<br>R2, R3, R4, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
-
-### Symbols
 
 ## Images
   

@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 165 times.  
 Prevalance: (165\10986) 1.5019%  
@@ -123,8 +123,6 @@ Prevalance: (165\10986) 1.5019%
 |[PROJ-ADAF-878-STAN-01<br> Adafruit LED Backpacks <br>Used 1 times.<br>D1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-878-STAN-01/)|
 |[PROJ-ADAF-931-STAN-01<br> Adafruit 128x32 I2C OLED Breakout PCB <br>Used 1 times.<br>D1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|
 |[PROJ-ADAF-938-STAN-01<br> Adafruit 1.3inch 128x64 Mono OLED PCB <br>Used 3 times.<br>D1, D2, D3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-938-STAN-01/)|
-
-### Symbols
 
 ## Images
   

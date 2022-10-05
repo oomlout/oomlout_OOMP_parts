@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 323 times.  
 Prevalance: (323\10986) 2.9401%  
@@ -112,8 +112,6 @@ Prevalance: (323\10986) 2.9401%
 |[PROJ-SPAR-14450-STAN-01<br> Motor Driver-Dual TB6612FNG <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14450-STAN-01/)|
 |[PROJ-SPAR-14631-STAN-01<br> LilyPad USB Plus Standalone <br>Used 3 times.<br>C2, C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14631-STAN-01/)|
 |[PROJ-SPAR-14713-STAN-01<br> SAMD51 Thing Plus <br>Used 6 times.<br>C3, C8, C9, C11, C12, C14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14713-STAN-01/)|
-
-### Symbols
 
 ## Images
   

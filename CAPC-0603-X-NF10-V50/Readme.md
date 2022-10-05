@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 48 times.  
 Prevalance: (48\10986) 0.4369%  
@@ -78,8 +78,6 @@ Prevalance: (48\10986) 0.4369%
 |[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>C11, C12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
 |[PROJ-SPAR-14669-STAN-01<br> BlackBoard <br>Used 1 times.<br>C17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14669-STAN-01/)|
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 1 times.<br>C9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
-
-### Symbols
 
 ## Images
   

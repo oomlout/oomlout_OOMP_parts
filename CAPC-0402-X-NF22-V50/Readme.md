@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -47,8 +47,6 @@ Prevalance: (4\10986) 0.0364%
 |[PROJ-SPAR-11083-STAN-01<br> FM Tuner Basic Breakout-Si4703 <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11083-STAN-01/)|
 |[PROJ-SPAR-11129-STAN-01<br> Si4707 Breakout <br>Used 1 times.<br>C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11129-STAN-01/)|
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 2 times.<br>C10, C11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
-
-### Symbols
 
 ## Images
   

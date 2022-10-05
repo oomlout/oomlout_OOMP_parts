@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 3 times.  
 Prevalance: (3\10986) 0.0273%  
@@ -45,8 +45,6 @@ Prevalance: (3\10986) 0.0273%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 3 times.<br>C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
-
-### Symbols
 
 ## Images
   

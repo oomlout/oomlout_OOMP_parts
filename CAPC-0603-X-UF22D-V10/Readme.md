@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 29 times.  
 Prevalance: (29\10986) 0.264%  
@@ -69,8 +69,6 @@ Prevalance: (29\10986) 0.264%
 |[PROJ-SPAR-14779-STAN-01<br> LumiDrive <br>Used 1 times.<br>C9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14779-STAN-01/)|
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
 |[PROJ-SPAR-15031-STAN-01<br> ESP8266 WiFi IR Blaster <br>Used 1 times.<br>C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15031-STAN-01/)|
-
-### Symbols
 
 ## Images
   

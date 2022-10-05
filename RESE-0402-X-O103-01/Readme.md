@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 115 times.  
 Prevalance: (115\10986) 1.0468%  
@@ -96,8 +96,6 @@ Prevalance: (115\10986) 1.0468%
 |[PROJ-SPAR-11801-STAN-01<br> Tiny-AVR-Programmer <br>Used 1 times.<br>R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11801-STAN-01/)|
 |[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 1 times.<br>R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
 |[PROJ-SPAR-13926-STAN-01<br> MMA8452 Accelerometer <br>Used 3 times.<br>R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13926-STAN-01/)|
-
-### Symbols
 
 ## Images
   

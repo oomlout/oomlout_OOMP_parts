@@ -30,9 +30,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
@@ -41,8 +41,6 @@ Prevalance: (2\10986) 0.0182%
 | :---: |
 |[PROJ-SPAR-10617-STAN-01<br> Lipo Fuel Gauge <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|
 |[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
-
-### Symbols
 
 ## Images
   

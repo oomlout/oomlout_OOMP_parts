@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 41 times.  
 Prevalance: (41\10986) 0.3732%  
@@ -69,8 +69,6 @@ Prevalance: (41\10986) 0.3732%
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
 |[PROJ-SPAR-14874-STAN-01<br> TSH82 Configurable Op Amp Board <br>Used 4 times.<br>R7, R8, R9, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14874-STAN-01/)|
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
-
-### Symbols
 
 ## Images
   

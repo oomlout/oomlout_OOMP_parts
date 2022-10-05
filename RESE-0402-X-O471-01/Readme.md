@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 20 times.  
 Prevalance: (20\10986) 0.182%  
@@ -51,8 +51,6 @@ Prevalance: (20\10986) 0.182%
 |[PROJ-SPAR-11703-STAN-01<br> UDB5 <br>Used 1 times.<br>R15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11703-STAN-01/)|
 |[PROJ-SPAR-14346-STAN-01<br> LilyPad ProtoSnap Plus <br>Used 6 times.<br>R8, R9, R10, R11, R12, R13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14346-STAN-01/)|
 |[PROJ-SPAR-14631-STAN-01<br> LilyPad USB Plus Standalone <br>Used 6 times.<br>R8, R9, R10, R11, R12, R13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14631-STAN-01/)|
-
-### Symbols
 
 ## Images
   

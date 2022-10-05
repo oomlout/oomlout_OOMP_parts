@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
@@ -46,8 +46,6 @@ Prevalance: (2\10986) 0.0182%
 | :---: |
 |[PROJ-ADAF-5325-STAN-01<br> Adafruit QT Py ESP32 S2 PCB <br>Used 1 times.<br>C16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5325-STAN-01/)|
 |[PROJ-SPAR-13990-STAN-01<br> nRF52832 Breakout <br>Used 1 times.<br>C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13990-STAN-01/)|
-
-### Symbols
 
 ## Images
   

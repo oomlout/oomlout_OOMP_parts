@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -47,8 +47,6 @@ Prevalance: (6\10986) 0.0546%
 |[PROJ-SPAR-13664-STAN-01<br> SAMD21 Mini Breakout <br>Used 2 times.<br>C5, C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13664-STAN-01/)|
 |[PROJ-SPAR-13990-STAN-01<br> nRF52832 Breakout <br>Used 2 times.<br>C13, C14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13990-STAN-01/)|
 |[PROJ-SPAR-14713-STAN-01<br> SAMD51 Thing Plus <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14713-STAN-01/)|
-
-### Symbols
 
 ## Images
   

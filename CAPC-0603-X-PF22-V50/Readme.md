@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 55 times.  
 Prevalance: (55\10986) 0.5006%  
@@ -72,8 +72,6 @@ Prevalance: (55\10986) 0.5006%
 |[PROJ-SPAR-14531-STAN-01<br> Pioneer IoT Kit Shield <br>Used 1 times.<br>C7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14531-STAN-01/)|
 |[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>C1, C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
 |[PROJ-SPAR-14686-STAN-01<br> Qwiic IMU BNO080 <br>Used 2 times.<br>C3, C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14686-STAN-01/)|
-
-### Symbols
 
 ## Images
   

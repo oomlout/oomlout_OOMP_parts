@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 25 times.  
 Prevalance: (25\10986) 0.2276%  
@@ -41,8 +41,6 @@ Prevalance: (25\10986) 0.2276%
 |[PROJ-SPAR-11040-STAN-01<br> LED RingCoder Breakout <br>Used 17 times.<br>R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R19](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11040-STAN-01/)|
 |[PROJ-SPAR-12651-STAN-01<br> Digital Sandbox <br>Used 6 times.<br>R8, R9, R10, R11, R12, R17](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12651-STAN-01/)|
 |[PROJ-SPAR-13321-STAN-01<br> Photon RedBoard <br>Used 2 times.<br>R5, R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13321-STAN-01/)|
-
-### Symbols
 
 ## Images
   

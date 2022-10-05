@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 18 times.  
 Prevalance: (18\10986) 0.1638%  
@@ -53,8 +53,6 @@ Prevalance: (18\10986) 0.1638%
 |[PROJ-SPAR-14812-STAN-01<br> RedBoard Turbo <br>Used 2 times.<br>C7, C9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14812-STAN-01/)|
 |[PROJ-SPAR-14916-STAN-01<br> SAMD21 Pro RF <br>Used 2 times.<br>C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14916-STAN-01/)|
 |[PROJ-SPAR-14997-STAN-01<br> LTE Cat M1 Shield <br>Used 2 times.<br>C10, C15](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14997-STAN-01/)|
-
-### Symbols
 
 ## Images
   

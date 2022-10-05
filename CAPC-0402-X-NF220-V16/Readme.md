@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -47,8 +47,6 @@ Prevalance: (6\10986) 0.0546%
 |[PROJ-SPAR-10507-STAN-01<br> Quadstepper Motor Driver <br>Used 4 times.<br>C8, C14, C20, C26](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|
 |[PROJ-SPAR-10530-STAN-01<br> Triple Axis Magnetometer-HMC5883L <br>Used 1 times.<br>C2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10530-STAN-01/)|
 |[PROJ-SPAR-10888-STAN-01<br> LSM303 Breakout <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10888-STAN-01/)|
-
-### Symbols
 
 ## Images
   

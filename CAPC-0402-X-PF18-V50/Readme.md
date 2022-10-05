@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 10 times.  
 Prevalance: (10\10986) 0.091%  
@@ -49,8 +49,6 @@ Prevalance: (10\10986) 0.091%
 |[PROJ-SPAR-10864-STAN-01<br> PoEthernet Shield <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10864-STAN-01/)|
 |[PROJ-SPAR-11684-STAN-01<br> MP3 Breakout-VS1063 <br>Used 2 times.<br>C3, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11684-STAN-01/)|
 |[PROJ-SPAR-11801-STAN-01<br> Tiny-AVR-Programmer <br>Used 2 times.<br>C2, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11801-STAN-01/)|
-
-### Symbols
 
 ## Images
   

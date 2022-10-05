@@ -34,9 +34,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 54 times.  
 Prevalance: (54\10986) 0.4915%  
@@ -96,8 +96,6 @@ Prevalance: (54\10986) 0.4915%
 |[PROJ-ADAF-5396-STAN-01<br> Adafruit VL53L4CD PCB <br>Used 1 times.<br>Q3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5396-STAN-01/)|
 |[PROJ-ADAF-5423-STAN-01<br> Adafruit TSC2007 PCB <br>Used 1 times.<br>Q2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5423-STAN-01/)|
 |[PROJ-ADAF-5425-STAN-01<br> Adafruit VL53L4CX PCB <br>Used 1 times.<br>Q3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|
-
-### Symbols
 
 ## Images
   

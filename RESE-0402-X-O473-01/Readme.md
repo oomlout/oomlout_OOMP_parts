@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
@@ -45,8 +45,6 @@ Prevalance: (2\10986) 0.0182%
 |OOMP Instances|
 | :---: |
 |[PROJ-SPAR-11129-STAN-01<br> Si4707 Breakout <br>Used 2 times.<br>R11, R12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11129-STAN-01/)|
-
-### Symbols
 
 ## Images
   

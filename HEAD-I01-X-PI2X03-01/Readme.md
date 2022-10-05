@@ -30,8 +30,15 @@ Contents
 
 ## EDA
 
-### Instances
+### Symbols
   
+
+|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+| :---: | :---: | :---: | :---: |
+|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+  
+
+### Instances
   
 Used 31 times.  
 Prevalance: (31\10986) 0.2822%  
@@ -56,8 +63,6 @@ Prevalance: (31\10986) 0.2822%
 |[PROJ-ARDU-MICRO-STAN-01<br> Arduino Micro <br>Used 1 times.<br>J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
 |[PROJ-ARDU-UNO-REV3-01<br> Arduino Rev3 Uno <br>Used 2 times.<br>ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
 |[PROJ-ARDU-UNO-REV3-SM<br> Arduino Rev3 Uno (SMD) <br>Used 2 times.<br>ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
-
-### Symbols
 
 ## Images
   

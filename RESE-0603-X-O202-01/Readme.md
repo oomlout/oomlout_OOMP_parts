@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 3 times.  
 Prevalance: (3\10986) 0.0273%  
@@ -47,8 +47,6 @@ Prevalance: (3\10986) 0.0273%
 |[PROJ-SPAR-10101-STAN-01<br> Window Comparator <br>Used 1 times.<br>R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|
 |[PROJ-SPAR-11520-STAN-01<br> Fio v3 <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|
 |[PROJ-SPAR-14063-STAN-01<br> LilyPad LilyMini ProtoSnap <br>Used 1 times.<br>R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14063-STAN-01/)|
-
-### Symbols
 
 ## Images
   

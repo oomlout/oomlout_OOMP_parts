@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 24 times.  
 Prevalance: (24\10986) 0.2185%  
@@ -60,8 +60,6 @@ Prevalance: (24\10986) 0.2185%
 |[PROJ-SPAR-14006-STAN-01<br> Lil Soundie Audio Player <br>Used 1 times.<br>R27](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14006-STAN-01/)|
 |[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 1 times.<br>R27](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
 |[PROJ-SPAR-15005-STAN-01<br> Qwiic GPS-RTK <br>Used 1 times.<br>R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-15005-STAN-01/)|
-
-### Symbols
 
 ## Images
   

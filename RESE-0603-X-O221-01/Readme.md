@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 16 times.  
 Prevalance: (16\10986) 0.1456%  
@@ -52,8 +52,6 @@ Prevalance: (16\10986) 0.1456%
 |[PROJ-SPAR-13044-STAN-01<br> Edison Pi Block <br>Used 1 times.<br>R10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13044-STAN-01/)|
 |[PROJ-SPAR-13810-STAN-01<br> tsunami <br>Used 4 times.<br>R45, R46, R47, R48](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13810-STAN-01/)|
 |[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 3 times.<br>R7, R8, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
-
-### Symbols
 
 ## Images
   

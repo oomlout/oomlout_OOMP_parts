@@ -29,9 +29,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 5 times.  
 Prevalance: (5\10986) 0.0455%  
@@ -40,8 +40,6 @@ Prevalance: (5\10986) 0.0455%
 | :---: |
 |[PROJ-SPAR-11924-STAN-01<br> Purpletooth Jamboree <br>Used 4 times.<br>R15, R17, R21, R23](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11924-STAN-01/)|
 |[PROJ-SPAR-13968-STAN-01<br> OpenPIR <br>Used 1 times.<br>R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13968-STAN-01/)|
-
-### Symbols
 
 ## Images
   

@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 26 times.  
 Prevalance: (26\10986) 0.2367%  
@@ -60,8 +60,6 @@ Prevalance: (26\10986) 0.2367%
 |[PROJ-SPAR-14414-STAN-01<br> SparkFun GPS Breakout XA1110 Qwiic <br>Used 3 times.<br>R3, R6, R11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14414-STAN-01/)|
 |[PROJ-SPAR-14430-STAN-01<br> ESP32 Motion Shield <br>Used 1 times.<br>R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14430-STAN-01/)|
 |[PROJ-SPAR-14554-STAN-01<br> Papa Soundie Audio Player <br>Used 2 times.<br>R6, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14554-STAN-01/)|
-
-### Symbols
 
 ## Images
   

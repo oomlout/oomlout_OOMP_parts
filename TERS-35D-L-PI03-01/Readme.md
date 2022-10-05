@@ -38,11 +38,17 @@ Contents
 ### Footprints
   
 
-|![kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical/image_140.png)<br> [kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/footprints/kicad/FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical/)||||
+|![FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x03_P3.50mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x03_P3.50mm_Vertical/)||||
 | :---: | :---: | :---: | :---: |
 
-### Instances
+### Symbols
   
+
+|![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03/)||||
+| :---: | :---: | :---: | :---: |
+  
+
+### Instances
   
 Used 18 times.  
 Prevalance: (18\10986) 0.1638%  
@@ -60,8 +66,6 @@ Prevalance: (18\10986) 0.1638%
 |[PROJ-SPAR-13815-STAN-01<br> Beefcake Relay Control Kit <br>Used 1 times.<br>J2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13815-STAN-01/)|
 |[PROJ-SPAR-14153-STAN-01<br> ESP32 Environment Sensor Shield <br>Used 1 times.<br>J7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14153-STAN-01/)|
 |[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 1 times.<br>J3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
-
-### Symbols
 
 ## Images
   

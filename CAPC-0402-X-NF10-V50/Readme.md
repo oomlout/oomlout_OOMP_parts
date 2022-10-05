@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 16 times.  
 Prevalance: (16\10986) 0.1456%  
@@ -52,8 +52,6 @@ Prevalance: (16\10986) 0.1456%
 |[PROJ-SPAR-11341-STAN-01<br> Gyro Breakout-LPY503AL <br>Used 1 times.<br>C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11341-STAN-01/)|
 |[PROJ-SPAR-11486-STAN-01<br> MPU-9150 Breakout <br>Used 1 times.<br>C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11486-STAN-01/)|
 |[PROJ-SPAR-11684-STAN-01<br> MP3 Breakout-VS1063 <br>Used 4 times.<br>C10, C12, C23, C24](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11684-STAN-01/)|
-
-### Symbols
 
 ## Images
   

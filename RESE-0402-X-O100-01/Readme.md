@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
@@ -48,8 +48,6 @@ Prevalance: (4\10986) 0.0364%
 |[PROJ-SPAR-10608-STAN-01<br> MP3 Breakout-VS1033D <br>Used 1 times.<br>R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10608-STAN-01/)|
 |[PROJ-SPAR-11013-STAN-01<br> LilyPad MP3 Player <br>Used 1 times.<br>R12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11013-STAN-01/)|
 |[PROJ-SPAR-11684-STAN-01<br> MP3 Breakout-VS1063 <br>Used 1 times.<br>R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11684-STAN-01/)|
-
-### Symbols
 
 ## Images
   

@@ -35,9 +35,9 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+  
 
 ### Instances
-  
   
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
@@ -46,8 +46,6 @@ Prevalance: (6\10986) 0.0546%
 | :---: |
 |[PROJ-ADAF-4333-STAN-01<br> Adafruit Circuit Playground Bluefruit PCB <br>Used 2 times.<br>C12, C13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4333-STAN-01/)|
 |[PROJ-SPAR-11197-STAN-01<br> ATmega128RFA1 Dev <br>Used 4 times.<br>C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|
-
-### Symbols
 
 ## Images
   
