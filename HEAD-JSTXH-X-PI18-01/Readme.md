@@ -33,13 +33,13 @@ Contents
 ### Footprints
   
 
-|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
   
 
-|![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x18_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x18_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x18/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x18/)|||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,4 +62,4 @@ Contents
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-AM_1x18_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-A_1x18_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18

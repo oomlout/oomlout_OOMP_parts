@@ -39,13 +39,13 @@ Contents
 ### Footprints
   
 
-|![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/)||||
+|[![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x36_P2.54mm_Vertical/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
   
 
-|![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x36_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x36_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x36/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x36/)|||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -99,7 +99,7 @@ Contents
 - pcbFootprint: HEAD-I01-X-PI36-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x36_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x36
 
 
 

@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02/)||||
+|[![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x02/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x02/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images

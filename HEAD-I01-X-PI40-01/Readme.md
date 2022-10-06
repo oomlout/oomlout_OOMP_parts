@@ -39,13 +39,13 @@ Contents
 ### Footprints
   
 
-|![FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X40](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X40/image_140.png)<br> [FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X40](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X40/)|![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x40_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x40_P2.54mm_Vertical/image_140.png)<br> [FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x40_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x40_P2.54mm_Vertical/)|||
+|[![FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X40](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X40/image_140.png)<br> FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X40](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/Sparkfun-Connectors/1X40/)|[![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x40_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x40_P2.54mm_Vertical/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x40_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x40_P2.54mm_Vertical/)|||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
   
 
-|![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male/)|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|||
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x40_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x40_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x40](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x40/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x40](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x40/)|||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -97,7 +97,7 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X40
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x40_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x40_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x40
 
 
 

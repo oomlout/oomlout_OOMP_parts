@@ -33,13 +33,13 @@ Contents
 ### Footprints
   
 
-|![----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/image_140.jpg)<br> [----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
   
 
-|![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01/image_140.png)<br> [SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01/)||||
+|[![SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
