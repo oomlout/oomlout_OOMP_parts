@@ -44,9 +44,9 @@ Contents
 Used 3 times.  
 Prevalance: (3\10986) 0.0273%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-ADAF-259-STAN-01<br> Adafruit_MCP73833_PCB <br>Used 3 times.<br>R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-259-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-ADAF-259-STAN-01<br>Adafruit_MCP73833_PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-259-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-259-STAN-01/)|[R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-259-STAN-01/)|
 
 ## Images
   

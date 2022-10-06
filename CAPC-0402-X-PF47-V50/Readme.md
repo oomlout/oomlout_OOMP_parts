@@ -42,9 +42,9 @@ Contents
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-11736-STAN-01<br> FT231X Breakout <br>Used 2 times.<br>C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11736-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-11736-STAN-01<br>FT231X Breakout](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11736-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11736-STAN-01/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11736-STAN-01/)|
 
 ## Images
   

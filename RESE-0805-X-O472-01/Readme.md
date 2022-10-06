@@ -50,10 +50,10 @@ Contents
 Used 4 times.  
 Prevalance: (4\10986) 0.0364%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-ADAF-2468-STAN-01<br> Adafruit FONA 800 Shield PCB <br>Used 2 times.<br>R3, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2468-STAN-01/)|
-|[PROJ-ADAF-292-STAN-01<br> Adafruit I2C SPI LCD Backpack PCB <br>Used 2 times.<br>R4, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-292-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-ADAF-2468-STAN-01<br>Adafruit FONA 800 Shield PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2468-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2468-STAN-01/)|[R3, R6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2468-STAN-01/)|
+|[PROJ-ADAF-292-STAN-01<br>Adafruit I2C SPI LCD Backpack PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-292-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-292-STAN-01/)|[R4, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-292-STAN-01/)|
 
 ## Images
   

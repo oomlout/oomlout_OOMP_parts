@@ -37,10 +37,10 @@ Contents
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-10617-STAN-01<br> Lipo Fuel Gauge <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|
-|[PROJ-SPAR-12081-STAN-01<br> USB Weather Board <br>Used 1 times.<br>R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-10617-STAN-01<br>Lipo Fuel Gauge](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10617-STAN-01/)|
+|[PROJ-SPAR-12081-STAN-01<br>USB Weather Board](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|[R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12081-STAN-01/)|
 
 ## Images
   

@@ -36,9 +36,9 @@ Contents
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-13155-STAN-01<br> SparkFun Stepoko <br>Used 6 times.<br>R4, R5, R12, R13, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-13155-STAN-01<br>SparkFun Stepoko](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|[6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|[R4, R5, R12, R13, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13155-STAN-01/)|
 
 ## Images
   

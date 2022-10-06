@@ -42,9 +42,9 @@ Contents
 Used 3 times.  
 Prevalance: (3\10986) 0.0273%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-14155-STAN-01<br> ESP32 Power Control Shield <br>Used 3 times.<br>C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-14155-STAN-01<br>ESP32 Power Control Shield](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|[C1, C2, C3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-14155-STAN-01/)|
 
 ## Images
   

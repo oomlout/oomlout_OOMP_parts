@@ -42,10 +42,10 @@ Contents
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-ADAF-4333-STAN-01<br> Adafruit Circuit Playground Bluefruit PCB <br>Used 2 times.<br>C12, C13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4333-STAN-01/)|
-|[PROJ-SPAR-11197-STAN-01<br> ATmega128RFA1 Dev <br>Used 4 times.<br>C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-ADAF-4333-STAN-01<br>Adafruit Circuit Playground Bluefruit PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4333-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4333-STAN-01/)|[C12, C13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4333-STAN-01/)|
+|[PROJ-SPAR-11197-STAN-01<br>ATmega128RFA1 Dev](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|[C5, C6, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11197-STAN-01/)|
 
 ## Images
   

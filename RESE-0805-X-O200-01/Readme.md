@@ -44,9 +44,9 @@ Contents
 Used 2 times.  
 Prevalance: (2\10986) 0.0182%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-ADAF-1381-STAN-01<br> Adafruit VS1053 Breakout PCB <br>Used 2 times.<br>R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1381-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-ADAF-1381-STAN-01<br>Adafruit VS1053 Breakout PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1381-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1381-STAN-01/)|[R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-1381-STAN-01/)|
 
 ## Images
   

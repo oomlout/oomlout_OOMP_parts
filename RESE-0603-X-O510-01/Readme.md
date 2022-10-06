@@ -36,11 +36,11 @@ Contents
 Used 41 times.  
 Prevalance: (41\10986) 0.3732%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-ADAF-4538-STAN-01<br> Adafruit NAU7802 PCB <br>Used 2 times.<br>R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4538-STAN-01/)|
-|[PROJ-ADAF-5201-STAN-01<br> Adafruit IS31FL3741 PCB <br>Used 13 times.<br>R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5201-STAN-01/)|
-|[PROJ-ADAF-5217-STAN-01<br> Adafruit EyeLights LED Glasses and Driver PCB <br>Used 26 times.<br>R2, R3, R5, R6, R9, R11, R12, R14, R15, R17, R18, R20, R21, R23, R24, R26, R28, R29, R31, R32, R34, R35, R37, R38, R40, R41](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5217-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-ADAF-4538-STAN-01<br>Adafruit NAU7802 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4538-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4538-STAN-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4538-STAN-01/)|
+|[PROJ-ADAF-5201-STAN-01<br>Adafruit IS31FL3741 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5201-STAN-01/)|[13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5201-STAN-01/)|[R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5201-STAN-01/)|
+|[PROJ-ADAF-5217-STAN-01<br>Adafruit EyeLights LED Glasses and Driver PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5217-STAN-01/)|[26](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5217-STAN-01/)|[R2, R3, R5, R6, R9, R11, R12, R14, R15, R17, R18, R20, R21, R23, R24, R26, R28, R29, R31, R32, R34, R35, R37, R38, R40, R41](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5217-STAN-01/)|
 
 ## Images
   

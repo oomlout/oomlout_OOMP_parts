@@ -42,9 +42,9 @@ Contents
 Used 8 times.  
 Prevalance: (8\10986) 0.0728%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-13279-STAN-01<br> Large Digit Driver <br>Used 8 times.<br>R1, R2, R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13279-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-13279-STAN-01<br>Large Digit Driver](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13279-STAN-01/)|[8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13279-STAN-01/)|[R1, R2, R3, R4, R5, R6, R7, R8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-13279-STAN-01/)|
 
 ## Images
   

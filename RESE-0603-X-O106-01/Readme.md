@@ -42,9 +42,9 @@ Contents
 Used 6 times.  
 Prevalance: (6\10986) 0.0546%  
 
-|OOMP Instances|
-| :---: |
-|[PROJ-SPAR-12650-STAN-01<br> AD8232 Heart Rate Monitor <br>Used 6 times.<br>R1, R2, R10, R11, R13, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12650-STAN-01/)|
+|Project|Occur-<br>rences|Identifiers|
+| :---: | :---: | :---: |
+|[PROJ-SPAR-12650-STAN-01<br>AD8232 Heart Rate Monitor](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12650-STAN-01/)|[6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12650-STAN-01/)|[R1, R2, R10, R11, R13, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-12650-STAN-01/)|
 
 ## Images
   
