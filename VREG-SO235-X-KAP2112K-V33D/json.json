@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO235"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KAP2112K"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V33D"
+        },
+        {
+            "name": "hexID",
+            "value": "V235AP2112K33"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-KAP2112K-V33D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO235-X-KAP2112K-V33D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v"
+        }
+    ]
+}

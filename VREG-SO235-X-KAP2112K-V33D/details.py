@@ -10,9 +10,9 @@ newPart = OOMP.oompItem()
 oType = "VREG"
 oSize = "SO235"
 oColor = "X"
-oDesc = "LP298XS"
+oDesc = "KAP2112K"
 oIndex = "V33D"
-hexId = "V235LP298XS33"
+hexId = "V235AP2112K33"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
