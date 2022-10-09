@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTSH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI02"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "hexID",
+            "value": "HSH2"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI02-SM"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI02-SM"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (1 mm) 2 Pin Header (SMD)"
+        }
+    ]
+}

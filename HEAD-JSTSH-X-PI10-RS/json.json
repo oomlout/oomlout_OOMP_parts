@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTSH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI10"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "hexID",
+            "value": "HSHR10"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI10-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI10-RS"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (1 mm) 10 Pin Header Right Angle (SMD)"
+        }
+    ]
+}

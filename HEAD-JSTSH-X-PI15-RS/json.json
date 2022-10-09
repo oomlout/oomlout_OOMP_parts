@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTSH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI15"
+        },
+        {
+            "name": "oompIndex",
+            "value": "RS"
+        },
+        {
+            "name": "hexID",
+            "value": "HSHR15"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI15-RS"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI15-RS"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (1 mm) 15 Pin Header Right Angle (SMD)"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [ICS345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)](#ics345--14-pin-smd-lga-digital-accelerometer-adxl345)
+* [SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](#sen345--14-pin-smd-lga-digital-accelerometer-adxl345-sensor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# ICS345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
+# SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
 
-- ID: ICIC-LG14-X-K345-01
-- Hex ID: ICS345
-- Name: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
-- Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
-- Long Link: [http://oom.lt/ICIC-LG14-X-K345-01](http://oom.lt/ICIC-LG14-X-K345-01)
-- Short Link: [http://oom.lt/ICS345](http://oom.lt/ICS345)
+- ID: SENS-LG14-X-K345-01
+- Hex ID: SEN345
+- Name: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
+- Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
+- Long Link: [http://oom.lt/SENS-LG14-X-K345-01](http://oom.lt/SENS-LG14-X-K345-01)
+- Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
 
 ## Datasheets
 
@@ -36,6 +36,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -46,19 +58,15 @@ Contents
 
 ## Tags
 
-- oompID: ICIC-LG14-X-K345-01
-- name: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345)
-- hexID: ICS345
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
-- oompType: ICIC
+- oompType: SENS
 - oompSize: LG14
 - oompColor: X
 - oompDesc: K345
 - oompIndex: 01
-- oompVersion: 40
-- ooDesignator: U1
+- hexID: SEN345
+- oompID: SENS-LG14-X-K345-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343
 
 
 

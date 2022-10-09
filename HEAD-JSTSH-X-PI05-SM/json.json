@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTSH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI05"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "hexID",
+            "value": "HSH5"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI05-SM"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI05-SM"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (1 mm) 5 Pin Header (SMD)"
+        }
+    ]
+}

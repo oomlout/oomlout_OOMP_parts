@@ -502,9 +502,10 @@ Contents
 ## RESA > Resistor Array
   
 
-|![SMD (1206-8) 1k Ohm (x4) Resistor Array](RESA-1268-X-O102X4-01/image_140.jpg)<br>[RESA-1268-X-O102X4-01 <br> SMD (1206-8) 1k Ohm (x4) Resistor Array](RESA-1268-X-O102X4-01/)<br>[RA1102](RESA-1268-X-O102X4-01/)|![SMD (1206-8) 10k Ohm (x4) Resistor Array](RESA-1268-X-O103X4-01/image_140.jpg)<br>[RESA-1268-X-O103X4-01 <br> SMD (1206-8) 10k Ohm (x4) Resistor Array](RESA-1268-X-O103X4-01/)<br>[RA1103](RESA-1268-X-O103X4-01/)|<br>[RESA-1268-X-O220X4-01 <br> SMD (1206-8) 22 Ohm (x4) Resistor Array](RESA-1268-X-O220X4-01/)<br>[RA1220](RESA-1268-X-O220X4-01/)|![SMD (1206-8) 4.7k Ohm (x4) Resistor Array](RESA-1268-X-O472X4-01/image_140.jpg)<br>[RESA-1268-X-O472X4-01 <br> SMD (1206-8) 4.7k Ohm (x4) Resistor Array](RESA-1268-X-O472X4-01/)<br>[RA1472](RESA-1268-X-O472X4-01/)|
+|<br>[RESA-06038-X-O102X4-01 <br> SMD (0603-8) 1k Ohm (x4) Resistor Array](RESA-06038-X-O102X4-01/)<br>[RA6102](RESA-06038-X-O102X4-01/)|<br>[RESA-06038-X-O103X4-01 <br> SMD (0603-8) 10k Ohm (x4) Resistor Array](RESA-06038-X-O103X4-01/)<br>[RA6103](RESA-06038-X-O103X4-01/)|<br>[RESA-06038-X-O220X4-01 <br> SMD (0603-8) 22 Ohm (x4) Resistor Array](RESA-06038-X-O220X4-01/)<br>[RA6220](RESA-06038-X-O220X4-01/)|<br>[RESA-06038-X-O222X4-01 <br> SMD (0603-8) Resistor Array](RESA-06038-X-O222X4-01/)<br>[RA6222](RESA-06038-X-O222X4-01/)|
 | :---: | :---: | :---: | :---: |
-|||||
+|<br>[RESA-06038-X-O472X4-01 <br> SMD (0603-8) 4.7k Ohm (x4) Resistor Array](RESA-06038-X-O472X4-01/)<br>[RA6472](RESA-06038-X-O472X4-01/)|![SMD (1206-8) 1k Ohm (x4) Resistor Array](RESA-12068-X-O102X4-01/image_140.jpg)<br>[RESA-12068-X-O102X4-01 <br> SMD (1206-8) 1k Ohm (x4) Resistor Array](RESA-12068-X-O102X4-01/)<br>[RA12102](RESA-12068-X-O102X4-01/)|![SMD (1206-8) 10k Ohm (x4) Resistor Array](RESA-12068-X-O103X4-01/image_140.jpg)<br>[RESA-12068-X-O103X4-01 <br> SMD (1206-8) 10k Ohm (x4) Resistor Array](RESA-12068-X-O103X4-01/)<br>[RA12103](RESA-12068-X-O103X4-01/)|<br>[RESA-12068-X-O220X4-01 <br> SMD (1206-8) 22 Ohm (x4) Resistor Array](RESA-12068-X-O220X4-01/)<br>[RA12220](RESA-12068-X-O220X4-01/)|
+|<br>[RESA-12068-X-O222X4-01 <br> SMD (1206-8) Resistor Array](RESA-12068-X-O222X4-01/)<br>[RA12222](RESA-12068-X-O222X4-01/)|![SMD (1206-8) 4.7k Ohm (x4) Resistor Array](RESA-12068-X-O472X4-01/image_140.jpg)<br>[RESA-12068-X-O472X4-01 <br> SMD (1206-8) 4.7k Ohm (x4) Resistor Array](RESA-12068-X-O472X4-01/)<br>[RA12472](RESA-12068-X-O472X4-01/)|||
 
 ## RESE > Resistor
   

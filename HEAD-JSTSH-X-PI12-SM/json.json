@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "JSTSH"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI12"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SM"
+        },
+        {
+            "name": "hexID",
+            "value": "HSH12"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI12-SM"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-JSTSH-X-PI12-SM"
+        },
+        {
+            "name": "name",
+            "value": "JST XH (1 mm) 12 Pin Header (SMD)"
+        }
+    ]
+}

@@ -29,6 +29,18 @@
             "value": "VREG-SO235-X-KAP2112K-V33D"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-3.3"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering"
+        },
+        {
             "name": "oompID",
             "value": "VREG-SO235-X-KAP2112K-V33D"
         },

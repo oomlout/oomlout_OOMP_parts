@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "06038"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O222X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "RA6222"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-06038-X-O222X4-01"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-06038-X-O222X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603-8) Resistor Array"
+        }
+    ]
+}

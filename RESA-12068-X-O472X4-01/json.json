@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "RESA"
+        },
+        {
+            "name": "oompSize",
+            "value": "12068"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O472X4"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "hexID",
+            "value": "RA12472"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-12068-X-O472X4-01"
+        },
+        {
+            "name": "oompID",
+            "value": "RESA-12068-X-O472X4-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206-8) 4.7k Ohm (x4) Resistor Array"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+
+
+
+
+Contents
+========
+
+* [HSHR19 > JST XH (1 mm) 19 Pin Header Right Angle (SMD)](#hshr19--jst-xh-1-mm-19-pin-header-right-angle-smd)
+	* [Labels](#labels)
+	* [EDA](#eda)
+	* [Images](#images)
+	* [Tags](#tags)
+
+# HSHR19 > JST XH (1 mm) 19 Pin Header Right Angle (SMD)
+
+- ID: HEAD-JSTSH-X-PI19-RS
+- Hex ID: HSHR19
+- Name: JST XH (1 mm) 19 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 19 Pin Header Right Angle (SMD)
+- Long Link: [http://oom.lt/HEAD-JSTSH-X-PI19-RS](http://oom.lt/HEAD-JSTSH-X-PI19-RS)
+- Short Link: [http://oom.lt/HSHR19](http://oom.lt/HSHR19)
+
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
+## EDA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
+## Tags
+
+- oompType: HEAD
+- oompSize: JSTSH
+- oompColor: X
+- oompDesc: PI19
+- oompIndex: RS
+- hexID: HSHR19
+- oompID: HEAD-JSTSH-X-PI19-RS

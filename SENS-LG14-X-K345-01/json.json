@@ -1,32 +1,8 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "ICIC-LG14-X-K345-01"
-        },
-        {
-            "name": "name",
-            "value": "14 Pin SMD (LGA) Digital Accelerometer (ADXL345)"
-        },
-        {
-            "name": "hexID",
-            "value": "ICS345"
-        },
-        {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
-            "name": "oompClass",
-            "value": "Surface Mount"
-        },
-        {
-            "name": "oompClassCode",
-            "value": "SMDS"
-        },
-        {
             "name": "oompType",
-            "value": "ICIC"
+            "value": "SENS"
         },
         {
             "name": "oompSize",
@@ -45,20 +21,28 @@
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "40"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "U1"
+            "name": "hexID",
+            "value": "SEN345"
         },
         {
             "name": "oompID",
-            "value": "ICIC-LG14-X-K345-01"
+            "value": "SENS-LG14-X-K345-01"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343"
+        },
+        {
+            "name": "oompID",
+            "value": "SENS-LG14-X-K345-01"
         },
         {
             "name": "name",
-            "value": "14 Pin SMD (LGA) Digital Accelerometer (ADXL345)"
+            "value": "14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor"
         }
     ]
 }
