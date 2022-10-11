@@ -6,7 +6,9 @@ Contents
 ========
 
 * [RA6102 > SMD (0603-8) 1k Ohm (x4) Resistor Array](#ra6102--smd-0603-8-1k-ohm-x4-resistor-array)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # RA6102 > SMD (0603-8) 1k Ohm (x4) Resistor Array
@@ -18,7 +20,23 @@ Contents
 - Long Link: [http://oom.lt/RESA-06038-X-O102X4-01](http://oom.lt/RESA-06038-X-O102X4-01)
 - Short Link: [http://oom.lt/RA6102](http://oom.lt/RA6102)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
 ## EDA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
