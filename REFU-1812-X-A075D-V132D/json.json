@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1812"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A075D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V132D"
+        },
+        {
+            "name": "hexID",
+            "value": "RF18075D"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A075D-V132D"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A075D-V132D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1812) 750 mA Resetable Fuse 13.2v"
+        }
+    ]
+}

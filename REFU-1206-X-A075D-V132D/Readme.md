@@ -6,7 +6,6 @@ Contents
 ========
 
 * [RF1175D > SMD (1206) 750 mA Resetable Fuse 13.2v](#rf1175d--smd-1206-750-ma-resetable-fuse-132v)
-	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -21,10 +20,6 @@ Contents
 - Description: SMD (1206) 750 mA Resetable Fuse 13.2v
 - Long Link: [http://oom.lt/REFU-1206-X-A075D-V132D](http://oom.lt/REFU-1206-X-A075D-V132D)
 - Short Link: [http://oom.lt/RF1175D](http://oom.lt/RF1175D)
-
-## Datasheets
-
-- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   

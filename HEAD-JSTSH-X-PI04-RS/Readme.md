@@ -6,6 +6,7 @@ Contents
 ========
 
 * [HSHR4 > JST XH (1 mm) 4 Pin Header Right Angle (SMD)](#hshr4--jst-xh-1-mm-4-pin-header-right-angle-smd)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: JST XH (1 mm) 4 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI04-RS](http://oom.lt/HEAD-JSTSH-X-PI04-RS)
 - Short Link: [http://oom.lt/HSHR4](http://oom.lt/HSHR4)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   

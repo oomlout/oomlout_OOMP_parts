@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "REFU"
+        },
+        {
+            "name": "oompSize",
+            "value": "1812"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "A15D"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V6"
+        },
+        {
+            "name": "hexID",
+            "value": "RF1815D"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A15D-V6"
+        },
+        {
+            "name": "oompID",
+            "value": "REFU-1812-X-A15D-V6"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1812) 1.5 A Resetable Fuse 6v"
+        }
+    ]
+}
