@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLD1117"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V12D"
+        },
+        {
+            "name": "hexID",
+            "value": "VR1117812"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO8-X-KLD1117-V12D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO8-X-KLD1117-V12D"
+        },
+        {
+            "name": "name",
+            "value": "SO-8 LD1117 Voltage Regulator 1.2 v"
+        }
+    ]
+}

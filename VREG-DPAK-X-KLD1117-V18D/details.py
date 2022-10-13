@@ -6,12 +6,12 @@ import OOMPtags
 
 newPart = OOMP.oompItem()
 
-oType = "TYPEZZ"
-oSize = "SIZEZZ"
-oColor = "COLORZZ"
-oDesc = "DESCZZ"
-oIndex = "INDEXZZ"
-hexId = "HEXZZ"
+oType = "VREG"
+oSize = "DPAK"
+oColor = "X"
+oDesc = "KLD1117"
+oIndex = "V18D"
+hexId = "VR1117D18"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)
@@ -19,6 +19,8 @@ newPart.addTag('oompColor',oColor)
 newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+
 
 ######  Common
 newPart.addTag('hexID',hexId)

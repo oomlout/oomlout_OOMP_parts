@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO223"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLD1117"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V18D"
+        },
+        {
+            "name": "hexID",
+            "value": "VR111722318"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO223-X-KLD1117-V18D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO223-X-KLD1117-V18D"
+        },
+        {
+            "name": "name",
+            "value": "SMD (SOT-223) LD1117 Voltage Regulator 1.8 v"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "DPAK"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLD1117"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V25D"
+        },
+        {
+            "name": "hexID",
+            "value": "VR1117D25"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-DPAK-X-KLD1117-V25D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-DPAK-X-KLD1117-V25D"
+        },
+        {
+            "name": "name",
+            "value": "DPAK LD1117 Voltage Regulator 2.5 v"
+        }
+    ]
+}

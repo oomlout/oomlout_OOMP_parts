@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "SO8"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLD1117"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V5"
+        },
+        {
+            "name": "hexID",
+            "value": "VR111785"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO8-X-KLD1117-V5"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-SO8-X-KLD1117-V5"
+        },
+        {
+            "name": "name",
+            "value": "SO-8 LD1117 Voltage Regulator 5v"
+        }
+    ]
+}

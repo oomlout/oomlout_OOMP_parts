@@ -20,6 +20,8 @@ newPart.addTag('oompDesc',oDesc)
 newPart.addTag('oompIndex',oIndex)
 oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
 
+
+
 ######  Common
 newPart.addTag('hexID',hexId)
 

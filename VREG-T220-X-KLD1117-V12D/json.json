@@ -1,0 +1,40 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "VREG"
+        },
+        {
+            "name": "oompSize",
+            "value": "T220"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "KLD1117"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V12D"
+        },
+        {
+            "name": "hexID",
+            "value": "VR111722012"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T220-X-KLD1117-V12D"
+        },
+        {
+            "name": "oompID",
+            "value": "VREG-T220-X-KLD1117-V12D"
+        },
+        {
+            "name": "name",
+            "value": "TO-220 LD1117 Voltage Regulator 1.2 v"
+        }
+    ]
+}
