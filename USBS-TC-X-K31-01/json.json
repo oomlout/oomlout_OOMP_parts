@@ -1,0 +1,56 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "USBS"
+        },
+        {
+            "name": "oompSize",
+            "value": "TC"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "K31"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "companyCode": "C-LCSC",
+                "companyName": "LCSC",
+                "partNumber": "C165948"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "companyCode": "C-KHRO",
+                "companyName": "Korean Hroparts Elec",
+                "partNumber": "TYPE-C-31-M-12"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "USCK31"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-TC-X-K31-01"
+        },
+        {
+            "name": "oompID",
+            "value": "USBS-TC-X-K31-01"
+        },
+        {
+            "name": "name",
+            "value": "Type C TYPE-C-31-M-12 USB Socket"
+        }
+    ]
+}

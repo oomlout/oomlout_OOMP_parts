@@ -678,7 +678,8 @@ Contents
 
 |![Micro SMD USB Socket](USBS-MC-X-SMDS-01/image_140.jpg)<br>[USBS-MC-X-SMDS-01 <br> Micro SMD USB Socket](USBS-MC-X-SMDS-01/)<br>[USM](USBS-MC-X-SMDS-01/)|<br>[USBS-MC-X-SMDS-02 <br> Micro SMD USB Socket](USBS-MC-X-SMDS-02/)<br>[USM2](USBS-MC-X-SMDS-02/)|<br>[USBS-MC-X-SMDS-03 <br> Micro SMD USB Socket](USBS-MC-X-SMDS-03/)<br>[USM3](USBS-MC-X-SMDS-03/)|<br>[USBS-MC-X-SMDS-04 <br> Micro SMD USB Socket](USBS-MC-X-SMDS-04/)<br>[USM4](USBS-MC-X-SMDS-04/)|
 | :---: | :---: | :---: | :---: |
-|![Mini SMD Metal USB Socket](USBS-MN-M-SMDS-01/image_140.jpg)<br>[USBS-MN-M-SMDS-01 <br> Mini SMD Metal USB Socket](USBS-MN-M-SMDS-01/)<br>[USN](USBS-MN-M-SMDS-01/)|![Mini SMD USB Socket](USBS-MN-M-SMDS-02/image_140.jpg)<br>[USBS-MN-M-SMDS-02 <br> Mini SMD USB Socket](USBS-MN-M-SMDS-02/)<br>[USN2](USBS-MN-M-SMDS-02/)|<br>[USBS-TB-X-THTH-01 <br> Type B Through Hole USB Socket](USBS-TB-X-THTH-01/)<br>[UTB](USBS-TB-X-THTH-01/)||
+|![Mini SMD Metal USB Socket](USBS-MN-M-SMDS-01/image_140.jpg)<br>[USBS-MN-M-SMDS-01 <br> Mini SMD Metal USB Socket](USBS-MN-M-SMDS-01/)<br>[USN](USBS-MN-M-SMDS-01/)|![Mini SMD USB Socket](USBS-MN-M-SMDS-02/image_140.jpg)<br>[USBS-MN-M-SMDS-02 <br> Mini SMD USB Socket](USBS-MN-M-SMDS-02/)<br>[USN2](USBS-MN-M-SMDS-02/)|<br>[USBS-TB-X-THTH-01 <br> Type B Through Hole USB Socket](USBS-TB-X-THTH-01/)<br>[UTB](USBS-TB-X-THTH-01/)|<br>[USBS-TC-X-K31-01 <br> Type C TYPE-C-31-M-12 USB Socket](USBS-TC-X-K31-01/)<br>[USCK31](USBS-TC-X-K31-01/)|
+|||||
 
 ## UFLS > UFL Socket
   
