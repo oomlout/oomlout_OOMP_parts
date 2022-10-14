@@ -77,7 +77,8 @@ Contents
 	* [VREG > Voltage Regulator](#vreg--voltage-regulator)
 	* [WIRS > Stranded Wire](#wirs--stranded-wire)
 	* [XTAL > Crystal](#xtal--crystal)
-
+  
+Navigation  
 # Parts
 
 ## ANTE > Antenna
