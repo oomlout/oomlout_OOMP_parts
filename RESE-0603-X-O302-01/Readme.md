@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6302 > SMD (0603) 3k Ohm Resistor](#r6302--smd-0603-3k-ohm-resistor)
+* [RESE-6O302-01 > SMD (0603) 3k Ohm Resistor](#rese-6o302-01--smd-0603-3k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6302 > SMD (0603) 3k Ohm Resistor
+# RESE-6O302-01 > SMD (0603) 3k Ohm Resistor
 
 - ID: RESE-0603-X-O302-01
-- Hex ID: R6302
+- Hex ID: RESE-6O302-01
 - Name: SMD (0603) 3k Ohm Resistor
 - Description: SMD (0603) 3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O302-01](http://oom.lt/RESE-0603-X-O302-01)
-- Short Link: [http://oom.lt/R6302](http://oom.lt/R6302)
+- Short Link: [http://oom.lt/RESE-6O302-01](http://oom.lt/RESE-6O302-01)
 
 ## Labels
   
@@ -40,22 +40,13 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O302-01
-- name: SMD (0603) 3k Ohm Resistor
-- hexID: R6302
-- ooPackageMarking: 302
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O302
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4211', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 3k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4211'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3001T5E'}
+- hexID: RESE-6O302-01
+- oompID: RESE-0603-X-O302-01

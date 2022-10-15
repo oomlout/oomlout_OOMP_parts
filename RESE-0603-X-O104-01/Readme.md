@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6104 > SMD (0603) 100k Ohm Resistor](#r6104--smd-0603-100k-ohm-resistor)
+* [RESE-6O104-01 > SMD (0603) 100k Ohm Resistor](#rese-6o104-01--smd-0603-100k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6104 > SMD (0603) 100k Ohm Resistor
+# RESE-6O104-01 > SMD (0603) 100k Ohm Resistor
 
 - ID: RESE-0603-X-O104-01
-- Hex ID: R6104
+- Hex ID: RESE-6O104-01
 - Name: SMD (0603) 100k Ohm Resistor
 - Description: SMD (0603) 100k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O104-01](http://oom.lt/RESE-0603-X-O104-01)
-- Short Link: [http://oom.lt/R6104](http://oom.lt/R6104)
+- Short Link: [http://oom.lt/RESE-6O104-01](http://oom.lt/RESE-6O104-01)
 
 ## Datasheets
 
@@ -46,26 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O104-01
-- name: SMD (0603) 100k Ohm Resistor
-- hexID: R6104
-- ooPackageMarking: 104
-- oompDesc: O104
-- oompSort: RESE0603O104
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O104
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25803', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 100k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25803'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1003T5E'}
+- hexID: RESE-6O104-01
+- oompID: RESE-0603-X-O104-01
 
 
 

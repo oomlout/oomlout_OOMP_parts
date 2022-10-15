@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [R85103 > SMD (0805) 10k Ohm Resistor](#r85103--smd-0805-10k-ohm-resistor)
+* [RESE-8O103-01 > SMD (0805) 10k Ohm Resistor](#rese-8o103-01--smd-0805-10k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85103 > SMD (0805) 10k Ohm Resistor
+# RESE-8O103-01 > SMD (0805) 10k Ohm Resistor
 
 - ID: RESE-0805-X-O103-01
-- Hex ID: R85103
+- Hex ID: RESE-8O103-01
 - Name: SMD (0805) 10k Ohm Resistor
 - Description: SMD (0805) 10k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O103-01](http://oom.lt/RESE-0805-X-O103-01)
-- Short Link: [http://oom.lt/R85103](http://oom.lt/R85103)
+- Short Link: [http://oom.lt/RESE-8O103-01](http://oom.lt/RESE-8O103-01)
 
 ## Datasheets
 
@@ -184,25 +184,16 @@ Prevalance: (433\10986) 3.9414%
 
 ## Tags
 
-- oompID: RESE-0805-X-O103-01
-- name: SMD (0805) 10k Ohm Resistor
-- ooPackageMarking: 103
-- hexID: R85103
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
 - oompDesc: O103
 - oompIndex: 01
-- oompVersion: 40
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17414', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 10k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17414'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1002T5E'}
+- hexID: RESE-8O103-01
+- oompID: RESE-0805-X-O103-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1032-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1032-STAN-01', 'ID': 'R3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1032-STAN-01', 'ID': 'R4'}

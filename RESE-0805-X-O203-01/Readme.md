@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R85203 > SMD (0805) 20k Ohm Resistor](#r85203--smd-0805-20k-ohm-resistor)
+* [RESE-8O203-01 > SMD (0805) 20k Ohm Resistor](#rese-8o203-01--smd-0805-20k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85203 > SMD (0805) 20k Ohm Resistor
+# RESE-8O203-01 > SMD (0805) 20k Ohm Resistor
 
 - ID: RESE-0805-X-O203-01
-- Hex ID: R85203
+- Hex ID: RESE-8O203-01
 - Name: SMD (0805) 20k Ohm Resistor
 - Description: SMD (0805) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O203-01](http://oom.lt/RESE-0805-X-O203-01)
-- Short Link: [http://oom.lt/R85203](http://oom.lt/R85203)
+- Short Link: [http://oom.lt/RESE-8O203-01](http://oom.lt/RESE-8O203-01)
 
 ## Labels
   
@@ -62,25 +62,16 @@ Prevalance: (14\10986) 0.1274%
 
 ## Tags
 
-- oompID: RESE-0805-X-O203-01
-- name: SMD (0805) 20k Ohm Resistor
-- hexID: R85203
-- ooPackageMarking: 203
-- oompDesc: O203
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O203
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4328', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 20k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4328'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2002T5E'}
+- hexID: RESE-8O203-01
+- oompID: RESE-0805-X-O203-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1580-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R6'}

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6564 > SMD (0603) 560k Ohm Resistor](#r6564--smd-0603-560k-ohm-resistor)
+* [RESE-6O564-01 > SMD (0603) 560k Ohm Resistor](#rese-6o564-01--smd-0603-560k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6564 > SMD (0603) 560k Ohm Resistor
+# RESE-6O564-01 > SMD (0603) 560k Ohm Resistor
 
 - ID: RESE-0603-X-O564-01
-- Hex ID: R6564
+- Hex ID: RESE-6O564-01
 - Name: SMD (0603) 560k Ohm Resistor
 - Description: SMD (0603) 560k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O564-01](http://oom.lt/RESE-0603-X-O564-01)
-- Short Link: [http://oom.lt/R6564](http://oom.lt/R6564)
+- Short Link: [http://oom.lt/RESE-6O564-01](http://oom.lt/RESE-6O564-01)
 
 ## Datasheets
 
@@ -46,26 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O564-01
-- name: SMD (0603) 560k Ohm Resistor
-- hexID: R6564
-- ooPackageMarking: 564
-- oompDesc: O564
-- oompSort: RESE0603O564
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O564
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23203', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 560k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23203'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF5603T5E'}
+- hexID: RESE-6O564-01
+- oompID: RESE-0603-X-O564-01
 
 
 

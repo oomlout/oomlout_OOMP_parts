@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6473 > SMD (0603) 47k Ohm Resistor](#r6473--smd-0603-47k-ohm-resistor)
+* [RESE-6O473-01 > SMD (0603) 47k Ohm Resistor](#rese-6o473-01--smd-0603-47k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6473 > SMD (0603) 47k Ohm Resistor
+# RESE-6O473-01 > SMD (0603) 47k Ohm Resistor
 
 - ID: RESE-0603-X-O473-01
-- Hex ID: R6473
+- Hex ID: RESE-6O473-01
 - Name: SMD (0603) 47k Ohm Resistor
 - Description: SMD (0603) 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O473-01](http://oom.lt/RESE-0603-X-O473-01)
-- Short Link: [http://oom.lt/R6473](http://oom.lt/R6473)
+- Short Link: [http://oom.lt/RESE-6O473-01](http://oom.lt/RESE-6O473-01)
 
 ## Datasheets
 
@@ -80,26 +80,16 @@ Prevalance: (41\10986) 0.3732%
 
 ## Tags
 
-- oompID: RESE-0603-X-O473-01
-- name: SMD (0603) 47k Ohm Resistor
-- hexID: R6473
-- ooPackageMarking: 473
-- oompDesc: O473
-- oompSort: RESE0603O473
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O473
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25819', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 47k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25819'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF4702T5E'}
+- hexID: RESE-6O473-01
+- oompID: RESE-0603-X-O473-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R6'}

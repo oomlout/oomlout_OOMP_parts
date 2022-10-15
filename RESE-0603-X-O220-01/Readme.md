@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6220 > SMD (0603) 22 Ohm Resistor](#r6220--smd-0603-22-ohm-resistor)
+* [RESE-6O220-01 > SMD (0603) 22 Ohm Resistor](#rese-6o220-01--smd-0603-22-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6220 > SMD (0603) 22 Ohm Resistor
+# RESE-6O220-01 > SMD (0603) 22 Ohm Resistor
 
 - ID: RESE-0603-X-O220-01
-- Hex ID: R6220
+- Hex ID: RESE-6O220-01
 - Name: SMD (0603) 22 Ohm Resistor
 - Description: SMD (0603) 22 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O220-01](http://oom.lt/RESE-0603-X-O220-01)
-- Short Link: [http://oom.lt/R6220](http://oom.lt/R6220)
+- Short Link: [http://oom.lt/RESE-6O220-01](http://oom.lt/RESE-6O220-01)
 
 ## Datasheets
 
@@ -80,26 +80,16 @@ Prevalance: (57\10986) 0.5188%
 
 ## Tags
 
-- oompID: RESE-0603-X-O220-01
-- name: SMD (0603) 22 Ohm Resistor
-- hexID: R6220
-- ooPackageMarking: 220
-- oompDesc: O220
-- oompSort: RESE0603O220
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O220
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23345', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 22?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23345'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF220JT5E'}
+- hexID: RESE-6O220-01
+- oompID: RESE-0603-X-O220-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1312-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1312-STAN-01', 'ID': 'R3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2771-STAN-01', 'ID': 'R4'}

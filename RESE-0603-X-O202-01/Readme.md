@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6202 > SMD (0603) 2k Ohm Resistor](#r6202--smd-0603-2k-ohm-resistor)
+* [RESE-6O202-01 > SMD (0603) 2k Ohm Resistor](#rese-6o202-01--smd-0603-2k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6202 > SMD (0603) 2k Ohm Resistor
+# RESE-6O202-01 > SMD (0603) 2k Ohm Resistor
 
 - ID: RESE-0603-X-O202-01
-- Hex ID: R6202
+- Hex ID: RESE-6O202-01
 - Name: SMD (0603) 2k Ohm Resistor
 - Description: SMD (0603) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O202-01](http://oom.lt/RESE-0603-X-O202-01)
-- Short Link: [http://oom.lt/R6202](http://oom.lt/R6202)
+- Short Link: [http://oom.lt/RESE-6O202-01](http://oom.lt/RESE-6O202-01)
 
 ## Datasheets
 
@@ -58,26 +58,16 @@ Prevalance: (3\10986) 0.0273%
 
 ## Tags
 
-- oompID: RESE-0603-X-O202-01
-- name: SMD (0603) 2k Ohm Resistor
-- hexID: R6202
-- ooPackageMarking: 202
-- oompDesc: O202
-- oompSort: RESE0603O202
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O202
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22975', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 2k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22975'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2001T5E'}
+- hexID: RESE-6O202-01
+- oompID: RESE-0603-X-O202-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10101-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14063-STAN-01', 'ID': 'R3'}

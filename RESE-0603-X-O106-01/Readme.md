@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6106 > SMD (0603) 10M Ohm Resistor](#r6106--smd-0603-10m-ohm-resistor)
+* [RESE-6O106-01 > SMD (0603) 10M Ohm Resistor](#rese-6o106-01--smd-0603-10m-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6106 > SMD (0603) 10M Ohm Resistor
+# RESE-6O106-01 > SMD (0603) 10M Ohm Resistor
 
 - ID: RESE-0603-X-O106-01
-- Hex ID: R6106
+- Hex ID: RESE-6O106-01
 - Name: SMD (0603) 10M Ohm Resistor
 - Description: SMD (0603) 10M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O106-01](http://oom.lt/RESE-0603-X-O106-01)
-- Short Link: [http://oom.lt/R6106](http://oom.lt/R6106)
+- Short Link: [http://oom.lt/RESE-6O106-01](http://oom.lt/RESE-6O106-01)
 
 ## Datasheets
 
@@ -56,25 +56,16 @@ Prevalance: (6\10986) 0.0546%
 
 ## Tags
 
-- oompID: RESE-0603-X-O106-01
-- name: SMD (0603) 10M Ohm Resistor
-- hexID: R6106
-- ooPackageMarking: 106
-- oompDesc: O106
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O106
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C7250', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 10M?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C7250'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1005T5E'}
+- hexID: RESE-6O106-01
+- oompID: RESE-0603-X-O106-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12650-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12650-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12650-STAN-01', 'ID': 'R10'}

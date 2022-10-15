@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R85303 > SMD (0805) 30k Ohm Resistor](#r85303--smd-0805-30k-ohm-resistor)
+* [RESE-8O303-01 > SMD (0805) 30k Ohm Resistor](#rese-8o303-01--smd-0805-30k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85303 > SMD (0805) 30k Ohm Resistor
+# RESE-8O303-01 > SMD (0805) 30k Ohm Resistor
 
 - ID: RESE-0805-X-O303-01
-- Hex ID: R85303
+- Hex ID: RESE-8O303-01
 - Name: SMD (0805) 30k Ohm Resistor
 - Description: SMD (0805) 30k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O303-01](http://oom.lt/RESE-0805-X-O303-01)
-- Short Link: [http://oom.lt/R85303](http://oom.lt/R85303)
+- Short Link: [http://oom.lt/RESE-8O303-01](http://oom.lt/RESE-8O303-01)
 
 ## Labels
   
@@ -48,25 +48,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O303-01
-- name: SMD (0805) 30k Ohm Resistor
-- hexID: R85303
-- ooPackageMarking: 303
-- oompDesc: O303
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O303
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17621', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 30k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17621'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F3002T5E'}
+- hexID: RESE-8O303-01
+- oompID: RESE-0805-X-O303-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3190-STAN-01', 'ID': 'R1'}
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6123 > SMD (0603) 12k Ohm Resistor](#r6123--smd-0603-12k-ohm-resistor)
+* [RESE-6O123-01 > SMD (0603) 12k Ohm Resistor](#rese-6o123-01--smd-0603-12k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6123 > SMD (0603) 12k Ohm Resistor
+# RESE-6O123-01 > SMD (0603) 12k Ohm Resistor
 
 - ID: RESE-0603-X-O123-01
-- Hex ID: R6123
+- Hex ID: RESE-6O123-01
 - Name: SMD (0603) 12k Ohm Resistor
 - Description: SMD (0603) 12k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O123-01](http://oom.lt/RESE-0603-X-O123-01)
-- Short Link: [http://oom.lt/R6123](http://oom.lt/R6123)
+- Short Link: [http://oom.lt/RESE-6O123-01](http://oom.lt/RESE-6O123-01)
 
 ## Labels
   
@@ -53,25 +53,16 @@ Prevalance: (7\10986) 0.0637%
 
 ## Tags
 
-- oompID: RESE-0603-X-O123-01
-- name: SMD (0603) 12k Ohm Resistor
-- hexID: R6123
-- ooPackageMarking: 123
-- oompDesc: O123
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O123
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22790', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 12k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22790'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1202T5E'}
+- hexID: RESE-6O123-01
+- oompID: RESE-0603-X-O123-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R10'}

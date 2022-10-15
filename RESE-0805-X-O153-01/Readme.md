@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [R85153 > SMD (0805) 15k Ohm Resistor](#r85153--smd-0805-15k-ohm-resistor)
+* [RESE-8O153-01 > SMD (0805) 15k Ohm Resistor](#rese-8o153-01--smd-0805-15k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85153 > SMD (0805) 15k Ohm Resistor
+# RESE-8O153-01 > SMD (0805) 15k Ohm Resistor
 
 - ID: RESE-0805-X-O153-01
-- Hex ID: R85153
+- Hex ID: RESE-8O153-01
 - Name: SMD (0805) 15k Ohm Resistor
 - Description: SMD (0805) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O153-01](http://oom.lt/RESE-0805-X-O153-01)
-- Short Link: [http://oom.lt/R85153](http://oom.lt/R85153)
+- Short Link: [http://oom.lt/RESE-8O153-01](http://oom.lt/RESE-8O153-01)
 
 ## Datasheets
 
@@ -53,25 +53,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O153-01
-- hexID: R85153
-- ooPackageMarking: 153
-- oompDesc: O153
-- name: SMD (0805) 15k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O153
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17475', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 15k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17475'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1502T5E'}
+- hexID: RESE-8O153-01
+- oompID: RESE-0805-X-O153-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R11'}
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

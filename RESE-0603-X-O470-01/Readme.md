@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6470 > SMD (0603) 47 Ohm Resistor](#r6470--smd-0603-47-ohm-resistor)
+* [RESE-6O470-01 > SMD (0603) 47 Ohm Resistor](#rese-6o470-01--smd-0603-47-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6470 > SMD (0603) 47 Ohm Resistor
+# RESE-6O470-01 > SMD (0603) 47 Ohm Resistor
 
 - ID: RESE-0603-X-O470-01
-- Hex ID: R6470
+- Hex ID: RESE-6O470-01
 - Name: SMD (0603) 47 Ohm Resistor
 - Description: SMD (0603) 47 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O470-01](http://oom.lt/RESE-0603-X-O470-01)
-- Short Link: [http://oom.lt/R6470](http://oom.lt/R6470)
+- Short Link: [http://oom.lt/RESE-6O470-01](http://oom.lt/RESE-6O470-01)
 
 ## Labels
   
@@ -40,22 +40,13 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O470-01
-- name: SMD (0603) 47 Ohm Resistor
-- hexID: R6470
-- ooPackageMarking: 470
-- oompDesc: O470
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O470
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23182', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 47?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23182'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF470JT5E'}
+- hexID: RESE-6O470-01
+- oompID: RESE-0603-X-O470-01

@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R85330 > SMD (0805) 33 Ohm Resistor](#r85330--smd-0805-33-ohm-resistor)
+* [RESE-8O330-01 > SMD (0805) 33 Ohm Resistor](#rese-8o330-01--smd-0805-33-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85330 > SMD (0805) 33 Ohm Resistor
+# RESE-8O330-01 > SMD (0805) 33 Ohm Resistor
 
 - ID: RESE-0805-X-O330-01
-- Hex ID: R85330
+- Hex ID: RESE-8O330-01
 - Name: SMD (0805) 33 Ohm Resistor
 - Description: SMD (0805) 33 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O330-01](http://oom.lt/RESE-0805-X-O330-01)
-- Short Link: [http://oom.lt/R85330](http://oom.lt/R85330)
+- Short Link: [http://oom.lt/RESE-8O330-01](http://oom.lt/RESE-8O330-01)
 
 ## Labels
   
@@ -48,25 +48,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O330-01
-- name: SMD (0805) 33 Ohm Resistor
-- hexID: R85330
-- ooPackageMarking: 330
-- oompDesc: O330
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O330
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17634', 'desc': '125mW Thick Film Resistors 150V ??1% ??200ppm/?? -55??~+155?? 33?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17634'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F330JT5E'}
+- hexID: RESE-8O330-01
+- oompID: RESE-0805-X-O330-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW

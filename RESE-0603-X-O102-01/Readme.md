@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6102 > SMD (0603) 1k Ohm Resistor](#r6102--smd-0603-1k-ohm-resistor)
+* [RESE-6O102-01 > SMD (0603) 1k Ohm Resistor](#rese-6o102-01--smd-0603-1k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6102 > SMD (0603) 1k Ohm Resistor
+# RESE-6O102-01 > SMD (0603) 1k Ohm Resistor
 
 - ID: RESE-0603-X-O102-01
-- Hex ID: R6102
+- Hex ID: RESE-6O102-01
 - Name: SMD (0603) 1k Ohm Resistor
 - Description: SMD (0603) 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O102-01](http://oom.lt/RESE-0603-X-O102-01)
-- Short Link: [http://oom.lt/R6102](http://oom.lt/R6102)
+- Short Link: [http://oom.lt/RESE-6O102-01](http://oom.lt/RESE-6O102-01)
 
 ## Datasheets
 
@@ -199,26 +199,16 @@ Prevalance: (347\10986) 3.1586%
 
 ## Tags
 
-- oompID: RESE-0603-X-O102-01
-- name: SMD (0603) 1k Ohm Resistor
-- hexID: R6102
-- ooPackageMarking: 102
-- oompDesc: O102
-- oompSort: RESE0603O102
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O102
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C21190', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 1k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C21190'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1001T5E'}
+- hexID: RESE-6O102-01
+- oompID: RESE-0603-X-O102-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1312-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1982-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R3'}

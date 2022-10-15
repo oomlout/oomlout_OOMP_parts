@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6750 > SMD (0603) 75 Ohm Resistor](#r6750--smd-0603-75-ohm-resistor)
+* [RESE-6O750-01 > SMD (0603) 75 Ohm Resistor](#rese-6o750-01--smd-0603-75-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6750 > SMD (0603) 75 Ohm Resistor
+# RESE-6O750-01 > SMD (0603) 75 Ohm Resistor
 
 - ID: RESE-0603-X-O750-01
-- Hex ID: R6750
+- Hex ID: RESE-6O750-01
 - Name: SMD (0603) 75 Ohm Resistor
 - Description: SMD (0603) 75 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O750-01](http://oom.lt/RESE-0603-X-O750-01)
-- Short Link: [http://oom.lt/R6750](http://oom.lt/R6750)
+- Short Link: [http://oom.lt/RESE-6O750-01](http://oom.lt/RESE-6O750-01)
 
 ## Datasheets
 
@@ -46,29 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O750-01
-- name: SMD (0603) 75 Ohm Resistor
-- hexID: R6750
-- ooPackageMarking: 750
-- oompDesc: O750
-- oompSort: 06030000075
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O750
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- ooTolerance: 5%
-- ooMaterial: Carbon Film
-- ooMaxVoltage: 50 V
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4275', 'desc': '100mW Thick Film Resistors 75V ??1% ??200ppm/?? -55??~+155?? 75?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4275'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF750JT5E'}
+- hexID: RESE-6O750-01
+- oompID: RESE-0603-X-O750-01
 
 
 

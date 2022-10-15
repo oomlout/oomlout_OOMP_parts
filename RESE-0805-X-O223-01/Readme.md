@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85223 > SMD (0805) 22k Ohm Resistor](#r85223--smd-0805-22k-ohm-resistor)
+* [RESE-8O223-01 > SMD (0805) 22k Ohm Resistor](#rese-8o223-01--smd-0805-22k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85223 > SMD (0805) 22k Ohm Resistor
+# RESE-8O223-01 > SMD (0805) 22k Ohm Resistor
 
 - ID: RESE-0805-X-O223-01
-- Hex ID: R85223
+- Hex ID: RESE-8O223-01
 - Name: SMD (0805) 22k Ohm Resistor
 - Description: SMD (0805) 22k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O223-01](http://oom.lt/RESE-0805-X-O223-01)
-- Short Link: [http://oom.lt/R85223](http://oom.lt/R85223)
+- Short Link: [http://oom.lt/RESE-8O223-01](http://oom.lt/RESE-8O223-01)
 
 ## Datasheets
 
@@ -65,25 +65,16 @@ Prevalance: (2\10986) 0.0182%
 
 ## Tags
 
-- oompID: RESE-0805-X-O223-01
-- name: SMD (0805) 22k Ohm Resistor
-- ooPackageMarking: 223
-- hexID: R85223
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
 - oompDesc: O223
 - oompIndex: 01
-- oompVersion: 40
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17560', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 22k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17560'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2202T5E'}
+- hexID: RESE-8O223-01
+- oompID: RESE-0805-X-O223-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1063-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'R1'}
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W

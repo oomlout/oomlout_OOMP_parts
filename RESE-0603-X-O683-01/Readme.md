@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6683 > SMD (0603) 68k Ohm Resistor](#r6683--smd-0603-68k-ohm-resistor)
+* [RESE-6O683-01 > SMD (0603) 68k Ohm Resistor](#rese-6o683-01--smd-0603-68k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6683 > SMD (0603) 68k Ohm Resistor
+# RESE-6O683-01 > SMD (0603) 68k Ohm Resistor
 
 - ID: RESE-0603-X-O683-01
-- Hex ID: R6683
+- Hex ID: RESE-6O683-01
 - Name: SMD (0603) 68k Ohm Resistor
 - Description: SMD (0603) 68k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O683-01](http://oom.lt/RESE-0603-X-O683-01)
-- Short Link: [http://oom.lt/R6683](http://oom.lt/R6683)
+- Short Link: [http://oom.lt/RESE-6O683-01](http://oom.lt/RESE-6O683-01)
 
 ## Labels
   
@@ -40,22 +40,13 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O683-01
-- name: SMD (0603) 68k Ohm Resistor
-- hexID: R6683
-- ooPackageMarking: 683
-- oompDesc: O683
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O683
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23231', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 68k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23231'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6802T5E'}
+- hexID: RESE-6O683-01
+- oompID: RESE-0603-X-O683-01

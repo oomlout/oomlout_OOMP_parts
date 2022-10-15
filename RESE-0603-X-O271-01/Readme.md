@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6271 > SMD (0603) 270 Ohm Resistor](#r6271--smd-0603-270-ohm-resistor)
+* [RESE-6O271-01 > SMD (0603) 270 Ohm Resistor](#rese-6o271-01--smd-0603-270-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6271 > SMD (0603) 270 Ohm Resistor
+# RESE-6O271-01 > SMD (0603) 270 Ohm Resistor
 
 - ID: RESE-0603-X-O271-01
-- Hex ID: R6271
+- Hex ID: RESE-6O271-01
 - Name: SMD (0603) 270 Ohm Resistor
 - Description: SMD (0603) 270 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O271-01](http://oom.lt/RESE-0603-X-O271-01)
-- Short Link: [http://oom.lt/R6271](http://oom.lt/R6271)
+- Short Link: [http://oom.lt/RESE-6O271-01](http://oom.lt/RESE-6O271-01)
 
 ## Labels
   
@@ -40,22 +40,13 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O271-01
-- name: SMD (0603) 270 Ohm Resistor
-- hexID: R6271
-- ooPackageMarking: 271
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O271
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22966', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 270?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22966'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2700T5E'}
+- hexID: RESE-6O271-01
+- oompID: RESE-0603-X-O271-01

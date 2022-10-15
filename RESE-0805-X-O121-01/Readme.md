@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85121 > SMD (0805) 120 Ohm Resistor](#r85121--smd-0805-120-ohm-resistor)
+* [RESE-8O121-01 > SMD (0805) 120 Ohm Resistor](#rese-8o121-01--smd-0805-120-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85121 > SMD (0805) 120 Ohm Resistor
+# RESE-8O121-01 > SMD (0805) 120 Ohm Resistor
 
 - ID: RESE-0805-X-O121-01
-- Hex ID: R85121
+- Hex ID: RESE-8O121-01
 - Name: SMD (0805) 120 Ohm Resistor
 - Description: SMD (0805) 120 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O121-01](http://oom.lt/RESE-0805-X-O121-01)
-- Short Link: [http://oom.lt/R85121](http://oom.lt/R85121)
+- Short Link: [http://oom.lt/RESE-8O121-01](http://oom.lt/RESE-8O121-01)
 
 ## Datasheets
 
@@ -54,25 +54,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O121-01
-- hexID: R85121
-- ooPackageMarking: 121
-- oompDesc: O121
-- name: SMD (0805) 120 Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O121
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17437', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 120?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17437'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1200T5E'}
+- hexID: RESE-8O121-01
+- oompID: RESE-0805-X-O121-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW

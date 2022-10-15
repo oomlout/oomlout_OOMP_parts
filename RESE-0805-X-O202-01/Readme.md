@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85202 > SMD (0805) 2k Ohm Resistor](#r85202--smd-0805-2k-ohm-resistor)
+* [RESE-8O202-01 > SMD (0805) 2k Ohm Resistor](#rese-8o202-01--smd-0805-2k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85202 > SMD (0805) 2k Ohm Resistor
+# RESE-8O202-01 > SMD (0805) 2k Ohm Resistor
 
 - ID: RESE-0805-X-O202-01
-- Hex ID: R85202
+- Hex ID: RESE-8O202-01
 - Name: SMD (0805) 2k Ohm Resistor
 - Description: SMD (0805) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O202-01](http://oom.lt/RESE-0805-X-O202-01)
-- Short Link: [http://oom.lt/R85202](http://oom.lt/R85202)
+- Short Link: [http://oom.lt/RESE-8O202-01](http://oom.lt/RESE-8O202-01)
 
 ## Datasheets
 
@@ -73,25 +73,16 @@ Prevalance: (15\10986) 0.1365%
 
 ## Tags
 
-- oompID: RESE-0805-X-O202-01
-- hexID: R85202
-- ooPackageMarking: 202
-- oompDesc: O202
-- name: SMD (0805) 2k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O202
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17604', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 2k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17604'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2001T5E'}
+- hexID: RESE-8O202-01
+- oompID: RESE-0805-X-O202-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1944-STAN-01', 'ID': 'R8'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1963-STAN-01', 'ID': 'R3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2078-STAN-01', 'ID': 'R2'}

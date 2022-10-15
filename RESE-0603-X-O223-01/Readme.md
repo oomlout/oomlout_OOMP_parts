@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6223 > SMD (0603) 22k Ohm Resistor](#r6223--smd-0603-22k-ohm-resistor)
+* [RESE-6O223-01 > SMD (0603) 22k Ohm Resistor](#rese-6o223-01--smd-0603-22k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6223 > SMD (0603) 22k Ohm Resistor
+# RESE-6O223-01 > SMD (0603) 22k Ohm Resistor
 
 - ID: RESE-0603-X-O223-01
-- Hex ID: R6223
+- Hex ID: RESE-6O223-01
 - Name: SMD (0603) 22k Ohm Resistor
 - Description: SMD (0603) 22k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O223-01](http://oom.lt/RESE-0603-X-O223-01)
-- Short Link: [http://oom.lt/R6223](http://oom.lt/R6223)
+- Short Link: [http://oom.lt/RESE-6O223-01](http://oom.lt/RESE-6O223-01)
 
 ## Datasheets
 
@@ -63,25 +63,16 @@ Prevalance: (9\10986) 0.0819%
 
 ## Tags
 
-- oompID: RESE-0603-X-O223-01
-- name: SMD (0603) 22k Ohm Resistor
-- hexID: R6223
-- ooPackageMarking: 223
-- oompDesc: O223
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O223
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C31850', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 22k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C31850'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2202T5E'}
+- hexID: RESE-6O223-01
+- oompID: RESE-0603-X-O223-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5165-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12000-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12011-STAN-01', 'ID': 'R1'}

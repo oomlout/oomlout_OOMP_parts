@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6621 > SMD (0603) 620 Ohm Resistor](#r6621--smd-0603-620-ohm-resistor)
+* [RESE-6O621-01 > SMD (0603) 620 Ohm Resistor](#rese-6o621-01--smd-0603-620-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6621 > SMD (0603) 620 Ohm Resistor
+# RESE-6O621-01 > SMD (0603) 620 Ohm Resistor
 
 - ID: RESE-0603-X-O621-01
-- Hex ID: R6621
+- Hex ID: RESE-6O621-01
 - Name: SMD (0603) 620 Ohm Resistor
 - Description: SMD (0603) 620 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O621-01](http://oom.lt/RESE-0603-X-O621-01)
-- Short Link: [http://oom.lt/R6621](http://oom.lt/R6621)
+- Short Link: [http://oom.lt/RESE-6O621-01](http://oom.lt/RESE-6O621-01)
 
 ## Datasheets
 
@@ -46,25 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O621-01
-- name: SMD (0603) 620 Ohm Resistor
-- hexID: R6621
-- ooPackageMarking: 621
-- oompDesc: O621
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O621
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23220', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 620?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23220'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6200T5E'}
+- hexID: RESE-6O621-01
+- oompID: RESE-0603-X-O621-01
 
 
 

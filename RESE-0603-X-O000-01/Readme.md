@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6000 > SMD (0603) 0 Ohm Resistor](#r6000--smd-0603-0-ohm-resistor)
+* [RESE-6O000-01 > SMD (0603) 0 Ohm Resistor](#rese-6o000-01--smd-0603-0-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6000 > SMD (0603) 0 Ohm Resistor
+# RESE-6O000-01 > SMD (0603) 0 Ohm Resistor
 
 - ID: RESE-0603-X-O000-01
-- Hex ID: R6000
+- Hex ID: RESE-6O000-01
 - Name: SMD (0603) 0 Ohm Resistor
 - Description: SMD (0603) 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O000-01](http://oom.lt/RESE-0603-X-O000-01)
-- Short Link: [http://oom.lt/R6000](http://oom.lt/R6000)
+- Short Link: [http://oom.lt/RESE-6O000-01](http://oom.lt/RESE-6O000-01)
 
 ## Datasheets
 
@@ -46,29 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O000-01
-- name: SMD (0603) 0 Ohm Resistor
-- hexID: R6000
-- ooPackageMarking: 0
-- oompDesc: O000
-- oompSort: 06030000000
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O000
 - oompIndex: 01
-- ooDesignator: R1
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- ooTolerance: 5%
-- ooMaterial: Carbon Film
-- ooMaxVoltage: 50 V
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C21189', 'desc': '100mW Thick Film Resistors 75V ??1% -55??~+155?? 0?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C21189'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF0000T5E'}
+- hexID: RESE-6O000-01
+- oompID: RESE-0603-X-O000-01
 
 
 

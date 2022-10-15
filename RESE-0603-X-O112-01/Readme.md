@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6112 > SMD (0603) 1.1k Ohm Resistor](#r6112--smd-0603-11k-ohm-resistor)
+* [RESE-6O112-01 > SMD (0603) 1.1k Ohm Resistor](#rese-6o112-01--smd-0603-11k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6112 > SMD (0603) 1.1k Ohm Resistor
+# RESE-6O112-01 > SMD (0603) 1.1k Ohm Resistor
 
 - ID: RESE-0603-X-O112-01
-- Hex ID: R6112
+- Hex ID: RESE-6O112-01
 - Name: SMD (0603) 1.1k Ohm Resistor
 - Description: SMD (0603) 1.1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O112-01](http://oom.lt/RESE-0603-X-O112-01)
-- Short Link: [http://oom.lt/R6112](http://oom.lt/R6112)
+- Short Link: [http://oom.lt/RESE-6O112-01](http://oom.lt/RESE-6O112-01)
 
 ## Datasheets
 
@@ -46,25 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O112-01
-- name: SMD (0603) 1.1k Ohm Resistor
-- ooPackageMarking: 112
-- hexID: R6112
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O112
 - oompIndex: 01
-- oompVersion: 40
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22764', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 1.1k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22764'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1101T5E'}
+- hexID: RESE-6O112-01
+- oompID: RESE-0603-X-O112-01
 
 
 

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6331 > SMD (0603) 330 Ohm Resistor](#r6331--smd-0603-330-ohm-resistor)
+* [RESE-6O331-01 > SMD (0603) 330 Ohm Resistor](#rese-6o331-01--smd-0603-330-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6331 > SMD (0603) 330 Ohm Resistor
+# RESE-6O331-01 > SMD (0603) 330 Ohm Resistor
 
 - ID: RESE-0603-X-O331-01
-- Hex ID: R6331
+- Hex ID: RESE-6O331-01
 - Name: SMD (0603) 330 Ohm Resistor
 - Description: SMD (0603) 330 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O331-01](http://oom.lt/RESE-0603-X-O331-01)
-- Short Link: [http://oom.lt/R6331](http://oom.lt/R6331)
+- Short Link: [http://oom.lt/RESE-6O331-01](http://oom.lt/RESE-6O331-01)
 
 ## Datasheets
 
@@ -117,35 +117,16 @@ Prevalance: (163\10986) 1.4837%
 
 ## Tags
 
-- oompID: RESE-0603-X-O331-01
-- name: SMD (0603) 330 Ohm Resistor
-- hexID: R6331
-- oompSort: 06030000330
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O331
 - oompIndex: 01
-- oompVersion: 99
-- ooWidth: 1.6 mm
-- ooLength: 3.2 mm
-- ooManufacturer: Yageo
-- ooManufacturerPartNumber: RC0603JR-07330RL
-- ooMaterial: Carbon Film
-- ooPowerRating: 1/10 W
-- ooMaxVoltage: 50 V
-- ooTolerance: 5%
-- ooSEEEDsku: 0010430P1
-- ooSEEEDdesc: SMD RES 330R-5%-1/10W
-- ooSEEED3dModel: http://www.seeedstudio.com/wiki/File:Resistor0603.zip
-- oompClass: Surface Mount
-- oompClassCode: SMDS
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23138', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 330?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23138'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3300T5E'}
+- hexID: RESE-6O331-01
+- oompID: RESE-0603-X-O331-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R15'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R20'}

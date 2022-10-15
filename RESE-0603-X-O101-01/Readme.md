@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6101 > SMD (0603) 100 Ohm Resistor](#r6101--smd-0603-100-ohm-resistor)
+* [RESE-6O101-01 > SMD (0603) 100 Ohm Resistor](#rese-6o101-01--smd-0603-100-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6101 > SMD (0603) 100 Ohm Resistor
+# RESE-6O101-01 > SMD (0603) 100 Ohm Resistor
 
 - ID: RESE-0603-X-O101-01
-- Hex ID: R6101
+- Hex ID: RESE-6O101-01
 - Name: SMD (0603) 100 Ohm Resistor
 - Description: SMD (0603) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O101-01](http://oom.lt/RESE-0603-X-O101-01)
-- Short Link: [http://oom.lt/R6101](http://oom.lt/R6101)
+- Short Link: [http://oom.lt/RESE-6O101-01](http://oom.lt/RESE-6O101-01)
 
 ## Datasheets
 
@@ -97,26 +97,16 @@ Prevalance: (139\10986) 1.2652%
 
 ## Tags
 
-- oompID: RESE-0603-X-O101-01
-- name: SMD (0603) 100 Ohm Resistor
-- hexID: R6101
-- ooPackageMarking: 101
-- oompDesc: O101
-- oompSort: RESE0603O101
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O101
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22775', 'desc': '100mW Thick Film Resistors 75V ??1% ??200ppm/?? -55??~+155?? 100?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22775'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1000T5E'}
+- hexID: RESE-6O101-01
+- oompID: RESE-0603-X-O101-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3000-STAN-01', 'ID': 'R21'}

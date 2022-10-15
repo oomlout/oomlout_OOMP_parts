@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6273 > SMD (0603) 28k Ohm Resistor](#r6273--smd-0603-28k-ohm-resistor)
+* [RESE-6O273-01 > SMD (0603) 27k Ohm Resistor](#rese-6o273-01--smd-0603-27k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6273 > SMD (0603) 28k Ohm Resistor
+# RESE-6O273-01 > SMD (0603) 27k Ohm Resistor
 
 - ID: RESE-0603-X-O273-01
-- Hex ID: R6273
-- Name: SMD (0603) 28k Ohm Resistor
-- Description: SMD (0603) 28k Ohm Resistor
+- Hex ID: RESE-6O273-01
+- Name: SMD (0603) 27k Ohm Resistor
+- Description: SMD (0603) 27k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O273-01](http://oom.lt/RESE-0603-X-O273-01)
-- Short Link: [http://oom.lt/R6273](http://oom.lt/R6273)
+- Short Link: [http://oom.lt/RESE-6O273-01](http://oom.lt/RESE-6O273-01)
 
 ## Datasheets
 
@@ -46,25 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O273-01
-- hexID: R6273
-- name: SMD (0603) 28k Ohm Resistor
-- ooPackageMarking: 273
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O273
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22967', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 27k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22967'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2702T5E'}
+- hexID: RESE-6O273-01
+- oompID: RESE-0603-X-O273-01
 
 
 

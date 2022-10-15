@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R85151 > SMD (0805) 150 Ohm Resistor](#r85151--smd-0805-150-ohm-resistor)
+* [RESE-8O151-01 > SMD (0805) 150 Ohm Resistor](#rese-8o151-01--smd-0805-150-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R85151 > SMD (0805) 150 Ohm Resistor
+# RESE-8O151-01 > SMD (0805) 150 Ohm Resistor
 
 - ID: RESE-0805-X-O151-01
-- Hex ID: R85151
+- Hex ID: RESE-8O151-01
 - Name: SMD (0805) 150 Ohm Resistor
 - Description: SMD (0805) 150 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O151-01](http://oom.lt/RESE-0805-X-O151-01)
-- Short Link: [http://oom.lt/R85151](http://oom.lt/R85151)
+- Short Link: [http://oom.lt/RESE-8O151-01](http://oom.lt/RESE-8O151-01)
 
 ## Labels
   
@@ -58,25 +58,16 @@ Prevalance: (3\10986) 0.0273%
 
 ## Tags
 
-- oompID: RESE-0805-X-O151-01
-- name: SMD (0805) 150 Ohm Resistor
-- hexID: R85151
-- ooPackageMarking: 151
-- oompDesc: O151
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O151
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17471', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 150?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17471'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1500T5E'}
+- hexID: RESE-8O151-01
+- oompID: RESE-0805-X-O151-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-259-STAN-01', 'ID': 'R3'}

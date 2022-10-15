@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6243 > SMD (0603) 25k Ohm Resistor](#r6243--smd-0603-25k-ohm-resistor)
+* [RESE-6O243-01 > SMD (0603) 24k Ohm Resistor](#rese-6o243-01--smd-0603-24k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6243 > SMD (0603) 25k Ohm Resistor
+# RESE-6O243-01 > SMD (0603) 24k Ohm Resistor
 
 - ID: RESE-0603-X-O243-01
-- Hex ID: R6243
-- Name: SMD (0603) 25k Ohm Resistor
-- Description: SMD (0603) 25k Ohm Resistor
+- Hex ID: RESE-6O243-01
+- Name: SMD (0603) 24k Ohm Resistor
+- Description: SMD (0603) 24k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O243-01](http://oom.lt/RESE-0603-X-O243-01)
-- Short Link: [http://oom.lt/R6243](http://oom.lt/R6243)
+- Short Link: [http://oom.lt/RESE-6O243-01](http://oom.lt/RESE-6O243-01)
 
 ## Labels
   
@@ -40,23 +40,14 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0603-X-O243-01
-- name: SMD (0603) 25k Ohm Resistor
-- hexID: R6243
-- ooPackageMarking: 243
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O243
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23352', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 24k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23352'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2402T5E'}
+- hexID: RESE-6O243-01
+- oompID: RESE-0603-X-O243-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4683-STAN-01', 'ID': 'R3'}

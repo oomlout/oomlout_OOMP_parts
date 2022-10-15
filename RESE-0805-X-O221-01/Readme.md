@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85221 > SMD (0805) 220 Ohm Resistor](#r85221--smd-0805-220-ohm-resistor)
+* [RESE-8O221-01 > SMD (0805) 220 Ohm Resistor](#rese-8o221-01--smd-0805-220-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85221 > SMD (0805) 220 Ohm Resistor
+# RESE-8O221-01 > SMD (0805) 220 Ohm Resistor
 
 - ID: RESE-0805-X-O221-01
-- Hex ID: R85221
+- Hex ID: RESE-8O221-01
 - Name: SMD (0805) 220 Ohm Resistor
 - Description: SMD (0805) 220 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O221-01](http://oom.lt/RESE-0805-X-O221-01)
-- Short Link: [http://oom.lt/R85221](http://oom.lt/R85221)
+- Short Link: [http://oom.lt/RESE-8O221-01](http://oom.lt/RESE-8O221-01)
 
 ## Datasheets
 
@@ -66,25 +66,16 @@ Prevalance: (21\10986) 0.1912%
 
 ## Tags
 
-- oompID: RESE-0805-X-O221-01
-- hexID: R85221
-- ooPackageMarking: 221
-- oompDesc: O221
-- name: SMD (0805) 220 Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O221
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17557', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 220?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17557'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2200T5E'}
+- hexID: RESE-8O221-01
+- oompID: RESE-0805-X-O221-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1588-STAN-01', 'ID': 'R8'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1588-STAN-01', 'ID': 'R10'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1628-STAN-01', 'ID': 'R8'}

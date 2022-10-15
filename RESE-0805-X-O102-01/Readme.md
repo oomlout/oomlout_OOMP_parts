@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85102 > SMD (0805) 1k Ohm Resistor](#r85102--smd-0805-1k-ohm-resistor)
+* [RESE-8O102-01 > SMD (0805) 1k Ohm Resistor](#rese-8o102-01--smd-0805-1k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85102 > SMD (0805) 1k Ohm Resistor
+# RESE-8O102-01 > SMD (0805) 1k Ohm Resistor
 
 - ID: RESE-0805-X-O102-01
-- Hex ID: R85102
+- Hex ID: RESE-8O102-01
 - Name: SMD (0805) 1k Ohm Resistor
 - Description: SMD (0805) 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O102-01](http://oom.lt/RESE-0805-X-O102-01)
-- Short Link: [http://oom.lt/R85102](http://oom.lt/R85102)
+- Short Link: [http://oom.lt/RESE-8O102-01](http://oom.lt/RESE-8O102-01)
 
 ## Datasheets
 
@@ -128,25 +128,16 @@ Prevalance: (131\10986) 1.1924%
 
 ## Tags
 
-- oompID: RESE-0805-X-O102-01
-- hexID: R85102
-- ooPackageMarking: 102
-- oompDesc: O102
-- name: SMD (0805) 1k Ohm Resistor
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
+- oompDesc: O102
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.5mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17513', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 1k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17513'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1001T5E'}
+- hexID: RESE-8O102-01
+- oompID: RESE-0805-X-O102-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1059-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1060-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1063-STAN-01', 'ID': 'R1'}

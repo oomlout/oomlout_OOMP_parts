@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6510 > SMD (0603) 51 Ohm Resistor](#r6510--smd-0603-51-ohm-resistor)
+* [RESE-6O510-01 > SMD (0603) 51 Ohm Resistor](#rese-6o510-01--smd-0603-51-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6510 > SMD (0603) 51 Ohm Resistor
+# RESE-6O510-01 > SMD (0603) 51 Ohm Resistor
 
 - ID: RESE-0603-X-O510-01
-- Hex ID: R6510
+- Hex ID: RESE-6O510-01
 - Name: SMD (0603) 51 Ohm Resistor
 - Description: SMD (0603) 51 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O510-01](http://oom.lt/RESE-0603-X-O510-01)
-- Short Link: [http://oom.lt/R6510](http://oom.lt/R6510)
+- Short Link: [http://oom.lt/RESE-6O510-01](http://oom.lt/RESE-6O510-01)
 
 ## Labels
   
@@ -52,25 +52,16 @@ Prevalance: (41\10986) 0.3732%
 
 ## Tags
 
-- oompID: RESE-0603-X-O510-01
-- name: SMD (0603) 51 Ohm Resistor
-- hexID: R6510
-- ooPackageMarking: 510
-- oompDesc: O510
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O510
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23197', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 51?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23197'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF510JT5E'}
+- hexID: RESE-6O510-01
+- oompID: RESE-0603-X-O510-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4538-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4538-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5201-STAN-01', 'ID': 'R10'}

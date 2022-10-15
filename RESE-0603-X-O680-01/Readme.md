@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6680 > SMD (0603) 68 Ohm Resistor](#r6680--smd-0603-68-ohm-resistor)
+* [RESE-6O680-01 > SMD (0603) 68 Ohm Resistor](#rese-6o680-01--smd-0603-68-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6680 > SMD (0603) 68 Ohm Resistor
+# RESE-6O680-01 > SMD (0603) 68 Ohm Resistor
 
 - ID: RESE-0603-X-O680-01
-- Hex ID: R6680
+- Hex ID: RESE-6O680-01
 - Name: SMD (0603) 68 Ohm Resistor
 - Description: SMD (0603) 68 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O680-01](http://oom.lt/RESE-0603-X-O680-01)
-- Short Link: [http://oom.lt/R6680](http://oom.lt/R6680)
+- Short Link: [http://oom.lt/RESE-6O680-01](http://oom.lt/RESE-6O680-01)
 
 ## Datasheets
 
@@ -57,25 +57,16 @@ Prevalance: (3\10986) 0.0273%
 
 ## Tags
 
-- oompID: RESE-0603-X-O680-01
-- name: SMD (0603) 68 Ohm Resistor
-- hexID: R6680
-- ooPackageMarking: 680
-- oompDesc: O680
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O680
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C27592', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 68?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C27592'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF680JT5E'}
+- hexID: RESE-6O680-01
+- oompID: RESE-0603-X-O680-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3421-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14130-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14130-STAN-01', 'ID': 'R2'}

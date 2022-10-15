@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6150 > SMD (0603) 15 Ohm Resistor](#r6150--smd-0603-15-ohm-resistor)
+* [RESE-6O150-01 > SMD (0603) 15 Ohm Resistor](#rese-6o150-01--smd-0603-15-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6150 > SMD (0603) 15 Ohm Resistor
+# RESE-6O150-01 > SMD (0603) 15 Ohm Resistor
 
 - ID: RESE-0603-X-O150-01
-- Hex ID: R6150
+- Hex ID: RESE-6O150-01
 - Name: SMD (0603) 15 Ohm Resistor
 - Description: SMD (0603) 15 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O150-01](http://oom.lt/RESE-0603-X-O150-01)
-- Short Link: [http://oom.lt/R6150](http://oom.lt/R6150)
+- Short Link: [http://oom.lt/RESE-6O150-01](http://oom.lt/RESE-6O150-01)
 
 ## Datasheets
 
@@ -56,25 +56,16 @@ Prevalance: (8\10986) 0.0728%
 
 ## Tags
 
-- oompID: RESE-0603-X-O150-01
-- name: SMD (0603) 15 Ohm Resistor
-- hexID: R6150
-- ooPackageMarking: 150
-- oompDesc: O150
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O150
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22810', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 15?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22810'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF150JT5E'}
+- hexID: RESE-6O150-01
+- oompID: RESE-0603-X-O150-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13279-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13279-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13279-STAN-01', 'ID': 'R3'}

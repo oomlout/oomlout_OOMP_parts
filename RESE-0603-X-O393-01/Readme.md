@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6393 > SMD (0603) 39k Ohm Resistor](#r6393--smd-0603-39k-ohm-resistor)
+* [RESE-6O393-01 > SMD (0603) 39k Ohm Resistor](#rese-6o393-01--smd-0603-39k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6393 > SMD (0603) 39k Ohm Resistor
+# RESE-6O393-01 > SMD (0603) 39k Ohm Resistor
 
 - ID: RESE-0603-X-O393-01
-- Hex ID: R6393
+- Hex ID: RESE-6O393-01
 - Name: SMD (0603) 39k Ohm Resistor
 - Description: SMD (0603) 39k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O393-01](http://oom.lt/RESE-0603-X-O393-01)
-- Short Link: [http://oom.lt/R6393](http://oom.lt/R6393)
+- Short Link: [http://oom.lt/RESE-6O393-01](http://oom.lt/RESE-6O393-01)
 
 ## Labels
   
@@ -50,25 +50,16 @@ Prevalance: (6\10986) 0.0546%
 
 ## Tags
 
-- oompID: RESE-0603-X-O393-01
-- name: SMD (0603) 39k Ohm Resistor
-- hexID: R6393
-- ooPackageMarking: 393
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O393
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23153', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 39k?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23153'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3902T5E'}
+- hexID: RESE-6O393-01
+- oompID: RESE-0603-X-O393-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R12'}

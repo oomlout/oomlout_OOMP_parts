@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6391 > SMD (0603) 390 Ohm Resistor](#r6391--smd-0603-390-ohm-resistor)
+* [RESE-6O391-01 > SMD (0603) 390 Ohm Resistor](#rese-6o391-01--smd-0603-390-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6391 > SMD (0603) 390 Ohm Resistor
+# RESE-6O391-01 > SMD (0603) 390 Ohm Resistor
 
 - ID: RESE-0603-X-O391-01
-- Hex ID: R6391
+- Hex ID: RESE-6O391-01
 - Name: SMD (0603) 390 Ohm Resistor
 - Description: SMD (0603) 390 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O391-01](http://oom.lt/RESE-0603-X-O391-01)
-- Short Link: [http://oom.lt/R6391](http://oom.lt/R6391)
+- Short Link: [http://oom.lt/RESE-6O391-01](http://oom.lt/RESE-6O391-01)
 
 ## Datasheets
 
@@ -66,29 +66,16 @@ Prevalance: (24\10986) 0.2185%
 
 ## Tags
 
-- oompID: RESE-0603-X-O391-01
-- name: SMD (0603) 390 Ohm Resistor
-- hexID: R6391
-- ooPackageMarking: 391
-- oompSort: 06030000390
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O391
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- ooTolerance: 5%
-- ooMaterial: Carbon Film
-- ooMaxVoltage: 50 V
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23151', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 390?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23151'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3900T5E'}
+- hexID: RESE-6O391-01
+- oompID: RESE-0603-X-O391-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10025-STAN-01', 'ID': 'R27'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10878-STAN-01', 'ID': 'R5'}

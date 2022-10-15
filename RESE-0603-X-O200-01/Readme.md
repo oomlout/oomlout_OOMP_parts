@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [R6200 > SMD (0603) 20 Ohm Resistor](#r6200--smd-0603-20-ohm-resistor)
+* [RESE-6O200-01 > SMD (0603) 20 Ohm Resistor](#rese-6o200-01--smd-0603-20-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6200 > SMD (0603) 20 Ohm Resistor
+# RESE-6O200-01 > SMD (0603) 20 Ohm Resistor
 
 - ID: RESE-0603-X-O200-01
-- Hex ID: R6200
+- Hex ID: RESE-6O200-01
 - Name: SMD (0603) 20 Ohm Resistor
 - Description: SMD (0603) 20 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O200-01](http://oom.lt/RESE-0603-X-O200-01)
-- Short Link: [http://oom.lt/R6200](http://oom.lt/R6200)
+- Short Link: [http://oom.lt/RESE-6O200-01](http://oom.lt/RESE-6O200-01)
 
 ## Labels
   
@@ -55,25 +55,16 @@ Prevalance: (11\10986) 0.1001%
 
 ## Tags
 
-- oompID: RESE-0603-X-O200-01
-- name: SMD (0603) 20 Ohm Resistor
-- hexID: R6200
-- ooPackageMarking: 200
-- oompDesc: O200
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
+- oompDesc: O200
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22950', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 20?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22950'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF200JT5E'}
+- hexID: RESE-6O200-01
+- oompID: RESE-0603-X-O200-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13720-STAN-01', 'ID': 'R9'}

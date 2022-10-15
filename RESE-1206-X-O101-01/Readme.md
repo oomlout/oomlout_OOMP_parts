@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R1101 > SMD (1206) 100 Ohm Resistor](#r1101--smd-1206-100-ohm-resistor)
+* [RESE-12O101-01 > SMD (1206) 100 Ohm Resistor](#rese-12o101-01--smd-1206-100-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R1101 > SMD (1206) 100 Ohm Resistor
+# RESE-12O101-01 > SMD (1206) 100 Ohm Resistor
 
 - ID: RESE-1206-X-O101-01
-- Hex ID: R1101
+- Hex ID: RESE-12O101-01
 - Name: SMD (1206) 100 Ohm Resistor
 - Description: SMD (1206) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O101-01](http://oom.lt/RESE-1206-X-O101-01)
-- Short Link: [http://oom.lt/R1101](http://oom.lt/R1101)
+- Short Link: [http://oom.lt/RESE-12O101-01](http://oom.lt/RESE-12O101-01)
 
 ## Datasheets
 
@@ -46,26 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-1206-X-O101-01
-- hexID: R1101
-- name: SMD (1206) 100 Ohm Resistor
-- oompSort: 12060000100
 - oompType: RESE
 - oompSize: 1206
 - oompColor: X
+- oompDesc: O101
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 1.6mm
-- ooHeight: 0.55mm
-- ooLength: 3.1mm
-- ooTolerance: 5%
-- ooMaterial: Carbon Film
-- ooMaxVoltage: 50 V
-- oompDiag: template;XXXX-1206-X-XXXX-XX-diag
-- oompIden: template;XXXX-1206-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-1206-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17901', 'desc': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100?? 1206  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17901'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1000T5E'}
+- hexID: RESE-12O101-01
+- oompID: RESE-1206-X-O101-01
 
 
 

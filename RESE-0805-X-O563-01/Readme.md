@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R85563 > SMD (0805) 56k Ohm Resistor](#r85563--smd-0805-56k-ohm-resistor)
+* [RESE-8O563-01 > SMD (0805) 56k Ohm Resistor](#rese-8o563-01--smd-0805-56k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R85563 > SMD (0805) 56k Ohm Resistor
+# RESE-8O563-01 > SMD (0805) 56k Ohm Resistor
 
 - ID: RESE-0805-X-O563-01
-- Hex ID: R85563
+- Hex ID: RESE-8O563-01
 - Name: SMD (0805) 56k Ohm Resistor
 - Description: SMD (0805) 56k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O563-01](http://oom.lt/RESE-0805-X-O563-01)
-- Short Link: [http://oom.lt/R85563](http://oom.lt/R85563)
+- Short Link: [http://oom.lt/RESE-8O563-01](http://oom.lt/RESE-8O563-01)
 
 ## Datasheets
 
@@ -54,25 +54,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0805-X-O563-01
-- name: SMD (0805) 56k Ohm Resistor
-- ooPackageMarking: 563
-- hexID: R85563
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
 - oompType: RESE
 - oompSize: 0805
 - oompColor: X
 - oompDesc: O563
 - oompIndex: 01
-- oompVersion: 40
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17756', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 56k?? 0805  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17756'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F5602T5E'}
+- hexID: RESE-8O563-01
+- oompID: RESE-0805-X-O563-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW

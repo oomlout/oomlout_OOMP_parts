@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6330 > SMD (0603) 33 Ohm Resistor](#r6330--smd-0603-33-ohm-resistor)
+* [RESE-6O330-01 > SMD (0603) 33 Ohm Resistor](#rese-6o330-01--smd-0603-33-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6330 > SMD (0603) 33 Ohm Resistor
+# RESE-6O330-01 > SMD (0603) 33 Ohm Resistor
 
 - ID: RESE-0603-X-O330-01
-- Hex ID: R6330
+- Hex ID: RESE-6O330-01
 - Name: SMD (0603) 33 Ohm Resistor
 - Description: SMD (0603) 33 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O330-01](http://oom.lt/RESE-0603-X-O330-01)
-- Short Link: [http://oom.lt/R6330](http://oom.lt/R6330)
+- Short Link: [http://oom.lt/RESE-6O330-01](http://oom.lt/RESE-6O330-01)
 
 ## Datasheets
 
@@ -61,25 +61,16 @@ Prevalance: (10\10986) 0.091%
 
 ## Tags
 
-- oompID: RESE-0603-X-O330-01
-- hexID: R6330
-- name: SMD (0603) 33 Ohm Resistor
-- oompSort: 06030000033
 - oompType: RESE
 - oompSize: 0603
 - oompColor: X
 - oompDesc: O330
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.45mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23140', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 33?? 0603  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23140'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF330JT5E'}
+- hexID: RESE-6O330-01
+- oompID: RESE-0603-X-O330-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2741-STAN-01', 'ID': 'R8'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4740-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11008-STAN-01', 'ID': 'R1'}
