@@ -1,38 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('index','4102')
-newPart.addTag('oompID','RESE-0603-X-O331-01')
-newPart.addTag('name','SMD (0603) 330 Ohm Resistor')
-newPart.addTag('hexID','R6331')
-newPart.addTag('oompSort','06030000330')
-newPart.addTag('oompType','RESE')
-newPart.addTag('oompSize','0603')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','O331')
-newPart.addTag('oompIndex','01')
-newPart.addTag('oompVersion','99')
-newPart.addTag('ooWidth','1.6 mm')
-newPart.addTag('ooLength','3.2 mm')
-newPart.addTag('ooManufacturer','Yageo')
-newPart.addTag('ooManufacturerPartNumber','RC0603JR-07330RL')
-newPart.addTag('ooMaterial','Carbon Film')
-newPart.addTag('ooPowerRating','1/10 W')
-newPart.addTag('ooMaxVoltage','50 V')
-newPart.addTag('ooTolerance','5%')
-newPart.addTag('ooSEEEDsku','0010430P1')
-newPart.addTag('ooSEEEDdesc','SMD RES 330R-5%-1/10W')
-newPart.addTag('ooSEEED3dModel','http://www.seeedstudio.com/wiki/File:Resistor0603.zip')
-newPart.addTag('oompClass','Surface Mount')
-newPart.addTag('oompClassCode','SMDS')
-newPart.addTag('oompBbls','template;XXXX-0603-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0603-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0603-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;RESE-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0603-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','R1')
-newPart = OOMPtags.addTags(newPart,"RESE-0603-X-O331-01")
+
+oType = "RESE"
+oSize = "0603"
+oColor = "X"
+oDesc = "O331"
+oIndex = "01"
+hexId = "RESE-6O331-01"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23138', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 330?? 0603  Chip Resistor - Surface Mount ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23138'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3300T5E'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

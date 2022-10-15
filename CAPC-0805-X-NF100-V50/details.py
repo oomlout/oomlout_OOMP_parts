@@ -1,26 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('oompID','CAPC-0805-X-NF100-V50')
-newPart.addTag('name','SMD (0805) 100 nF Capacitor (Ceramic) 50v')
-newPart.addTag('hexID','C85N100')
-newPart.addTag('oompType','CAPC')
-newPart.addTag('oompSize','0805')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','NF100')
-newPart.addTag('oompIndex','V50')
-newPart.addTag('oompVersion','999')
-newPart.addTag('ooWidth','1.25mm')
-newPart.addTag('ooHeight','0.85mm')
-newPart.addTag('ooLength','2mm')
-newPart.addTag('oompBbls','template;XXXX-0805-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0805-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0805-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;CAPC-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0805-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','C1')
-newPart = OOMPtags.addTags(newPart,"CAPC-0805-X-NF100-V50")
+
+oType = "CAPC"
+oSize = "0805"
+oColor = "X"
+oDesc = "NF100"
+oIndex = "V50"
+hexId = "C8N100"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C49678', 'desc': '50V 100nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C49678'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0805KRX7R9BB104'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

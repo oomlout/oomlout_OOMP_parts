@@ -1,26 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('oompID','CAPC-0805-X-UF10-V25')
-newPart.addTag('name','SMD (0805) 10 uF Capacitor (Ceramic) 25v')
-newPart.addTag('hexID','C85U010')
-newPart.addTag('oompType','CAPC')
-newPart.addTag('oompSize','0805')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','UF10')
-newPart.addTag('oompIndex','V25')
-newPart.addTag('oompVersion','999')
-newPart.addTag('ooWidth','1.2mm')
-newPart.addTag('ooHeight','1.25mm')
-newPart.addTag('ooLength','2mm')
-newPart.addTag('oompBbls','template;XXXX-0805-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0805-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0805-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;CAPC-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0805-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','C1')
-newPart = OOMPtags.addTags(newPart,"CAPC-0805-X-UF10-V25")
+
+oType = "CAPC"
+oSize = "0805"
+oColor = "X"
+oDesc = "UF10"
+oIndex = "V25"
+hexId = "C8U10"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15850', 'desc': '25V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15850'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21A106KAYNNNE'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

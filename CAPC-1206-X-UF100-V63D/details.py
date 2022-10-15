@@ -1,24 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('oompID','CAPC-1206-X-UF100-V63D')
-newPart.addTag('name','SMD (1206) 100 uF Capacitor (Ceramic) 6.3v')
-newPart.addTag('hexID','C1U100')
-newPart.addTag('oompSort','CAPC1206UF100')
-newPart.addTag('oompType','CAPC')
-newPart.addTag('oompSize','1206')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','UF100')
-newPart.addTag('oompIndex','V63D')
-newPart.addTag('oompVersion','98')
-newPart.addTag('oompBbls','template;XXXX-1206-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-1206-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-1206-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;CAPC-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-1206-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','C1')
-newPart = OOMPtags.addTags(newPart,"CAPC-1206-X-UF100-V63D")
+
+oType = "CAPC"
+oSize = "1206"
+oColor = "X"
+oDesc = "UF100"
+oIndex = "V63D"
+hexId = "C12U10063D"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15008', 'desc': '6.3V 100uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15008'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A107MQHNNNE'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

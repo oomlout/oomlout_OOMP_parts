@@ -1,26 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('oompID','RESE-0402-X-O153-01')
-newPart.addTag('name','SMD (0402) 15k Ohm Resistor')
-newPart.addTag('hexID','R42153')
-newPart.addTag('oompDesc','O153')
-newPart.addTag('oompType','RESE')
-newPart.addTag('oompSize','0402')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompIndex','01')
-newPart.addTag('oompVersion','999')
-newPart.addTag('ooWidth','0.5mm')
-newPart.addTag('ooHeight','0.35mm')
-newPart.addTag('ooLength','1mm')
-newPart.addTag('oompBbls','template;XXXX-0402-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0402-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0402-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;RESE-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0402-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','R1')
-newPart = OOMPtags.addTags(newPart,"RESE-0402-X-O153-01")
+
+oType = "RESE"
+oSize = "0402"
+oColor = "X"
+oDesc = "O153"
+oIndex = "01"
+hexId = "RESE-4O153-01"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25756', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 15k?? 0402  Chip Resistor - Surface Mount ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25756'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1502TCE'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

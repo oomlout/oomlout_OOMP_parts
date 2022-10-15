@@ -1,29 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-pins = 2
-newPart.addTag('index','')
-newPart.addTag('oompID','CAPC-0402-X-NF100-V16')
-newPart.addTag('name','SMD (0402) 100 nF Capacitor (Ceramic) 16v')
-newPart.addTag('hexID','R42N100')
-newPart.addTag('oompSort','')
-newPart.addTag('oompType','CAPC')
-newPart.addTag('oompSize','0402')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','NF100')
-newPart.addTag('oompIndex','V16')
-newPart.addTag('oompVersion','99')
-newPart.addTag('oompClass','Surface Mount')
-newPart.addTag('oompClassCode','SMDS')
-newPart.addTag('ooNumPins','2')
-newPart.addTag('oompBbls','template;XXXX-0402-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0402-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0402-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;CAPC-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0402-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','C1')
-newPart = OOMPtags.addTags(newPart,"CAPC-0402-X-NF100-V16",pins = 2)
+
+oType = "CAPC"
+oSize = "0402"
+oColor = "X"
+oDesc = "NF100"
+oIndex = "V16"
+hexId = "C4N10016"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1525', 'desc': '16V 100nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1525'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KO5NNNC'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

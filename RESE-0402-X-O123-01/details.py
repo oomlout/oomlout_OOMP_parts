@@ -1,28 +1,34 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-newPart.addTag('oompID','RESE-0402-X-O123-01')
-newPart.addTag('name','SMD (0402) 12k Ohm Resistor')
-newPart.addTag('hexID','R42123')
-newPart.addTag('hexID','R42123')
-newPart.addTag('oompDesc','O123')
-newPart.addTag('oompDesc','O123')
-newPart.addTag('oompSort','')
-newPart.addTag('oompClass','Surface Mount')
-newPart.addTag('oompClassCode','SMDS')
-newPart.addTag('oompType','RESE')
-newPart.addTag('oompSize','0402')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompIndex','01')
-newPart.addTag('oompVersion','40')
-newPart.addTag('oompBbls','template;XXXX-0402-X-XXXX-XX-bbls')
-newPart.addTag('oompDiag','template;XXXX-0402-X-XXXX-XX-diag')
-newPart.addTag('oompIden','template;XXXX-0402-X-XXXX-XX-iden')
-newPart.addTag('oompSchem','template;RESE-XXXX-X-XXXX-XX-schem')
-newPart.addTag('oompSimp','template;XXXX-0402-X-XXXX-XX-simp')
-newPart.addTag('ooDesignator','R1')
-newPart = OOMPtags.addTags(newPart,"RESE-0402-X-O123-01")
+
+oType = "RESE"
+oSize = "0402"
+oColor = "X"
+oDesc = "O123"
+oIndex = "01"
+hexId = "RESE-4O123-01"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+newPart.addTag('oplPartNumber',{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25752', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 12k?? 0402  Chip Resistor - Surface Mount ROHS'})
+newPart.addTag('distributorPartNumber',{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25752'})
+newPart.addTag('manufacturerPartNumber',{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1202TCE'})
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)
