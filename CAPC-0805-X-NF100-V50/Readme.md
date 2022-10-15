@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C85N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v](#c85n100--smd-0805-100-nf-capacitor-ceramic-50v)
+* [C8N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v](#c8n100--smd-0805-100-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C85N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v
+# C8N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-NF100-V50
-- Hex ID: C85N100
+- Hex ID: C8N100
 - Name: SMD (0805) 100 nF Capacitor (Ceramic) 50v
 - Description: SMD (0805) 100 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF100-V50](http://oom.lt/CAPC-0805-X-NF100-V50)
-- Short Link: [http://oom.lt/C85N100](http://oom.lt/C85N100)
+- Short Link: [http://oom.lt/C8N100](http://oom.lt/C8N100)
 
 ## Datasheets
 
@@ -175,24 +175,16 @@ Prevalance: (369\10986) 3.3588%
 
 ## Tags
 
-- oompID: CAPC-0805-X-NF100-V50
-- name: SMD (0805) 100 nF Capacitor (Ceramic) 50v
-- hexID: C85N100
 - oompType: CAPC
 - oompSize: 0805
 - oompColor: X
 - oompDesc: NF100
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 1.25mm
-- ooHeight: 0.85mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C49678', 'desc': '50V 100nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C49678'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0805KRX7R9BB104'}
+- hexID: C8N100
+- oompID: CAPC-0805-X-NF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1032-STAN-01', 'ID': 'C1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1032-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1063-STAN-01', 'ID': 'C1'}

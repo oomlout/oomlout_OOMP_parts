@@ -357,24 +357,16 @@ Prevalance: (854\10986) 7.7735%
 
 ## Tags
 
-- oompID: CAPC-0603-X-NF100-V50
-- name: SMD (0603) 100 nF Capacitor (Ceramic) 50v
-- hexID: C6N100
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: NF100
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C14663', 'desc': '50V 100nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C14663'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0603KRX7R9BB104'}
+- hexID: C6N100
+- oompID: CAPC-0603-X-NF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1231-STAN-01', 'ID': 'C1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1463-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1463-STAN-01', 'ID': 'C4'}

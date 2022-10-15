@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C85U004 > SMD (0805) 4.7 uF Capacitor (Ceramic) 25v](#c85u004--smd-0805-47-uf-capacitor-ceramic-25v)
+* [C8U47D > SMD (0805) 4.7 uF Capacitor (Ceramic) 25v](#c8u47d--smd-0805-47-uf-capacitor-ceramic-25v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C85U004 > SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
+# C8U47D > SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-0805-X-UF47D-V25
-- Hex ID: C85U004
+- Hex ID: C8U47D
 - Name: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Description: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF47D-V25](http://oom.lt/CAPC-0805-X-UF47D-V25)
-- Short Link: [http://oom.lt/C85U004](http://oom.lt/C85U004)
+- Short Link: [http://oom.lt/C8U47D](http://oom.lt/C8U47D)
 
 ## Datasheets
 
@@ -54,24 +54,16 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-UF47D-V25
-- name: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
-- hexID: C85U004
 - oompType: CAPC
 - oompSize: 0805
 - oompColor: X
 - oompDesc: UF47D
 - oompIndex: V25
-- oompVersion: 999
-- ooWidth: 1.2mm
-- ooHeight: 1.25mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1779', 'desc': '25V 4.7uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1779'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21A475KAQNNNE'}
+- hexID: C8U47D
+- oompID: CAPC-0805-X-UF47D-V25
 - oompInstances: {'PROJECT': 'PROJ-ADAF-512-STAN-01', 'ID': 'C6'}
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

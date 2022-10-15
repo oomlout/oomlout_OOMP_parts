@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C85U010 > SMD (0805) 10 uF Capacitor (Ceramic) 25v](#c85u010--smd-0805-10-uf-capacitor-ceramic-25v)
+* [C8U10 > SMD (0805) 10 uF Capacitor (Ceramic) 25v](#c8u10--smd-0805-10-uf-capacitor-ceramic-25v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C85U010 > SMD (0805) 10 uF Capacitor (Ceramic) 25v
+# C8U10 > SMD (0805) 10 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-0805-X-UF10-V25
-- Hex ID: C85U010
+- Hex ID: C8U10
 - Name: SMD (0805) 10 uF Capacitor (Ceramic) 25v
 - Description: SMD (0805) 10 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF10-V25](http://oom.lt/CAPC-0805-X-UF10-V25)
-- Short Link: [http://oom.lt/C85U010](http://oom.lt/C85U010)
+- Short Link: [http://oom.lt/C8U10](http://oom.lt/C8U10)
 
 ## Datasheets
 
@@ -54,24 +54,16 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0805-X-UF10-V25
-- name: SMD (0805) 10 uF Capacitor (Ceramic) 25v
-- hexID: C85U010
 - oompType: CAPC
 - oompSize: 0805
 - oompColor: X
 - oompDesc: UF10
 - oompIndex: V25
-- oompVersion: 999
-- ooWidth: 1.2mm
-- ooHeight: 1.25mm
-- ooLength: 2mm
-- oompBbls: template;XXXX-0805-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0805-X-XXXX-XX-diag
-- oompIden: template;XXXX-0805-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0805-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15850', 'desc': '25V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15850'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21A106KAYNNNE'}
+- hexID: C8U10
+- oompID: CAPC-0805-X-UF10-V25
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW

@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [R42204 > SMD (0402) 200k Ohm Resistor](#r42204--smd-0402-200k-ohm-resistor)
+* [RESE-4O204-01 > SMD (0402) 200k Ohm Resistor](#rese-4o204-01--smd-0402-200k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# R42204 > SMD (0402) 200k Ohm Resistor
+# RESE-4O204-01 > SMD (0402) 200k Ohm Resistor
 
 - ID: RESE-0402-X-O204-01
-- Hex ID: R42204
+- Hex ID: RESE-4O204-01
 - Name: SMD (0402) 200k Ohm Resistor
 - Description: SMD (0402) 200k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O204-01](http://oom.lt/RESE-0402-X-O204-01)
-- Short Link: [http://oom.lt/R42204](http://oom.lt/R42204)
+- Short Link: [http://oom.lt/RESE-4O204-01](http://oom.lt/RESE-4O204-01)
 
 ## Labels
   
@@ -41,24 +41,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O204-01
-- name: SMD (0402) 200k Ohm Resistor
-- hexID: R42204
-- oompDesc: O204
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O204
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25764', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 200k?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25764'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF2003TCE'}
+- hexID: RESE-4O204-01
+- oompID: RESE-0402-X-O204-01
 
 
 

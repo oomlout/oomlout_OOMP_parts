@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C42P022 > SMD (0402) 22 pF Capacitor (Ceramic) 50v](#c42p022--smd-0402-22-pf-capacitor-ceramic-50v)
+* [C4P22 > SMD (0402) 22 pF Capacitor (Ceramic) 50v](#c4p22--smd-0402-22-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C42P022 > SMD (0402) 22 pF Capacitor (Ceramic) 50v
+# C4P22 > SMD (0402) 22 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF22-V50
-- Hex ID: C42P022
+- Hex ID: C4P22
 - Name: SMD (0402) 22 pF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF22-V50](http://oom.lt/CAPC-0402-X-PF22-V50)
-- Short Link: [http://oom.lt/C42P022](http://oom.lt/C42P022)
+- Short Link: [http://oom.lt/C4P22](http://oom.lt/C4P22)
 
 ## Datasheets
 
@@ -68,24 +68,16 @@ Prevalance: (28\10986) 0.2549%
 
 ## Tags
 
-- oompID: CAPC-0402-X-PF22-V50
-- name: SMD (0402) 22 pF Capacitor (Ceramic) 50v
-- hexID: C42P022
 - oompType: CAPC
 - oompSize: 0402
 - oompColor: X
 - oompDesc: PF22
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.5mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1555', 'desc': '50V 22pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1555'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG220J500NT'}
+- hexID: C4P22
+- oompID: CAPC-0402-X-PF22-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4888-STAN-01', 'ID': 'C19'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4888-STAN-01', 'ID': 'C20'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4900-STAN-01', 'ID': 'C19'}

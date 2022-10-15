@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R42332 > SMD (0402) 3.3k Ohm Resistor](#r42332--smd-0402-33k-ohm-resistor)
+* [RESE-4O332-01 > SMD (0402) 3.3k Ohm Resistor](#rese-4o332-01--smd-0402-33k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R42332 > SMD (0402) 3.3k Ohm Resistor
+# RESE-4O332-01 > SMD (0402) 3.3k Ohm Resistor
 
 - ID: RESE-0402-X-O332-01
-- Hex ID: R42332
+- Hex ID: RESE-4O332-01
 - Name: SMD (0402) 3.3k Ohm Resistor
 - Description: SMD (0402) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O332-01](http://oom.lt/RESE-0402-X-O332-01)
-- Short Link: [http://oom.lt/R42332](http://oom.lt/R42332)
+- Short Link: [http://oom.lt/RESE-4O332-01](http://oom.lt/RESE-4O332-01)
 
 ## Datasheets
 
@@ -46,24 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O332-01
-- hexID: R42332
-- oompDesc: O332
-- name: SMD (0402) 3.3k Ohm Resistor
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O332
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25890', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 3.3k?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25890'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF3301TCE'}
+- hexID: RESE-4O332-01
+- oompID: RESE-0402-X-O332-01
 
 
 

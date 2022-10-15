@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C42U010 > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](#c42u010--smd-0402-10-uf-capacitor-ceramic-63v)
+* [C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](#c4u1063d--smd-0402-10-uf-capacitor-ceramic-63v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C42U010 > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
+# C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 
 - ID: CAPC-0402-X-UF10-V63D
-- Hex ID: C42U010
+- Hex ID: C4U1063D
 - Name: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Description: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF10-V63D](http://oom.lt/CAPC-0402-X-UF10-V63D)
-- Short Link: [http://oom.lt/C42U010](http://oom.lt/C42U010)
+- Short Link: [http://oom.lt/C4U1063D](http://oom.lt/C4U1063D)
 
 ## Datasheets
 
@@ -46,24 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0402-X-UF10-V63D
-- name: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
-- hexID: C42U010
 - oompType: CAPC
 - oompSize: 0402
 - oompColor: X
 - oompDesc: UF10
 - oompIndex: V63D
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.5mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15525', 'desc': '6.3V 10uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15525'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A106MQ5NUNC'}
+- hexID: C4U1063D
+- oompID: CAPC-0402-X-UF10-V63D
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11801-STAN-01', 'ID': 'C3'}
 
 

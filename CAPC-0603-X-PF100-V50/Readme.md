@@ -61,24 +61,16 @@ Prevalance: (13\10986) 0.1183%
 
 ## Tags
 
-- oompID: CAPC-0603-X-PF100-V50
-- name: SMD (0603) 100 pF Capacitor (Ceramic) 50v
-- hexID: C6P100
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: PF100
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C14858', 'desc': '50V 100pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C14858'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10C101JB8NNNC'}
+- hexID: C6P100
+- oompID: CAPC-0603-X-PF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4757-STAN-01', 'ID': 'C28'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4757-STAN-01', 'ID': 'C29'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4757-STAN-01', 'ID': 'C30'}

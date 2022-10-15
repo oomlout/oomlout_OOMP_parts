@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [R42121 > SMD (0402) 120 Ohm Resistor](#r42121--smd-0402-120-ohm-resistor)
+* [RESE-4O121-01 > SMD (0402) 120 Ohm Resistor](#rese-4o121-01--smd-0402-120-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# R42121 > SMD (0402) 120 Ohm Resistor
+# RESE-4O121-01 > SMD (0402) 120 Ohm Resistor
 
 - ID: RESE-0402-X-O121-01
-- Hex ID: R42121
+- Hex ID: RESE-4O121-01
 - Name: SMD (0402) 120 Ohm Resistor
 - Description: SMD (0402) 120 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O121-01](http://oom.lt/RESE-0402-X-O121-01)
-- Short Link: [http://oom.lt/R42121](http://oom.lt/R42121)
+- Short Link: [http://oom.lt/RESE-4O121-01](http://oom.lt/RESE-4O121-01)
 
 ## Labels
   
@@ -41,24 +41,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O121-01
-- name: SMD (0402) 120 Ohm Resistor
-- hexID: R42121
-- oompDesc: O121
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O121
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25079', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 120?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25079'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1200TCE'}
+- hexID: RESE-4O121-01
+- oompID: RESE-0402-X-O121-01
 
 
 

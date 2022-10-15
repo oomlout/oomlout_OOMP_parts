@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6U010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v](#c6u010--smd-0603-10-uf-capacitor-ceramic-10v)
+* [C6U1010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v](#c6u1010--smd-0603-10-uf-capacitor-ceramic-10v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6U010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v
+# C6U1010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v
 
 - ID: CAPC-0603-X-UF10-V10
-- Hex ID: C6U010
+- Hex ID: C6U1010
 - Name: SMD (0603) 10 uF Capacitor (Ceramic) 10v
 - Description: SMD (0603) 10 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF10-V10](http://oom.lt/CAPC-0603-X-UF10-V10)
-- Short Link: [http://oom.lt/C6U010](http://oom.lt/C6U010)
+- Short Link: [http://oom.lt/C6U1010](http://oom.lt/C6U1010)
 
 ## Datasheets
 
@@ -46,24 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0603-X-UF10-V10
-- name: SMD (0603) 10 uF Capacitor (Ceramic) 10v
-- hexID: C6U010
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: UF10
 - oompIndex: V10
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C19702', 'desc': '10V 10uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C19702'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A106KP8NNNC'}
+- hexID: C6U1010
+- oompID: CAPC-0603-X-UF10-V10
 
 
 

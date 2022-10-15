@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R42471 > SMD (0402) 470 Ohm Resistor](#r42471--smd-0402-470-ohm-resistor)
+* [RESE-4O471-01 > SMD (0402) 470 Ohm Resistor](#rese-4o471-01--smd-0402-470-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R42471 > SMD (0402) 470 Ohm Resistor
+# RESE-4O471-01 > SMD (0402) 470 Ohm Resistor
 
 - ID: RESE-0402-X-O471-01
-- Hex ID: R42471
+- Hex ID: RESE-4O471-01
 - Name: SMD (0402) 470 Ohm Resistor
 - Description: SMD (0402) 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O471-01](http://oom.lt/RESE-0402-X-O471-01)
-- Short Link: [http://oom.lt/R42471](http://oom.lt/R42471)
+- Short Link: [http://oom.lt/RESE-4O471-01](http://oom.lt/RESE-4O471-01)
 
 ## Datasheets
 
@@ -62,25 +62,16 @@ Prevalance: (20\10986) 0.182%
 
 ## Tags
 
-- oompID: RESE-0402-X-O471-01
-- hexID: R42471
-- oompDesc: O471
-- name: SMD (0402) 470 Ohm Resistor
-- oompSort: RESE0402O471
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O471
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25117', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 470?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25117'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF4700TCE'}
+- hexID: RESE-4O471-01
+- oompID: RESE-0402-X-O471-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10116-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R13'}

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P010 > SMD (0603) 10 pF Capacitor (Ceramic) 50v](#c6p010--smd-0603-10-pf-capacitor-ceramic-50v)
+* [C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v](#c6p10--smd-0603-10-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P010 > SMD (0603) 10 pF Capacitor (Ceramic) 50v
+# C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF10-V50
-- Hex ID: C6P010
+- Hex ID: C6P10
 - Name: SMD (0603) 10 pF Capacitor (Ceramic) 50v
 - Description: SMD (0603) 10 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF10-V50](http://oom.lt/CAPC-0603-X-PF10-V50)
-- Short Link: [http://oom.lt/C6P010](http://oom.lt/C6P010)
+- Short Link: [http://oom.lt/C6P10](http://oom.lt/C6P10)
 
 ## Datasheets
 
@@ -62,24 +62,16 @@ Prevalance: (12\10986) 0.1092%
 
 ## Tags
 
-- oompID: CAPC-0603-X-PF10-V50
-- name: SMD (0603) 10 pF Capacitor (Ceramic) 50v
-- hexID: C6P010
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: PF10
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1634', 'desc': '50V 10pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1634'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10C100JB8NNNC'}
+- hexID: C6P10
+- oompID: CAPC-0603-X-PF10-V50
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12071-STAN-01', 'ID': 'C6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'C5'}

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C42P012 > SMD (0402) 12 pF Capacitor (Ceramic) 50v](#c42p012--smd-0402-12-pf-capacitor-ceramic-50v)
+* [C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v](#c4p12--smd-0402-12-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C42P012 > SMD (0402) 12 pF Capacitor (Ceramic) 50v
+# C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF12-V50
-- Hex ID: C42P012
+- Hex ID: C4P12
 - Name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF12-V50](http://oom.lt/CAPC-0402-X-PF12-V50)
-- Short Link: [http://oom.lt/C42P012](http://oom.lt/C42P012)
+- Short Link: [http://oom.lt/C4P12](http://oom.lt/C4P12)
 
 ## Datasheets
 
@@ -57,24 +57,16 @@ Prevalance: (6\10986) 0.0546%
 
 ## Tags
 
-- oompID: CAPC-0402-X-PF12-V50
-- name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
-- hexID: C42P012
 - oompType: CAPC
 - oompSize: 0402
 - oompColor: X
 - oompDesc: PF12
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.5mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1547', 'desc': '50V 12pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1547'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG120J500NT'}
+- hexID: C4P12
+- oompID: CAPC-0402-X-PF12-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4333-STAN-01', 'ID': 'C12'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4333-STAN-01', 'ID': 'C13'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11197-STAN-01', 'ID': 'C5'}

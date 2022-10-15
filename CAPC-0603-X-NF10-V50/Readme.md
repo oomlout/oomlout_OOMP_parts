@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6N010 > SMD (0603) 10 nF Capacitor (Ceramic) 50v](#c6n010--smd-0603-10-nf-capacitor-ceramic-50v)
+* [C6N10 > SMD (0603) 10 nF Capacitor (Ceramic) 50v](#c6n10--smd-0603-10-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6N010 > SMD (0603) 10 nF Capacitor (Ceramic) 50v
+# C6N10 > SMD (0603) 10 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-NF10-V50
-- Hex ID: C6N010
+- Hex ID: C6N10
 - Name: SMD (0603) 10 nF Capacitor (Ceramic) 50v
 - Description: SMD (0603) 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF10-V50](http://oom.lt/CAPC-0603-X-NF10-V50)
-- Short Link: [http://oom.lt/C6N010](http://oom.lt/C6N010)
+- Short Link: [http://oom.lt/C6N10](http://oom.lt/C6N10)
 
 ## Datasheets
 
@@ -89,24 +89,16 @@ Prevalance: (48\10986) 0.4369%
 
 ## Tags
 
-- oompID: CAPC-0603-X-NF10-V50
-- name: SMD (0603) 10 nF Capacitor (Ceramic) 50v
-- hexID: C6N010
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: NF10
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C57112', 'desc': '50V 10nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C57112'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603B103K500NT'}
+- hexID: C6N10
+- oompID: CAPC-0603-X-NF10-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3201-STAN-01', 'ID': 'C5'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3201-STAN-01', 'ID': 'C6'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3357-STAN-01', 'ID': 'C21'}

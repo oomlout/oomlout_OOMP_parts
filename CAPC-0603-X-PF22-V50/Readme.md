@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P022 > SMD (0603) 22 pF Capacitor (Ceramic) 50v](#c6p022--smd-0603-22-pf-capacitor-ceramic-50v)
+* [C6P22 > SMD (0603) 22 pF Capacitor (Ceramic) 50v](#c6p22--smd-0603-22-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P022 > SMD (0603) 22 pF Capacitor (Ceramic) 50v
+# C6P22 > SMD (0603) 22 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF22-V50
-- Hex ID: C6P022
+- Hex ID: C6P22
 - Name: SMD (0603) 22 pF Capacitor (Ceramic) 50v
 - Description: SMD (0603) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF22-V50](http://oom.lt/CAPC-0603-X-PF22-V50)
-- Short Link: [http://oom.lt/C6P022](http://oom.lt/C6P022)
+- Short Link: [http://oom.lt/C6P22](http://oom.lt/C6P22)
 
 ## Datasheets
 
@@ -83,24 +83,16 @@ Prevalance: (55\10986) 0.5006%
 
 ## Tags
 
-- oompID: CAPC-0603-X-PF22-V50
-- name: SMD (0603) 22 pF Capacitor (Ceramic) 50v
-- hexID: C6P022
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: PF22
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1653', 'desc': '50V 22pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1653'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10C220JB8NNNC'}
+- hexID: C6P22
+- oompID: CAPC-0603-X-PF22-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2772-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2772-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2796-STAN-01', 'ID': 'C2'}

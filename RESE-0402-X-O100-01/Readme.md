@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R42100 > SMD (0402) 10 Ohm Resistor](#r42100--smd-0402-10-ohm-resistor)
+* [RESE-4O100-01 > SMD (0402) 10 Ohm Resistor](#rese-4o100-01--smd-0402-10-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R42100 > SMD (0402) 10 Ohm Resistor
+# RESE-4O100-01 > SMD (0402) 10 Ohm Resistor
 
 - ID: RESE-0402-X-O100-01
-- Hex ID: R42100
+- Hex ID: RESE-4O100-01
 - Name: SMD (0402) 10 Ohm Resistor
 - Description: SMD (0402) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O100-01](http://oom.lt/RESE-0402-X-O100-01)
-- Short Link: [http://oom.lt/R42100](http://oom.lt/R42100)
+- Short Link: [http://oom.lt/RESE-4O100-01](http://oom.lt/RESE-4O100-01)
 
 ## Datasheets
 
@@ -59,25 +59,16 @@ Prevalance: (4\10986) 0.0364%
 
 ## Tags
 
-- oompID: RESE-0402-X-O100-01
-- hexID: R42100
-- oompDesc: O100
-- name: SMD (0402) 10 Ohm Resistor
-- oompSort: RESE0402O100
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O100
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25077', 'desc': '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25077'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF100JTCE'}
+- hexID: RESE-4O100-01
+- oompID: RESE-0402-X-O100-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10587-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'R12'}

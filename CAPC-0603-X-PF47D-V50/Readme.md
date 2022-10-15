@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P004 > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v](#c6p004--smd-0603-47-pf-capacitor-ceramic-50v)
+* [C6P47D > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v](#c6p47d--smd-0603-47-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P004 > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
+# C6P47D > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF47D-V50
-- Hex ID: C6P004
+- Hex ID: C6P47D
 - Name: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 - Description: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF47D-V50](http://oom.lt/CAPC-0603-X-PF47D-V50)
-- Short Link: [http://oom.lt/C6P004](http://oom.lt/C6P004)
+- Short Link: [http://oom.lt/C6P47D](http://oom.lt/C6P47D)
 
 ## Datasheets
 
@@ -46,24 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: CAPC-0603-X-PF47D-V50
-- name: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
-- hexID: C6P004
 - oompType: CAPC
 - oompSize: 0603
 - oompColor: X
 - oompDesc: PF47D
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.8mm
-- ooHeight: 0.8mm
-- ooLength: 1.6mm
-- oompBbls: template;XXXX-0603-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0603-X-XXXX-XX-diag
-- oompIden: template;XXXX-0603-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0603-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1669', 'desc': '50V 4.7pF C0G ??0.25pF 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1669'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603CG4R7C500NT'}
+- hexID: C6P47D
+- oompID: CAPC-0603-X-PF47D-V50
 
 
 

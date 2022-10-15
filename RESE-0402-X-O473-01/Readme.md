@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R42473 > SMD (0402) 47k Ohm Resistor](#r42473--smd-0402-47k-ohm-resistor)
+* [RESE-4O473-01 > SMD (0402) 47k Ohm Resistor](#rese-4o473-01--smd-0402-47k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R42473 > SMD (0402) 47k Ohm Resistor
+# RESE-4O473-01 > SMD (0402) 47k Ohm Resistor
 
 - ID: RESE-0402-X-O473-01
-- Hex ID: R42473
+- Hex ID: RESE-4O473-01
 - Name: SMD (0402) 47k Ohm Resistor
 - Description: SMD (0402) 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O473-01](http://oom.lt/RESE-0402-X-O473-01)
-- Short Link: [http://oom.lt/R42473](http://oom.lt/R42473)
+- Short Link: [http://oom.lt/RESE-4O473-01](http://oom.lt/RESE-4O473-01)
 
 ## Datasheets
 
@@ -56,25 +56,16 @@ Prevalance: (2\10986) 0.0182%
 
 ## Tags
 
-- oompID: RESE-0402-X-O473-01
-- hexID: R42473
-- oompDesc: O473
-- name: SMD (0402) 47k Ohm Resistor
-- oompSort: RESE0402O473
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
+- oompDesc: O473
 - oompIndex: 01
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.35mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25792', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 47k?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25792'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF4702TCE'}
+- hexID: RESE-4O473-01
+- oompID: RESE-0402-X-O473-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R11'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R12'}
 

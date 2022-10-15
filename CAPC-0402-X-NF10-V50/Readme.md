@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C42N010 > SMD (0402) 10 nF Capacitor (Ceramic) 50v](#c42n010--smd-0402-10-nf-capacitor-ceramic-50v)
+* [C4N10 > SMD (0402) 10 nF Capacitor (Ceramic) 50v](#c4n10--smd-0402-10-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C42N010 > SMD (0402) 10 nF Capacitor (Ceramic) 50v
+# C4N10 > SMD (0402) 10 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-NF10-V50
-- Hex ID: C42N010
+- Hex ID: C4N10
 - Name: SMD (0402) 10 nF Capacitor (Ceramic) 50v
 - Description: SMD (0402) 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF10-V50](http://oom.lt/CAPC-0402-X-NF10-V50)
-- Short Link: [http://oom.lt/C42N010](http://oom.lt/C42N010)
+- Short Link: [http://oom.lt/C4N10](http://oom.lt/C4N10)
 
 ## Datasheets
 
@@ -63,24 +63,16 @@ Prevalance: (16\10986) 0.1456%
 
 ## Tags
 
-- oompID: CAPC-0402-X-NF10-V50
-- name: SMD (0402) 10 nF Capacitor (Ceramic) 50v
-- hexID: C42N010
 - oompType: CAPC
 - oompSize: 0402
 - oompColor: X
 - oompDesc: NF10
 - oompIndex: V50
-- oompVersion: 999
-- ooWidth: 0.5mm
-- ooHeight: 0.5mm
-- ooLength: 1mm
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: C1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15195', 'desc': '50V 10nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15195'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B103KB5NNNC'}
+- hexID: C4N10
+- oompID: CAPC-0402-X-NF10-V50
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10587-STAN-01', 'ID': 'C10'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10587-STAN-01', 'ID': 'C11'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'C10'}

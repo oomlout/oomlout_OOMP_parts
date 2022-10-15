@@ -88,7 +88,7 @@ Prevalance: (91\10986) 0.8283%
 |[PROJ-ADAF-2746-STAN-01<br>Adafruit Bluefruit LE Shield PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2746-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2746-STAN-01/)|[JP5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2746-STAN-01/)|
 |[PROJ-ADAF-3133-STAN-01<br>Adafruit Ultimate GPS FeatherWing PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3133-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3133-STAN-01/)|[JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3133-STAN-01/)|
 |[PROJ-ADAF-3249-STAN-01<br>Adafruit NeoPXL8 PCBs](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3249-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3249-STAN-01/)|[JP12](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3249-STAN-01/)|
-|[PROJ-ADAF-326-STAN-01<br>Adafruit 128x64 Monochrome OLED PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|[B1, P0\\](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|
+|[PROJ-ADAF-326-STAN-01<br>Adafruit 128x64 Monochrome OLED PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|[B1, P0](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-326-STAN-01/)|
 |[PROJ-ADAF-3382-STAN-01<br>Adafruit Metro M4 Express PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3382-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3382-STAN-01/)|[IOH](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3382-STAN-01/)|
 |[PROJ-ADAF-3505-STAN-01<br>Adafruit Metro M0 Express PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3505-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3505-STAN-01/)|[IOH](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3505-STAN-01/)|
 |[PROJ-ADAF-358-STAN-01<br>Adafruit_1.8_Inch_TFT_Breakout_PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-358-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-358-STAN-01/)|[U$2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-358-STAN-01/)|
@@ -195,7 +195,7 @@ Prevalance: (91\10986) 0.8283%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3133-STAN-01', 'ID': 'JP4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3249-STAN-01', 'ID': 'JP12'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'B1'}
-- oompInstances: {'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'P0\\\\'}
+- oompInstances: {'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'P0'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3382-STAN-01', 'ID': 'IOH'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3505-STAN-01', 'ID': 'IOH'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-358-STAN-01', 'ID': 'U$2'}

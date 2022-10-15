@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R42000 > SMD (0402) 0 Ohm Resistor](#r42000--smd-0402-0-ohm-resistor)
+* [RESE-4O000-01 > SMD (0402) 0 Ohm Resistor](#rese-4o000-01--smd-0402-0-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R42000 > SMD (0402) 0 Ohm Resistor
+# RESE-4O000-01 > SMD (0402) 0 Ohm Resistor
 
 - ID: RESE-0402-X-O000-01
-- Hex ID: R42000
+- Hex ID: RESE-4O000-01
 - Name: SMD (0402) 0 Ohm Resistor
 - Description: SMD (0402) 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O000-01](http://oom.lt/RESE-0402-X-O000-01)
-- Short Link: [http://oom.lt/R42000](http://oom.lt/R42000)
+- Short Link: [http://oom.lt/RESE-4O000-01](http://oom.lt/RESE-4O000-01)
 
 ## Datasheets
 
@@ -46,24 +46,16 @@ Contents
 
 ## Tags
 
-- oompID: RESE-0402-X-O000-01
-- name: SMD (0402) 0 Ohm Resistor
-- hexID: R42000
-- oompSort: 
-- oompClass: Surface Mount
-- oompClassCode: SMDS
 - oompType: RESE
 - oompSize: 0402
 - oompColor: X
 - oompDesc: O000
 - oompIndex: 01
-- oompVersion: 40
-- oompBbls: template;XXXX-0402-X-XXXX-XX-bbls
-- oompDiag: template;XXXX-0402-X-XXXX-XX-diag
-- oompIden: template;XXXX-0402-X-XXXX-XX-iden
-- oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
-- oompSimp: template;XXXX-0402-X-XXXX-XX-simp
-- ooDesignator: R1
+- oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17168', 'desc': '62.5mW Thick Film Resistors 50V ??800ppm/?? ??1% -55??~+155?? 0?? 0402  Chip Resistor - Surface Mount ROHS'}
+- distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17168'}
+- manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF0000TCE'}
+- hexID: RESE-4O000-01
+- oompID: RESE-0402-X-O000-01
 
 
 
