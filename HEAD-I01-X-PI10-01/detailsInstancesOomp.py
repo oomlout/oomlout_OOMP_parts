@@ -24,7 +24,7 @@ newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'JP5'
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-3133-STAN-01', 'ID': 'JP4'})
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-3249-STAN-01', 'ID': 'JP12'})
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'B1'})
-newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'P0\\\\'})
+newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-326-STAN-01', 'ID': 'P0'})
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-3382-STAN-01', 'ID': 'IOH'})
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-3505-STAN-01', 'ID': 'IOH'})
 newPart.addTag('oompInstances',{'PROJECT': 'PROJ-ADAF-358-STAN-01', 'ID': 'U$2'})
