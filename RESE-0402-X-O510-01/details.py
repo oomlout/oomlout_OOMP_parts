@@ -11,7 +11,7 @@ oSize = "0402"
 oColor = "X"
 oDesc = "O510"
 oIndex = "01"
-hexId = "RESE-4O510-01"
+hexId = "R4O510"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

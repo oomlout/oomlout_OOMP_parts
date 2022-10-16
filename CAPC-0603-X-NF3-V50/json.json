@@ -1,0 +1,77 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NF3"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 33nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C21117"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C21117"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL10B333KB8NNNC"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "C6N3"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0603-X-NF3-V50"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0603-X-NF3-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 3 nF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

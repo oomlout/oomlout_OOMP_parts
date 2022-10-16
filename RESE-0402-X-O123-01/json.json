@@ -1,38 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O123-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 12k Ohm Resistor"
-        },
-        {
-            "name": "hexID",
-            "value": "R42123"
-        },
-        {
-            "name": "oompDesc",
-            "value": "O123"
-        },
-        {
-            "name": "oompDesc",
-            "value": "O123"
-        },
-        {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
-            "name": "oompClass",
-            "value": "Surface Mount"
-        },
-        {
-            "name": "oompClassCode",
-            "value": "SMDS"
-        },
-        {
             "name": "oompType",
             "value": "RESE"
         },
@@ -45,36 +13,45 @@
             "value": "X"
         },
         {
+            "name": "oompDesc",
+            "value": "O123"
+        },
+        {
             "name": "oompIndex",
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "40"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 12k?? 0402  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C25752"
+            }
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C25752"
+            }
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0402WGF1202TCE"
+            }
         },
         {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+            "name": "hexID",
+            "value": "RESE-4O123-01"
         },
         {
-            "name": "oompSchem",
-            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "R1"
+            "name": "oompID",
+            "value": "RESE-0402-X-O123-01"
         },
         {
             "name": "oompInstances",
@@ -82,6 +59,18 @@
                 "ID": "R12",
                 "PROJECT": "PROJ-SPAR-10864-STAN-01"
             }
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",

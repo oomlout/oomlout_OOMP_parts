@@ -36,6 +36,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-R](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -56,6 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1003T5E'}
 - hexID: RESE-6O104-01
 - oompID: RESE-0603-X-O104-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

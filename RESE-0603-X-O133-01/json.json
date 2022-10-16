@@ -1,0 +1,77 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0603"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O133"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 13k?? 0603  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C22797"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C22797"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0603WAF1302T5E"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "RESE-6O133-01"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0603-X-O133-01"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0603-X-O133-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0603) 13k Ohm Resistor"
+        }
+    ]
+}

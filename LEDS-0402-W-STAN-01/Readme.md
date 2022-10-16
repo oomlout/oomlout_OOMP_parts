@@ -35,6 +35,12 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)|||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -62,3 +68,5 @@ Contents
 - oompIden: template;XXXX-0402-X-XXXX-XX-iden
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder

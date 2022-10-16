@@ -30,6 +30,12 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric/)|[![FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric_Pad1.33x1.80mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric_Pad1.33x1.80mm_HandSolder/)|||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -56,3 +62,5 @@ Contents
 - oompSchem: template;CAPT-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: C1
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder

@@ -30,6 +30,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x08_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x08_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x08/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x08/)|||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -47,3 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH8
 - oompID: HEAD-JSTSH-X-PI08-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08

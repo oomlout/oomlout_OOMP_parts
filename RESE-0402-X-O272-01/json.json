@@ -73,6 +73,18 @@
             "value": "R1"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
+        },
+        {
             "name": "oompID",
             "value": "RESE-0402-X-O272-01"
         },

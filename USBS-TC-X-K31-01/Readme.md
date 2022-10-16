@@ -7,7 +7,9 @@ Contents
 
 * [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # USCK31 > Type C TYPE-C-31-M-12 USB Socket
@@ -23,7 +25,23 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
 ## EDA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 

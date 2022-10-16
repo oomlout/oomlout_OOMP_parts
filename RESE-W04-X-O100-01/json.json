@@ -117,6 +117,10 @@
             "value": "R1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
+        },
+        {
             "name": "oompID",
             "value": "RESE-W04-X-O100-01"
         },

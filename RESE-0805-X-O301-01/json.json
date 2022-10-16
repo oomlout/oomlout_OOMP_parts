@@ -1,0 +1,109 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "RESE"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "O301"
+        },
+        {
+            "name": "oompIndex",
+            "value": "01"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 300?? 0805  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C17617"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C17617"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0805W8F3000T5E"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "RESE-8O301-01"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O301-01"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
+        },
+        {
+            "name": "oompID",
+            "value": "RESE-0805-X-O301-01"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 300 Ohm Resistor"
+        }
+    ]
+}

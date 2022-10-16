@@ -1,0 +1,77 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "UF7"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V10"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "10V 47uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C96123"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C96123"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL31A476MPHNNNE"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "C12U710"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-1206-X-UF7-V10"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-1206-X-UF7-V10"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 7 uF Capacitor (Ceramic) 10v"
+        }
+    ]
+}

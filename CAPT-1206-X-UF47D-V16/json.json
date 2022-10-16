@@ -65,6 +65,14 @@
             "value": "C1"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+        },
+        {
             "name": "oompID",
             "value": "CAPT-1206-X-UF47D-V16"
         },

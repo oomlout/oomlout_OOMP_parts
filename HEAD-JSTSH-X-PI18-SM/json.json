@@ -29,6 +29,18 @@
             "value": "HEAD-JSTSH-X-PI18-SM"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM18B-SRSS-TB_1x18-1MP_P1.00mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-JSTSH-X-PI18-SM"
         },

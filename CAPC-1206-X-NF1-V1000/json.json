@@ -73,6 +73,18 @@
             "value": "C1"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
             "name": "oompID",
             "value": "CAPC-1206-X-NF1-V1000"
         },

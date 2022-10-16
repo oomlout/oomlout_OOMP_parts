@@ -106,11 +106,15 @@
         },
         {
             "name": "footprintKicad",
-            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric"
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric"
         },
         {
             "name": "footprintKicad",
-            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",

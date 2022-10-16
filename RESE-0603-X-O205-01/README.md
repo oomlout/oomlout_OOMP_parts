@@ -6,7 +6,9 @@ Contents
 ========
 
 * [RESE-6O205-01 > SMD (0603) 2M Ohm Resistor](#rese-6o205-01--smd-0603-2m-ohm-resistor)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # RESE-6O205-01 > SMD (0603) 2M Ohm Resistor
@@ -18,7 +20,35 @@ Contents
 - Long Link: [http://oom.lt/RESE-0603-X-O205-01](http://oom.lt/RESE-0603-X-O205-01)
 - Short Link: [http://oom.lt/RESE-6O205-01](http://oom.lt/RESE-6O205-01)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
 ## EDA
+
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-R](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)||||
+| :---: | :---: | :---: | :---: |
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -32,3 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2004T5E'}
 - hexID: RESE-6O205-01
 - oompID: RESE-0603-X-O205-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

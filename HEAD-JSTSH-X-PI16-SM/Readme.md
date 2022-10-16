@@ -30,6 +30,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x16/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x16/)|||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -47,3 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH16
 - oompID: HEAD-JSTSH-X-PI16-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM16B-SRSS-TB_1x16-1MP_P1.00mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16

@@ -6,7 +6,9 @@ Contents
 ========
 
 * [C4N100 > SMD (0402) 100 nF Capacitor (Ceramic) 50v](#c4n100--smd-0402-100-nf-capacitor-ceramic-50v)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # C4N100 > SMD (0402) 100 nF Capacitor (Ceramic) 50v
@@ -18,7 +20,35 @@ Contents
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V50](http://oom.lt/CAPC-0402-X-NF100-V50)
 - Short Link: [http://oom.lt/C4N100](http://oom.lt/C4N100)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
 ## EDA
+
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)|||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
+| :---: | :---: | :---: | :---: |
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
@@ -32,3 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KB54PNC'}
 - hexID: C4N100
 - oompID: CAPC-0402-X-NF100-V50
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

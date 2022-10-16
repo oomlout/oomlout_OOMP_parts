@@ -1,0 +1,77 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "1206"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NF20"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 220nF X7R ??10% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C1857"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C1857"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "FH (Guangdong Fenghua Advanced Tech)",
+                "partID": "1206B224K500NT"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "C12N20"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-1206-X-NF20-V50"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-1206-X-NF20-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (1206) 20 nF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

@@ -85,6 +85,10 @@
             "value": "C1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
             "name": "oompID",
             "value": "CAPC-55D-X-PF22-V50"
         },

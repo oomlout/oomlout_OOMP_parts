@@ -1,26 +1,6 @@
 {
     "tags": [
         {
-            "name": "index",
-            "value": ""
-        },
-        {
-            "name": "oompID",
-            "value": "CAPC-0402-X-NF100-V16"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 100 nF Capacitor (Ceramic) 16v"
-        },
-        {
-            "name": "hexID",
-            "value": "R42N100"
-        },
-        {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
             "name": "oompType",
             "value": "CAPC"
         },
@@ -41,44 +21,49 @@
             "value": "V16"
         },
         {
-            "name": "oompVersion",
-            "value": "99"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "16V 100nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C1525"
+            }
         },
         {
-            "name": "oompClass",
-            "value": "Surface Mount"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C1525"
+            }
         },
         {
-            "name": "oompClassCode",
-            "value": "SMDS"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL05B104KO5NNNC"
+            }
         },
         {
-            "name": "ooNumPins",
-            "value": "2"
+            "name": "hexID",
+            "value": "C4N10016"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+            "name": "oompID",
+            "value": "CAPC-0402-X-NF100-V16"
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric"
         },
         {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
         },
         {
-            "name": "oompSchem",
-            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "C1"
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
         },
         {
             "name": "oompID",

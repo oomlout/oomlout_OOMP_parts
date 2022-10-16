@@ -30,6 +30,12 @@ Contents
 
 ## EDA
 
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)|||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -47,3 +53,5 @@ Contents
 - oompIndex: RS
 - hexID: HSHR20
 - oompID: HEAD-JSTSH-X-PI20-RS
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20

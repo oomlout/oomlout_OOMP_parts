@@ -7,7 +7,9 @@ Contents
 
 * [VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v](#vr1117825--so-8-ld1117-voltage-regulator-25-v)
 	* [Datasheets](#datasheets)
+	* [Labels](#labels)
 	* [EDA](#eda)
+	* [Images](#images)
 	* [Tags](#tags)
 
 # VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v
@@ -23,7 +25,23 @@ Contents
 
 - Datasheet: [datasheet.pdf](datasheet.pdf)
 
+## Labels
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
+
 ## EDA
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 

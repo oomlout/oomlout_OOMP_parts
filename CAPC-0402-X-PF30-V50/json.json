@@ -1,0 +1,77 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0402"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PF30"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 330pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C13533"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C13533"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL05C331JB5NNNC"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "C4P30"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF30-V50"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0402-X-PF30-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0402) 30 pF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "CAPC"
+        },
+        {
+            "name": "oompSize",
+            "value": "0805"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "NF3"
+        },
+        {
+            "name": "oompIndex",
+            "value": "V50"
+        },
+        {
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 3.3nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C53175"
+            }
+        },
+        {
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C53175"
+            }
+        },
+        {
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL21B332KBANNNC"
+            }
+        },
+        {
+            "name": "hexID",
+            "value": "C8N3"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0805-X-NF3-V50"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE"
+        },
+        {
+            "name": "footprintEagle",
+            "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
+            "name": "oompID",
+            "value": "CAPC-0805-X-NF3-V50"
+        },
+        {
+            "name": "name",
+            "value": "SMD (0805) 3 nF Capacitor (Ceramic) 50v"
+        }
+    ]
+}

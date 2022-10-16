@@ -9,5 +9,6 @@ newPart.addTag('footprintEagle','FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkF
 newPart.addTag('footprintEagle','FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV')
 newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE')
 newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805')
-newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric')
-newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder')
+newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric')
+newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Device-R')

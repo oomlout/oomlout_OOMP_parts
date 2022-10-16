@@ -29,6 +29,18 @@
             "value": "HEAD-JSTSH-X-PI16-SM"
         },
         {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM16B-SRSS-TB_1x16-1MP_P1.00mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-JSTSH-X-PI16-SM"
         },

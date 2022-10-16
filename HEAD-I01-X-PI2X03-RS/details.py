@@ -1,25 +1,31 @@
+
 import OOMP 
 import OOMPtags 
 
 ######  Auto translated oomp file
 
 newPart = OOMP.oompItem()
-pitch = 2.54 
-newPart.addTag('oompSort','')
-newPart.addTag('oompType','HEAD')
-newPart.addTag('oompSize','I01')
-newPart.addTag('oompColor','X')
-newPart.addTag('oompDesc','2X03PI')
-newPart.addTag('oompIndex','RS')
-newPart.addTag('oompVersion','999')
-newPart.addTag('hexID','HRS2X03')
-newPart.addTag('ooPitch','2.54 mm')
-newPart.addTag('ooWidth','7.62 mm')
-newPart.addTag('ooHeight','5.08 mm')
-newPart.addTag('ooLength','17.66 mm')
-newPart.addTag('numPins','6')
-newPart.addTag('numRows','2')
-newPart.addTag('oompFootprint','HEAD-I01-X-PI2x03-RS')
-newPart.addTag('kicadFootprint','')
-newPart = OOMPtags.addTags(newPart,"HEAD-I01-X-PI2X03-RS",pitch = 2.54 )
+
+oType = "HEAD"
+oSize = "I01"
+oColor = "X"
+oDesc = "PI2X03"
+oIndex = "RS"
+hexId = "H2X3RS"
+
+newPart.addTag('oompType',oType)
+newPart.addTag('oompSize',oSize)
+newPart.addTag('oompColor',oColor)
+newPart.addTag('oompDesc',oDesc)
+newPart.addTag('oompIndex',oIndex)
+oompId = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
+
+
+
+######  Common
+newPart.addTag('hexID',hexId)
+
+######  Housekeeping
+newPart = OOMPtags.addTags(newPart,oompId)
+#newPart = OOMPtags.addTags(newPart,oompId),pitch = pitch)
 OOMP.parts.append(newPart)

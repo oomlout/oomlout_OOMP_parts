@@ -1,22 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0603-X-O273-01"
-        },
-        {
-            "name": "hexID",
-            "value": "R6273"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 28k Ohm Resistor"
-        },
-        {
-            "name": "ooPackageMarking",
-            "value": "273"
-        },
-        {
             "name": "oompType",
             "value": "RESE"
         },
@@ -37,44 +21,49 @@
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 27k?? 0603  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C22967"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "0.8mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C22967"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.45mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0603WAF2702T5E"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "1.6mm"
+            "name": "hexID",
+            "value": "RESE-6O273-01"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0603-X-XXXX-XX-bbls"
+            "name": "oompID",
+            "value": "RESE-0603-X-O273-01"
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-0603-X-XXXX-XX-diag"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric"
         },
         {
-            "name": "oompIden",
-            "value": "template;XXXX-0603-X-XXXX-XX-iden"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
         },
         {
-            "name": "oompSchem",
-            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0603-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "R1"
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",
@@ -82,7 +71,7 @@
         },
         {
             "name": "name",
-            "value": "SMD (0603) 28k Ohm Resistor"
+            "value": "SMD (0603) 27k Ohm Resistor"
         }
     ]
 }

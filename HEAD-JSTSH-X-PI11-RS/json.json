@@ -29,6 +29,14 @@
             "value": "HEAD-JSTSH-X-PI11-RS"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11"
+        },
+        {
             "name": "oompID",
             "value": "HEAD-JSTSH-X-PI11-RS"
         },

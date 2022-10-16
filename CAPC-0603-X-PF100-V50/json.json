@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0603-X-PF100-V50"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0603) 100 pF Capacitor (Ceramic) 50v"
-        },
-        {
-            "name": "hexID",
-            "value": "C6P100"
-        },
-        {
             "name": "oompType",
             "value": "CAPC"
         },
@@ -33,44 +21,37 @@
             "value": "V50"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 100pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C14858"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "0.8mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C14858"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.8mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL10C101JB8NNNC"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "1.6mm"
+            "name": "hexID",
+            "value": "C6P100"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0603-X-XXXX-XX-bbls"
-        },
-        {
-            "name": "oompDiag",
-            "value": "template;XXXX-0603-X-XXXX-XX-diag"
-        },
-        {
-            "name": "oompIden",
-            "value": "template;XXXX-0603-X-XXXX-XX-iden"
-        },
-        {
-            "name": "oompSchem",
-            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0603-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "C1"
+            "name": "oompID",
+            "value": "CAPC-0603-X-PF100-V50"
         },
         {
             "name": "oompInstances",
@@ -162,6 +143,18 @@
                 "ID": "C1",
                 "PROJECT": "PROJ-SPAR-14544-STAN-01"
             }
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
         },
         {
             "name": "oompID",

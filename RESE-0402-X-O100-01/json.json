@@ -1,26 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O100-01"
-        },
-        {
-            "name": "hexID",
-            "value": "R42100"
-        },
-        {
-            "name": "oompDesc",
-            "value": "O100"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 10 Ohm Resistor"
-        },
-        {
-            "name": "oompSort",
-            "value": "RESE0402O100"
-        },
-        {
             "name": "oompType",
             "value": "RESE"
         },
@@ -33,48 +13,45 @@
             "value": "X"
         },
         {
+            "name": "oompDesc",
+            "value": "O100"
+        },
+        {
             "name": "oompIndex",
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C25077"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "0.5mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C25077"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.35mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0402WGF100JTCE"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "1mm"
+            "name": "hexID",
+            "value": "RESE-4O100-01"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
-        },
-        {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
-        },
-        {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
-        },
-        {
-            "name": "oompSchem",
-            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "R1"
+            "name": "oompID",
+            "value": "RESE-0402-X-O100-01"
         },
         {
             "name": "oompInstances",
@@ -103,6 +80,18 @@
                 "ID": "R7",
                 "PROJECT": "PROJ-SPAR-11684-STAN-01"
             }
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",

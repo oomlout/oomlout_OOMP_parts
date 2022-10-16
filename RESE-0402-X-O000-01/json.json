@@ -1,30 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-0402-X-O000-01"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 0 Ohm Resistor"
-        },
-        {
-            "name": "hexID",
-            "value": "R42000"
-        },
-        {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
-            "name": "oompClass",
-            "value": "Surface Mount"
-        },
-        {
-            "name": "oompClassCode",
-            "value": "SMDS"
-        },
-        {
             "name": "oompType",
             "value": "RESE"
         },
@@ -45,32 +21,49 @@
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "40"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "62.5mW Thick Film Resistors 50V ??800ppm/?? ??1% -55??~+155?? 0?? 0402  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C17168"
+            }
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C17168"
+            }
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "0402WGF0000TCE"
+            }
         },
         {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+            "name": "hexID",
+            "value": "RESE-4O000-01"
         },
         {
-            "name": "oompSchem",
-            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
+            "name": "oompID",
+            "value": "RESE-0402-X-O000-01"
         },
         {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric"
         },
         {
-            "name": "ooDesignator",
-            "value": "R1"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",

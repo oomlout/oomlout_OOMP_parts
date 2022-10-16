@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0402-X-NF47D-V50"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 4.7 nF Capacitor (Ceramic) 50v"
-        },
-        {
-            "name": "hexID",
-            "value": "C42N047V50"
-        },
-        {
             "name": "oompType",
             "value": "CAPC"
         },
@@ -33,44 +21,49 @@
             "value": "V50"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "50V 4.7nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C1538"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "0.5mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C1538"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.5mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "FH (Guangdong Fenghua Advanced Tech)",
+                "partID": "0402B472K500NT"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "1mm"
+            "name": "hexID",
+            "value": "C4N47D"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
+            "name": "oompID",
+            "value": "CAPC-0402-X-NF47D-V50"
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric"
         },
         {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
         },
         {
-            "name": "oompSchem",
-            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "C1"
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
         },
         {
             "name": "oompID",

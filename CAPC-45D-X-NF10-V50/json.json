@@ -49,6 +49,10 @@
             "value": "C1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
+        },
+        {
             "name": "oompID",
             "value": "CAPC-45D-X-NF10-V50"
         },

@@ -1,18 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "CAPC-0402-X-UF10-V63D"
-        },
-        {
-            "name": "name",
-            "value": "SMD (0402) 10 uF Capacitor (Ceramic) 6.3v"
-        },
-        {
-            "name": "hexID",
-            "value": "C42U010"
-        },
-        {
             "name": "oompType",
             "value": "CAPC"
         },
@@ -33,44 +21,37 @@
             "value": "V63D"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "6.3V 10uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C15525"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "0.5mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C15525"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.5mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "Samsung Electro-Mechanics",
+                "partID": "CL05A106MQ5NUNC"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "1mm"
+            "name": "hexID",
+            "value": "C4U1063D"
         },
         {
-            "name": "oompBbls",
-            "value": "template;XXXX-0402-X-XXXX-XX-bbls"
-        },
-        {
-            "name": "oompDiag",
-            "value": "template;XXXX-0402-X-XXXX-XX-diag"
-        },
-        {
-            "name": "oompIden",
-            "value": "template;XXXX-0402-X-XXXX-XX-iden"
-        },
-        {
-            "name": "oompSchem",
-            "value": "template;CAPC-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-0402-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "C1"
+            "name": "oompID",
+            "value": "CAPC-0402-X-UF10-V63D"
         },
         {
             "name": "oompInstances",
@@ -78,6 +59,18 @@
                 "ID": "C3",
                 "PROJECT": "PROJ-SPAR-11801-STAN-01"
             }
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-C"
         },
         {
             "name": "oompID",

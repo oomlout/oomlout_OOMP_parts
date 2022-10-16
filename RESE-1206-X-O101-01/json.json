@@ -1,22 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompID",
-            "value": "RESE-1206-X-O101-01"
-        },
-        {
-            "name": "hexID",
-            "value": "R1101"
-        },
-        {
-            "name": "name",
-            "value": "SMD (1206) 100 Ohm Resistor"
-        },
-        {
-            "name": "oompSort",
-            "value": "12060000100"
-        },
-        {
             "name": "oompType",
             "value": "RESE"
         },
@@ -29,56 +13,57 @@
             "value": "X"
         },
         {
+            "name": "oompDesc",
+            "value": "O101"
+        },
+        {
             "name": "oompIndex",
             "value": "01"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
+            "name": "oplPartNumber",
+            "value": {
+                "code": "C-JLCC",
+                "desc": "250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100?? 1206  Chip Resistor - Surface Mount ROHS",
+                "name": "JLC Parts Library",
+                "partID": "C17901"
+            }
         },
         {
-            "name": "ooWidth",
-            "value": "1.6mm"
+            "name": "distributorPartNumber",
+            "value": {
+                "code": "C-LCSC",
+                "name": "LCSC",
+                "partID": "C17901"
+            }
         },
         {
-            "name": "ooHeight",
-            "value": "0.55mm"
+            "name": "manufacturerPartNumber",
+            "value": {
+                "code": "C-XXXX",
+                "name": "UNI-ROYAL(Uniroyal Elec)",
+                "partID": "1206W4F1000T5E"
+            }
         },
         {
-            "name": "ooLength",
-            "value": "3.1mm"
+            "name": "hexID",
+            "value": "RESE-12O101-01"
         },
         {
-            "name": "ooTolerance",
-            "value": "5%"
+            "name": "oompID",
+            "value": "RESE-1206-X-O101-01"
         },
         {
-            "name": "ooMaterial",
-            "value": "Carbon Film"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric"
         },
         {
-            "name": "ooMaxVoltage",
-            "value": "50 V"
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
         },
         {
-            "name": "oompDiag",
-            "value": "template;XXXX-1206-X-XXXX-XX-diag"
-        },
-        {
-            "name": "oompIden",
-            "value": "template;XXXX-1206-X-XXXX-XX-iden"
-        },
-        {
-            "name": "oompSchem",
-            "value": "template;RESE-XXXX-X-XXXX-XX-schem"
-        },
-        {
-            "name": "oompSimp",
-            "value": "template;XXXX-1206-X-XXXX-XX-simp"
-        },
-        {
-            "name": "ooDesignator",
-            "value": "R1"
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-R"
         },
         {
             "name": "oompID",

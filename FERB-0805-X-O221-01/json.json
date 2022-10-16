@@ -121,14 +121,6 @@
             "value": "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
         },
         {
-            "name": "footprintKicad",
-            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric"
-        },
-        {
-            "name": "footprintKicad",
-            "value": "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-        },
-        {
             "name": "oompID",
             "value": "FERB-0805-X-O221-01"
         },
