@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -99,9 +99,9 @@ Prevalance: (14\10986) 0.1274%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'C34'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13679-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14544-STAN-01', 'ID': 'C5'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

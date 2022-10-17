@@ -94,9 +94,9 @@ Prevalance: (9\10986) 0.0819%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14544-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14765-STAN-01', 'ID': 'R2'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

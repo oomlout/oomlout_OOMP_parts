@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -69,9 +69,9 @@ Contents
 - hexID: C4U1063D
 - oompID: CAPC-0402-X-UF10-V63D
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11801-STAN-01', 'ID': 'C3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

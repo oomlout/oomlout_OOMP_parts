@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH6
 - oompID: HEAD-JSTXH-X-PI06-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical

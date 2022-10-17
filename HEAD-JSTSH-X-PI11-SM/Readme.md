@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH11
 - oompID: HEAD-JSTSH-X-PI11-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM11B-SRSS-TB_1x11-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM11B-SRSS-TB_1x11-1MP_P1.00mm_Vertical

@@ -74,9 +74,9 @@ Contents
 - oompSchem: template;RESE-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-1206-X-XXXX-XX-simp
 - ooDesignator: R1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

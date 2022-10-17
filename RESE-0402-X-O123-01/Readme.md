@@ -69,9 +69,9 @@ Contents
 - hexID: R4O123
 - oompID: RESE-0402-X-O123-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10864-STAN-01', 'ID': 'R12'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

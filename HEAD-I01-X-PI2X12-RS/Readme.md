@@ -33,7 +33,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x24_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
 | :---: | :---: | :---: | :---: |
 |[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
 
@@ -63,7 +63,7 @@ Contents
 - numRows: 2
 - oompFootprint: HEAD-I01-X-PI2x12-RS
 - oompID: HEAD-I01-X-PI2X12-RS
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x1212_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x12_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x12_Row_Letter_First
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x12_Row_Letter_Last

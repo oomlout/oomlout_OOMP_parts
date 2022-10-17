@@ -59,5 +59,5 @@ Contents
 - oompIndex: 01
 - hexID: T35L9
 - oompID: TERS-35D-L-PI09-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x09_P3.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x09
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x09_P3.50mm_Vertical

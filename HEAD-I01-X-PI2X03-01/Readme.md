@@ -33,7 +33,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
 | :---: | :---: | :---: | :---: |
 |[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
   
@@ -123,7 +123,7 @@ Prevalance: (31\10986) 0.2822%
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-01', 'ID': 'ICSP1'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0303_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last

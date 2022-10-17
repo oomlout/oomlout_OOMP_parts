@@ -63,6 +63,6 @@ Contents
 - hexID: R6O243
 - oompID: RESE-0603-X-O243-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4683-STAN-01', 'ID': 'R3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

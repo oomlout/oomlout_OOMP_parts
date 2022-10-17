@@ -35,16 +35,10 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|[![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x02_P2.54mm_Vertical_SMD](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x02_P2.54mm_Vertical_SMD/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x02_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x02_P2.54mm_Vertical_SMD/)||||
-| :---: | :---: | :---: | :---: |
-
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
 | :---: | :---: | :---: | :---: |
 |[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
 
@@ -65,8 +59,7 @@ Contents
 - oompIndex: SM
 - hexID: H2X2SM
 - oompID: HEAD-I01-X-PI2X02-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x02_P2.54mm_Vertical_SMD
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0202_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x02_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_First
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_Last

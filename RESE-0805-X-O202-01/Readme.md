@@ -104,6 +104,7 @@ Prevalance: (15\10986) 0.1365%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R10'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-390-STAN-01', 'ID': 'R11'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -114,7 +115,6 @@ Prevalance: (15\10986) 0.1365%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

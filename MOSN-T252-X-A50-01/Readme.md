@@ -30,12 +30,6 @@ Contents
 
 ## EDA
 
-### Footprints
-  
-
-|[![FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-3_TabPin2/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-3_TabPin2/)||||
-| :---: | :---: | :---: | :---: |
-
 ## Images
   
   
@@ -61,5 +55,4 @@ Contents
 - ooPin2: D
 - ooPin3: S
 - ooDesignator: Q1
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2
 - manufacturerPartNumber: AOD4184A

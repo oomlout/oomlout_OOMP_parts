@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -81,9 +81,9 @@ Prevalance: (2\10986) 0.0182%
 - oompID: CAPC-0402-X-PF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5325-STAN-01', 'ID': 'C16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13990-STAN-01', 'ID': 'C5'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

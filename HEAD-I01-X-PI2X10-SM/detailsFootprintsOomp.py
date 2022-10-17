@@ -1,8 +1,7 @@
 import OOMP
 newPart = OOMP.getPartByID("HEAD-I01-X-PI2X10-SM")
 
-newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical_SMD')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_01x1010_Male')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_First')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_Last')

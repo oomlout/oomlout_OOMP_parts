@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH15
 - oompID: HEAD-JSTSH-X-PI15-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical

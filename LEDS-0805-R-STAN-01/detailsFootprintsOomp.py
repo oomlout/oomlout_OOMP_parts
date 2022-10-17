@@ -9,4 +9,3 @@ newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni
 newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805')
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric')
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Device-LED')

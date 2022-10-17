@@ -45,6 +45,12 @@ Contents
 
 ## EDA
 
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -63,6 +69,7 @@ Contents
 - oompDesc: STAN
 - oompIndex: 01
 - oompID: BUTA-06-X-STAN-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-SW_Push
 
 
 

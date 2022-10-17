@@ -45,6 +45,12 @@ Contents
 
 ## EDA
 
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -97,6 +103,7 @@ Contents
 - oompSymbol: twoSidedPackage;##ooNumPins@@/2
 - ooPin1: .
 - ooPin2: .
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-SW_Push
 
 
 

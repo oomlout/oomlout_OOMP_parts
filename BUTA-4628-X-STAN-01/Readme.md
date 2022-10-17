@@ -29,6 +29,12 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Switch-SW_Push](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Switch/SW_Push/)||||
+| :---: | :---: | :---: | :---: |
   
 
 ### Instances
@@ -207,3 +213,4 @@ Prevalance: (85\10986) 0.7737%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5426-STAN-01', 'ID': 'Q1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5426-STAN-01', 'ID': 'Q2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-904-STAN-01', 'ID': 'SW1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-SW_Push

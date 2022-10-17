@@ -115,6 +115,6 @@ Prevalance: (41\10986) 0.3732%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R38'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R40'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R41'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

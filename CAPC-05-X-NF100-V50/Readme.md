@@ -38,7 +38,7 @@ Contents
 ### Symbols
   
 
-|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -63,4 +63,4 @@ Contents
 - oompVersion: 98
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - ooDesignator: C1
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
