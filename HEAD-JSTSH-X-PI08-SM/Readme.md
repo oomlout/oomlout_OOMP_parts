@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH8 > JST XH (1 mm) 8 Pin Header (SMD)](#hsh8--jst-xh-1-mm-8-pin-header-smd)
+* [HSH8 > ](#hsh8--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH8 > JST XH (1 mm) 8 Pin Header (SMD)
+# HSH8 > 
 
 - ID: HEAD-JSTSH-X-PI08-SM
 - Hex ID: HSH8
-- Name: JST XH (1 mm) 8 Pin Header (SMD)
-- Description: JST XH (1 mm) 8 Pin Header (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI08-SM](http://oom.lt/HEAD-JSTSH-X-PI08-SM)
 - Short Link: [http://oom.lt/HSH8](http://oom.lt/HSH8)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH8
 - oompID: HEAD-JSTSH-X-PI08-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical

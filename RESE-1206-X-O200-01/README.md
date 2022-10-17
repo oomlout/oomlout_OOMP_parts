@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R12O200 > SMD (1206) 20 Ohm Resistor](#r12o200--smd-1206-20-ohm-resistor)
+* [R12O200 > ](#r12o200--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R12O200 > SMD (1206) 20 Ohm Resistor
+# R12O200 > 
 
 - ID: RESE-1206-X-O200-01
 - Hex ID: R12O200
-- Name: SMD (1206) 20 Ohm Resistor
-- Description: SMD (1206) 20 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-1206-X-O200-01](http://oom.lt/RESE-1206-X-O200-01)
 - Short Link: [http://oom.lt/R12O200](http://oom.lt/R12O200)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F200JT5E'}
 - hexID: R12O200
 - oompID: RESE-1206-X-O200-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

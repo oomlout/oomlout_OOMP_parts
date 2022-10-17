@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH4 > JST XH (2.5 mm) 4 Pin Header](#hxh4--jst-xh-25-mm-4-pin-header)
+* [HXH4 > ](#hxh4--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH4 > JST XH (2.5 mm) 4 Pin Header
+# HXH4 > 
 
 - ID: HEAD-JSTXH-X-PI04-01
 - Hex ID: HXH4
-- Name: JST XH (2.5 mm) 4 Pin Header
-- Description: JST XH (2.5 mm) 4 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI04-01](http://oom.lt/HEAD-JSTXH-X-PI04-01)
 - Short Link: [http://oom.lt/HXH4](http://oom.lt/HXH4)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH4
 - oompID: HEAD-JSTXH-X-PI04-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04

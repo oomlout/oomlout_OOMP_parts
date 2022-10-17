@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [BT4628 > SMD (4628) Pushbutton (Tactile)](#bt4628--smd-4628-pushbutton-tactile)
+* [BT4628 > ](#bt4628--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# BT4628 > SMD (4628) Pushbutton (Tactile)
+# BT4628 > 
 
 - ID: BUTA-4628-X-STAN-01
 - Hex ID: BT4628
-- Name: SMD (4628) Pushbutton (Tactile)
-- Description: SMD (4628) Pushbutton (Tactile)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/BUTA-4628-X-STAN-01](http://oom.lt/BUTA-4628-X-STAN-01)
 - Short Link: [http://oom.lt/BT4628](http://oom.lt/BT4628)
 

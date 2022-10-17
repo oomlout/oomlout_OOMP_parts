@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [DJ2Z > 2.1 mm DC Jack](#dj2z--21-mm-dc-jack)
+* [DJ2Z > ](#dj2z--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# DJ2Z > 2.1 mm DC Jack
+# DJ2Z > 
 
 - ID: DCJP-21D-X-STAN-02
 - Hex ID: DJ2Z
-- Name: 2.1 mm DC Jack
-- Description: 2.1 mm DC Jack
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/DCJP-21D-X-STAN-02](http://oom.lt/DCJP-21D-X-STAN-02)
 - Short Link: [http://oom.lt/DJ2Z](http://oom.lt/DJ2Z)
 

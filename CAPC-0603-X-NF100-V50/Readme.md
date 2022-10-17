@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6N100 > SMD (0603) 100 nF Capacitor (Ceramic) 50v](#c6n100--smd-0603-100-nf-capacitor-ceramic-50v)
+* [C6N100 > ](#c6n100--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6N100 > SMD (0603) 100 nF Capacitor (Ceramic) 50v
+# C6N100 > 
 
 - ID: CAPC-0603-X-NF100-V50
 - Hex ID: C6N100
-- Name: SMD (0603) 100 nF Capacitor (Ceramic) 50v
-- Description: SMD (0603) 100 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0603-X-NF100-V50](http://oom.lt/CAPC-0603-X-NF100-V50)
 - Short Link: [http://oom.lt/C6N100](http://oom.lt/C6N100)
 
@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -174,9 +174,9 @@ Prevalance: (854\10986) 7.7735%
 |[PROJ-ADAF-5423-STAN-01<br>Adafruit TSC2007 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5423-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5423-STAN-01/)|[C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5423-STAN-01/)|
 |[PROJ-ADAF-5425-STAN-01<br>Adafruit VL53L4CX PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|[C6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|
 |[PROJ-ADAF-935-STAN-01<br>Adafruit MCP4725 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|[C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|
-|[PROJ-ARDU-DUE-STAN-01<br>Arduino DUE](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[C41, C50](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|
-|[PROJ-ARDU-MEGA-2560-01<br>Arduino 2560 Mega](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[C2, C3, C4, C5, C6, C7, C8, C9, C11, C12, C16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|
-|[PROJ-ARDU-UNO-REV3-SM<br>Arduino Rev3 Uno (SMD)](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
+|[PROJ-ARDU-DUE-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[C41, C50](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|
+|[PROJ-ARDU-MEGA-2560-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[C2, C3, C4, C5, C6, C7, C8, C9, C11, C12, C16](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|
+|[PROJ-ARDU-UNO-REV3-SM<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
 |[PROJ-SPAR-10025-STAN-01<br>EiBotBoard](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[C1, C2, C3, C4, C5, C6, C7, C8, C11, C12, C15, C18, C19, C21](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
 |[PROJ-SPAR-10101-STAN-01<br>Window Comparator](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[C1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|
 |[PROJ-SPAR-10121-STAN-01<br>IMU Digital Combo Board](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|[C1, C2, C4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|
@@ -1233,9 +1233,9 @@ Prevalance: (854\10986) 7.7735%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'C3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'C7'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

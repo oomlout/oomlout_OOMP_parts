@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O470 > SMD (0402) 47 Ohm Resistor](#r4o470--smd-0402-47-ohm-resistor)
+* [R4O470 > ](#r4o470--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O470 > SMD (0402) 47 Ohm Resistor
+# R4O470 > 
 
 - ID: RESE-0402-X-O470-01
 - Hex ID: R4O470
-- Name: SMD (0402) 47 Ohm Resistor
-- Description: SMD (0402) 47 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O470-01](http://oom.lt/RESE-0402-X-O470-01)
 - Short Link: [http://oom.lt/R4O470](http://oom.lt/R4O470)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF470JTCE'}
 - hexID: R4O470
 - oompID: RESE-0402-X-O470-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

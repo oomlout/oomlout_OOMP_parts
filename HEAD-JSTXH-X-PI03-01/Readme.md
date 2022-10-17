@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH3 > JST XH (2.5 mm) 3 Pin Header](#hxh3--jst-xh-25-mm-3-pin-header)
+* [HXH3 > ](#hxh3--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH3 > JST XH (2.5 mm) 3 Pin Header
+# HXH3 > 
 
 - ID: HEAD-JSTXH-X-PI03-01
 - Hex ID: HXH3
-- Name: JST XH (2.5 mm) 3 Pin Header
-- Description: JST XH (2.5 mm) 3 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI03-01](http://oom.lt/HEAD-JSTXH-X-PI03-01)
 - Short Link: [http://oom.lt/HXH3](http://oom.lt/HXH3)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH3
 - oompID: HEAD-JSTXH-X-PI03-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O470 > SMD (0603) 47 Ohm Resistor](#r6o470--smd-0603-47-ohm-resistor)
+* [R6O470 > ](#r6o470--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O470 > SMD (0603) 47 Ohm Resistor
+# R6O470 > 
 
 - ID: RESE-0603-X-O470-01
 - Hex ID: R6O470
-- Name: SMD (0603) 47 Ohm Resistor
-- Description: SMD (0603) 47 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O470-01](http://oom.lt/RESE-0603-X-O470-01)
 - Short Link: [http://oom.lt/R6O470](http://oom.lt/R6O470)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF470JT5E'}
 - hexID: R6O470
 - oompID: RESE-0603-X-O470-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [T35L15 > 3.5 mm 15 Pin Blue Screw Terminal](#t35l15--35-mm-15-pin-blue-screw-terminal)
+* [T35L15 > ](#t35l15--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L15 > 3.5 mm 15 Pin Blue Screw Terminal
+# T35L15 > 
 
 - ID: TERS-35D-L-PI15-01
 - Hex ID: T35L15
-- Name: 3.5 mm 15 Pin Blue Screw Terminal
-- Description: 3.5 mm 15 Pin Blue Screw Terminal
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TERS-35D-L-PI15-01](http://oom.lt/TERS-35D-L-PI15-01)
 - Short Link: [http://oom.lt/T35L15](http://oom.lt/T35L15)
 
@@ -59,5 +59,5 @@ Contents
 - oompIndex: 01
 - hexID: T35L15
 - oompID: TERS-35D-L-PI15-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x15
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x15_P3.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x15

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X9SM > 2.54 mm 18 Pin (2x9) Header (SMD)](#h2x9sm--254-mm-18-pin-2x9-header-smd)
+* [H2X9SM > ](#h2x9sm--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X9SM > 2.54 mm 18 Pin (2x9) Header (SMD)
+# H2X9SM > 
 
 - ID: HEAD-I01-X-PI2X09-SM
 - Hex ID: H2X9SM
-- Name: 2.54 mm 18 Pin (2x9) Header (SMD)
-- Description: 2.54 mm 18 Pin (2x9) Header (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-SM](http://oom.lt/HEAD-I01-X-PI2X09-SM)
 - Short Link: [http://oom.lt/H2X9SM](http://oom.lt/H2X9SM)
 
@@ -35,12 +35,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x09_P2.54mm_Vertical_SMD](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x09_P2.54mm_Vertical_SMD/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x09_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x09_P2.54mm_Vertical_SMD/)||||
+| :---: | :---: | :---: | :---: |
+
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x18_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x18_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_First](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Row_Letter_First/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Row_Letter_First/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_Last](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Row_Letter_Last/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Row_Letter_Last/)|
 | :---: | :---: | :---: | :---: |
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Counter_Clockwise](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Counter_Clockwise/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Counter_Clockwise/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Odd_Even](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Odd_Even/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Odd_Even/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Top_Bottom](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Top_Bottom/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x09_Top_Bottom/)||
 
 ## Images
   
@@ -59,10 +65,11 @@ Contents
 - oompIndex: SM
 - hexID: H2X9SM
 - oompID: HEAD-I01-X-PI2X09-SM
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0909_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x09_AB
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x09_Row_Letter_First
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x09_Row_Letter_Last
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x09_Counter_Clockwise
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x09_Odd_Even
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x09_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x09_P2.54mm_Vertical_SMD
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x09_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x09_Top_Bottom

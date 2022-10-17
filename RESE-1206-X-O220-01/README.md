@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R12O220 > SMD (1206) 22 Ohm Resistor](#r12o220--smd-1206-22-ohm-resistor)
+* [R12O220 > ](#r12o220--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R12O220 > SMD (1206) 22 Ohm Resistor
+# R12O220 > 
 
 - ID: RESE-1206-X-O220-01
 - Hex ID: R12O220
-- Name: SMD (1206) 22 Ohm Resistor
-- Description: SMD (1206) 22 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-1206-X-O220-01](http://oom.lt/RESE-1206-X-O220-01)
 - Short Link: [http://oom.lt/R12O220](http://oom.lt/R12O220)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F220JT5E'}
 - hexID: R12O220
 - oompID: RESE-1206-X-O220-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

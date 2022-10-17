@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS2R > 2.54 mm 2 Pin Header (Socket) (Round)](#hs2r--254-mm-2-pin-header-socket-round)
+* [HS2R > ](#hs2r--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS2R > 2.54 mm 2 Pin Header (Socket) (Round)
+# HS2R > 
 
 - ID: HEAS-I01-X-PI02-RO
 - Hex ID: HS2R
-- Name: 2.54 mm 2 Pin Header (Socket) (Round)
-- Description: 2.54 mm 2 Pin Header (Socket) (Round)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-I01-X-PI02-RO](http://oom.lt/HEAS-I01-X-PI02-RO)
 - Short Link: [http://oom.lt/HS2R](http://oom.lt/HS2R)
 

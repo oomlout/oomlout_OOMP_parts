@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R8O802 > SMD (0805) 8k Ohm Resistor](#r8o802--smd-0805-8k-ohm-resistor)
+* [R8O802 > ](#r8o802--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R8O802 > SMD (0805) 8k Ohm Resistor
+# R8O802 > 
 
 - ID: RESE-0805-X-O802-01
 - Hex ID: R8O802
-- Name: SMD (0805) 8k Ohm Resistor
-- Description: SMD (0805) 8k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0805-X-O802-01](http://oom.lt/RESE-0805-X-O802-01)
 - Short Link: [http://oom.lt/R8O802](http://oom.lt/R8O802)
 
@@ -64,7 +64,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F6801T5E'}
 - hexID: R8O802
 - oompID: RESE-0805-X-O802-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -75,3 +74,4 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

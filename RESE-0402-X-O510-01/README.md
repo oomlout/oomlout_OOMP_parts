@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O510 > SMD (0402) 51 Ohm Resistor](#r4o510--smd-0402-51-ohm-resistor)
+* [R4O510 > ](#r4o510--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O510 > SMD (0402) 51 Ohm Resistor
+# R4O510 > 
 
 - ID: RESE-0402-X-O510-01
 - Hex ID: R4O510
-- Name: SMD (0402) 51 Ohm Resistor
-- Description: SMD (0402) 51 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O510-01](http://oom.lt/RESE-0402-X-O510-01)
 - Short Link: [http://oom.lt/R4O510](http://oom.lt/R4O510)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF510JTCE'}
 - hexID: R4O510
 - oompID: RESE-0402-X-O510-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

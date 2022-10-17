@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [MSZ130 > 130 Size Motor](#msz130--130-size-motor)
+* [MSZ130 > ](#msz130--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# MSZ130 > 130 Size Motor
+# MSZ130 > 
 
 - ID: MOTO-SZ130-X-STAN-01
 - Hex ID: MSZ130
-- Name: 130 Size Motor
-- Description: 130 Size Motor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/MOTO-SZ130-X-STAN-01](http://oom.lt/MOTO-SZ130-X-STAN-01)
 - Short Link: [http://oom.lt/MSZ130](http://oom.lt/MSZ130)
 

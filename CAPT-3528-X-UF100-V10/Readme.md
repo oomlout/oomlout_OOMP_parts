@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [C1U100 > SMD (3528) 100 uF Capacitor (Tantalum) 10v](#c1u100--smd-3528-100-uf-capacitor-tantalum-10v)
+* [C1U100 > ](#c1u100--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C1U100 > SMD (3528) 100 uF Capacitor (Tantalum) 10v
+# C1U100 > 
 
 - ID: CAPT-3528-X-UF100-V10
 - Hex ID: C1U100
-- Name: SMD (3528) 100 uF Capacitor (Tantalum) 10v
-- Description: SMD (3528) 100 uF Capacitor (Tantalum) 10v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-3528-X-UF100-V10](http://oom.lt/CAPT-3528-X-UF100-V10)
 - Short Link: [http://oom.lt/C1U100](http://oom.lt/C1U100)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH2 > JST XH (2.5 mm) 2 Pin Header](#hxh2--jst-xh-25-mm-2-pin-header)
+* [HXH2 > ](#hxh2--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH2 > JST XH (2.5 mm) 2 Pin Header
+# HXH2 > 
 
 - ID: HEAD-JSTXH-X-PI02-01
 - Hex ID: HXH2
-- Name: JST XH (2.5 mm) 2 Pin Header
-- Description: JST XH (2.5 mm) 2 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI02-01](http://oom.lt/HEAD-JSTXH-X-PI02-01)
 - Short Link: [http://oom.lt/HXH2](http://oom.lt/HXH2)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH2
 - oompID: HEAD-JSTXH-X-PI02-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02

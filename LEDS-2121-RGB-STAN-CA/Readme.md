@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [LRGB2121CA > SMD (2121) RGB LED Common Anode](#lrgb2121ca--smd-2121-rgb-led-common-anode)
+* [LRGB2121CA > ](#lrgb2121ca--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# LRGB2121CA > SMD (2121) RGB LED Common Anode
+# LRGB2121CA > 
 
 - ID: LEDS-2121-RGB-STAN-CA
 - Hex ID: LRGB2121CA
-- Name: SMD (2121) RGB LED Common Anode
-- Description: SMD (2121) RGB LED Common Anode
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/LEDS-2121-RGB-STAN-CA](http://oom.lt/LEDS-2121-RGB-STAN-CA)
 - Short Link: [http://oom.lt/LRGB2121CA](http://oom.lt/LRGB2121CA)
 
@@ -29,6 +29,12 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
   
 
 ### Instances
@@ -291,3 +297,4 @@ Prevalance: (233\10986) 2.1209%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'LED115'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'LED116'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'LED117'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

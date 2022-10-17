@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8N70 > SMD (0805) 70 nF Capacitor (Ceramic) 50v](#c8n70--smd-0805-70-nf-capacitor-ceramic-50v)
+* [C8N70 > ](#c8n70--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8N70 > SMD (0805) 70 nF Capacitor (Ceramic) 50v
+# C8N70 > 
 
 - ID: CAPC-0805-X-NF70-V50
 - Hex ID: C8N70
-- Name: SMD (0805) 70 nF Capacitor (Ceramic) 50v
-- Description: SMD (0805) 70 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0805-X-NF70-V50](http://oom.lt/CAPC-0805-X-NF70-V50)
 - Short Link: [http://oom.lt/C8N70](http://oom.lt/C8N70)
 
@@ -41,7 +41,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -64,7 +64,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21B474KBFNNNE'}
 - hexID: C8N70
 - oompID: CAPC-0805-X-NF70-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -74,3 +73,4 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

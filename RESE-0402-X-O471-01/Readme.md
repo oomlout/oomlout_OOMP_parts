@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R4O471 > SMD (0402) 470 Ohm Resistor](#r4o471--smd-0402-470-ohm-resistor)
+* [R4O471 > ](#r4o471--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R4O471 > SMD (0402) 470 Ohm Resistor
+# R4O471 > 
 
 - ID: RESE-0402-X-O471-01
 - Hex ID: R4O471
-- Name: SMD (0402) 470 Ohm Resistor
-- Description: SMD (0402) 470 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O471-01](http://oom.lt/RESE-0402-X-O471-01)
 - Short Link: [http://oom.lt/R4O471](http://oom.lt/R4O471)
 
@@ -104,9 +104,9 @@ Prevalance: (20\10986) 0.182%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14631-STAN-01', 'ID': 'R11'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14631-STAN-01', 'ID': 'R12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14631-STAN-01', 'ID': 'R13'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

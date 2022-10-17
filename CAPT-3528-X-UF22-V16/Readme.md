@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [C3528U022F > SMD (3528) 22 uF Capacitor (Tantalum) 16v](#c3528u022f--smd-3528-22-uf-capacitor-tantalum-16v)
+* [C3528U022F > ](#c3528u022f--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C3528U022F > SMD (3528) 22 uF Capacitor (Tantalum) 16v
+# C3528U022F > 
 
 - ID: CAPT-3528-X-UF22-V16
 - Hex ID: C3528U022F
-- Name: SMD (3528) 22 uF Capacitor (Tantalum) 16v
-- Description: SMD (3528) 22 uF Capacitor (Tantalum) 16v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-3528-X-UF22-V16](http://oom.lt/CAPT-3528-X-UF22-V16)
 - Short Link: [http://oom.lt/C3528U022F](http://oom.lt/C3528U022F)
 

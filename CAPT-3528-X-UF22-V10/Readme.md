@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS3528U022 > SMD (3528) 22 uF Capacitor (Tantalum) 10v](#cts3528u022--smd-3528-22-uf-capacitor-tantalum-10v)
+* [CTS3528U022 > ](#cts3528u022--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS3528U022 > SMD (3528) 22 uF Capacitor (Tantalum) 10v
+# CTS3528U022 > 
 
 - ID: CAPT-3528-X-UF22-V10
 - Hex ID: CTS3528U022
-- Name: SMD (3528) 22 uF Capacitor (Tantalum) 10v
-- Description: SMD (3528) 22 uF Capacitor (Tantalum) 10v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-3528-X-UF22-V10](http://oom.lt/CAPT-3528-X-UF22-V10)
 - Short Link: [http://oom.lt/CTS3528U022](http://oom.lt/CTS3528U022)
 

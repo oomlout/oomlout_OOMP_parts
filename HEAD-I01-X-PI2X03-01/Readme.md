@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [ > 2.54 mm 6 Pin (2x3) Header](#--254-mm-6-pin-2x3-header)
+* [H2X3 > ](#h2x3--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-#  > 2.54 mm 6 Pin (2x3) Header
+# H2X3 > 
 
 - ID: HEAD-I01-X-PI2X03-01
-- Hex ID: 
-- Name: 2.54 mm 6 Pin (2x3) Header
-- Description: 2.54 mm 6 Pin (2x3) Header
+- Hex ID: H2X3
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-01](http://oom.lt/HEAD-I01-X-PI2X03-01)
-- Short Link: [http://oom.lt/](http://oom.lt/)
+- Short Link: [http://oom.lt/H2X3](http://oom.lt/H2X3)
 
 ## Labels
   
@@ -33,9 +33,9 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Row_Letter_First/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Row_Letter_First/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Row_Letter_Last/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Row_Letter_Last/)|
 | :---: | :---: | :---: | :---: |
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Counter_Clockwise/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Counter_Clockwise/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Odd_Even/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Odd_Even/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Top_Bottom/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x03_Top_Bottom/)||
   
 
 ### Instances
@@ -59,10 +59,10 @@ Prevalance: (31\10986) 0.2822%
 |[PROJ-ADAF-659-STAN-01<br>Adafruit Flora Mainboard](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-659-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-659-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-659-STAN-01/)|
 |[PROJ-ADAF-795-STAN-01<br>Adafruit Menta PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-795-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-795-STAN-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-795-STAN-01/)|
 |[PROJ-ADAF-91-STAN-01<br>Adafruit_USB_Boarduino_PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|[JP3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|
-|[PROJ-ARDU-LEO-STAN-01<br>Arduino Leonardo](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[ICSP](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
-|[PROJ-ARDU-MICRO-STAN-01<br>Arduino Micro](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
-|[PROJ-ARDU-UNO-REV3-01<br>Arduino Rev3 Uno](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
-|[PROJ-ARDU-UNO-REV3-SM<br>Arduino Rev3 Uno (SMD)](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
+|[PROJ-ARDU-LEO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[ICSP](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
+|[PROJ-ARDU-MICRO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
+|[PROJ-ARDU-UNO-REV3-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
+|[PROJ-ARDU-UNO-REV3-SM<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[ICSP, ICSP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
 
 ## Images
   
@@ -74,23 +74,12 @@ Prevalance: (31\10986) 0.2822%
 
 ## Tags
 
-- oompSort: 
-- oompClass: Through Hole
-- oompClassCode: THTH
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI2X03
 - oompIndex: 01
-- oompVersion: 40
-- ooPitch: 2.54
-- ooPinHeight: 11.60
-- ooPinWidth: 0.64
-- ooPinOffset: 1.53
-- ooNumRows: 2
-- ooNumPins: 6
-- ooFootprint: OOMP-HEAD-I01-X-PI2x03-01
-- ooDesignator: J1
+- hexID: H2X3
 - oompID: HEAD-I01-X-PI2X03-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1429-STAN-01', 'ID': 'JP2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1429-STAN-01', 'ID': 'JP3'}
@@ -123,10 +112,10 @@ Prevalance: (31\10986) 0.2822%
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-01', 'ID': 'ICSP1'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-UNO-REV3-SM', 'ID': 'ICSP1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0303_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Counter_Clockwise
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Odd_Even
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Top_Bottom
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x03_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom

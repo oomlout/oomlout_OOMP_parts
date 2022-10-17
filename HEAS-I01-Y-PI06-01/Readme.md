@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS06Y > 2.54 mm 6 Pin Yellow Header (Socket)](#hs06y--254-mm-6-pin-yellow-header-socket)
+* [HS06Y > ](#hs06y--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS06Y > 2.54 mm 6 Pin Yellow Header (Socket)
+# HS06Y > 
 
 - ID: HEAS-I01-Y-PI06-01
 - Hex ID: HS06Y
-- Name: 2.54 mm 6 Pin Yellow Header (Socket)
-- Description: 2.54 mm 6 Pin Yellow Header (Socket)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-I01-Y-PI06-01](http://oom.lt/HEAS-I01-Y-PI06-01)
 - Short Link: [http://oom.lt/HS06Y](http://oom.lt/HS06Y)
 

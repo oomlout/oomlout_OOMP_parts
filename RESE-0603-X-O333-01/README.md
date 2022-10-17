@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O333 > SMD (0603) 33k Ohm Resistor](#r6o333--smd-0603-33k-ohm-resistor)
+* [R6O333 > ](#r6o333--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O333 > SMD (0603) 33k Ohm Resistor
+# R6O333 > 
 
 - ID: RESE-0603-X-O333-01
 - Hex ID: R6O333
-- Name: SMD (0603) 33k Ohm Resistor
-- Description: SMD (0603) 33k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O333-01](http://oom.lt/RESE-0603-X-O333-01)
 - Short Link: [http://oom.lt/R6O333](http://oom.lt/R6O333)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3302T5E'}
 - hexID: R6O333
 - oompID: RESE-0603-X-O333-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

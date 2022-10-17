@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [L20102 > SMD (2020) Smart Controller (APA102) RGB LED](#l20102--smd-2020-smart-controller-apa102-rgb-led)
+* [L20102 > ](#l20102--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# L20102 > SMD (2020) Smart Controller (APA102) RGB LED
+# L20102 > 
 
 - ID: LEDS-2020-RGB-K102-01
 - Hex ID: L20102
-- Name: SMD (2020) Smart Controller (APA102) RGB LED
-- Description: SMD (2020) Smart Controller (APA102) RGB LED
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/LEDS-2020-RGB-K102-01](http://oom.lt/LEDS-2020-RGB-K102-01)
 - Short Link: [http://oom.lt/L20102](http://oom.lt/L20102)
 
@@ -29,6 +29,12 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
   
 
 ### Instances
@@ -325,3 +331,4 @@ Prevalance: (260\10986) 2.3666%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14967-STAN-01', 'ID': 'D18'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14967-STAN-01', 'ID': 'D19'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14967-STAN-01', 'ID': 'D20'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

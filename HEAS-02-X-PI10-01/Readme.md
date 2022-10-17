@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HS210 > 2 mm 10 Pin Header (Socket)](#hs210--2-mm-10-pin-header-socket)
+* [HS210 > ](#hs210--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HS210 > 2 mm 10 Pin Header (Socket)
+# HS210 > 
 
 - ID: HEAS-02-X-PI10-01
 - Hex ID: HS210
-- Name: 2 mm 10 Pin Header (Socket)
-- Description: 2 mm 10 Pin Header (Socket)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-02-X-PI10-01](http://oom.lt/HEAS-02-X-PI10-01)
 - Short Link: [http://oom.lt/HS210](http://oom.lt/HS210)
 

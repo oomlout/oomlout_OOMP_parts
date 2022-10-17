@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O121 > SMD (0603) 120 Ohm Resistor](#r6o121--smd-0603-120-ohm-resistor)
+* [R6O121 > ](#r6o121--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O121 > SMD (0603) 120 Ohm Resistor
+# R6O121 > 
 
 - ID: RESE-0603-X-O121-01
 - Hex ID: R6O121
-- Name: SMD (0603) 120 Ohm Resistor
-- Description: SMD (0603) 120 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O121-01](http://oom.lt/RESE-0603-X-O121-01)
 - Short Link: [http://oom.lt/R6O121](http://oom.lt/R6O121)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1200T5E'}
 - hexID: R6O121
 - oompID: RESE-0603-X-O121-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

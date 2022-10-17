@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O510 > SMD (0603) 51 Ohm Resistor](#r6o510--smd-0603-51-ohm-resistor)
+* [R6O510 > ](#r6o510--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O510 > SMD (0603) 51 Ohm Resistor
+# R6O510 > 
 
 - ID: RESE-0603-X-O510-01
 - Hex ID: R6O510
-- Name: SMD (0603) 51 Ohm Resistor
-- Description: SMD (0603) 51 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O510-01](http://oom.lt/RESE-0603-X-O510-01)
 - Short Link: [http://oom.lt/R6O510](http://oom.lt/R6O510)
 
@@ -115,6 +115,6 @@ Prevalance: (41\10986) 0.3732%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R38'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R40'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5217-STAN-01', 'ID': 'R41'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

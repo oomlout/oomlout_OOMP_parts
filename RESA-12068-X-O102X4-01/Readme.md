@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RA12102 > SMD (1206-8) 1k Ohm (x4) Resistor Array](#ra12102--smd-1206-8-1k-ohm-x4-resistor-array)
+* [RA12102 > ](#ra12102--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RA12102 > SMD (1206-8) 1k Ohm (x4) Resistor Array
+# RA12102 > 
 
 - ID: RESA-12068-X-O102X4-01
 - Hex ID: RA12102
-- Name: SMD (1206-8) 1k Ohm (x4) Resistor Array
-- Description: SMD (1206-8) 1k Ohm (x4) Resistor Array
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESA-12068-X-O102X4-01](http://oom.lt/RESA-12068-X-O102X4-01)
 - Short Link: [http://oom.lt/RA12102](http://oom.lt/RA12102)
 

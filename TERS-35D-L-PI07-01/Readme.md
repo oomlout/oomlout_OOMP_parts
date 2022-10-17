@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [T35L7 > 3.5 mm 7 Pin Blue Screw Terminal](#t35l7--35-mm-7-pin-blue-screw-terminal)
+* [T35L7 > ](#t35l7--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L7 > 3.5 mm 7 Pin Blue Screw Terminal
+# T35L7 > 
 
 - ID: TERS-35D-L-PI07-01
 - Hex ID: T35L7
-- Name: 3.5 mm 7 Pin Blue Screw Terminal
-- Description: 3.5 mm 7 Pin Blue Screw Terminal
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TERS-35D-L-PI07-01](http://oom.lt/TERS-35D-L-PI07-01)
 - Short Link: [http://oom.lt/T35L7](http://oom.lt/T35L7)
 
@@ -59,5 +59,5 @@ Contents
 - oompIndex: 01
 - hexID: T35L7
 - oompID: TERS-35D-L-PI07-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x07_P3.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07

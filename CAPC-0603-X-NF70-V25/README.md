@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6N70 > SMD (0603) 70 nF Capacitor (Ceramic) 25v](#c6n70--smd-0603-70-nf-capacitor-ceramic-25v)
+* [C6N70 > ](#c6n70--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6N70 > SMD (0603) 70 nF Capacitor (Ceramic) 25v
+# C6N70 > 
 
 - ID: CAPC-0603-X-NF70-V25
 - Hex ID: C6N70
-- Name: SMD (0603) 70 nF Capacitor (Ceramic) 25v
-- Description: SMD (0603) 70 nF Capacitor (Ceramic) 25v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0603-X-NF70-V25](http://oom.lt/CAPC-0603-X-NF70-V25)
 - Short Link: [http://oom.lt/C6N70](http://oom.lt/C6N70)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10B474KA8NNNC'}
 - hexID: C6N70
 - oompID: CAPC-0603-X-NF70-V25
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

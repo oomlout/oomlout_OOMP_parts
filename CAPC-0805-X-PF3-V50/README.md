@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8P3 > SMD (0805) 3 pF Capacitor (Ceramic) 50v](#c8p3--smd-0805-3-pf-capacitor-ceramic-50v)
+* [C8P3 > ](#c8p3--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8P3 > SMD (0805) 3 pF Capacitor (Ceramic) 50v
+# C8P3 > 
 
 - ID: CAPC-0805-X-PF3-V50
 - Hex ID: C8P3
-- Name: SMD (0805) 3 pF Capacitor (Ceramic) 50v
-- Description: SMD (0805) 3 pF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0805-X-PF3-V50](http://oom.lt/CAPC-0805-X-PF3-V50)
 - Short Link: [http://oom.lt/C8P3](http://oom.lt/C8P3)
 
@@ -41,7 +41,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -64,7 +64,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0805JRNPO9BN330'}
 - hexID: C8P3
 - oompID: CAPC-0805-X-PF3-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -74,3 +73,4 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

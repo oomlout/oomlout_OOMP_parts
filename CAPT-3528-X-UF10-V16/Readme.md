@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS35U010F > SMD (3528) 10 uF Capacitor (Tantalum) 16v](#cts35u010f--smd-3528-10-uf-capacitor-tantalum-16v)
+* [CTS35U010F > ](#cts35u010f--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS35U010F > SMD (3528) 10 uF Capacitor (Tantalum) 16v
+# CTS35U010F > 
 
 - ID: CAPT-3528-X-UF10-V16
 - Hex ID: CTS35U010F
-- Name: SMD (3528) 10 uF Capacitor (Tantalum) 16v
-- Description: SMD (3528) 10 uF Capacitor (Tantalum) 16v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-3528-X-UF10-V16](http://oom.lt/CAPT-3528-X-UF10-V16)
 - Short Link: [http://oom.lt/CTS35U010F](http://oom.lt/CTS35U010F)
 

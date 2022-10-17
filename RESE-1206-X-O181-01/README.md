@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R12O181 > SMD (1206) 180 Ohm Resistor](#r12o181--smd-1206-180-ohm-resistor)
+* [R12O181 > ](#r12o181--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R12O181 > SMD (1206) 180 Ohm Resistor
+# R12O181 > 
 
 - ID: RESE-1206-X-O181-01
 - Hex ID: R12O181
-- Name: SMD (1206) 180 Ohm Resistor
-- Description: SMD (1206) 180 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-1206-X-O181-01](http://oom.lt/RESE-1206-X-O181-01)
 - Short Link: [http://oom.lt/R12O181](http://oom.lt/R12O181)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1800T5E'}
 - hexID: R12O181
 - oompID: RESE-1206-X-O181-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

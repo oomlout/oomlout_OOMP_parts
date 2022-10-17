@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X6RS > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)](#h2x6rs--254-mm-12-pin-2x6-header-right-angle-smd)
+* [H2X6RS > ](#h2x6rs--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X6RS > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
+# H2X6RS > 
 
 - ID: HEAD-I01-X-PI2X06-RS
 - Hex ID: H2X6RS
-- Name: 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
-- Description: 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-RS](http://oom.lt/HEAD-I01-X-PI2X06-RS)
 - Short Link: [http://oom.lt/H2X6RS](http://oom.lt/H2X6RS)
 
@@ -38,9 +38,9 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Row_Letter_First/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Row_Letter_First/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Row_Letter_Last/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Row_Letter_Last/)|
 | :---: | :---: | :---: | :---: |
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Counter_Clockwise/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Counter_Clockwise/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Odd_Even/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Odd_Even/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x06_Top_Bottom/)||
 
 ## Images
   
@@ -59,10 +59,10 @@ Contents
 - oompIndex: RS
 - hexID: H2X6RS
 - oompID: HEAD-I01-X-PI2X06-RS
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0606_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x06_AB
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x06_Row_Letter_First
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x06_Row_Letter_Last
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x06_Counter_Clockwise
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x06_Odd_Even
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x06_Top_Bottom
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x06_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom

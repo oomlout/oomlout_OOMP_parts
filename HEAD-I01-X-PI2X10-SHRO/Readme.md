@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)](#h2x10sh--254-mm-20-pin-2x10-header-shrouded-idc)
+* [H2X10SH > ](#h2x10sh--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
+# H2X10SH > 
 
 - ID: HEAD-I01-X-PI2X10-SHRO
 - Hex ID: H2X10SH
-- Name: 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
-- Description: 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-SHRO](http://oom.lt/HEAD-I01-X-PI2X10-SHRO)
 - Short Link: [http://oom.lt/H2X10SH](http://oom.lt/H2X10SH)
 
@@ -33,15 +33,15 @@ Contents
 ### Footprints
   
 
-|[![FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Horizontal](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Horizontal/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Horizontal](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Horizontal/)|[![FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/)|||
+|[![FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/)||||
 | :---: | :---: | :---: | :---: |
 
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/)|
 | :---: | :---: | :---: | :---: |
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/)|[![SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/)||
 
 ## Images
   
@@ -60,12 +60,11 @@ Contents
 - oompIndex: SHRO
 - hexID: H2X10SH
 - oompID: HEAD-I01-X-PI2X10-SHRO
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x1010_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_First
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_Last
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Counter_Clockwise
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Odd_Even
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Top_Bottom
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Horizontal
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x10_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom

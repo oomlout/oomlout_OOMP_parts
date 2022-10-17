@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS08W > 2.54 mm 8 Pin White Header (Socket)](#hs08w--254-mm-8-pin-white-header-socket)
+* [HS08W > ](#hs08w--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS08W > 2.54 mm 8 Pin White Header (Socket)
+# HS08W > 
 
 - ID: HEAS-I01-W-PI08-01
 - Hex ID: HS08W
-- Name: 2.54 mm 8 Pin White Header (Socket)
-- Description: 2.54 mm 8 Pin White Header (Socket)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-I01-W-PI08-01](http://oom.lt/HEAS-I01-W-PI08-01)
 - Short Link: [http://oom.lt/HS08W](http://oom.lt/HS08W)
 

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [C12U10063D > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v](#c12u10063d--smd-1206-100-uf-capacitor-ceramic-63v)
+* [C12U10063D > ](#c12u10063d--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12U10063D > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
+# C12U10063D > 
 
 - ID: CAPC-1206-X-UF100-V63D
 - Hex ID: C12U10063D
-- Name: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
-- Description: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-1206-X-UF100-V63D](http://oom.lt/CAPC-1206-X-UF100-V63D)
 - Short Link: [http://oom.lt/C12U10063D](http://oom.lt/C12U10063D)
 
@@ -44,7 +44,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -68,6 +68,6 @@ Contents
 - hexID: C12U10063D
 - oompID: CAPC-1206-X-UF100-V63D
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'C12'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

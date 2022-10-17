@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [PT55053 > 5 mm SGPT5053C Phototransistor](#pt55053--5-mm-sgpt5053c-phototransistor)
+* [PT55053 > ](#pt55053--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# PT55053 > 5 mm SGPT5053C Phototransistor
+# PT55053 > 
 
 - ID: PHTR-05-X-K5053-01
 - Hex ID: PT55053
-- Name: 5 mm SGPT5053C Phototransistor
-- Description: 5 mm SGPT5053C Phototransistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/PHTR-05-X-K5053-01](http://oom.lt/PHTR-05-X-K5053-01)
 - Short Link: [http://oom.lt/PT55053](http://oom.lt/PT55053)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SVM > Micro Servo](#svm--micro-servo)
+* [SVM > ](#svm--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# SVM > Micro Servo
+# SVM > 
 
 - ID: SERV-MC-X-STAN-01
 - Hex ID: SVM
-- Name: Micro Servo
-- Description: Micro Servo
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/SERV-MC-X-STAN-01](http://oom.lt/SERV-MC-X-STAN-01)
 - Short Link: [http://oom.lt/SVM](http://oom.lt/SVM)
 

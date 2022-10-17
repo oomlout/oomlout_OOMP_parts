@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [BB1 > 170 Point Breadboard](#bb1--170-point-breadboard)
+* [BB1 > ](#bb1--)
 	* [Diagrams](#diagrams)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# BB1 > 170 Point Breadboard
+# BB1 > 
 
 - ID: BREB-P170-X-STAN-01
 - Hex ID: BB1
-- Name: 170 Point Breadboard
-- Description: 170 Point Breadboard
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/BREB-P170-X-STAN-01](http://oom.lt/BREB-P170-X-STAN-01)
 - Short Link: [http://oom.lt/BB1](http://oom.lt/BB1)
 

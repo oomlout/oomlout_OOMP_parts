@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H09 > 2.54 mm 9 Pin Header](#h09--254-mm-9-pin-header)
+* [H09 > ](#h09--)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -13,12 +13,12 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H09 > 2.54 mm 9 Pin Header
+# H09 > 
 
 - ID: HEAD-I01-X-PI09-01
 - Hex ID: H09
-- Name: 2.54 mm 9 Pin Header
-- Description: 2.54 mm 9 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI09-01](http://oom.lt/HEAD-I01-X-PI09-01)
 - Short Link: [http://oom.lt/H09](http://oom.lt/H09)
 
@@ -180,10 +180,10 @@ Prevalance: (46\10986) 0.4187%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14874-STAN-01', 'ID': 'J1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14916-STAN-01', 'ID': 'J5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14916-STAN-01', 'ID': 'J11'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X09
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X09_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X09_LOCK_LONGPADS
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X09_NO_SILK
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x09_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HSHR4 > JST XH (1 mm) 4 Pin Header Right Angle (SMD)](#hshr4--jst-xh-1-mm-4-pin-header-right-angle-smd)
+* [HSHR4 > ](#hshr4--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR4 > JST XH (1 mm) 4 Pin Header Right Angle (SMD)
+# HSHR4 > 
 
 - ID: HEAD-JSTSH-X-PI04-RS
 - Hex ID: HSHR4
-- Name: JST XH (1 mm) 4 Pin Header Right Angle (SMD)
-- Description: JST XH (1 mm) 4 Pin Header Right Angle (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI04-RS](http://oom.lt/HEAD-JSTSH-X-PI04-RS)
 - Short Link: [http://oom.lt/HSHR4](http://oom.lt/HSHR4)
 

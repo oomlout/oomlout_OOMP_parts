@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4N10 > SMD (0402) 10 nF Capacitor (Ceramic) 50v](#c4n10--smd-0402-10-nf-capacitor-ceramic-50v)
+* [C4N10 > ](#c4n10--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4N10 > SMD (0402) 10 nF Capacitor (Ceramic) 50v
+# C4N10 > 
 
 - ID: CAPC-0402-X-NF10-V50
 - Hex ID: C4N10
-- Name: SMD (0402) 10 nF Capacitor (Ceramic) 50v
-- Description: SMD (0402) 10 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-NF10-V50](http://oom.lt/CAPC-0402-X-NF10-V50)
 - Short Link: [http://oom.lt/C4N10](http://oom.lt/C4N10)
 
@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -101,9 +101,9 @@ Prevalance: (16\10986) 0.1456%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11684-STAN-01', 'ID': 'C12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11684-STAN-01', 'ID': 'C23'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11684-STAN-01', 'ID': 'C24'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R4O104 > SMD (0402) 100k Ohm Resistor](#r4o104--smd-0402-100k-ohm-resistor)
+* [R4O104 > ](#r4o104--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R4O104 > SMD (0402) 100k Ohm Resistor
+# R4O104 > 
 
 - ID: RESE-0402-X-O104-01
 - Hex ID: R4O104
-- Name: SMD (0402) 100k Ohm Resistor
-- Description: SMD (0402) 100k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O104-01](http://oom.lt/RESE-0402-X-O104-01)
 - Short Link: [http://oom.lt/R4O104](http://oom.lt/R4O104)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1003TCE'}
 - hexID: R4O104
 - oompID: RESE-0402-X-O104-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

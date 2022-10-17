@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O750 > SMD (0402) 75 Ohm Resistor](#r4o750--smd-0402-75-ohm-resistor)
+* [R4O750 > ](#r4o750--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O750 > SMD (0402) 75 Ohm Resistor
+# R4O750 > 
 
 - ID: RESE-0402-X-O750-01
 - Hex ID: R4O750
-- Name: SMD (0402) 75 Ohm Resistor
-- Description: SMD (0402) 75 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O750-01](http://oom.lt/RESE-0402-X-O750-01)
 - Short Link: [http://oom.lt/R4O750](http://oom.lt/R4O750)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF750JTCE'}
 - hexID: R4O750
 - oompID: RESE-0402-X-O750-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

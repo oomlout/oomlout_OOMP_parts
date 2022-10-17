@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P1 > SMD (0402) 1 pF Capacitor (Ceramic) 50v](#c4p1--smd-0402-1-pf-capacitor-ceramic-50v)
+* [C4P1 > ](#c4p1--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P1 > SMD (0402) 1 pF Capacitor (Ceramic) 50v
+# C4P1 > 
 
 - ID: CAPC-0402-X-PF1-V50
 - Hex ID: C4P1
-- Name: SMD (0402) 1 pF Capacitor (Ceramic) 50v
-- Description: SMD (0402) 1 pF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-PF1-V50](http://oom.lt/CAPC-0402-X-PF1-V50)
 - Short Link: [http://oom.lt/C4P1](http://oom.lt/C4P1)
 
@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG1R0C500NT'}
 - hexID: C4P1
 - oompID: CAPC-0402-X-PF1-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

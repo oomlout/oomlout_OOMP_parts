@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH12 > JST XH (1 mm) 12 Pin Header (SMD)](#hsh12--jst-xh-1-mm-12-pin-header-smd)
+* [HSH12 > ](#hsh12--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH12 > JST XH (1 mm) 12 Pin Header (SMD)
+# HSH12 > 
 
 - ID: HEAD-JSTSH-X-PI12-SM
 - Hex ID: HSH12
-- Name: JST XH (1 mm) 12 Pin Header (SMD)
-- Description: JST XH (1 mm) 12 Pin Header (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI12-SM](http://oom.lt/HEAD-JSTSH-X-PI12-SM)
 - Short Link: [http://oom.lt/HSH12](http://oom.lt/HSH12)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH12
 - oompID: HEAD-JSTSH-X-PI12-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM12B-SRSS-TB_1x12-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM12B-SRSS-TB_1x12-1MP_P1.00mm_Vertical

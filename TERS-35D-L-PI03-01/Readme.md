@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [T35L3 > 3.5 mm 3 Pin Blue Screw Terminal](#t35l3--35-mm-3-pin-blue-screw-terminal)
+* [T35L3 > ](#t35l3--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L3 > 3.5 mm 3 Pin Blue Screw Terminal
+# T35L3 > 
 
 - ID: TERS-35D-L-PI03-01
 - Hex ID: T35L3
-- Name: 3.5 mm 3 Pin Blue Screw Terminal
-- Description: 3.5 mm 3 Pin Blue Screw Terminal
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TERS-35D-L-PI03-01](http://oom.lt/TERS-35D-L-PI03-01)
 - Short Link: [http://oom.lt/T35L3](http://oom.lt/T35L3)
 
@@ -102,5 +102,5 @@ Prevalance: (18\10986) 0.1638%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13815-STAN-01', 'ID': 'J2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14153-STAN-01', 'ID': 'J7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14155-STAN-01', 'ID': 'J3'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03

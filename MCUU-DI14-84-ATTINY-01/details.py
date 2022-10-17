@@ -11,7 +11,7 @@ oSize = "DI14"
 oColor = "84"
 oDesc = "ATTINY"
 oIndex = "01"
-hexId = "MCAT84SC14"
+hexId = "MCAT84DI14"
 
 newPart.addTag('oompType',oType)
 newPart.addTag('oompSize',oSize)

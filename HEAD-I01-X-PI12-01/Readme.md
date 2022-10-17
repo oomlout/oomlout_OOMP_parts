@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H12 > 2.54 mm 12 Pin Header](#h12--254-mm-12-pin-header)
+* [H12 > ](#h12--)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H12 > 2.54 mm 12 Pin Header
+# H12 > 
 
 - ID: HEAD-I01-X-PI12-01
 - Hex ID: H12
-- Name: 2.54 mm 12 Pin Header
-- Description: 2.54 mm 12 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI12-01](http://oom.lt/HEAD-I01-X-PI12-01)
 - Short Link: [http://oom.lt/H12](http://oom.lt/H12)
 
@@ -234,8 +234,6 @@ Prevalance: (74\10986) 0.6736%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14030-STAN-01', 'ID': 'J2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14030-STAN-01', 'ID': 'J3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14713-STAN-01', 'ID': 'J1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X12_LOCK_LONGPADS
@@ -245,6 +243,8 @@ Prevalance: (74\10986) 0.6736%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-112-LOCK-MALE
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x12_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12
 
 
 

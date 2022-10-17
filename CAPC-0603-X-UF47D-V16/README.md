@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6U47D16 > SMD (0603) 4.7 uF Capacitor (Ceramic) 16v](#c6u47d16--smd-0603-47-uf-capacitor-ceramic-16v)
+* [C6U47D16 > ](#c6u47d16--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6U47D16 > SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
+# C6U47D16 > 
 
 - ID: CAPC-0603-X-UF47D-V16
 - Hex ID: C6U47D16
-- Name: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
-- Description: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0603-X-UF47D-V16](http://oom.lt/CAPC-0603-X-UF47D-V16)
 - Short Link: [http://oom.lt/C6U47D16](http://oom.lt/C6U47D16)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A475KO8NNNC'}
 - hexID: C6U47D16
 - oompID: CAPC-0603-X-UF47D-V16
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

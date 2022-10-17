@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12N100 > SMD (1206) 100 nF Capacitor (Ceramic) 50v](#c12n100--smd-1206-100-nf-capacitor-ceramic-50v)
+* [C12N100 > ](#c12n100--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12N100 > SMD (1206) 100 nF Capacitor (Ceramic) 50v
+# C12N100 > 
 
 - ID: CAPC-1206-X-NF100-V50
 - Hex ID: C12N100
-- Name: SMD (1206) 100 nF Capacitor (Ceramic) 50v
-- Description: SMD (1206) 100 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-1206-X-NF100-V50](http://oom.lt/CAPC-1206-X-NF100-V50)
 - Short Link: [http://oom.lt/C12N100](http://oom.lt/C12N100)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31B104KBCNNNC'}
 - hexID: C12N100
 - oompID: CAPC-1206-X-NF100-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

@@ -35,6 +35,12 @@ Contents
 
 ## EDA
 
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -59,3 +65,4 @@ Contents
 - ooDiameter: 5.0 mm
 - ooNumPins: 2
 - ooDesignator: D1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [L8RGB21 > 8 mm Frosted RGB LED (WS2811)](#l8rgb21--8-mm-frosted-rgb-led-ws2811)
+* [L8RGB21 > ](#l8rgb21--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# L8RGB21 > 8 mm Frosted RGB LED (WS2811)
+# L8RGB21 > 
 
 - ID: LEDS-08-RGB-FROS-WS2811
 - Hex ID: L8RGB21
-- Name: 8 mm Frosted RGB LED (WS2811)
-- Description: 8 mm Frosted RGB LED (WS2811)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/LEDS-08-RGB-FROS-WS2811](http://oom.lt/LEDS-08-RGB-FROS-WS2811)
 - Short Link: [http://oom.lt/L8RGB21](http://oom.lt/L8RGB21)
 
@@ -34,6 +34,12 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
 
 ## Images
   
@@ -59,3 +65,4 @@ Contents
 - oompClass: Through Hole Component
 - oompClassCode: THTH
 - ooDesignator: D1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

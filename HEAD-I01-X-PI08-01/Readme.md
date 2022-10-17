@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H08 > 2.54 mm 8 Pin Header](#h08--254-mm-8-pin-header)
+* [H08 > ](#h08--)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H08 > 2.54 mm 8 Pin Header
+# H08 > 
 
 - ID: HEAD-I01-X-PI08-01
 - Hex ID: H08
-- Name: 2.54 mm 8 Pin Header
-- Description: 2.54 mm 8 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI08-01](http://oom.lt/HEAD-I01-X-PI08-01)
 - Short Link: [http://oom.lt/H08](http://oom.lt/H08)
 
@@ -115,8 +115,8 @@ Prevalance: (173\10986) 1.5747%
 |[PROJ-ADAF-802-STAN-01<br>Adafruit 1.8 TFT Shield PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-802-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-802-STAN-01/)|[DIGITALS, DIGITALS2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-802-STAN-01/)|
 |[PROJ-ADAF-91-STAN-01<br>Adafruit_USB_Boarduino_PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|[JD1, JD2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-91-STAN-01/)|
 |[PROJ-ADAF-938-STAN-01<br>Adafruit 1.3inch 128x64 Mono OLED PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-938-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-938-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-938-STAN-01/)|
-|[PROJ-ARDU-LEO-STAN-01<br>Arduino Leonardo](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[J2, J3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
-|[PROJ-ARDU-UNO-REV3-01<br>Arduino Rev3 Uno](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[IOL, POWER](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
+|[PROJ-ARDU-LEO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[J2, J3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
+|[PROJ-ARDU-UNO-REV3-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[IOL, POWER](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
 |[PROJ-SPAR-10345-STAN-01<br>Triple Axis Accelerometer Breakout-LIS331](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10345-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10345-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10345-STAN-01/)|
 |[PROJ-SPAR-10507-STAN-01<br>Quadstepper Motor Driver](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|[5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|[JP16, JP17, JP18, JP19, JP22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10507-STAN-01/)|
 |[PROJ-SPAR-10547-STAN-01<br>Simon-Says](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10547-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10547-STAN-01/)|[JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10547-STAN-01/)|
@@ -372,8 +372,6 @@ Prevalance: (173\10986) 1.5747%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14686-STAN-01', 'ID': 'J6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'J4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'J2'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X08
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X08_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X08_LOCK_LONGPADS
@@ -382,6 +380,8 @@ Prevalance: (173\10986) 1.5747%
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X08-LOCK
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-108
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08
 
 
 

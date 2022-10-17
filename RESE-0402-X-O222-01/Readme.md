@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [R4O222 > SMD (0402) 2.2k Ohm Resistor](#r4o222--smd-0402-22k-ohm-resistor)
+* [R4O222 > ](#r4o222--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# R4O222 > SMD (0402) 2.2k Ohm Resistor
+# R4O222 > 
 
 - ID: RESE-0402-X-O222-01
 - Hex ID: R4O222
-- Name: SMD (0402) 2.2k Ohm Resistor
-- Description: SMD (0402) 2.2k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O222-01](http://oom.lt/RESE-0402-X-O222-01)
 - Short Link: [http://oom.lt/R4O222](http://oom.lt/R4O222)
 
@@ -93,9 +93,9 @@ Prevalance: (19\10986) 0.1729%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10615-STAN-01', 'ID': 'R21'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12081-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12081-STAN-01', 'ID': 'R10'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

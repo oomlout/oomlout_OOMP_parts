@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O4022 > SMD (0603) 40.2k Ohm Resistor](#r6o4022--smd-0603-402k-ohm-resistor)
+* [R6O4022 > ](#r6o4022--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O4022 > SMD (0603) 40.2k Ohm Resistor
+# R6O4022 > 
 
 - ID: RESE-0603-X-O4022-01
 - Hex ID: R6O4022
-- Name: SMD (0603) 40.2k Ohm Resistor
-- Description: SMD (0603) 40.2k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O4022-01](http://oom.lt/RESE-0603-X-O4022-01)
 - Short Link: [http://oom.lt/R6O4022](http://oom.lt/R6O4022)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF4022T5E'}
 - hexID: R6O4022
 - oompID: RESE-0603-X-O4022-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

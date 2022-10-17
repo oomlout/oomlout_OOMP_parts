@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH6 > JST XH (2.5 mm) 6 Pin Header](#hxh6--jst-xh-25-mm-6-pin-header)
+* [HXH6 > ](#hxh6--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH6 > JST XH (2.5 mm) 6 Pin Header
+# HXH6 > 
 
 - ID: HEAD-JSTXH-X-PI06-01
 - Hex ID: HXH6
-- Name: JST XH (2.5 mm) 6 Pin Header
-- Description: JST XH (2.5 mm) 6 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI06-01](http://oom.lt/HEAD-JSTXH-X-PI06-01)
 - Short Link: [http://oom.lt/HXH6](http://oom.lt/HXH6)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH6
 - oompID: HEAD-JSTXH-X-PI06-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06

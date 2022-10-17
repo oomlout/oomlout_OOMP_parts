@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R8O274 > SMD (0805) 270k Ohm Resistor](#r8o274--smd-0805-270k-ohm-resistor)
+* [R8O274 > ](#r8o274--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R8O274 > SMD (0805) 270k Ohm Resistor
+# R8O274 > 
 
 - ID: RESE-0805-X-O274-01
 - Hex ID: R8O274
-- Name: SMD (0805) 270k Ohm Resistor
-- Description: SMD (0805) 270k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0805-X-O274-01](http://oom.lt/RESE-0805-X-O274-01)
 - Short Link: [http://oom.lt/R8O274](http://oom.lt/R8O274)
 
@@ -64,7 +64,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2703T5E'}
 - hexID: R8O274
 - oompID: RESE-0805-X-O274-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -75,3 +74,4 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

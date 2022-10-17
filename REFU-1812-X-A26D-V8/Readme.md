@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RF1826D > SMD (1812) 2.6 A Resetable Fuse 8v](#rf1826d--smd-1812-26-a-resetable-fuse-8v)
+* [RF1826D > ](#rf1826d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RF1826D > SMD (1812) 2.6 A Resetable Fuse 8v
+# RF1826D > 
 
 - ID: REFU-1812-X-A26D-V8
 - Hex ID: RF1826D
-- Name: SMD (1812) 2.6 A Resetable Fuse 8v
-- Description: SMD (1812) 2.6 A Resetable Fuse 8v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/REFU-1812-X-A26D-V8](http://oom.lt/REFU-1812-X-A26D-V8)
 - Short Link: [http://oom.lt/RF1826D](http://oom.lt/RF1826D)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O432 > SMD (0603) 4.3k Ohm Resistor](#r6o432--smd-0603-43k-ohm-resistor)
+* [R6O432 > ](#r6o432--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O432 > SMD (0603) 4.3k Ohm Resistor
+# R6O432 > 
 
 - ID: RESE-0603-X-O432-01
 - Hex ID: R6O432
-- Name: SMD (0603) 4.3k Ohm Resistor
-- Description: SMD (0603) 4.3k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O432-01](http://oom.lt/RESE-0603-X-O432-01)
 - Short Link: [http://oom.lt/R6O432](http://oom.lt/R6O432)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF4301T5E'}
 - hexID: R6O432
 - oompID: RESE-0603-X-O432-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

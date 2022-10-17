@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O154 > SMD (0402) 150k Ohm Resistor](#r4o154--smd-0402-150k-ohm-resistor)
+* [R4O154 > ](#r4o154--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O154 > SMD (0402) 150k Ohm Resistor
+# R4O154 > 
 
 - ID: RESE-0402-X-O154-01
 - Hex ID: R4O154
-- Name: SMD (0402) 150k Ohm Resistor
-- Description: SMD (0402) 150k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O154-01](http://oom.lt/RESE-0402-X-O154-01)
 - Short Link: [http://oom.lt/R4O154](http://oom.lt/R4O154)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1503TCE'}
 - hexID: R4O154
 - oompID: RESE-0402-X-O154-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RF1815D > SMD (1812) 1.5 A Resetable Fuse 6v](#rf1815d--smd-1812-15-a-resetable-fuse-6v)
+* [RF1815D > ](#rf1815d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RF1815D > SMD (1812) 1.5 A Resetable Fuse 6v
+# RF1815D > 
 
 - ID: REFU-1812-X-A15D-V6
 - Hex ID: RF1815D
-- Name: SMD (1812) 1.5 A Resetable Fuse 6v
-- Description: SMD (1812) 1.5 A Resetable Fuse 6v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/REFU-1812-X-A15D-V6](http://oom.lt/REFU-1812-X-A15D-V6)
 - Short Link: [http://oom.lt/RF1815D](http://oom.lt/RF1815D)
 

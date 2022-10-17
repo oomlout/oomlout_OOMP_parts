@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [C32U022 > SMD (3216) 22 uF Capacitor (Tantalum) 10v](#c32u022--smd-3216-22-uf-capacitor-tantalum-10v)
+* [C32U022 > ](#c32u022--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C32U022 > SMD (3216) 22 uF Capacitor (Tantalum) 10v
+# C32U022 > 
 
 - ID: CAPT-3216-X-UF22-V10
 - Hex ID: C32U022
-- Name: SMD (3216) 22 uF Capacitor (Tantalum) 10v
-- Description: SMD (3216) 22 uF Capacitor (Tantalum) 10v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-3216-X-UF22-V10](http://oom.lt/CAPT-3216-X-UF22-V10)
 - Short Link: [http://oom.lt/C32U022](http://oom.lt/C32U022)
 

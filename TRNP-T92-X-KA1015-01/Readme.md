@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [TP9A15 > TO-92 A1015 PNP Transistor](#tp9a15--to-92-a1015-pnp-transistor)
+* [TP9A15 > ](#tp9a15--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TP9A15 > TO-92 A1015 PNP Transistor
+# TP9A15 > 
 
 - ID: TRNP-T92-X-KA1015-01
 - Hex ID: TP9A15
-- Name: TO-92 A1015 PNP Transistor
-- Description: TO-92 A1015 PNP Transistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TRNP-T92-X-KA1015-01](http://oom.lt/TRNP-T92-X-KA1015-01)
 - Short Link: [http://oom.lt/TP9A15](http://oom.lt/TP9A15)
 

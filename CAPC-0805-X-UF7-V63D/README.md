@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8U763D > SMD (0805) 7 uF Capacitor (Ceramic) 6.3v](#c8u763d--smd-0805-7-uf-capacitor-ceramic-63v)
+* [C8U763D > ](#c8u763d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8U763D > SMD (0805) 7 uF Capacitor (Ceramic) 6.3v
+# C8U763D > 
 
 - ID: CAPC-0805-X-UF7-V63D
 - Hex ID: C8U763D
-- Name: SMD (0805) 7 uF Capacitor (Ceramic) 6.3v
-- Description: SMD (0805) 7 uF Capacitor (Ceramic) 6.3v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0805-X-UF7-V63D](http://oom.lt/CAPC-0805-X-UF7-V63D)
 - Short Link: [http://oom.lt/C8U763D](http://oom.lt/C8U763D)
 
@@ -41,7 +41,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -64,7 +64,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21A476MQYNNNE'}
 - hexID: C8U763D
 - oompID: CAPC-0805-X-UF7-V63D
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -74,3 +73,4 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

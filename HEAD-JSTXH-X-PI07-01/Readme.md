@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH7 > JST XH (2.5 mm) 7 Pin Header](#hxh7--jst-xh-25-mm-7-pin-header)
+* [HXH7 > ](#hxh7--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH7 > JST XH (2.5 mm) 7 Pin Header
+# HXH7 > 
 
 - ID: HEAD-JSTXH-X-PI07-01
 - Hex ID: HXH7
-- Name: JST XH (2.5 mm) 7 Pin Header
-- Description: JST XH (2.5 mm) 7 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI07-01](http://oom.lt/HEAD-JSTXH-X-PI07-01)
 - Short Link: [http://oom.lt/HXH7](http://oom.lt/HXH7)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH7
 - oompID: HEAD-JSTXH-X-PI07-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B7B-XH-A_1x07_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07

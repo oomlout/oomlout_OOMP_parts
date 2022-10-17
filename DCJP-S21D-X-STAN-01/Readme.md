@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [DJS21 > 2.1 mm (SMD) DC Jack](#djs21--21-mm-smd-dc-jack)
+* [DJS21 > ](#djs21--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# DJS21 > 2.1 mm (SMD) DC Jack
+# DJS21 > 
 
 - ID: DCJP-S21D-X-STAN-01
 - Hex ID: DJS21
-- Name: 2.1 mm (SMD) DC Jack
-- Description: 2.1 mm (SMD) DC Jack
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/DCJP-S21D-X-STAN-01](http://oom.lt/DCJP-S21D-X-STAN-01)
 - Short Link: [http://oom.lt/DJS21](http://oom.lt/DJS21)
 

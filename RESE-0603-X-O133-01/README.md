@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O133 > SMD (0603) 13k Ohm Resistor](#r6o133--smd-0603-13k-ohm-resistor)
+* [R6O133 > ](#r6o133--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O133 > SMD (0603) 13k Ohm Resistor
+# R6O133 > 
 
 - ID: RESE-0603-X-O133-01
 - Hex ID: R6O133
-- Name: SMD (0603) 13k Ohm Resistor
-- Description: SMD (0603) 13k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O133-01](http://oom.lt/RESE-0603-X-O133-01)
 - Short Link: [http://oom.lt/R6O133](http://oom.lt/R6O133)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1302T5E'}
 - hexID: R6O133
 - oompID: RESE-0603-X-O133-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

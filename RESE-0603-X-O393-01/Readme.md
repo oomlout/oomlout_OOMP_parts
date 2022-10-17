@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O393 > SMD (0603) 39k Ohm Resistor](#r6o393--smd-0603-39k-ohm-resistor)
+* [R6O393 > ](#r6o393--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O393 > SMD (0603) 39k Ohm Resistor
+# R6O393 > 
 
 - ID: RESE-0603-X-O393-01
 - Hex ID: R6O393
-- Name: SMD (0603) 39k Ohm Resistor
-- Description: SMD (0603) 39k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O393-01](http://oom.lt/RESE-0603-X-O393-01)
 - Short Link: [http://oom.lt/R6O393](http://oom.lt/R6O393)
 
@@ -78,6 +78,6 @@ Prevalance: (6\10986) 0.0546%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R13'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R21'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13155-STAN-01', 'ID': 'R22'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O221 > SMD (0402) 220 Ohm Resistor](#r4o221--smd-0402-220-ohm-resistor)
+* [R4O221 > ](#r4o221--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O221 > SMD (0402) 220 Ohm Resistor
+# R4O221 > 
 
 - ID: RESE-0402-X-O221-01
 - Hex ID: R4O221
-- Name: SMD (0402) 220 Ohm Resistor
-- Description: SMD (0402) 220 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0402-X-O221-01](http://oom.lt/RESE-0402-X-O221-01)
 - Short Link: [http://oom.lt/R4O221](http://oom.lt/R4O221)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF2200TCE'}
 - hexID: R4O221
 - oompID: RESE-0402-X-O221-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

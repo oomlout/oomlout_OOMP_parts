@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HS15 > 2.54 mm 15 Pin Header (Socket)](#hs15--254-mm-15-pin-header-socket)
+* [HS15 > ](#hs15--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HS15 > 2.54 mm 15 Pin Header (Socket)
+# HS15 > 
 
 - ID: HEAS-I01-X-PI15-01
 - Hex ID: HS15
-- Name: 2.54 mm 15 Pin Header (Socket)
-- Description: 2.54 mm 15 Pin Header (Socket)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-I01-X-PI15-01](http://oom.lt/HEAS-I01-X-PI15-01)
 - Short Link: [http://oom.lt/HS15](http://oom.lt/HS15)
 

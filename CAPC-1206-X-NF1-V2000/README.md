@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12N12000 > SMD (1206) 1 nF Capacitor (Ceramic) 2kV](#c12n12000--smd-1206-1-nf-capacitor-ceramic-2kv)
+* [C12N12000 > ](#c12n12000--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12N12000 > SMD (1206) 1 nF Capacitor (Ceramic) 2kV
+# C12N12000 > 
 
 - ID: CAPC-1206-X-NF1-V2000
 - Hex ID: C12N12000
-- Name: SMD (1206) 1 nF Capacitor (Ceramic) 2kV
-- Description: SMD (1206) 1 nF Capacitor (Ceramic) 2kV
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-1206-X-NF1-V2000](http://oom.lt/CAPC-1206-X-NF1-V2000)
 - Short Link: [http://oom.lt/C12N12000](http://oom.lt/C12N12000)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '1206B102K202NT'}
 - hexID: C12N12000
 - oompID: CAPC-1206-X-NF1-V2000
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

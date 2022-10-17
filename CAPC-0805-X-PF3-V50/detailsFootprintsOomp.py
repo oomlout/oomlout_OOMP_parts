@@ -10,4 +10,4 @@ newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni
 newPart.addTag('footprintEagle','FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805')
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric')
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Switch-C')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Device-C')

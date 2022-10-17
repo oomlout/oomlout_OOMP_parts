@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [CTS60U100F > SMD (6032) 100 uF Capacitor (Tantalum) 16v](#cts60u100f--smd-6032-100-uf-capacitor-tantalum-16v)
+* [CTS60U100F > ](#cts60u100f--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# CTS60U100F > SMD (6032) 100 uF Capacitor (Tantalum) 16v
+# CTS60U100F > 
 
 - ID: CAPT-6032-X-UF100-V16
 - Hex ID: CTS60U100F
-- Name: SMD (6032) 100 uF Capacitor (Tantalum) 16v
-- Description: SMD (6032) 100 uF Capacitor (Tantalum) 16v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-6032-X-UF100-V16](http://oom.lt/CAPT-6032-X-UF100-V16)
 - Short Link: [http://oom.lt/CTS60U100F](http://oom.lt/CTS60U100F)
 

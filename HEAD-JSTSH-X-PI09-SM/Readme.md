@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH9 > JST XH (1 mm) 9 Pin Header (SMD)](#hsh9--jst-xh-1-mm-9-pin-header-smd)
+* [HSH9 > ](#hsh9--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH9 > JST XH (1 mm) 9 Pin Header (SMD)
+# HSH9 > 
 
 - ID: HEAD-JSTSH-X-PI09-SM
 - Hex ID: HSH9
-- Name: JST XH (1 mm) 9 Pin Header (SMD)
-- Description: JST XH (1 mm) 9 Pin Header (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI09-SM](http://oom.lt/HEAD-JSTSH-X-PI09-SM)
 - Short Link: [http://oom.lt/HSH9](http://oom.lt/HSH9)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH9
 - oompID: HEAD-JSTSH-X-PI09-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM09B-SRSS-TB_1x09-1MP_P1.00mm_Vertical

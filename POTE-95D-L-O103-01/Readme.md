@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [PTA103 > 9.5 mm 10k Ohm Blue Potentiometer](#pta103--95-mm-10k-ohm-blue-potentiometer)
+* [PTA103 > ](#pta103--)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# PTA103 > 9.5 mm 10k Ohm Blue Potentiometer
+# PTA103 > 
 
 - ID: POTE-95D-L-O103-01
 - Hex ID: PTA103
-- Name: 9.5 mm 10k Ohm Blue Potentiometer
-- Description: 9.5 mm 10k Ohm Blue Potentiometer
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/POTE-95D-L-O103-01](http://oom.lt/POTE-95D-L-O103-01)
 - Short Link: [http://oom.lt/PTA103](http://oom.lt/PTA103)
 

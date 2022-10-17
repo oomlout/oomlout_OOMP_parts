@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH13 > JST XH (2.5 mm) 13 Pin Header](#hxh13--jst-xh-25-mm-13-pin-header)
+* [HXH13 > ](#hxh13--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH13 > JST XH (2.5 mm) 13 Pin Header
+# HXH13 > 
 
 - ID: HEAD-JSTXH-X-PI13-01
 - Hex ID: HXH13
-- Name: JST XH (2.5 mm) 13 Pin Header
-- Description: JST XH (2.5 mm) 13 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI13-01](http://oom.lt/HEAD-JSTXH-X-PI13-01)
 - Short Link: [http://oom.lt/HXH13](http://oom.lt/HXH13)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH13
 - oompID: HEAD-JSTXH-X-PI13-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-AM_1x13_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13

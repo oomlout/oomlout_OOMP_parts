@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [D34148 > SMD (SOD-323) Diode](#d34148--smd-sod-323-diode)
+* [D34148 > ](#d34148--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# D34148 > SMD (SOD-323) Diode
+# D34148 > 
 
 - ID: DIOD-S323-X-K4148-01
 - Hex ID: D34148
-- Name: SMD (SOD-323) Diode
-- Description: SMD (SOD-323) Diode
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/DIOD-S323-X-K4148-01](http://oom.lt/DIOD-S323-X-K4148-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)
 

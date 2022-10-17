@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS3U022 > SMD (6032) 22 uF Capacitor (Tantalum) 25v](#cts3u022--smd-6032-22-uf-capacitor-tantalum-25v)
+* [CTS3U022 > ](#cts3u022--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS3U022 > SMD (6032) 22 uF Capacitor (Tantalum) 25v
+# CTS3U022 > 
 
 - ID: CAPT-6032-X-UF22-V25
 - Hex ID: CTS3U022
-- Name: SMD (6032) 22 uF Capacitor (Tantalum) 25v
-- Description: SMD (6032) 22 uF Capacitor (Tantalum) 25v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPT-6032-X-UF22-V25](http://oom.lt/CAPT-6032-X-UF22-V25)
 - Short Link: [http://oom.lt/CTS3U022](http://oom.lt/CTS3U022)
 

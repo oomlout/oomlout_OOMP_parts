@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v](#vr1117812--so-8-ld1117-voltage-regulator-12-v)
+* [VR1117812 > ](#vr1117812--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v
+# VR1117812 > 
 
 - ID: VREG-SO8-X-KLD1117-V12D
 - Hex ID: VR1117812
-- Name: SO-8 LD1117 Voltage Regulator 1.2 v
-- Description: SO-8 LD1117 Voltage Regulator 1.2 v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V12D](http://oom.lt/VREG-SO8-X-KLD1117-V12D)
 - Short Link: [http://oom.lt/VR1117812](http://oom.lt/VR1117812)
 

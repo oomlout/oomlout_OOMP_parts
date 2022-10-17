@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O204 > SMD (0603) 200k Ohm Resistor](#r6o204--smd-0603-200k-ohm-resistor)
+* [R6O204 > ](#r6o204--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O204 > SMD (0603) 200k Ohm Resistor
+# R6O204 > 
 
 - ID: RESE-0603-X-O204-01
 - Hex ID: R6O204
-- Name: SMD (0603) 200k Ohm Resistor
-- Description: SMD (0603) 200k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O204-01](http://oom.lt/RESE-0603-X-O204-01)
 - Short Link: [http://oom.lt/R6O204](http://oom.lt/R6O204)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2003T5E'}
 - hexID: R6O204
 - oompID: RESE-0603-X-O204-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

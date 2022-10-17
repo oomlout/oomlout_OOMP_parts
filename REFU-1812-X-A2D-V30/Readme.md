@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RF182D > SMD (1812) 200 mA Resetable Fuse 30 v](#rf182d--smd-1812-200-ma-resetable-fuse-30-v)
+* [RF182D > ](#rf182d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RF182D > SMD (1812) 200 mA Resetable Fuse 30 v
+# RF182D > 
 
 - ID: REFU-1812-X-A2D-V30
 - Hex ID: RF182D
-- Name: SMD (1812) 200 mA Resetable Fuse 30 v
-- Description: SMD (1812) 200 mA Resetable Fuse 30 v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/REFU-1812-X-A2D-V30](http://oom.lt/REFU-1812-X-A2D-V30)
 - Short Link: [http://oom.lt/RF182D](http://oom.lt/RF182D)
 

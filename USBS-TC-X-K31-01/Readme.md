@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
+* [USCK31 > ](#usck31--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# USCK31 > Type C TYPE-C-31-M-12 USB Socket
+# USCK31 > 
 
 - ID: USBS-TC-X-K31-01
 - Hex ID: USCK31
-- Name: Type C TYPE-C-31-M-12 USB Socket
-- Description: Type C TYPE-C-31-M-12 USB Socket
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/USBS-TC-X-K31-01](http://oom.lt/USBS-TC-X-K31-01)
 - Short Link: [http://oom.lt/USCK31](http://oom.lt/USCK31)
 

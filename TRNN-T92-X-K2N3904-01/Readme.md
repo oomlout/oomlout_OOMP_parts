@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [TN92N34 > TO-92 2N3904 NPN Transistor](#tn92n34--to-92-2n3904-npn-transistor)
+* [TN92N34 > ](#tn92n34--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TN92N34 > TO-92 2N3904 NPN Transistor
+# TN92N34 > 
 
 - ID: TRNN-T92-X-K2N3904-01
 - Hex ID: TN92N34
-- Name: TO-92 2N3904 NPN Transistor
-- Description: TO-92 2N3904 NPN Transistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TRNN-T92-X-K2N3904-01](http://oom.lt/TRNN-T92-X-K2N3904-01)
 - Short Link: [http://oom.lt/TN92N34](http://oom.lt/TN92N34)
 

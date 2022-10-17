@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR1 > JST XH (1 mm) 1 Pin Header Right Angle (SMD)](#hshr1--jst-xh-1-mm-1-pin-header-right-angle-smd)
+* [HSHR1 > ](#hshr1--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR1 > JST XH (1 mm) 1 Pin Header Right Angle (SMD)
+# HSHR1 > 
 
 - ID: HEAD-JSTSH-X-PI01-RS
 - Hex ID: HSHR1
-- Name: JST XH (1 mm) 1 Pin Header Right Angle (SMD)
-- Description: JST XH (1 mm) 1 Pin Header Right Angle (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI01-RS](http://oom.lt/HEAD-JSTSH-X-PI01-RS)
 - Short Link: [http://oom.lt/HSHR1](http://oom.lt/HSHR1)
 

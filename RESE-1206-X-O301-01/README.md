@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R12O301 > SMD (1206) 300 Ohm Resistor](#r12o301--smd-1206-300-ohm-resistor)
+* [R12O301 > ](#r12o301--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R12O301 > SMD (1206) 300 Ohm Resistor
+# R12O301 > 
 
 - ID: RESE-1206-X-O301-01
 - Hex ID: R12O301
-- Name: SMD (1206) 300 Ohm Resistor
-- Description: SMD (1206) 300 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-1206-X-O301-01](http://oom.lt/RESE-1206-X-O301-01)
 - Short Link: [http://oom.lt/R12O301](http://oom.lt/R12O301)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F3000T5E'}
 - hexID: R12O301
 - oompID: RESE-1206-X-O301-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

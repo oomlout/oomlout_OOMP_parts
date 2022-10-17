@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [VR1117D12 > DPAK LD1117 Voltage Regulator 1.2 v](#vr1117d12--dpak-ld1117-voltage-regulator-12-v)
+* [VR1117D12 > ](#vr1117d12--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VR1117D12 > DPAK LD1117 Voltage Regulator 1.2 v
+# VR1117D12 > 
 
 - ID: VREG-DPAK-X-KLD1117-V12D
 - Hex ID: VR1117D12
-- Name: DPAK LD1117 Voltage Regulator 1.2 v
-- Description: DPAK LD1117 Voltage Regulator 1.2 v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V12D](http://oom.lt/VREG-DPAK-X-KLD1117-V12D)
 - Short Link: [http://oom.lt/VR1117D12](http://oom.lt/VR1117D12)
 

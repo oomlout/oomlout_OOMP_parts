@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R8O101 > SMD (0805) 100 Ohm Resistor](#r8o101--smd-0805-100-ohm-resistor)
+* [R8O101 > ](#r8o101--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R8O101 > SMD (0805) 100 Ohm Resistor
+# R8O101 > 
 
 - ID: RESE-0805-X-O101-01
 - Hex ID: R8O101
-- Name: SMD (0805) 100 Ohm Resistor
-- Description: SMD (0805) 100 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0805-X-O101-01](http://oom.lt/RESE-0805-X-O101-01)
 - Short Link: [http://oom.lt/R8O101](http://oom.lt/R8O101)
 
@@ -124,7 +124,6 @@ Prevalance: (34\10986) 0.3095%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3263-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3678-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3678-STAN-01', 'ID': 'R6'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -135,6 +134,7 @@ Prevalance: (34\10986) 0.3095%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

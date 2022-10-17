@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O220 > SMD (0603) 22 Ohm Resistor](#r6o220--smd-0603-22-ohm-resistor)
+* [R6O220 > ](#r6o220--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O220 > SMD (0603) 22 Ohm Resistor
+# R6O220 > 
 
 - ID: RESE-0603-X-O220-01
 - Hex ID: R6O220
-- Name: SMD (0603) 22 Ohm Resistor
-- Description: SMD (0603) 22 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O220-01](http://oom.lt/RESE-0603-X-O220-01)
 - Short Link: [http://oom.lt/R6O220](http://oom.lt/R6O220)
 
@@ -159,9 +159,9 @@ Prevalance: (57\10986) 0.5188%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13614-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14478-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14478-STAN-01', 'ID': 'R2'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

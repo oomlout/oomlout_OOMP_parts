@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C4U263D > SMD (0402) 2 uF Capacitor (Ceramic) 6.3v](#c4u263d--smd-0402-2-uf-capacitor-ceramic-63v)
+* [C4U263D > ](#c4u263d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C4U263D > SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
+# C4U263D > 
 
 - ID: CAPC-0402-X-UF2-V63D
 - Hex ID: C4U263D
-- Name: SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
-- Description: SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-UF2-V63D](http://oom.lt/CAPC-0402-X-UF2-V63D)
 - Short Link: [http://oom.lt/C4U263D](http://oom.lt/C4U263D)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A225MQ5NSNC'}
 - hexID: C4U263D
 - oompID: CAPC-0402-X-UF2-V63D
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

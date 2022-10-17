@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v](#vr1117825--so-8-ld1117-voltage-regulator-25-v)
+* [VR1117825 > ](#vr1117825--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v
+# VR1117825 > 
 
 - ID: VREG-SO8-X-KLD1117-V25D
 - Hex ID: VR1117825
-- Name: SO-8 LD1117 Voltage Regulator 2.5 v
-- Description: SO-8 LD1117 Voltage Regulator 2.5 v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V25D](http://oom.lt/VREG-SO8-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR1117825](http://oom.lt/VR1117825)
 

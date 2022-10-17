@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H04 > 2.54 mm 4 Pin Header](#h04--254-mm-4-pin-header)
+* [H04 > ](#h04--)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H04 > 2.54 mm 4 Pin Header
+# H04 > 
 
 - ID: HEAD-I01-X-PI04-01
 - Hex ID: H04
-- Name: 2.54 mm 4 Pin Header
-- Description: 2.54 mm 4 Pin Header
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-I01-X-PI04-01](http://oom.lt/HEAD-I01-X-PI04-01)
 - Short Link: [http://oom.lt/H04](http://oom.lt/H04)
 
@@ -373,14 +373,14 @@ Prevalance: (152\10986) 1.3836%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14765-STAN-01', 'ID': 'JP3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14843-STAN-01', 'ID': 'J3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15005-STAN-01', 'ID': 'J3'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_LOCK_LONGPADS
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X04_NO_SILK
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X04-CLEANBIG
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x04_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04
 
 
 

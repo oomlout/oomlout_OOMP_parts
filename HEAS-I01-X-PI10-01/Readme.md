@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HS10 > 2.54 mm 10 Pin Header (Socket)](#hs10--254-mm-10-pin-header-socket)
+* [HS10 > ](#hs10--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HS10 > 2.54 mm 10 Pin Header (Socket)
+# HS10 > 
 
 - ID: HEAS-I01-X-PI10-01
 - Hex ID: HS10
-- Name: 2.54 mm 10 Pin Header (Socket)
-- Description: 2.54 mm 10 Pin Header (Socket)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAS-I01-X-PI10-01](http://oom.lt/HEAS-I01-X-PI10-01)
 - Short Link: [http://oom.lt/HS10](http://oom.lt/HS10)
 

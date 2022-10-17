@@ -3,4 +3,4 @@ newPart = OOMP.getPartByID("CAPC-1206-X-UF7-V10")
 
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric')
 newPart.addTag('footprintKicad','FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Switch-C')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Device-C')

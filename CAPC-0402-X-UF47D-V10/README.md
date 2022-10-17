@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C4U47D10 > SMD (0402) 4.7 uF Capacitor (Ceramic) 10v](#c4u47d10--smd-0402-47-uf-capacitor-ceramic-10v)
+* [C4U47D10 > ](#c4u47d10--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C4U47D10 > SMD (0402) 4.7 uF Capacitor (Ceramic) 10v
+# C4U47D10 > 
 
 - ID: CAPC-0402-X-UF47D-V10
 - Hex ID: C4U47D10
-- Name: SMD (0402) 4.7 uF Capacitor (Ceramic) 10v
-- Description: SMD (0402) 4.7 uF Capacitor (Ceramic) 10v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-UF47D-V10](http://oom.lt/CAPC-0402-X-UF47D-V10)
 - Short Link: [http://oom.lt/C4U47D10](http://oom.lt/C4U47D10)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A475MP5NRNC'}
 - hexID: C4U47D10
 - oompID: CAPC-0402-X-UF47D-V10
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

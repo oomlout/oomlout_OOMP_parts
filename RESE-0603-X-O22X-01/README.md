@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O2201 > SMD (0603) 2.2 Ohm Resistor](#r6o2201--smd-0603-22-ohm-resistor)
+* [R6O2201 > ](#r6o2201--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O2201 > SMD (0603) 2.2 Ohm Resistor
+# R6O2201 > 
 
 - ID: RESE-0603-X-O22X-01
 - Hex ID: R6O2201
-- Name: SMD (0603) 2.2 Ohm Resistor
-- Description: SMD (0603) 2.2 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O22X-01](http://oom.lt/RESE-0603-X-O22X-01)
 - Short Link: [http://oom.lt/R6O2201](http://oom.lt/R6O2201)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF220KT5E'}
 - hexID: R6O2201
 - oompID: RESE-0603-X-O22X-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

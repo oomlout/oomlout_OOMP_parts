@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [TN98050 > TO-92 S8050 NPN Transistor](#tn98050--to-92-s8050-npn-transistor)
+* [TN98050 > ](#tn98050--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TN98050 > TO-92 S8050 NPN Transistor
+# TN98050 > 
 
 - ID: TRNN-T92-X-KS8050-01
 - Hex ID: TN98050
-- Name: TO-92 S8050 NPN Transistor
-- Description: TO-92 S8050 NPN Transistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/TRNN-T92-X-KS8050-01](http://oom.lt/TRNN-T92-X-KS8050-01)
 - Short Link: [http://oom.lt/TN98050](http://oom.lt/TN98050)
 

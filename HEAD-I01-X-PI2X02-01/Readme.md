@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [H2X02 > 2.54 mm 4 Pin (2x2) Header](#h2x02--254-mm-4-pin-2x2-header)
+* [H2X2 > ](#h2x2--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X02 > 2.54 mm 4 Pin (2x2) Header
+# H2X2 > 
 
-- ID: HEAD-I01-X-PI2x02-01
-- Hex ID: H2X02
-- Name: 2.54 mm 4 Pin (2x2) Header
-- Description: 2.54 mm 4 Pin (2x2) Header
-- Long Link: [http://oom.lt/HEAD-I01-X-PI2x02-01](http://oom.lt/HEAD-I01-X-PI2x02-01)
-- Short Link: [http://oom.lt/H2X02](http://oom.lt/H2X02)
+- ID: HEAD-I01-X-PI2X02-01
+- Hex ID: H2X2
+- Name: 
+- Description: 
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-01](http://oom.lt/HEAD-I01-X-PI2X02-01)
+- Short Link: [http://oom.lt/H2X2](http://oom.lt/H2X2)
 
 ## Labels
   
@@ -30,13 +30,6 @@ Contents
 
 ## EDA
 
-### Symbols
-  
-
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
-| :---: | :---: | :---: | :---: |
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
-
 ## Images
   
   
@@ -47,32 +40,10 @@ Contents
 
 ## Tags
 
-- oompID: HEAD-I01-X-PI2x02-01
-- name: 2.54 mm 4 Pin (2x2) Header
-- hexID: H2X02
-- oompSort: A0101Z2X02
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI2X02
 - oompIndex: 01
-- oompVersion: 99
-- oompSkip: true
-- ooPitch: 2.54 mm
-- ooWidth: 5.08mm
-- ooHeight: 11.8 mm
-- ooLength: 5.08 mm
-- ooMaterial: 
-- ooNumRows: 2
-- ooNumPins: 4
-- ooFootprint: OOMP-HEAD-I01-X-PI2x02-01
-- oompClass: Through Hole Component
-- oompClassCode: THTH
-- ooDesignator: J1
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0202_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x02_AB
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_First
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_Last
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Counter_Clockwise
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Odd_Even
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Top_Bottom
+- hexID: H2X2
+- oompID: HEAD-I01-X-PI2X02-01

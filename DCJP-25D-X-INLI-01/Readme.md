@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [DCJ25I > 2.5 mm (Inline) DC Jack](#dcj25i--25-mm-inline-dc-jack)
+* [DCJ25I > ](#dcj25i--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# DCJ25I > 2.5 mm (Inline) DC Jack
+# DCJ25I > 
 
 - ID: DCJP-25D-X-INLI-01
 - Hex ID: DCJ25I
-- Name: 2.5 mm (Inline) DC Jack
-- Description: 2.5 mm (Inline) DC Jack
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/DCJP-25D-X-INLI-01](http://oom.lt/DCJP-25D-X-INLI-01)
 - Short Link: [http://oom.lt/DCJ25I](http://oom.lt/DCJ25I)
 

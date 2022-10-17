@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [ > XHP 70 Cree White LED](#--xhp-70-cree-white-led)
+* [ > ](#--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-#  > XHP 70 Cree White LED
+#  > 
 
 - ID: LEDS-XHP70-W-CREE-01
 - Hex ID: 
-- Name: XHP 70 Cree White LED
-- Description: XHP 70 Cree White LED
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/LEDS-XHP70-W-CREE-01](http://oom.lt/LEDS-XHP70-W-CREE-01)
 - Short Link: [http://oom.lt/](http://oom.lt/)
 
@@ -35,6 +35,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_6V/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_6V/)|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_12V/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_12V/)|||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -51,4 +63,7 @@ Contents
 - oompDesc: CREE
 - oompIndex: 01
 - hexID: 
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V
 - oompID: LEDS-XHP70-W-CREE-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

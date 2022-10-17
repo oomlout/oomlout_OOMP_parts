@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C8N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v](#c8n100--smd-0805-100-nf-capacitor-ceramic-50v)
+* [C8N100 > ](#c8n100--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C8N100 > SMD (0805) 100 nF Capacitor (Ceramic) 50v
+# C8N100 > 
 
 - ID: CAPC-0805-X-NF100-V50
 - Hex ID: C8N100
-- Name: SMD (0805) 100 nF Capacitor (Ceramic) 50v
-- Description: SMD (0805) 100 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0805-X-NF100-V50](http://oom.lt/CAPC-0805-X-NF100-V50)
 - Short Link: [http://oom.lt/C8N100](http://oom.lt/C8N100)
 
@@ -47,7 +47,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -560,7 +560,6 @@ Prevalance: (369\10986) 3.3588%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-91-STAN-01', 'ID': 'C3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-91-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-987-STAN-01', 'ID': 'C1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -570,6 +569,7 @@ Prevalance: (369\10986) 3.3588%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

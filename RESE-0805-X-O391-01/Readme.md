@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R8O391 > SMD (0805) 390 Ohm Resistor](#r8o391--smd-0805-390-ohm-resistor)
+* [R8O391 > ](#r8o391--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R8O391 > SMD (0805) 390 Ohm Resistor
+# R8O391 > 
 
 - ID: RESE-0805-X-O391-01
 - Hex ID: R8O391
-- Name: SMD (0805) 390 Ohm Resistor
-- Description: SMD (0805) 390 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0805-X-O391-01](http://oom.lt/RESE-0805-X-O391-01)
 - Short Link: [http://oom.lt/R8O391](http://oom.lt/R8O391)
 
@@ -70,7 +70,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F3900T5E'}
 - hexID: R8O391
 - oompID: RESE-0805-X-O391-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -81,6 +80,7 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

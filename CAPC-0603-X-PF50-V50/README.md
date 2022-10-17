@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6P50 > SMD (0603) 50 pF Capacitor (Ceramic) 50v](#c6p50--smd-0603-50-pf-capacitor-ceramic-50v)
+* [C6P50 > ](#c6p50--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6P50 > SMD (0603) 50 pF Capacitor (Ceramic) 50v
+# C6P50 > 
 
 - ID: CAPC-0603-X-PF50-V50
 - Hex ID: C6P50
-- Name: SMD (0603) 50 pF Capacitor (Ceramic) 50v
-- Description: SMD (0603) 50 pF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0603-X-PF50-V50](http://oom.lt/CAPC-0603-X-PF50-V50)
 - Short Link: [http://oom.lt/C6P50](http://oom.lt/C6P50)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603B151K500NT'}
 - hexID: C6P50
 - oompID: CAPC-0603-X-PF50-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

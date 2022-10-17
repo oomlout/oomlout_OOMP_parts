@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H14RS > 1 mm 4 Pin Header Right Angle (SMD)](#h14rs--1-mm-4-pin-header-right-angle-smd)
+* [H14RS > ](#h14rs--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H14RS > 1 mm 4 Pin Header Right Angle (SMD)
+# H14RS > 
 
 - ID: HEAD-01-X-PI04-RS
 - Hex ID: H14RS
-- Name: 1 mm 4 Pin Header Right Angle (SMD)
-- Description: 1 mm 4 Pin Header Right Angle (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-01-X-PI04-RS](http://oom.lt/HEAD-01-X-PI04-RS)
 - Short Link: [http://oom.lt/H14RS](http://oom.lt/H14RS)
 

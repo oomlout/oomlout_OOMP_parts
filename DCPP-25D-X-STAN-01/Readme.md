@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [DCP25 > 2.5 mm DC Plug](#dcp25--25-mm-dc-plug)
+* [DCP25 > ](#dcp25--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# DCP25 > 2.5 mm DC Plug
+# DCP25 > 
 
 - ID: DCPP-25D-X-STAN-01
 - Hex ID: DCP25
-- Name: 2.5 mm DC Plug
-- Description: 2.5 mm DC Plug
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/DCPP-25D-X-STAN-01](http://oom.lt/DCPP-25D-X-STAN-01)
 - Short Link: [http://oom.lt/DCP25](http://oom.lt/DCP25)
 

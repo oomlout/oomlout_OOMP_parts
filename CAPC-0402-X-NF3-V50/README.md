@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C4N3 > SMD (0402) 3 nF Capacitor (Ceramic) 50v](#c4n3--smd-0402-3-nf-capacitor-ceramic-50v)
+* [C4N3 > ](#c4n3--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C4N3 > SMD (0402) 3 nF Capacitor (Ceramic) 50v
+# C4N3 > 
 
 - ID: CAPC-0402-X-NF3-V50
 - Hex ID: C4N3
-- Name: SMD (0402) 3 nF Capacitor (Ceramic) 50v
-- Description: SMD (0402) 3 nF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-NF3-V50](http://oom.lt/CAPC-0402-X-NF3-V50)
 - Short Link: [http://oom.lt/C4N3](http://oom.lt/C4N3)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B332KB5NNNC'}
 - hexID: C4N3
 - oompID: CAPC-0402-X-NF3-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

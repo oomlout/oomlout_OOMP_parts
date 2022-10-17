@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O391 > SMD (0603) 390 Ohm Resistor](#r6o391--smd-0603-390-ohm-resistor)
+* [R6O391 > ](#r6o391--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O391 > SMD (0603) 390 Ohm Resistor
+# R6O391 > 
 
 - ID: RESE-0603-X-O391-01
 - Hex ID: R6O391
-- Name: SMD (0603) 390 Ohm Resistor
-- Description: SMD (0603) 390 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O391-01](http://oom.lt/RESE-0603-X-O391-01)
 - Short Link: [http://oom.lt/R6O391](http://oom.lt/R6O391)
 
@@ -112,9 +112,9 @@ Prevalance: (24\10986) 0.2185%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14589-STAN-01', 'ID': 'R6'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

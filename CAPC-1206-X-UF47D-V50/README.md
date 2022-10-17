@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12U47D > SMD (1206) 4.7 uF Capacitor (Ceramic) 50v](#c12u47d--smd-1206-47-uf-capacitor-ceramic-50v)
+* [C12U47D > ](#c12u47d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12U47D > SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
+# C12U47D > 
 
 - ID: CAPC-1206-X-UF47D-V50
 - Hex ID: C12U47D
-- Name: SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
-- Description: SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-1206-X-UF47D-V50](http://oom.lt/CAPC-1206-X-UF47D-V50)
 - Short Link: [http://oom.lt/C12U47D](http://oom.lt/C12U47D)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '1206B475K500NT'}
 - hexID: C12U47D
 - oompID: CAPC-1206-X-UF47D-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

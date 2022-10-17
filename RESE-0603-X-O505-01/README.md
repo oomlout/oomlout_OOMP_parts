@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O505 > SMD (0603) 5M Ohm Resistor](#r6o505--smd-0603-5m-ohm-resistor)
+* [R6O505 > ](#r6o505--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O505 > SMD (0603) 5M Ohm Resistor
+# R6O505 > 
 
 - ID: RESE-0603-X-O505-01
 - Hex ID: R6O505
-- Name: SMD (0603) 5M Ohm Resistor
-- Description: SMD (0603) 5M Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O505-01](http://oom.lt/RESE-0603-X-O505-01)
 - Short Link: [http://oom.lt/R6O505](http://oom.lt/R6O505)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1504T5E'}
 - hexID: R6O505
 - oompID: RESE-0603-X-O505-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

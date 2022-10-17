@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P100 > SMD (0402) 100 pF Capacitor (Ceramic) 50v](#c4p100--smd-0402-100-pf-capacitor-ceramic-50v)
+* [C4P100 > ](#c4p100--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P100 > SMD (0402) 100 pF Capacitor (Ceramic) 50v
+# C4P100 > 
 
 - ID: CAPC-0402-X-PF100-V50
 - Hex ID: C4P100
-- Name: SMD (0402) 100 pF Capacitor (Ceramic) 50v
-- Description: SMD (0402) 100 pF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0402-X-PF100-V50](http://oom.lt/CAPC-0402-X-PF100-V50)
 - Short Link: [http://oom.lt/C4P100](http://oom.lt/C4P100)
 
@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -81,9 +81,9 @@ Prevalance: (2\10986) 0.0182%
 - oompID: CAPC-0402-X-PF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5325-STAN-01', 'ID': 'C16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13990-STAN-01', 'ID': 'C5'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

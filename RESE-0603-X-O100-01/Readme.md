@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O100 > SMD (0603) 10 Ohm Resistor](#r6o100--smd-0603-10-ohm-resistor)
+* [R6O100 > ](#r6o100--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O100 > SMD (0603) 10 Ohm Resistor
+# R6O100 > 
 
 - ID: RESE-0603-X-O100-01
 - Hex ID: R6O100
-- Name: SMD (0603) 10 Ohm Resistor
-- Description: SMD (0603) 10 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O100-01](http://oom.lt/RESE-0603-X-O100-01)
 - Short Link: [http://oom.lt/R6O100](http://oom.lt/R6O100)
 
@@ -117,9 +117,9 @@ Prevalance: (24\10986) 0.2185%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14006-STAN-01', 'ID': 'R27'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R27'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15005-STAN-01', 'ID': 'R14'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

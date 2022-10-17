@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O301 > SMD (0603) 300 Ohm Resistor](#r6o301--smd-0603-300-ohm-resistor)
+* [R6O301 > ](#r6o301--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O301 > SMD (0603) 300 Ohm Resistor
+# R6O301 > 
 
 - ID: RESE-0603-X-O301-01
 - Hex ID: R6O301
-- Name: SMD (0603) 300 Ohm Resistor
-- Description: SMD (0603) 300 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O301-01](http://oom.lt/RESE-0603-X-O301-01)
 - Short Link: [http://oom.lt/R6O301](http://oom.lt/R6O301)
 
@@ -99,6 +99,6 @@ Prevalance: (25\10986) 0.2276%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12651-STAN-01', 'ID': 'R17'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13321-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13321-STAN-01', 'ID': 'R10'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

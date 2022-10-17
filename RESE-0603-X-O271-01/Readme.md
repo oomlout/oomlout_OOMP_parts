@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O271 > SMD (0603) 270 Ohm Resistor](#r6o271--smd-0603-270-ohm-resistor)
+* [R6O271 > ](#r6o271--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O271 > SMD (0603) 270 Ohm Resistor
+# R6O271 > 
 
 - ID: RESE-0603-X-O271-01
 - Hex ID: R6O271
-- Name: SMD (0603) 270 Ohm Resistor
-- Description: SMD (0603) 270 Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O271-01](http://oom.lt/RESE-0603-X-O271-01)
 - Short Link: [http://oom.lt/R6O271](http://oom.lt/R6O271)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2700T5E'}
 - hexID: R6O271
 - oompID: RESE-0603-X-O271-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

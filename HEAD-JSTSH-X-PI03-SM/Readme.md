@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH3 > JST XH (1 mm) 3 Pin Header (SMD)](#hsh3--jst-xh-1-mm-3-pin-header-smd)
+* [HSH3 > ](#hsh3--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH3 > JST XH (1 mm) 3 Pin Header (SMD)
+# HSH3 > 
 
 - ID: HEAD-JSTSH-X-PI03-SM
 - Hex ID: HSH3
-- Name: JST XH (1 mm) 3 Pin Header (SMD)
-- Description: JST XH (1 mm) 3 Pin Header (SMD)
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI03-SM](http://oom.lt/HEAD-JSTSH-X-PI03-SM)
 - Short Link: [http://oom.lt/HSH3](http://oom.lt/HSH3)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH3
 - oompID: HEAD-JSTSH-X-PI03-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical

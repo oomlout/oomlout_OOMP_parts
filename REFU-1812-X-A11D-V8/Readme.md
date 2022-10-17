@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RF1811D > SMD (1812) 1.1 A Resetable Fuse 8v](#rf1811d--smd-1812-11-a-resetable-fuse-8v)
+* [RF1811D > ](#rf1811d--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RF1811D > SMD (1812) 1.1 A Resetable Fuse 8v
+# RF1811D > 
 
 - ID: REFU-1812-X-A11D-V8
 - Hex ID: RF1811D
-- Name: SMD (1812) 1.1 A Resetable Fuse 8v
-- Description: SMD (1812) 1.1 A Resetable Fuse 8v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/REFU-1812-X-A11D-V8](http://oom.lt/REFU-1812-X-A11D-V8)
 - Short Link: [http://oom.lt/RF1811D](http://oom.lt/RF1811D)
 

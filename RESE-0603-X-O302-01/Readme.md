@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O302 > SMD (0603) 3k Ohm Resistor](#r6o302--smd-0603-3k-ohm-resistor)
+* [R6O302 > ](#r6o302--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O302 > SMD (0603) 3k Ohm Resistor
+# R6O302 > 
 
 - ID: RESE-0603-X-O302-01
 - Hex ID: R6O302
-- Name: SMD (0603) 3k Ohm Resistor
-- Description: SMD (0603) 3k Ohm Resistor
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/RESE-0603-X-O302-01](http://oom.lt/RESE-0603-X-O302-01)
 - Short Link: [http://oom.lt/R6O302](http://oom.lt/R6O302)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3001T5E'}
 - hexID: R6O302
 - oompID: RESE-0603-X-O302-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

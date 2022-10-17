@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v](#c6p10--smd-0603-10-pf-capacitor-ceramic-50v)
+* [C6P10 > ](#c6p10--)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v
+# C6P10 > 
 
 - ID: CAPC-0603-X-PF10-V50
 - Hex ID: C6P10
-- Name: SMD (0603) 10 pF Capacitor (Ceramic) 50v
-- Description: SMD (0603) 10 pF Capacitor (Ceramic) 50v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-0603-X-PF10-V50](http://oom.lt/CAPC-0603-X-PF10-V50)
 - Short Link: [http://oom.lt/C6P10](http://oom.lt/C6P10)
 
@@ -45,7 +45,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
   
 
@@ -96,9 +96,9 @@ Prevalance: (12\10986) 0.1092%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13830-STAN-01', 'ID': 'C8'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C5'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

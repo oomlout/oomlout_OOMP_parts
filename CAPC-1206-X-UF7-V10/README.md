@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12U710 > SMD (1206) 7 uF Capacitor (Ceramic) 10v](#c12u710--smd-1206-7-uf-capacitor-ceramic-10v)
+* [C12U710 > ](#c12u710--)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12U710 > SMD (1206) 7 uF Capacitor (Ceramic) 10v
+# C12U710 > 
 
 - ID: CAPC-1206-X-UF7-V10
 - Hex ID: C12U710
-- Name: SMD (1206) 7 uF Capacitor (Ceramic) 10v
-- Description: SMD (1206) 7 uF Capacitor (Ceramic) 10v
+- Name: 
+- Description: 
 - Long Link: [http://oom.lt/CAPC-1206-X-UF7-V10](http://oom.lt/CAPC-1206-X-UF7-V10)
 - Short Link: [http://oom.lt/C12U710](http://oom.lt/C12U710)
 
@@ -39,7 +39,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||||
+|[![SYMBOL-kicad-kicad-symbols-Device-C](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)||||
 | :---: | :---: | :---: | :---: |
 
 ## Images
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A476MPHNNNE'}
 - hexID: C12U710
 - oompID: CAPC-1206-X-UF7-V10
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
