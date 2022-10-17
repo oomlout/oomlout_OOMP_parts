@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-8O301-01 > SMD (0805) 300 Ohm Resistor](#rese-8o301-01--smd-0805-300-ohm-resistor)
+* [R8O301 > SMD (0805) 300 Ohm Resistor](#r8o301--smd-0805-300-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-8O301-01 > SMD (0805) 300 Ohm Resistor
+# R8O301 > SMD (0805) 300 Ohm Resistor
 
 - ID: RESE-0805-X-O301-01
-- Hex ID: RESE-8O301-01
+- Hex ID: R8O301
 - Name: SMD (0805) 300 Ohm Resistor
 - Description: SMD (0805) 300 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O301-01](http://oom.lt/RESE-0805-X-O301-01)
-- Short Link: [http://oom.lt/RESE-8O301-01](http://oom.lt/RESE-8O301-01)
+- Short Link: [http://oom.lt/R8O301](http://oom.lt/R8O301)
 
 ## Labels
   
@@ -62,7 +62,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17617', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 300?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17617'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F3000T5E'}
-- hexID: RESE-8O301-01
+- hexID: R8O301
 - oompID: RESE-0805-X-O301-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

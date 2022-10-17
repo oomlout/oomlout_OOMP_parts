@@ -904,6 +904,10 @@
             }
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-3535-RGB-K2812-01"
         },

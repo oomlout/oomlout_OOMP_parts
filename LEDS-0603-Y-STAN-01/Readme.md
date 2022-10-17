@@ -41,6 +41,12 @@ Contents
 
 |[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0603_1608Metric/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0603_1608Metric/)|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder/)|||
 | :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
   
 
 ### Instances
@@ -174,6 +180,7 @@ Prevalance: (50\10986) 0.4551%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15005-STAN-01', 'ID': 'D1'}
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 
 
 

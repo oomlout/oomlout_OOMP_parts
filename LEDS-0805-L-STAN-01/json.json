@@ -250,6 +250,10 @@
             "value": "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-0805-L-STAN-01"
         },

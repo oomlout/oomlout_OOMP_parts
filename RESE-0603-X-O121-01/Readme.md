@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-6O121-01 > SMD (0603) 120 Ohm Resistor](#rese-6o121-01--smd-0603-120-ohm-resistor)
+* [R6O121 > SMD (0603) 120 Ohm Resistor](#r6o121--smd-0603-120-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-6O121-01 > SMD (0603) 120 Ohm Resistor
+# R6O121 > SMD (0603) 120 Ohm Resistor
 
 - ID: RESE-0603-X-O121-01
-- Hex ID: RESE-6O121-01
+- Hex ID: R6O121
 - Name: SMD (0603) 120 Ohm Resistor
 - Description: SMD (0603) 120 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O121-01](http://oom.lt/RESE-0603-X-O121-01)
-- Short Link: [http://oom.lt/RESE-6O121-01](http://oom.lt/RESE-6O121-01)
+- Short Link: [http://oom.lt/R6O121](http://oom.lt/R6O121)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22787', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 120?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22787'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1200T5E'}
-- hexID: RESE-6O121-01
+- hexID: R6O121
 - oompID: RESE-0603-X-O121-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder

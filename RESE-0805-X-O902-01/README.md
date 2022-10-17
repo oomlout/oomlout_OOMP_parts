@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-8O902-01 > SMD (0805) 9k Ohm Resistor](#rese-8o902-01--smd-0805-9k-ohm-resistor)
+* [R8O902 > SMD (0805) 9k Ohm Resistor](#r8o902--smd-0805-9k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-8O902-01 > SMD (0805) 9k Ohm Resistor
+# R8O902 > SMD (0805) 9k Ohm Resistor
 
 - ID: RESE-0805-X-O902-01
-- Hex ID: RESE-8O902-01
+- Hex ID: R8O902
 - Name: SMD (0805) 9k Ohm Resistor
 - Description: SMD (0805) 9k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O902-01](http://oom.lt/RESE-0805-X-O902-01)
-- Short Link: [http://oom.lt/RESE-8O902-01](http://oom.lt/RESE-8O902-01)
+- Short Link: [http://oom.lt/R8O902](http://oom.lt/R8O902)
 
 ## Labels
   
@@ -62,7 +62,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17614', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 3.9k?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17614'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F3901T5E'}
-- hexID: RESE-8O902-01
+- hexID: R8O902
 - oompID: RESE-0805-X-O902-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

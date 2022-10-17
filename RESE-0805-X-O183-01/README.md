@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-8O183-01 > SMD (0805) 18k Ohm Resistor](#rese-8o183-01--smd-0805-18k-ohm-resistor)
+* [R8O183 > SMD (0805) 18k Ohm Resistor](#r8o183--smd-0805-18k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-8O183-01 > SMD (0805) 18k Ohm Resistor
+# R8O183 > SMD (0805) 18k Ohm Resistor
 
 - ID: RESE-0805-X-O183-01
-- Hex ID: RESE-8O183-01
+- Hex ID: R8O183
 - Name: SMD (0805) 18k Ohm Resistor
 - Description: SMD (0805) 18k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O183-01](http://oom.lt/RESE-0805-X-O183-01)
-- Short Link: [http://oom.lt/RESE-8O183-01](http://oom.lt/RESE-8O183-01)
+- Short Link: [http://oom.lt/R8O183](http://oom.lt/R8O183)
 
 ## Labels
   
@@ -62,7 +62,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17506', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 18k?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17506'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F1802T5E'}
-- hexID: RESE-8O183-01
+- hexID: R8O183
 - oompID: RESE-0805-X-O183-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

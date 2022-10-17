@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-6O433-01 > SMD (0603) 43k Ohm Resistor](#rese-6o433-01--smd-0603-43k-ohm-resistor)
+* [R6O433 > SMD (0603) 43k Ohm Resistor](#r6o433--smd-0603-43k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-6O433-01 > SMD (0603) 43k Ohm Resistor
+# R6O433 > SMD (0603) 43k Ohm Resistor
 
 - ID: RESE-0603-X-O433-01
-- Hex ID: RESE-6O433-01
+- Hex ID: R6O433
 - Name: SMD (0603) 43k Ohm Resistor
 - Description: SMD (0603) 43k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O433-01](http://oom.lt/RESE-0603-X-O433-01)
-- Short Link: [http://oom.lt/RESE-6O433-01](http://oom.lt/RESE-6O433-01)
+- Short Link: [http://oom.lt/R6O433](http://oom.lt/R6O433)
 
 ## Labels
   
@@ -71,7 +71,7 @@ Prevalance: (5\10986) 0.0455%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23172', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 43k?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23172'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF4302T5E'}
-- hexID: RESE-6O433-01
+- hexID: R6O433
 - oompID: RESE-0603-X-O433-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R15'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R17'}

@@ -1,10 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
             "name": "oompType",
             "value": "HEAD"
         },
@@ -18,59 +14,55 @@
         },
         {
             "name": "oompDesc",
-            "value": "2X03PI"
+            "value": "PI2X03"
         },
         {
             "name": "oompIndex",
             "value": "RS"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
-        },
-        {
             "name": "hexID",
-            "value": "HRS2X03"
-        },
-        {
-            "name": "ooPitch",
-            "value": "2.54 mm"
-        },
-        {
-            "name": "ooWidth",
-            "value": "7.62 mm"
-        },
-        {
-            "name": "ooHeight",
-            "value": "5.08 mm"
-        },
-        {
-            "name": "ooLength",
-            "value": "17.66 mm"
-        },
-        {
-            "name": "numPins",
-            "value": "6"
-        },
-        {
-            "name": "numRows",
-            "value": "2"
-        },
-        {
-            "name": "oompFootprint",
-            "value": "HEAD-I01-X-PI2x03-RS"
-        },
-        {
-            "name": "kicadFootprint",
-            "value": ""
+            "value": "H2X3RS"
         },
         {
             "name": "oompID",
-            "value": "HEAD-I01-X-2X03PI-RS"
+            "value": "HEAD-I01-X-PI2X03-RS"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Counter_Clockwise"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Odd_Even"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Top_Bottom"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X03-RS"
         },
         {
             "name": "name",
-            "value": "2.54 mm Header Right Angle (SMD)"
+            "value": "2.54 mm 6 Pin (2x3) Header Right Angle (SMD)"
         }
     ]
 }

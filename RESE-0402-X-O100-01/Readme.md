@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-4O100-01 > SMD (0402) 10 Ohm Resistor](#rese-4o100-01--smd-0402-10-ohm-resistor)
+* [R4O100 > SMD (0402) 10 Ohm Resistor](#r4o100--smd-0402-10-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-4O100-01 > SMD (0402) 10 Ohm Resistor
+# R4O100 > SMD (0402) 10 Ohm Resistor
 
 - ID: RESE-0402-X-O100-01
-- Hex ID: RESE-4O100-01
+- Hex ID: R4O100
 - Name: SMD (0402) 10 Ohm Resistor
 - Description: SMD (0402) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O100-01](http://oom.lt/RESE-0402-X-O100-01)
-- Short Link: [http://oom.lt/RESE-4O100-01](http://oom.lt/RESE-4O100-01)
+- Short Link: [http://oom.lt/R4O100](http://oom.lt/R4O100)
 
 ## Datasheets
 
@@ -79,7 +79,7 @@ Prevalance: (4\10986) 0.0364%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25077', 'desc': '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25077'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF100JTCE'}
-- hexID: RESE-4O100-01
+- hexID: R4O100
 - oompID: RESE-0402-X-O100-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10587-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R7'}

@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-12O102-01 > SMD (1206) 1k Ohm Resistor](#rese-12o102-01--smd-1206-1k-ohm-resistor)
+* [R12O102 > SMD (1206) 1k Ohm Resistor](#r12o102--smd-1206-1k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-12O102-01 > SMD (1206) 1k Ohm Resistor
+# R12O102 > SMD (1206) 1k Ohm Resistor
 
 - ID: RESE-1206-X-O102-01
-- Hex ID: RESE-12O102-01
+- Hex ID: R12O102
 - Name: SMD (1206) 1k Ohm Resistor
 - Description: SMD (1206) 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O102-01](http://oom.lt/RESE-1206-X-O102-01)
-- Short Link: [http://oom.lt/RESE-12O102-01](http://oom.lt/RESE-12O102-01)
+- Short Link: [http://oom.lt/R12O102](http://oom.lt/R12O102)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4410', 'desc': '250mW Thick Film Resistors 200V ??1% -55??~+155?? 1k?? 1206  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4410'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1001T5'}
-- hexID: RESE-12O102-01
+- hexID: R12O102
 - oompID: RESE-1206-X-O102-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder

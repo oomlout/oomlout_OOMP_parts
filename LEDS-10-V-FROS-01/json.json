@@ -109,6 +109,10 @@
             "value": "D1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-10-V-FROS-01"
         },

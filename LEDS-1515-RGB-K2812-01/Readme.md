@@ -30,6 +30,12 @@ Contents
 
 ## EDA
 
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -47,3 +53,4 @@ Contents
 - oompIndex: 01
 - hexID: L152812
 - oompID: LEDS-1515-RGB-K2812-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

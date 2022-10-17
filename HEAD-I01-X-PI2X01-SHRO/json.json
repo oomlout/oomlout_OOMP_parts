@@ -1,0 +1,72 @@
+{
+    "tags": [
+        {
+            "name": "oompType",
+            "value": "HEAD"
+        },
+        {
+            "name": "oompSize",
+            "value": "I01"
+        },
+        {
+            "name": "oompColor",
+            "value": "X"
+        },
+        {
+            "name": "oompDesc",
+            "value": "PI2X01"
+        },
+        {
+            "name": "oompIndex",
+            "value": "SHRO"
+        },
+        {
+            "name": "hexID",
+            "value": "H2X1SH"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X01-SHRO"
+        },
+        {
+            "name": "footprintKicad",
+            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x01_P2.54mm_Vertical"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x01_AB"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x01_Row_Letter_First"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x01_Row_Letter_Last"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x01_Counter_Clockwise"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x01_Odd_Even"
+        },
+        {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_02x01_Top_Bottom"
+        },
+        {
+            "name": "oompID",
+            "value": "HEAD-I01-X-PI2X01-SHRO"
+        },
+        {
+            "name": "name",
+            "value": "2.54 mm Header Shrouded (IDC)"
+        }
+    ]
+}

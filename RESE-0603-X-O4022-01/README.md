@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-6O4022-01 > SMD (0603) 40.2k Ohm Resistor](#rese-6o4022-01--smd-0603-402k-ohm-resistor)
+* [R6O4022 > SMD (0603) 40.2k Ohm Resistor](#r6o4022--smd-0603-402k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-6O4022-01 > SMD (0603) 40.2k Ohm Resistor
+# R6O4022 > SMD (0603) 40.2k Ohm Resistor
 
 - ID: RESE-0603-X-O4022-01
-- Hex ID: RESE-6O4022-01
+- Hex ID: R6O4022
 - Name: SMD (0603) 40.2k Ohm Resistor
 - Description: SMD (0603) 40.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O4022-01](http://oom.lt/RESE-0603-X-O4022-01)
-- Short Link: [http://oom.lt/RESE-6O4022-01](http://oom.lt/RESE-6O4022-01)
+- Short Link: [http://oom.lt/R6O4022](http://oom.lt/R6O4022)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C12447', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 40.2k?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C12447'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF4022T5E'}
-- hexID: RESE-6O4022-01
+- hexID: R6O4022
 - oompID: RESE-0603-X-O4022-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder

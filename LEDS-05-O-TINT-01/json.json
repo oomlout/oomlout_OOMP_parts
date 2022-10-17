@@ -77,6 +77,10 @@
             "value": "D1"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-05-O-TINT-01"
         },

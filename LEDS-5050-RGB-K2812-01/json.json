@@ -659,6 +659,10 @@
             }
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-5050-RGB-K2812-01"
         },

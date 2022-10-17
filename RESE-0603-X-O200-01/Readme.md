@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-6O200-01 > SMD (0603) 20 Ohm Resistor](#rese-6o200-01--smd-0603-20-ohm-resistor)
+* [R6O200 > SMD (0603) 20 Ohm Resistor](#r6o200--smd-0603-20-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-6O200-01 > SMD (0603) 20 Ohm Resistor
+# R6O200 > SMD (0603) 20 Ohm Resistor
 
 - ID: RESE-0603-X-O200-01
-- Hex ID: RESE-6O200-01
+- Hex ID: R6O200
 - Name: SMD (0603) 20 Ohm Resistor
 - Description: SMD (0603) 20 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O200-01](http://oom.lt/RESE-0603-X-O200-01)
-- Short Link: [http://oom.lt/RESE-6O200-01](http://oom.lt/RESE-6O200-01)
+- Short Link: [http://oom.lt/R6O200](http://oom.lt/R6O200)
 
 ## Labels
   
@@ -75,7 +75,7 @@ Prevalance: (11\10986) 0.1001%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22950', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 20?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22950'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF200JT5E'}
-- hexID: RESE-6O200-01
+- hexID: R6O200
 - oompID: RESE-0603-X-O200-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12660-STAN-01', 'ID': 'R7'}

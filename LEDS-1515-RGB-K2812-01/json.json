@@ -29,6 +29,10 @@
             "value": "LEDS-1515-RGB-K2812-01"
         },
         {
+            "name": "symbolKicad",
+            "value": "SYMBOL-kicad-kicad-symbols-Device-LED"
+        },
+        {
             "name": "oompID",
             "value": "LEDS-1515-RGB-K2812-01"
         },

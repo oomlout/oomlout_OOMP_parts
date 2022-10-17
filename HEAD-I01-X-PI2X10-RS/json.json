@@ -1,10 +1,6 @@
 {
     "tags": [
         {
-            "name": "oompSort",
-            "value": ""
-        },
-        {
             "name": "oompType",
             "value": "HEAD"
         },
@@ -25,40 +21,8 @@
             "value": "RS"
         },
         {
-            "name": "oompVersion",
-            "value": "999"
-        },
-        {
             "name": "hexID",
-            "value": "HRS2X10"
-        },
-        {
-            "name": "ooPitch",
-            "value": "2.54 mm"
-        },
-        {
-            "name": "ooWidth",
-            "value": "25.4 mm"
-        },
-        {
-            "name": "ooHeight",
-            "value": "5.08 mm"
-        },
-        {
-            "name": "ooLength",
-            "value": "17.66 mm"
-        },
-        {
-            "name": "numPins",
-            "value": "20"
-        },
-        {
-            "name": "numRows",
-            "value": "2"
-        },
-        {
-            "name": "oompFootprint",
-            "value": "HEAD-I01-X-PI2x10-RS"
+            "value": "H2X10RS"
         },
         {
             "name": "oompID",
@@ -66,7 +30,7 @@
         },
         {
             "name": "symbolKicad",
-            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x1010_Male"
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male"
         },
         {
             "name": "symbolKicad",

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-8O220-01 > SMD (0805) 22 Ohm Resistor](#rese-8o220-01--smd-0805-22-ohm-resistor)
+* [R8O220 > SMD (0805) 22 Ohm Resistor](#r8o220--smd-0805-22-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-8O220-01 > SMD (0805) 22 Ohm Resistor
+# R8O220 > SMD (0805) 22 Ohm Resistor
 
 - ID: RESE-0805-X-O220-01
-- Hex ID: RESE-8O220-01
+- Hex ID: R8O220
 - Name: SMD (0805) 22 Ohm Resistor
 - Description: SMD (0805) 22 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O220-01](http://oom.lt/RESE-0805-X-O220-01)
-- Short Link: [http://oom.lt/RESE-8O220-01](http://oom.lt/RESE-8O220-01)
+- Short Link: [http://oom.lt/R8O220](http://oom.lt/R8O220)
 
 ## Datasheets
 
@@ -88,7 +88,7 @@ Prevalance: (23\10986) 0.2094%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17561', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 22?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17561'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F220JT5E'}
-- hexID: RESE-8O220-01
+- hexID: R8O220
 - oompID: RESE-0805-X-O220-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1060-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1060-STAN-01', 'ID': 'R3'}

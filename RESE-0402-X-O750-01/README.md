@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-4O750-01 > SMD (0402) 75 Ohm Resistor](#rese-4o750-01--smd-0402-75-ohm-resistor)
+* [R4O750 > SMD (0402) 75 Ohm Resistor](#r4o750--smd-0402-75-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-4O750-01 > SMD (0402) 75 Ohm Resistor
+# R4O750 > SMD (0402) 75 Ohm Resistor
 
 - ID: RESE-0402-X-O750-01
-- Hex ID: RESE-4O750-01
+- Hex ID: R4O750
 - Name: SMD (0402) 75 Ohm Resistor
 - Description: SMD (0402) 75 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O750-01](http://oom.lt/RESE-0402-X-O750-01)
-- Short Link: [http://oom.lt/RESE-4O750-01](http://oom.lt/RESE-4O750-01)
+- Short Link: [http://oom.lt/R4O750](http://oom.lt/R4O750)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25133', 'desc': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 75?? 0402  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25133'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF750JTCE'}
-- hexID: RESE-4O750-01
+- hexID: R4O750
 - oompID: RESE-0402-X-O750-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-8O680-01 > SMD (0805) 68 Ohm Resistor](#rese-8o680-01--smd-0805-68-ohm-resistor)
+* [R8O680 > SMD (0805) 68 Ohm Resistor](#r8o680--smd-0805-68-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-8O680-01 > SMD (0805) 68 Ohm Resistor
+# R8O680 > SMD (0805) 68 Ohm Resistor
 
 - ID: RESE-0805-X-O680-01
-- Hex ID: RESE-8O680-01
+- Hex ID: R8O680
 - Name: SMD (0805) 68 Ohm Resistor
 - Description: SMD (0805) 68 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O680-01](http://oom.lt/RESE-0805-X-O680-01)
-- Short Link: [http://oom.lt/RESE-8O680-01](http://oom.lt/RESE-8O680-01)
+- Short Link: [http://oom.lt/R8O680](http://oom.lt/R8O680)
 
 ## Datasheets
 
@@ -68,7 +68,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17802', 'desc': '125mW Thick Film Resistors 150V ??1% ??200ppm/?? -55??~+155?? 68?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17802'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F680JT5E'}
-- hexID: RESE-8O680-01
+- hexID: R8O680
 - oompID: RESE-0805-X-O680-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1651-STAN-01', 'ID': 'R1'}
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W

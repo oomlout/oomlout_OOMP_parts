@@ -33,7 +33,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[![SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/DIN41612_02x10_AB/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
 | :---: | :---: | :---: | :---: |
 |[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
 
@@ -54,7 +54,7 @@ Contents
 - oompIndex: 01
 - hexID: SHRO
 - oompID: HEAD-I01-X-PI2X10-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x1010_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x10_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_First
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x10_Row_Letter_Last

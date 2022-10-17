@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-12O181-01 > SMD (1206) 180 Ohm Resistor](#rese-12o181-01--smd-1206-180-ohm-resistor)
+* [R12O181 > SMD (1206) 180 Ohm Resistor](#r12o181--smd-1206-180-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-12O181-01 > SMD (1206) 180 Ohm Resistor
+# R12O181 > SMD (1206) 180 Ohm Resistor
 
 - ID: RESE-1206-X-O181-01
-- Hex ID: RESE-12O181-01
+- Hex ID: R12O181
 - Name: SMD (1206) 180 Ohm Resistor
 - Description: SMD (1206) 180 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O181-01](http://oom.lt/RESE-1206-X-O181-01)
-- Short Link: [http://oom.lt/RESE-12O181-01](http://oom.lt/RESE-12O181-01)
+- Short Link: [http://oom.lt/R12O181](http://oom.lt/R12O181)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17924', 'desc': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 180?? 1206  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17924'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1800T5E'}
-- hexID: RESE-12O181-01
+- hexID: R12O181
 - oompID: RESE-1206-X-O181-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder

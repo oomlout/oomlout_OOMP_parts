@@ -30,15 +30,11 @@
         },
         {
             "name": "footprintKicad",
-            "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x02_P2.54mm_Horizontal"
-        },
-        {
-            "name": "footprintKicad",
             "value": "FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x02_P2.54mm_Vertical"
         },
         {
             "name": "symbolKicad",
-            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0202_Male"
+            "value": "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male"
         },
         {
             "name": "symbolKicad",

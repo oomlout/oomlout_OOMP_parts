@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-6O123-01 > SMD (0603) 12k Ohm Resistor](#rese-6o123-01--smd-0603-12k-ohm-resistor)
+* [R6O123 > SMD (0603) 12k Ohm Resistor](#r6o123--smd-0603-12k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-6O123-01 > SMD (0603) 12k Ohm Resistor
+# R6O123 > SMD (0603) 12k Ohm Resistor
 
 - ID: RESE-0603-X-O123-01
-- Hex ID: RESE-6O123-01
+- Hex ID: R6O123
 - Name: SMD (0603) 12k Ohm Resistor
 - Description: SMD (0603) 12k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O123-01](http://oom.lt/RESE-0603-X-O123-01)
-- Short Link: [http://oom.lt/RESE-6O123-01](http://oom.lt/RESE-6O123-01)
+- Short Link: [http://oom.lt/R6O123](http://oom.lt/R6O123)
 
 ## Labels
   
@@ -73,7 +73,7 @@ Prevalance: (7\10986) 0.0637%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22790', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 12k?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22790'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1202T5E'}
-- hexID: RESE-6O123-01
+- hexID: R6O123
 - oompID: RESE-0603-X-O123-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2264-STAN-01', 'ID': 'R7'}

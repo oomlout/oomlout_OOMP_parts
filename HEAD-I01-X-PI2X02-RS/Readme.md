@@ -5,20 +5,25 @@
 Contents
 ========
 
-* [HRS2X02 > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)](#hrs2x02--254-mm-4-pin-2x2-header-right-angle-smd)
+* [H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)](#h2x2rs--254-mm-4-pin-2x2-header-right-angle-smd)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HRS2X02 > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
+# H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X02-RS
-- Hex ID: HRS2X02
+- Hex ID: H2X2RS
 - Name: 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 - Description: 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-RS](http://oom.lt/HEAD-I01-X-PI2X02-RS)
-- Short Link: [http://oom.lt/HRS2X02](http://oom.lt/HRS2X02)
+- Short Link: [http://oom.lt/H2X2RS](http://oom.lt/H2X2RS)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -33,7 +38,7 @@ Contents
 ### Symbols
   
 
-|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
 | :---: | :---: | :---: | :---: |
 |[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
 
@@ -47,23 +52,14 @@ Contents
 
 ## Tags
 
-- oompSort: 
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
 - oompDesc: PI2X02
 - oompIndex: RS
-- oompVersion: 999
-- hexID: HRS2X02
-- ooPitch: 2.54 mm
-- ooWidth: 5.08 mm
-- ooHeight: 5.08 mm
-- ooLength: 17.66 mm
-- numPins: 4
-- numRows: 2
-- oompFootprint: HEAD-I01-X-PI2x02-RS
+- hexID: H2X2RS
 - oompID: HEAD-I01-X-PI2X02-RS
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x0202_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x02_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_First
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x02_Row_Letter_Last

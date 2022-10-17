@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-12O751-01 > SMD (1206) 750 Ohm Resistor](#rese-12o751-01--smd-1206-750-ohm-resistor)
+* [R12O751 > SMD (1206) 750 Ohm Resistor](#r12o751--smd-1206-750-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-12O751-01 > SMD (1206) 750 Ohm Resistor
+# R12O751 > SMD (1206) 750 Ohm Resistor
 
 - ID: RESE-1206-X-O751-01
-- Hex ID: RESE-12O751-01
+- Hex ID: R12O751
 - Name: SMD (1206) 750 Ohm Resistor
 - Description: SMD (1206) 750 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O751-01](http://oom.lt/RESE-1206-X-O751-01)
-- Short Link: [http://oom.lt/RESE-12O751-01](http://oom.lt/RESE-12O751-01)
+- Short Link: [http://oom.lt/R12O751](http://oom.lt/R12O751)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17985', 'desc': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 750?? 1206  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17985'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F7500T5E'}
-- hexID: RESE-12O751-01
+- hexID: R12O751
 - oompID: RESE-1206-X-O751-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder

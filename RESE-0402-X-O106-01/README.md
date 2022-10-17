@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-4O106-01 > SMD (0402) 10M Ohm Resistor](#rese-4o106-01--smd-0402-10m-ohm-resistor)
+* [R4O106 > SMD (0402) 10M Ohm Resistor](#r4o106--smd-0402-10m-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-4O106-01 > SMD (0402) 10M Ohm Resistor
+# R4O106 > SMD (0402) 10M Ohm Resistor
 
 - ID: RESE-0402-X-O106-01
-- Hex ID: RESE-4O106-01
+- Hex ID: R4O106
 - Name: SMD (0402) 10M Ohm Resistor
 - Description: SMD (0402) 10M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O106-01](http://oom.lt/RESE-0402-X-O106-01)
-- Short Link: [http://oom.lt/RESE-4O106-01](http://oom.lt/RESE-4O106-01)
+- Short Link: [http://oom.lt/R4O106](http://oom.lt/R4O106)
 
 ## Labels
   
@@ -60,7 +60,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C26082', 'desc': '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10M?? 0402  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C26082'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1005TCE'}
-- hexID: RESE-4O106-01
+- hexID: R4O106
 - oompID: RESE-0402-X-O106-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder

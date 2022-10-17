@@ -5,16 +5,25 @@
 Contents
 ========
 
-* [HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)](#head-i01-x-2x03pi-rs254-mm-header-right-angle-smd)
+* [H2X3RS > 2.54 mm 6 Pin (2x3) Header Right Angle (SMD)](#h2x3rs--254-mm-6-pin-2x3-header-right-angle-smd)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
-		* [Symbols](#symbols)
+	* [Images](#images)
 	* [Tags](#tags)
 
-# HEAD-I01-X-2X03PI-RS>2.54 mm Header Right Angle (SMD)
+# H2X3RS > 2.54 mm 6 Pin (2x3) Header Right Angle (SMD)
 
-- ID: HEAD-I01-X-2X03PI-RS
-- Name: HEAD-I01-X-2X03PI-RS
+- ID: HEAD-I01-X-PI2X03-RS
+- Hex ID: H2X3RS
+- Name: 2.54 mm 6 Pin (2x3) Header Right Angle (SMD)
+- Description: 2.54 mm 6 Pin (2x3) Header Right Angle (SMD)
+- Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-RS](http://oom.lt/HEAD-I01-X-PI2X03-RS)
+- Short Link: [http://oom.lt/H2X3RS](http://oom.lt/H2X3RS)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -22,27 +31,38 @@ Contents
 
 |label-front|label-inventory|label-spec|
 | :---: | :---: | :---: |
-|[![label-front](label-front.png)](label-front.png)|[![label-inventory](label-inventory.png)](label-inventory.png)|[![label-spec](label-spec.png)](label-spec.png)|
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
 
 ### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|
+| :---: | :---: | :---: | :---: |
+|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)|[![----](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts/main/----/image_140.jpg)<br> ----](https://github.com/oomlout/oomlout_OOMP_parts/tree/main/----/)||
+
+## Images
+  
+  
+
+|label-front|label-inventory|label-spec|
+| :---: | :---: | :---: |
+|[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## Tags
 
-- oompSort: 
 - oompType: HEAD
 - oompSize: I01
 - oompColor: X
-- oompDesc: 2X03PI
+- oompDesc: PI2X03
 - oompIndex: RS
-- oompVersion: 999
-- hexID: HRS2X03
-- ooPitch: 2.54 mm
-- ooWidth: 7.62 mm
-- ooHeight: 5.08 mm
-- ooLength: 17.66 mm
-- numPins: 6
-- numRows: 2
-- oompFootprint: HEAD-I01-X-PI2x03-RS
-- kicadFootprint: 
+- hexID: H2X3RS
+- oompID: HEAD-I01-X-PI2X03-RS
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-DIN41612_02x03_AB
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_First
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Row_Letter_Last
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Counter_Clockwise
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Odd_Even
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_02x03_Top_Bottom

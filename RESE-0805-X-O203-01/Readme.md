@@ -5,20 +5,20 @@
 Contents
 ========
 
-* [RESE-8O203-01 > SMD (0805) 20k Ohm Resistor](#rese-8o203-01--smd-0805-20k-ohm-resistor)
+* [R8O203 > SMD (0805) 20k Ohm Resistor](#r8o203--smd-0805-20k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RESE-8O203-01 > SMD (0805) 20k Ohm Resistor
+# R8O203 > SMD (0805) 20k Ohm Resistor
 
 - ID: RESE-0805-X-O203-01
-- Hex ID: RESE-8O203-01
+- Hex ID: R8O203
 - Name: SMD (0805) 20k Ohm Resistor
 - Description: SMD (0805) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O203-01](http://oom.lt/RESE-0805-X-O203-01)
-- Short Link: [http://oom.lt/RESE-8O203-01](http://oom.lt/RESE-8O203-01)
+- Short Link: [http://oom.lt/R8O203](http://oom.lt/R8O203)
 
 ## Labels
   
@@ -76,7 +76,7 @@ Prevalance: (14\10986) 0.1274%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4328', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 20k?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4328'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F2002T5E'}
-- hexID: RESE-8O203-01
+- hexID: R8O203
 - oompID: RESE-0805-X-O203-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1580-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R4'}

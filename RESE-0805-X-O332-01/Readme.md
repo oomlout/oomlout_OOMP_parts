@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-8O332-01 > SMD (0805) 3.3k Ohm Resistor](#rese-8o332-01--smd-0805-33k-ohm-resistor)
+* [R8O332 > SMD (0805) 3.3k Ohm Resistor](#r8o332--smd-0805-33k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-8O332-01 > SMD (0805) 3.3k Ohm Resistor
+# R8O332 > SMD (0805) 3.3k Ohm Resistor
 
 - ID: RESE-0805-X-O332-01
-- Hex ID: RESE-8O332-01
+- Hex ID: R8O332
 - Name: SMD (0805) 3.3k Ohm Resistor
 - Description: SMD (0805) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O332-01](http://oom.lt/RESE-0805-X-O332-01)
-- Short Link: [http://oom.lt/RESE-8O332-01](http://oom.lt/RESE-8O332-01)
+- Short Link: [http://oom.lt/R8O332](http://oom.lt/R8O332)
 
 ## Datasheets
 
@@ -68,7 +68,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C26010', 'desc': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 3.3k?? 0805  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C26010'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F3301T5E'}
-- hexID: RESE-8O332-01
+- hexID: R8O332
 - oompID: RESE-0805-X-O332-01
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R

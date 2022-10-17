@@ -29,6 +29,12 @@ Contents
 |[![label-front](label-front_140.png)](label-front.png)|[![label-inventory](label-inventory_140.png)](label-inventory.png)|[![label-spec](label-spec_140.png)](label-spec.png)|
 
 ## EDA
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-LED](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)||||
+| :---: | :---: | :---: | :---: |
   
 
 ### Instances
@@ -210,3 +216,4 @@ Prevalance: (125\10986) 1.1378%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5295-STAN-01', 'ID': 'LED3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5295-STAN-01', 'ID': 'LED4'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5400-STAN-01', 'ID': 'LED1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

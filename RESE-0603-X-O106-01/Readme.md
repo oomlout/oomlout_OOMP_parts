@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-6O106-01 > SMD (0603) 10M Ohm Resistor](#rese-6o106-01--smd-0603-10m-ohm-resistor)
+* [R6O106 > SMD (0603) 10M Ohm Resistor](#r6o106--smd-0603-10m-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-6O106-01 > SMD (0603) 10M Ohm Resistor
+# R6O106 > SMD (0603) 10M Ohm Resistor
 
 - ID: RESE-0603-X-O106-01
-- Hex ID: RESE-6O106-01
+- Hex ID: R6O106
 - Name: SMD (0603) 10M Ohm Resistor
 - Description: SMD (0603) 10M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O106-01](http://oom.lt/RESE-0603-X-O106-01)
-- Short Link: [http://oom.lt/RESE-6O106-01](http://oom.lt/RESE-6O106-01)
+- Short Link: [http://oom.lt/R6O106](http://oom.lt/R6O106)
 
 ## Datasheets
 
@@ -76,7 +76,7 @@ Prevalance: (6\10986) 0.0546%
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C7250', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 10M?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C7250'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1005T5E'}
-- hexID: RESE-6O106-01
+- hexID: R6O106
 - oompID: RESE-0603-X-O106-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12650-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12650-STAN-01', 'ID': 'R2'}

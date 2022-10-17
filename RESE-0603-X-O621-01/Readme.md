@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RESE-6O621-01 > SMD (0603) 620 Ohm Resistor](#rese-6o621-01--smd-0603-620-ohm-resistor)
+* [R6O621 > SMD (0603) 620 Ohm Resistor](#r6o621--smd-0603-620-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# RESE-6O621-01 > SMD (0603) 620 Ohm Resistor
+# R6O621 > SMD (0603) 620 Ohm Resistor
 
 - ID: RESE-0603-X-O621-01
-- Hex ID: RESE-6O621-01
+- Hex ID: R6O621
 - Name: SMD (0603) 620 Ohm Resistor
 - Description: SMD (0603) 620 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O621-01](http://oom.lt/RESE-0603-X-O621-01)
-- Short Link: [http://oom.lt/RESE-6O621-01](http://oom.lt/RESE-6O621-01)
+- Short Link: [http://oom.lt/R6O621](http://oom.lt/R6O621)
 
 ## Datasheets
 
@@ -66,7 +66,7 @@ Contents
 - oplPartNumber: {'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23220', 'desc': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 620?? 0603  Chip Resistor - Surface Mount ROHS'}
 - distributorPartNumber: {'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23220'}
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6200T5E'}
-- hexID: RESE-6O621-01
+- hexID: R6O621
 - oompID: RESE-0603-X-O621-01
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
