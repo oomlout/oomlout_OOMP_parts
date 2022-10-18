@@ -68,6 +68,6 @@ Contents
 - hexID: C12U10063D
 - oompID: CAPC-1206-X-UF100-V63D
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'C12'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

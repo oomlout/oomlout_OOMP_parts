@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R4O333 > SMD (0402) 33k Ohm Resistor](#r4o333--smd-0402-33k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0402) 33k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O333-01](http://oom.lt/RESE-0402-X-O333-01)
 - Short Link: [http://oom.lt/R4O333](http://oom.lt/R4O333)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF3302TCE'}
 - hexID: R4O333
 - oompID: RESE-0402-X-O333-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

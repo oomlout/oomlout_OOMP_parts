@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C12U210 > SMD (1206) 2 uF Capacitor (Ceramic) 10v](#c12u210--smd-1206-2-uf-capacitor-ceramic-10v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (1206) 2 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF2-V10](http://oom.lt/CAPC-1206-X-UF2-V10)
 - Short Link: [http://oom.lt/C12U210](http://oom.lt/C12U210)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A226KPHNNNE'}
 - hexID: C12U210
 - oompID: CAPC-1206-X-UF2-V10
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

@@ -1,10 +1,9 @@
 import OOMP
 newPart = OOMP.getPartByID("HEAD-I01-X-PI2X10-RS")
 
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x10_AB')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise')
-newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom')
+newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male')

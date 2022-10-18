@@ -35,6 +35,12 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_6V/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_6V/)|[![FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_12V/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_Cree-XHP70_12V/)|||
+| :---: | :---: | :---: | :---: |
+
 ### Symbols
   
 
@@ -57,5 +63,7 @@ Contents
 - oompDesc: CREE
 - oompIndex: 01
 - hexID: 
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_6V
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_Cree-XHP70_12V
 - oompID: LEDS-XHP70-W-CREE-01
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

@@ -35,6 +35,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_BEC/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NPN_BEC/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -50,5 +62,7 @@ Contents
 - oompColor: X
 - oompDesc: KS8050
 - oompIndex: 01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC
 - hexID: TNS248050
 - oompID: TRNN-SO23-X-KS8050-01

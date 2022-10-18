@@ -36,6 +36,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_LGA/LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/image_140.png)<br> SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Images
   
   
@@ -53,6 +65,8 @@ Contents
 - oompIndex: 01
 - hexID: SEN345
 - oompID: SENS-LG14-X-K345-01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343
 
 
 

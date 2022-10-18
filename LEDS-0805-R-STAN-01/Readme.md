@@ -254,15 +254,15 @@ Prevalance: (85\10986) 0.7737%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4534-STAN-01', 'ID': 'D2'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-659-STAN-01', 'ID': 'L'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'LED'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 
 
 

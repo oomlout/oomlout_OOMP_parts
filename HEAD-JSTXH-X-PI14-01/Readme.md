@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH14
 - oompID: HEAD-JSTXH-X-PI14-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-AM_1x14_P2.50mm_Vertical
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14

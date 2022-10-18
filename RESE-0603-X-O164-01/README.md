@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R6O164 > SMD (0603) 160k Ohm Resistor](#r6o164--smd-0603-160k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 160k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O164-01](http://oom.lt/RESE-0603-X-O164-01)
 - Short Link: [http://oom.lt/R6O164](http://oom.lt/R6O164)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1603T5E'}
 - hexID: R6O164
 - oompID: RESE-0603-X-O164-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

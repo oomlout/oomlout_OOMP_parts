@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C6N3 > SMD (0603) 3 nF Capacitor (Ceramic) 50v](#c6n3--smd-0603-3-nf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 3 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF3-V50](http://oom.lt/CAPC-0603-X-NF3-V50)
 - Short Link: [http://oom.lt/C6N3](http://oom.lt/C6N3)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10B333KB8NNNC'}
 - hexID: C6N3
 - oompID: CAPC-0603-X-NF3-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

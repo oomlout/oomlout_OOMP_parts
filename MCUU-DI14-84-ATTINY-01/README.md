@@ -25,6 +25,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/image_140.png)<br> SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
 
 - oompType: MCUU
@@ -32,5 +44,7 @@ Contents
 - oompColor: 84
 - oompDesc: ATTINY
 - oompIndex: 01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm
+- symbolKicad: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P
 - hexID: MCAT84DI14
 - oompID: MCUU-DI14-84-ATTINY-01

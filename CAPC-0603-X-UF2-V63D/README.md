@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C6U263D > SMD (0603) 2 uF Capacitor (Ceramic) 6.3v](#c6u263d--smd-0603-2-uf-capacitor-ceramic-63v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 2 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF2-V63D](http://oom.lt/CAPC-0603-X-UF2-V63D)
 - Short Link: [http://oom.lt/C6U263D](http://oom.lt/C6U263D)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A226MQ8NRNC'}
 - hexID: C6U263D
 - oompID: CAPC-0603-X-UF2-V63D
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

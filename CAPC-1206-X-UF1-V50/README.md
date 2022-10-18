@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C12U1 > SMD (1206) 1 uF Capacitor (Ceramic) 50v](#c12u1--smd-1206-1-uf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (1206) 1 uF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF1-V50](http://oom.lt/CAPC-1206-X-UF1-V50)
 - Short Link: [http://oom.lt/C12U1](http://oom.lt/C12U1)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31B105KBHNNNE'}
 - hexID: C12U1
 - oompID: CAPC-1206-X-UF1-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

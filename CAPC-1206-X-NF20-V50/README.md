@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C12N20 > SMD (1206) 20 nF Capacitor (Ceramic) 50v](#c12n20--smd-1206-20-nf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (1206) 20 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-1206-X-NF20-V50](http://oom.lt/CAPC-1206-X-NF20-V50)
 - Short Link: [http://oom.lt/C12N20](http://oom.lt/C12N20)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '1206B224K500NT'}
 - hexID: C12N20
 - oompID: CAPC-1206-X-NF20-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

@@ -74,6 +74,6 @@ Contents
 - oompIden: template;XXXX-0402-X-XXXX-XX-iden
 - oompSchem: template;LEDS-XXXX-X-XXXX-XX-schem
 - ooDesignator: D1
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED

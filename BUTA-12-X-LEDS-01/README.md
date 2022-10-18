@@ -25,6 +25,12 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_LED_PTH_12MM/image_140.png)<br> FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Switches/TACTILE_SWITCH_LED_PTH_12MM/)||||
+| :---: | :---: | :---: | :---: |
+
 ### Symbols
   
 
@@ -38,6 +44,7 @@ Contents
 - oompColor: X
 - oompDesc: LEDS
 - oompIndex: 01
+- footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Switches-TACTILE_SWITCH_LED_PTH_12MM
 - hexID: B12L
 - oompID: BUTA-12-X-LEDS-01
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Switch-SW_Push

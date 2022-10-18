@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R4O203 > SMD (0402) 20k Ohm Resistor](#r4o203--smd-0402-20k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -20,6 +21,10 @@ Contents
 - Description: SMD (0402) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O203-01](http://oom.lt/RESE-0402-X-O203-01)
 - Short Link: [http://oom.lt/R4O203](http://oom.lt/R4O203)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -82,9 +87,9 @@ Prevalance: (7\10986) 0.0637%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R10'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11703-STAN-01', 'ID': 'R1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

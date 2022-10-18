@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R6O123 > SMD (0603) 12k Ohm Resistor](#r6o123--smd-0603-12k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 12k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O123-01](http://oom.lt/RESE-0603-X-O123-01)
 - Short Link: [http://oom.lt/R6O123](http://oom.lt/R6O123)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -82,6 +87,6 @@ Prevalance: (7\10986) 0.0637%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13287-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13711-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13794-STAN-01', 'ID': 'R1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

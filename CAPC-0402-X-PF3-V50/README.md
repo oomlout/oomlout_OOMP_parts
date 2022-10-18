@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C4P3 > SMD (0402) 3 pF Capacitor (Ceramic) 50v](#c4p3--smd-0402-3-pf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0402) 3 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF3-V50](http://oom.lt/CAPC-0402-X-PF3-V50)
 - Short Link: [http://oom.lt/C4P3](http://oom.lt/C4P3)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG3R3C500NT'}
 - hexID: C4P3
 - oompID: CAPC-0402-X-PF3-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

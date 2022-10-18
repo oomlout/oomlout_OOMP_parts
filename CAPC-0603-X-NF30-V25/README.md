@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C6N30 > SMD (0603) 30 nF Capacitor (Ceramic) 25v](#c6n30--smd-0603-30-nf-capacitor-ceramic-25v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 30 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF30-V25](http://oom.lt/CAPC-0603-X-NF30-V25)
 - Short Link: [http://oom.lt/C6N30](http://oom.lt/C6N30)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603B334K250NT'}
 - hexID: C6N30
 - oompID: CAPC-0603-X-NF30-V25
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

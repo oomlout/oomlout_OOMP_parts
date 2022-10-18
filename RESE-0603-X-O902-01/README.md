@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R6O902 > SMD (0603) 9k Ohm Resistor](#r6o902--smd-0603-9k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 9k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O902-01](http://oom.lt/RESE-0603-X-O902-01)
 - Short Link: [http://oom.lt/R6O902](http://oom.lt/R6O902)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF3901T5E'}
 - hexID: R6O902
 - oompID: RESE-0603-X-O902-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

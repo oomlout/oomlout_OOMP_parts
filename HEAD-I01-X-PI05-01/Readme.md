@@ -594,14 +594,14 @@ Prevalance: (387\10986) 3.5227%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14414-STAN-01', 'ID': 'J7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14449-STAN-01', 'ID': 'J5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'J6'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X05
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X05_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X05_LOCK_LONGPADS
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X05_NO_SILK
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-105
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x05_P2.54mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05
 
 
 

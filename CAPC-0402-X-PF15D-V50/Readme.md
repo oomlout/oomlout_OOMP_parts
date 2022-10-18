@@ -69,9 +69,9 @@ Contents
 - hexID: C4P15D
 - oompID: CAPC-0402-X-PF15D-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'C15'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R12O103 > SMD (1206) 10k Ohm Resistor](#r12o103--smd-1206-10k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (1206) 10k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O103-01](http://oom.lt/RESE-1206-X-O103-01)
 - Short Link: [http://oom.lt/R12O103](http://oom.lt/R12O103)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1002T5E'}
 - hexID: R12O103
 - oompID: RESE-1206-X-O103-01
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

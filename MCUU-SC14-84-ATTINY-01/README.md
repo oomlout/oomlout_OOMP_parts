@@ -25,6 +25,18 @@ Contents
 
 ## EDA
 
+### Footprints
+  
+
+|[![FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-14_3.9x8.7mm_P1.27mm/image_140.png)<br> FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SOIC-14_3.9x8.7mm_P1.27mm/)||||
+| :---: | :---: | :---: | :---: |
+
+### Symbols
+  
+
+|[![SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny20-SS/image_140.png)<br> SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS](https://github.com/oomlout/oomlout_OOMP_eda/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny20-SS/)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
 
 - oompType: MCUU
@@ -32,5 +44,7 @@ Contents
 - oompColor: 84
 - oompDesc: ATTINY
 - oompIndex: 01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm
+- symbolKicad: SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS
 - hexID: MCAT84SC14
 - oompID: MCUU-SC14-84-ATTINY-01

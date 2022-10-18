@@ -81,9 +81,9 @@ Prevalance: (2\10986) 0.0182%
 - oompID: CAPC-0402-X-PF100-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5325-STAN-01', 'ID': 'C16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13990-STAN-01', 'ID': 'C5'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

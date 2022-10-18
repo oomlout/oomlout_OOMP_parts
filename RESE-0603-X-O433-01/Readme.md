@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R6O433 > SMD (0603) 43k Ohm Resistor](#r6o433--smd-0603-43k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 43k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O433-01](http://oom.lt/RESE-0603-X-O433-01)
 - Short Link: [http://oom.lt/R6O433](http://oom.lt/R6O433)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -78,6 +83,6 @@ Prevalance: (5\10986) 0.0455%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R21'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11924-STAN-01', 'ID': 'R23'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13968-STAN-01', 'ID': 'R5'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

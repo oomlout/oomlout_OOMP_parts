@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C6P7 > SMD (0603) 7 pF Capacitor (Ceramic) 50v](#c6p7--smd-0603-7-pf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 7 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF7-V50](http://oom.lt/CAPC-0603-X-PF7-V50)
 - Short Link: [http://oom.lt/C6P7](http://oom.lt/C6P7)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0603JRNPO9BN270'}
 - hexID: C6P7
 - oompID: CAPC-0603-X-PF7-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

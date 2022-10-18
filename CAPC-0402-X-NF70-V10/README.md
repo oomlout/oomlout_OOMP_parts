@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C4N7010 > SMD (0402) 70 nF Capacitor (Ceramic) 10v](#c4n7010--smd-0402-70-nf-capacitor-ceramic-10v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0402) 70 nF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF70-V10](http://oom.lt/CAPC-0402-X-NF70-V10)
 - Short Link: [http://oom.lt/C4N7010](http://oom.lt/C4N7010)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A474KP5NNNC'}
 - hexID: C4N7010
 - oompID: CAPC-0402-X-NF70-V10
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

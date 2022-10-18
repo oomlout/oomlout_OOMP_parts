@@ -6,6 +6,7 @@ Contents
 ========
 
 * [R6O563 > SMD (0603) 56k Ohm Resistor](#r6o563--smd-0603-56k-ohm-resistor)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0603) 56k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O563-01](http://oom.lt/RESE-0603-X-O563-01)
 - Short Link: [http://oom.lt/R6O563](http://oom.lt/R6O563)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -63,6 +68,6 @@ Contents
 - hexID: R6O563
 - oompID: RESE-0603-X-O563-01
 - oompInstances: {'PROJECT': 'PROJ-ARDU-DUE-STAN-01', 'ID': 'R31'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

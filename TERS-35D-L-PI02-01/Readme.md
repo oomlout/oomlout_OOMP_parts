@@ -251,5 +251,5 @@ Prevalance: (119\10986) 1.0832%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14129-STAN-01', 'ID': 'J10'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14449-STAN-01', 'ID': 'J4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14809-STAN-01', 'ID': 'J1'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02

@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH8
 - oompID: HEAD-JSTSH-X-PI08-SM
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical

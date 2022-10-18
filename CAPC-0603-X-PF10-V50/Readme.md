@@ -96,9 +96,9 @@ Prevalance: (12\10986) 0.1092%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13830-STAN-01', 'ID': 'C8'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14050-STAN-01', 'ID': 'C5'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

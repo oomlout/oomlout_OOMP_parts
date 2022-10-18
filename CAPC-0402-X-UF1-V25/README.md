@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C4U1 > SMD (0402) 1 uF Capacitor (Ceramic) 25v](#c4u1--smd-0402-1-uf-capacitor-ceramic-25v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (0402) 1 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF1-V25](http://oom.lt/CAPC-0402-X-UF1-V25)
 - Short Link: [http://oom.lt/C4U1](http://oom.lt/C4U1)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A105KA5NQNC'}
 - hexID: C4U1
 - oompID: CAPC-0402-X-UF1-V25
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

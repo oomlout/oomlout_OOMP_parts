@@ -6,6 +6,7 @@ Contents
 ========
 
 * [C12U47D > SMD (1206) 4.7 uF Capacitor (Ceramic) 50v](#c12u47d--smd-1206-47-uf-capacitor-ceramic-50v)
+	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
@@ -19,6 +20,10 @@ Contents
 - Description: SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF47D-V50](http://oom.lt/CAPC-1206-X-UF47D-V50)
 - Short Link: [http://oom.lt/C12U47D](http://oom.lt/C12U47D)
+
+## Datasheets
+
+- Datasheet: [datasheet.pdf](datasheet.pdf)
 
 ## Labels
   
@@ -62,6 +67,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '1206B475K500NT'}
 - hexID: C12U47D
 - oompID: CAPC-1206-X-UF47D-V50
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

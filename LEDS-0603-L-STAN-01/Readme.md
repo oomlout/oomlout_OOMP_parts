@@ -312,9 +312,9 @@ Prevalance: (180\10986) 1.6384%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'D5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15005-STAN-01', 'ID': 'D4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15006-STAN-01', 'ID': 'D2'}
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 
 
 
