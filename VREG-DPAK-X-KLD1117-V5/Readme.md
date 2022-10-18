@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [VR1117D5 > ](#vr1117d5--)
+* [VR1117D5 > DPAK LD1117 Voltage Regulator 5v](#vr1117d5--dpak-ld1117-voltage-regulator-5v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VR1117D5 > 
+# VR1117D5 > DPAK LD1117 Voltage Regulator 5v
 
 - ID: VREG-DPAK-X-KLD1117-V5
 - Hex ID: VR1117D5
-- Name: 
-- Description: 
+- Name: DPAK LD1117 Voltage Regulator 5v
+- Description: DPAK LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V5](http://oom.lt/VREG-DPAK-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR1117D5](http://oom.lt/VR1117D5)
 

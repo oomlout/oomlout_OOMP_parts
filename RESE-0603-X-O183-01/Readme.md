@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O183 > ](#r6o183--)
+* [R6O183 > SMD (0603) 18k Ohm Resistor](#r6o183--smd-0603-18k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O183 > 
+# R6O183 > SMD (0603) 18k Ohm Resistor
 
 - ID: RESE-0603-X-O183-01
 - Hex ID: R6O183
-- Name: 
-- Description: 
+- Name: SMD (0603) 18k Ohm Resistor
+- Description: SMD (0603) 18k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O183-01](http://oom.lt/RESE-0603-X-O183-01)
 - Short Link: [http://oom.lt/R6O183](http://oom.lt/R6O183)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF1802T5E'}
 - hexID: R6O183
 - oompID: RESE-0603-X-O183-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

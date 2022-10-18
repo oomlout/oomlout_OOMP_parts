@@ -77,7 +77,7 @@ Prevalance: (23\10986) 0.2094%
 |[PROJ-ADAF-2829-STAN-01<br>Adafruit Feather 32u4 Bluefruit LE PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2829-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2829-STAN-01/)|[D2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2829-STAN-01/)|
 |[PROJ-ADAF-2995-STAN-01<br>Adafruit Feather M0 Bluefruit LE PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2995-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2995-STAN-01/)|[D3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-2995-STAN-01/)|
 |[PROJ-ADAF-3027-STAN-01<br>Adafruit Feather 32u4 FONA PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3027-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3027-STAN-01/)|[NETSTAT](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-3027-STAN-01/)|
-|[PROJ-ARDU-MICRO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[ON](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
+|[PROJ-ARDU-MICRO-STAN-01<br>Arduino Micro](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[ON](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
 
 ## Images
   
@@ -126,12 +126,12 @@ Prevalance: (23\10986) 0.2094%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2995-STAN-01', 'ID': 'D3'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3027-STAN-01', 'ID': 'NETSTAT'}
 - oompInstances: {'PROJECT': 'PROJ-ARDU-MICRO-STAN-01', 'ID': 'ON'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR
-- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE
-- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-LED
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE
+- footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805

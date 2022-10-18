@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [TP92N27 > ](#tp92n27--)
+* [TP92N27 > TO-92 2N2907 PNP Transistor](#tp92n27--to-92-2n2907-pnp-transistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TP92N27 > 
+# TP92N27 > TO-92 2N2907 PNP Transistor
 
 - ID: TRNP-T92-X-K2N2907-01
 - Hex ID: TP92N27
-- Name: 
-- Description: 
+- Name: TO-92 2N2907 PNP Transistor
+- Description: TO-92 2N2907 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-K2N2907-01](http://oom.lt/TRNP-T92-X-K2N2907-01)
 - Short Link: [http://oom.lt/TP92N27](http://oom.lt/TP92N27)
 

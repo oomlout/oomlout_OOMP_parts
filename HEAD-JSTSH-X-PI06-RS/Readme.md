@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR6 > ](#hshr6--)
+* [HSHR6 > JST XH (1 mm) 6 Pin Header Right Angle (SMD)](#hshr6--jst-xh-1-mm-6-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR6 > 
+# HSHR6 > JST XH (1 mm) 6 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI06-RS
 - Hex ID: HSHR6
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 6 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 6 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI06-RS](http://oom.lt/HEAD-JSTSH-X-PI06-RS)
 - Short Link: [http://oom.lt/HSHR6](http://oom.lt/HSHR6)
 

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X8RS > ](#h2x8rs--)
+* [H2X8RS > 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)](#h2x8rs--254-mm-16-pin-2x8-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X8RS > 
+# H2X8RS > 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X08-RS
 - Hex ID: H2X8RS
-- Name: 
-- Description: 
+- Name: 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
+- Description: 2.54 mm 16 Pin (2x8) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X08-RS](http://oom.lt/HEAD-I01-X-PI2X08-RS)
 - Short Link: [http://oom.lt/H2X8RS](http://oom.lt/H2X8RS)
 

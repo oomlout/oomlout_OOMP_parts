@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O702 > ](#r4o702--)
+* [R4O702 > SMD (0402) 7k Ohm Resistor](#r4o702--smd-0402-7k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O702 > 
+# R4O702 > SMD (0402) 7k Ohm Resistor
 
 - ID: RESE-0402-X-O702-01
 - Hex ID: R4O702
-- Name: 
-- Description: 
+- Name: SMD (0402) 7k Ohm Resistor
+- Description: SMD (0402) 7k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O702-01](http://oom.lt/RESE-0402-X-O702-01)
 - Short Link: [http://oom.lt/R4O702](http://oom.lt/R4O702)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF4701TCE'}
 - hexID: R4O702
 - oompID: RESE-0402-X-O702-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

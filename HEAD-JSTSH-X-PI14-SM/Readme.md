@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH14 > ](#hsh14--)
+* [HSH14 > JST XH (1 mm) 14 Pin Header (SMD)](#hsh14--jst-xh-1-mm-14-pin-header-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH14 > 
+# HSH14 > JST XH (1 mm) 14 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI14-SM
 - Hex ID: HSH14
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 14 Pin Header (SMD)
+- Description: JST XH (1 mm) 14 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI14-SM](http://oom.lt/HEAD-JSTSH-X-PI14-SM)
 - Short Link: [http://oom.lt/HSH14](http://oom.lt/HSH14)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH14
 - oompID: HEAD-JSTSH-X-PI14-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM14B-SRSS-TB_1x14-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM14B-SRSS-TB_1x14-1MP_P1.00mm_Vertical

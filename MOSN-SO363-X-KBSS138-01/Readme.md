@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [MN363BSS138 > ](#mn363bss138--)
+* [MN363BSS138 > SMD (SOT-363) BSS138 N-Ch. MOSFET](#mn363bss138--smd-sot-363-bss138-n-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# MN363BSS138 > 
+# MN363BSS138 > SMD (SOT-363) BSS138 N-Ch. MOSFET
 
 - ID: MOSN-SO363-X-KBSS138-01
 - Hex ID: MN363BSS138
-- Name: 
-- Description: 
+- Name: SMD (SOT-363) BSS138 N-Ch. MOSFET
+- Description: SMD (SOT-363) BSS138 N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO363-X-KBSS138-01](http://oom.lt/MOSN-SO363-X-KBSS138-01)
 - Short Link: [http://oom.lt/MN363BSS138](http://oom.lt/MN363BSS138)
 

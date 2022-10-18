@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR14 > ](#hshr14--)
+* [HSHR14 > JST XH (1 mm) 14 Pin Header Right Angle (SMD)](#hshr14--jst-xh-1-mm-14-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR14 > 
+# HSHR14 > JST XH (1 mm) 14 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI14-RS
 - Hex ID: HSHR14
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 14 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 14 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI14-RS](http://oom.lt/HEAD-JSTSH-X-PI14-RS)
 - Short Link: [http://oom.lt/HSHR14](http://oom.lt/HSHR14)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [T35L6 > ](#t35l6--)
+* [T35L6 > 3.5 mm 6 Pin Blue Screw Terminal](#t35l6--35-mm-6-pin-blue-screw-terminal)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L6 > 
+# T35L6 > 3.5 mm 6 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI06-01
 - Hex ID: T35L6
-- Name: 
-- Description: 
+- Name: 3.5 mm 6 Pin Blue Screw Terminal
+- Description: 3.5 mm 6 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI06-01](http://oom.lt/TERS-35D-L-PI06-01)
 - Short Link: [http://oom.lt/T35L6](http://oom.lt/T35L6)
 
@@ -59,5 +59,5 @@ Contents
 - oompIndex: 01
 - hexID: T35L6
 - oompID: TERS-35D-L-PI06-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x06_P3.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x06
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x06_P3.50mm_Vertical

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O153 > ](#r6o153--)
+* [R6O153 > SMD (0603) 15k Ohm Resistor](#r6o153--smd-0603-15k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O153 > 
+# R6O153 > SMD (0603) 15k Ohm Resistor
 
 - ID: RESE-0603-X-O153-01
 - Hex ID: R6O153
-- Name: 
-- Description: 
+- Name: SMD (0603) 15k Ohm Resistor
+- Description: SMD (0603) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O153-01](http://oom.lt/RESE-0603-X-O153-01)
 - Short Link: [http://oom.lt/R6O153](http://oom.lt/R6O153)
 
@@ -87,9 +87,9 @@ Prevalance: (7\10986) 0.0637%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R14'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-12858-STAN-01', 'ID': 'R16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R4'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

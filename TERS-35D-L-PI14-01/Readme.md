@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [T35L14 > ](#t35l14--)
+* [T35L14 > 3.5 mm 14 Pin Blue Screw Terminal](#t35l14--35-mm-14-pin-blue-screw-terminal)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L14 > 
+# T35L14 > 3.5 mm 14 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI14-01
 - Hex ID: T35L14
-- Name: 
-- Description: 
+- Name: 3.5 mm 14 Pin Blue Screw Terminal
+- Description: 3.5 mm 14 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI14-01](http://oom.lt/TERS-35D-L-PI14-01)
 - Short Link: [http://oom.lt/T35L14](http://oom.lt/T35L14)
 
@@ -59,5 +59,5 @@ Contents
 - oompIndex: 01
 - hexID: T35L14
 - oompID: TERS-35D-L-PI14-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x14_P3.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x14_P3.50mm_Vertical

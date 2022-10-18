@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X5SM > ](#h2x5sm--)
+* [H2X5SM > 2.54 mm 10 Pin (2x5) Header (SMD)](#h2x5sm--254-mm-10-pin-2x5-header-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X5SM > 
+# H2X5SM > 2.54 mm 10 Pin (2x5) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X05-SM
 - Hex ID: H2X5SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 10 Pin (2x5) Header (SMD)
+- Description: 2.54 mm 10 Pin (2x5) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X05-SM](http://oom.lt/HEAD-I01-X-PI2X05-SM)
 - Short Link: [http://oom.lt/H2X5SM](http://oom.lt/H2X5SM)
 
@@ -65,7 +65,6 @@ Contents
 - oompIndex: SM
 - hexID: H2X5SM
 - oompID: HEAD-I01-X-PI2X05-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x05_P2.54mm_Vertical_SMD
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x05_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_First
@@ -73,3 +72,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x05_P2.54mm_Vertical_SMD

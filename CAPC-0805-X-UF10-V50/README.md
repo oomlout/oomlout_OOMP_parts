@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8U10 > ](#c8u10--)
+* [C8U10 > SMD (0805) 10 uF Capacitor (Ceramic) 50v](#c8u10--smd-0805-10-uf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8U10 > 
+# C8U10 > SMD (0805) 10 uF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-UF10-V50
 - Hex ID: C8U10
-- Name: 
-- Description: 
+- Name: SMD (0805) 10 uF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 10 uF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF10-V50](http://oom.lt/CAPC-0805-X-UF10-V50)
 - Short Link: [http://oom.lt/C8U10](http://oom.lt/C8U10)
 
@@ -64,6 +64,7 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Murata Electronics', 'partID': 'GRM21BR61H106KE43L'}
 - hexID: C8U10
 - oompID: CAPC-0805-X-UF10-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -73,4 +74,3 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

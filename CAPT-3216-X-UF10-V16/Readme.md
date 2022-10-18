@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS32U010F > ](#cts32u010f--)
+* [CTS32U010F > SMD (3216) 10 uF Capacitor (Tantalum) 16v](#cts32u010f--smd-3216-10-uf-capacitor-tantalum-16v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS32U010F > 
+# CTS32U010F > SMD (3216) 10 uF Capacitor (Tantalum) 16v
 
 - ID: CAPT-3216-X-UF10-V16
 - Hex ID: CTS32U010F
-- Name: 
-- Description: 
+- Name: SMD (3216) 10 uF Capacitor (Tantalum) 16v
+- Description: SMD (3216) 10 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-3216-X-UF10-V16](http://oom.lt/CAPT-3216-X-UF10-V16)
 - Short Link: [http://oom.lt/CTS32U010F](http://oom.lt/CTS32U010F)
 

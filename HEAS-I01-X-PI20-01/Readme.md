@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HS20 > ](#hs20--)
+* [HS20 > 2.54 mm 20 Pin Header (Socket)](#hs20--254-mm-20-pin-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HS20 > 
+# HS20 > 2.54 mm 20 Pin Header (Socket)
 
 - ID: HEAS-I01-X-PI20-01
 - Hex ID: HS20
-- Name: 
-- Description: 
+- Name: 2.54 mm 20 Pin Header (Socket)
+- Description: 2.54 mm 20 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI20-01](http://oom.lt/HEAS-I01-X-PI20-01)
 - Short Link: [http://oom.lt/HS20](http://oom.lt/HS20)
 

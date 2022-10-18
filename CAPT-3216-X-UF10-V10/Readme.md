@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS21U010B > ](#cts21u010b--)
+* [CTS21U010B > SMD (3216) 10 uF Capacitor (Tantalum) 10v](#cts21u010b--smd-3216-10-uf-capacitor-tantalum-10v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS21U010B > 
+# CTS21U010B > SMD (3216) 10 uF Capacitor (Tantalum) 10v
 
 - ID: CAPT-3216-X-UF10-V10
 - Hex ID: CTS21U010B
-- Name: 
-- Description: 
+- Name: SMD (3216) 10 uF Capacitor (Tantalum) 10v
+- Description: SMD (3216) 10 uF Capacitor (Tantalum) 10v
 - Long Link: [http://oom.lt/CAPT-3216-X-UF10-V10](http://oom.lt/CAPT-3216-X-UF10-V10)
 - Short Link: [http://oom.lt/CTS21U010B](http://oom.lt/CTS21U010B)
 

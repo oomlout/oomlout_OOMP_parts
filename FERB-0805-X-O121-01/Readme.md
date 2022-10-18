@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [F6121 > ](#f6121--)
+* [F6121 > SMD (0805) 120 Ohm Ferrite Bead](#f6121--smd-0805-120-ohm-ferrite-bead)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# F6121 > 
+# F6121 > SMD (0805) 120 Ohm Ferrite Bead
 
 - ID: FERB-0805-X-O121-01
 - Hex ID: F6121
-- Name: 
-- Description: 
+- Name: SMD (0805) 120 Ohm Ferrite Bead
+- Description: SMD (0805) 120 Ohm Ferrite Bead
 - Long Link: [http://oom.lt/FERB-0805-X-O121-01](http://oom.lt/FERB-0805-X-O121-01)
 - Short Link: [http://oom.lt/F6121](http://oom.lt/F6121)
 

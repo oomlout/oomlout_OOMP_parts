@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P22D > ](#c4p22d--)
+* [C4P22D > SMD (0402) 2.2 pF Capacitor (Ceramic) 50v](#c4p22d--smd-0402-22-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P22D > 
+# C4P22D > SMD (0402) 2.2 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF22D-V50
 - Hex ID: C4P22D
-- Name: 
-- Description: 
+- Name: SMD (0402) 2.2 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 2.2 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF22D-V50](http://oom.lt/CAPC-0402-X-PF22D-V50)
 - Short Link: [http://oom.lt/C4P22D](http://oom.lt/C4P22D)
 
@@ -85,9 +85,9 @@ Prevalance: (4\10986) 0.0364%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'C3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11486-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11703-STAN-01', 'ID': 'C2'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

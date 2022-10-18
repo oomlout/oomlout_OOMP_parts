@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4U1063D > ](#c4u1063d--)
+* [C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](#c4u1063d--smd-0402-10-uf-capacitor-ceramic-63v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4U1063D > 
+# C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 
 - ID: CAPC-0402-X-UF10-V63D
 - Hex ID: C4U1063D
-- Name: 
-- Description: 
+- Name: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
+- Description: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF10-V63D](http://oom.lt/CAPC-0402-X-UF10-V63D)
 - Short Link: [http://oom.lt/C4U1063D](http://oom.lt/C4U1063D)
 
@@ -69,9 +69,9 @@ Contents
 - hexID: C4U1063D
 - oompID: CAPC-0402-X-UF10-V63D
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11801-STAN-01', 'ID': 'C3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

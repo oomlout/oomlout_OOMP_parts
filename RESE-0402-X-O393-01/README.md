@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O393 > ](#r4o393--)
+* [R4O393 > SMD (0402) 39k Ohm Resistor](#r4o393--smd-0402-39k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O393 > 
+# R4O393 > SMD (0402) 39k Ohm Resistor
 
 - ID: RESE-0402-X-O393-01
 - Hex ID: R4O393
-- Name: 
-- Description: 
+- Name: SMD (0402) 39k Ohm Resistor
+- Description: SMD (0402) 39k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O393-01](http://oom.lt/RESE-0402-X-O393-01)
 - Short Link: [http://oom.lt/R4O393](http://oom.lt/R4O393)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF3902TCE'}
 - hexID: R4O393
 - oompID: RESE-0402-X-O393-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

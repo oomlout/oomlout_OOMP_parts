@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [TN120 > ](#tn120--)
+* [TN120 > TO-220 5 Amp NPN Transistor](#tn120--to-220-5-amp-npn-transistor)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -13,12 +13,12 @@ Contents
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TN120 > 
+# TN120 > TO-220 5 Amp NPN Transistor
 
 - ID: TRNN-T220-BCE-A05-01
 - Hex ID: TN120
-- Name: 
-- Description: 
+- Name: TO-220 5 Amp NPN Transistor
+- Description: TO-220 5 Amp NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T220-BCE-A05-01](http://oom.lt/TRNN-T220-BCE-A05-01)
 - Short Link: [http://oom.lt/TN120](http://oom.lt/TN120)
 

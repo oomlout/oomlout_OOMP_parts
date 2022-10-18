@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [DCP21 > ](#dcp21--)
+* [DCP21 > 2.1 mm DC Plug](#dcp21--21-mm-dc-plug)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# DCP21 > 
+# DCP21 > 2.1 mm DC Plug
 
 - ID: DCPP-21D-X-STAN-01
 - Hex ID: DCP21
-- Name: 
-- Description: 
+- Name: 2.1 mm DC Plug
+- Description: 2.1 mm DC Plug
 - Long Link: [http://oom.lt/DCPP-21D-X-STAN-01](http://oom.lt/DCPP-21D-X-STAN-01)
 - Short Link: [http://oom.lt/DCP21](http://oom.lt/DCP21)
 

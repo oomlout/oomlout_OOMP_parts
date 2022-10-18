@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS06 > ](#hs06--)
+* [HS06 > 2.54 mm 6 Pin Header (Socket)](#hs06--254-mm-6-pin-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS06 > 
+# HS06 > 2.54 mm 6 Pin Header (Socket)
 
 - ID: HEAS-I01-X-PI06-01
 - Hex ID: HS06
-- Name: 
-- Description: 
+- Name: 2.54 mm 6 Pin Header (Socket)
+- Description: 2.54 mm 6 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI06-01](http://oom.lt/HEAS-I01-X-PI06-01)
 - Short Link: [http://oom.lt/HS06](http://oom.lt/HS06)
 

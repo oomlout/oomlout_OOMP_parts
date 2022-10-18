@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X6SM > ](#h2x6sm--)
+* [H2X6SM > 2.54 mm 12 Pin (2x6) Header (SMD)](#h2x6sm--254-mm-12-pin-2x6-header-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X6SM > 
+# H2X6SM > 2.54 mm 12 Pin (2x6) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X06-SM
 - Hex ID: H2X6SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 12 Pin (2x6) Header (SMD)
+- Description: 2.54 mm 12 Pin (2x6) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-SM](http://oom.lt/HEAD-I01-X-PI2X06-SM)
 - Short Link: [http://oom.lt/H2X6SM](http://oom.lt/H2X6SM)
 
@@ -65,7 +65,6 @@ Contents
 - oompIndex: SM
 - hexID: H2X6SM
 - oompID: HEAD-I01-X-PI2X06-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Vertical_SMD
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x06_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First
@@ -73,3 +72,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x06_P2.54mm_Vertical_SMD

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6P6 > ](#c6p6--)
+* [C6P6 > SMD (0603) 6 pF Capacitor (Ceramic) 50v](#c6p6--smd-0603-6-pf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6P6 > 
+# C6P6 > SMD (0603) 6 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF6-V50
 - Hex ID: C6P6
-- Name: 
-- Description: 
+- Name: SMD (0603) 6 pF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 6 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF6-V50](http://oom.lt/CAPC-0603-X-PF6-V50)
 - Short Link: [http://oom.lt/C6P6](http://oom.lt/C6P6)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10C560JB8NNNC'}
 - hexID: C6P6
 - oompID: CAPC-0603-X-PF6-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

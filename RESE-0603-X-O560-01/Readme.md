@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O560 > ](#r6o560--)
+* [R6O560 > SMD (0603) 56 Ohm Resistor](#r6o560--smd-0603-56-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O560 > 
+# R6O560 > SMD (0603) 56 Ohm Resistor
 
 - ID: RESE-0603-X-O560-01
 - Hex ID: R6O560
-- Name: 
-- Description: 
+- Name: SMD (0603) 56 Ohm Resistor
+- Description: SMD (0603) 56 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O560-01](http://oom.lt/RESE-0603-X-O560-01)
 - Short Link: [http://oom.lt/R6O560](http://oom.lt/R6O560)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF560JT5E'}
 - hexID: R6O560
 - oompID: RESE-0603-X-O560-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

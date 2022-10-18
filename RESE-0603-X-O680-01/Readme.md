@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O680 > ](#r6o680--)
+* [R6O680 > SMD (0603) 68 Ohm Resistor](#r6o680--smd-0603-68-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O680 > 
+# R6O680 > SMD (0603) 68 Ohm Resistor
 
 - ID: RESE-0603-X-O680-01
 - Hex ID: R6O680
-- Name: 
-- Description: 
+- Name: SMD (0603) 68 Ohm Resistor
+- Description: SMD (0603) 68 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O680-01](http://oom.lt/RESE-0603-X-O680-01)
 - Short Link: [http://oom.lt/R6O680](http://oom.lt/R6O680)
 
@@ -82,9 +82,9 @@ Prevalance: (3\10986) 0.0273%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-3421-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14130-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14130-STAN-01', 'ID': 'R2'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

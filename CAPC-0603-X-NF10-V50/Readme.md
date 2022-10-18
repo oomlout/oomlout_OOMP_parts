@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6N10 > ](#c6n10--)
+* [C6N10 > SMD (0603) 10 nF Capacitor (Ceramic) 50v](#c6n10--smd-0603-10-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6N10 > 
+# C6N10 > SMD (0603) 10 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-NF10-V50
 - Hex ID: C6N10
-- Name: 
-- Description: 
+- Name: SMD (0603) 10 nF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF10-V50](http://oom.lt/CAPC-0603-X-NF10-V50)
 - Short Link: [http://oom.lt/C6N10](http://oom.lt/C6N10)
 
@@ -159,9 +159,9 @@ Prevalance: (48\10986) 0.4369%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'C12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14669-STAN-01', 'ID': 'C17'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'C9'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

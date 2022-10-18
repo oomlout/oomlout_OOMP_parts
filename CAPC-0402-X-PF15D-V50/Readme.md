@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P15D > ](#c4p15d--)
+* [C4P15D > SMD (0402) 1.5 pF Capacitor (Ceramic) 50v](#c4p15d--smd-0402-15-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P15D > 
+# C4P15D > SMD (0402) 1.5 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF15D-V50
 - Hex ID: C4P15D
-- Name: 
-- Description: 
+- Name: SMD (0402) 1.5 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 1.5 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF15D-V50](http://oom.lt/CAPC-0402-X-PF15D-V50)
 - Short Link: [http://oom.lt/C4P15D](http://oom.lt/C4P15D)
 
@@ -69,9 +69,9 @@ Contents
 - hexID: C4P15D
 - oompID: CAPC-0402-X-PF15D-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1697-STAN-01', 'ID': 'C15'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

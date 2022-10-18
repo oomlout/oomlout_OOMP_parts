@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X6SH > ](#h2x6sh--)
+* [H2X6SH > 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)](#h2x6sh--254-mm-12-pin-2x6-header-shrouded-idc)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X6SH > 
+# H2X6SH > 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
 
 - ID: HEAD-I01-X-PI2X06-SHRO
 - Hex ID: H2X6SH
-- Name: 
-- Description: 
+- Name: 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
+- Description: 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-SHRO](http://oom.lt/HEAD-I01-X-PI2X06-SHRO)
 - Short Link: [http://oom.lt/H2X6SH](http://oom.lt/H2X6SH)
 
@@ -60,7 +60,6 @@ Contents
 - oompIndex: SHRO
 - hexID: H2X6SH
 - oompID: HEAD-I01-X-PI2X06-SHRO
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x06_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x06_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First
@@ -68,3 +67,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x06_P2.54mm_Vertical

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H06 > ](#h06--)
+* [H06 > 2.54 mm 6 Pin Header](#h06--254-mm-6-pin-header)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H06 > 
+# H06 > 2.54 mm 6 Pin Header
 
 - ID: HEAD-I01-X-PI06-01
 - Hex ID: H06
-- Name: 
-- Description: 
+- Name: 2.54 mm 6 Pin Header
+- Description: 2.54 mm 6 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI06-01](http://oom.lt/HEAD-I01-X-PI06-01)
 - Short Link: [http://oom.lt/H06](http://oom.lt/H06)
 
@@ -160,8 +160,8 @@ Prevalance: (246\10986) 2.2392%
 |[PROJ-ADAF-931-STAN-01<br>Adafruit 128x32 I2C OLED Breakout PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-931-STAN-01/)|
 |[PROJ-ADAF-935-STAN-01<br>Adafruit MCP4725 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-935-STAN-01/)|
 |[PROJ-ADAF-992-STAN-01<br>Adafruit MPL115A2 Breakout PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-992-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-992-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-992-STAN-01/)|
-|[PROJ-ARDU-LEO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
-|[PROJ-ARDU-UNO-REV3-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[AD](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
+|[PROJ-ARDU-LEO-STAN-01<br>Arduino Leonardo](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
+|[PROJ-ARDU-UNO-REV3-01<br>Arduino Rev3 Uno](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[AD](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
 |[PROJ-SPAR-10101-STAN-01<br>Window Comparator](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[JP2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|
 |[PROJ-SPAR-10103-STAN-01<br>Serial Alphanumeric Display Driver](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10103-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10103-STAN-01/)|[INPUT, OUTPUT](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10103-STAN-01/)|
 |[PROJ-SPAR-10121-STAN-01<br>IMU Digital Combo Board](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10121-STAN-01/)|
@@ -550,6 +550,8 @@ Prevalance: (246\10986) 2.2392%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'J5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15005-STAN-01', 'ID': 'JP15'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'J1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X06_LOCK_LONGPADS
@@ -559,8 +561,6 @@ Prevalance: (246\10986) 2.2392%
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-BIGLOCK
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X06-CLEAN
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x06_P2.54mm_Vertical
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06
 
 
 

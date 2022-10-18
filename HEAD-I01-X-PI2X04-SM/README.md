@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X4SM > ](#h2x4sm--)
+* [H2X4SM > 2.54 mm 8 Pin (2x4) Header (SMD)](#h2x4sm--254-mm-8-pin-2x4-header-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X4SM > 
+# H2X4SM > 2.54 mm 8 Pin (2x4) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X04-SM
 - Hex ID: H2X4SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 8 Pin (2x4) Header (SMD)
+- Description: 2.54 mm 8 Pin (2x4) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-SM](http://oom.lt/HEAD-I01-X-PI2X04-SM)
 - Short Link: [http://oom.lt/H2X4SM](http://oom.lt/H2X4SM)
 
@@ -65,7 +65,6 @@ Contents
 - oompIndex: SM
 - hexID: H2X4SM
 - oompID: HEAD-I01-X-PI2X04-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x04_P2.54mm_Vertical_SMD
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x04_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Row_Letter_First
@@ -73,3 +72,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x04_P2.54mm_Vertical_SMD

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4N10016 > ](#c4n10016--)
+* [C4N10016 > SMD (0402) 100 nF Capacitor (Ceramic) 16v](#c4n10016--smd-0402-100-nf-capacitor-ceramic-16v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4N10016 > 
+# C4N10016 > SMD (0402) 100 nF Capacitor (Ceramic) 16v
 
 - ID: CAPC-0402-X-NF100-V16
 - Hex ID: C4N10016
-- Name: 
-- Description: 
+- Name: SMD (0402) 100 nF Capacitor (Ceramic) 16v
+- Description: SMD (0402) 100 nF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V16](http://oom.lt/CAPC-0402-X-NF100-V16)
 - Short Link: [http://oom.lt/C4N10016](http://oom.lt/C4N10016)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KO5NNNC'}
 - hexID: C4N10016
 - oompID: CAPC-0402-X-NF100-V16
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

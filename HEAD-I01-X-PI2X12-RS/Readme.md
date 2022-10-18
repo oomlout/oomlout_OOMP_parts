@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HRS2X12 > ](#hrs2x12--)
+* [HRS2X12 > 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)](#hrs2x12--254-mm-24-pin-2x12-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HRS2X12 > 
+# HRS2X12 > 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X12-RS
 - Hex ID: HRS2X12
-- Name: 
-- Description: 
+- Name: 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
+- Description: 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X12-RS](http://oom.lt/HEAD-I01-X-PI2X12-RS)
 - Short Link: [http://oom.lt/HRS2X12](http://oom.lt/HRS2X12)
 

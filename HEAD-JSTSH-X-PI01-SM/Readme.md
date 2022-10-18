@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH1 > ](#hsh1--)
+* [HSH1 > JST XH (1 mm) 1 Pin Header (SMD)](#hsh1--jst-xh-1-mm-1-pin-header-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH1 > 
+# HSH1 > JST XH (1 mm) 1 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI01-SM
 - Hex ID: HSH1
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 1 Pin Header (SMD)
+- Description: JST XH (1 mm) 1 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI01-SM](http://oom.lt/HEAD-JSTSH-X-PI01-SM)
 - Short Link: [http://oom.lt/HSH1](http://oom.lt/HSH1)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH1
 - oompID: HEAD-JSTSH-X-PI01-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM01B-SRSS-TB_1x01-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM01B-SRSS-TB_1x01-1MP_P1.00mm_Vertical

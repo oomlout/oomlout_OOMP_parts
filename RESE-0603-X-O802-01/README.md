@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O802 > ](#r6o802--)
+* [R6O802 > SMD (0603) 8k Ohm Resistor](#r6o802--smd-0603-8k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O802 > 
+# R6O802 > SMD (0603) 8k Ohm Resistor
 
 - ID: RESE-0603-X-O802-01
 - Hex ID: R6O802
-- Name: 
-- Description: 
+- Name: SMD (0603) 8k Ohm Resistor
+- Description: SMD (0603) 8k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O802-01](http://oom.lt/RESE-0603-X-O802-01)
 - Short Link: [http://oom.lt/R6O802](http://oom.lt/R6O802)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6801T5E'}
 - hexID: R6O802
 - oompID: RESE-0603-X-O802-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS3U100 > ](#cts3u100--)
+* [CTS3U100 > SMD (6032) 100 uF Capacitor (Tantalum) 10v](#cts3u100--smd-6032-100-uf-capacitor-tantalum-10v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS3U100 > 
+# CTS3U100 > SMD (6032) 100 uF Capacitor (Tantalum) 10v
 
 - ID: CAPT-6032-X-UF100-V10
 - Hex ID: CTS3U100
-- Name: 
-- Description: 
+- Name: SMD (6032) 100 uF Capacitor (Tantalum) 10v
+- Description: SMD (6032) 100 uF Capacitor (Tantalum) 10v
 - Long Link: [http://oom.lt/CAPT-6032-X-UF100-V10](http://oom.lt/CAPT-6032-X-UF100-V10)
 - Short Link: [http://oom.lt/CTS3U100](http://oom.lt/CTS3U100)
 

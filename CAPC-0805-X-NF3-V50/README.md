@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8N3 > ](#c8n3--)
+* [C8N3 > SMD (0805) 3 nF Capacitor (Ceramic) 50v](#c8n3--smd-0805-3-nf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8N3 > 
+# C8N3 > SMD (0805) 3 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-NF3-V50
 - Hex ID: C8N3
-- Name: 
-- Description: 
+- Name: SMD (0805) 3 nF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 3 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF3-V50](http://oom.lt/CAPC-0805-X-NF3-V50)
 - Short Link: [http://oom.lt/C8N3](http://oom.lt/C8N3)
 
@@ -64,6 +64,7 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21B332KBANNNC'}
 - hexID: C8N3
 - oompID: CAPC-0805-X-NF3-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -73,4 +74,3 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

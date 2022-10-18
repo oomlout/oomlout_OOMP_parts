@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O243 > ](#r6o243--)
+* [R6O243 > SMD (0603) 24k Ohm Resistor](#r6o243--smd-0603-24k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O243 > 
+# R6O243 > SMD (0603) 24k Ohm Resistor
 
 - ID: RESE-0603-X-O243-01
 - Hex ID: R6O243
-- Name: 
-- Description: 
+- Name: SMD (0603) 24k Ohm Resistor
+- Description: SMD (0603) 24k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O243-01](http://oom.lt/RESE-0603-X-O243-01)
 - Short Link: [http://oom.lt/R6O243](http://oom.lt/R6O243)
 
@@ -63,6 +63,6 @@ Contents
 - hexID: R6O243
 - oompID: RESE-0603-X-O243-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-4683-STAN-01', 'ID': 'R3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

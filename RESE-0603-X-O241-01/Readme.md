@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O241 > ](#r6o241--)
+* [R6O241 > SMD (0603) 240 Ohm Resistor](#r6o241--smd-0603-240-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O241 > 
+# R6O241 > SMD (0603) 240 Ohm Resistor
 
 - ID: RESE-0603-X-O241-01
 - Hex ID: R6O241
-- Name: 
-- Description: 
+- Name: SMD (0603) 240 Ohm Resistor
+- Description: SMD (0603) 240 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O241-01](http://oom.lt/RESE-0603-X-O241-01)
 - Short Link: [http://oom.lt/R6O241](http://oom.lt/R6O241)
 
@@ -114,6 +114,6 @@ Prevalance: (25\10986) 0.2276%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'R12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13975-STAN-01', 'ID': 'R15'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14669-STAN-01', 'ID': 'R15'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

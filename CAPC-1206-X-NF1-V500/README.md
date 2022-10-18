@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12N10 > ](#c12n10--)
+* [C12N10 > SMD (1206) 1 nF Capacitor (Ceramic)](#c12n10--smd-1206-1-nf-capacitor-ceramic)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12N10 > 
+# C12N10 > SMD (1206) 1 nF Capacitor (Ceramic)
 
 - ID: CAPC-1206-X-NF1-V500
 - Hex ID: C12N10
-- Name: 
-- Description: 
+- Name: SMD (1206) 1 nF Capacitor (Ceramic)
+- Description: SMD (1206) 1 nF Capacitor (Ceramic)
 - Long Link: [http://oom.lt/CAPC-1206-X-NF1-V500](http://oom.lt/CAPC-1206-X-NF1-V500)
 - Short Link: [http://oom.lt/C12N10](http://oom.lt/C12N10)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31B102KGFNNNE'}
 - hexID: C12N10
 - oompID: CAPC-1206-X-NF1-V500
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

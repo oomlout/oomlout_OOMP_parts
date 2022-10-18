@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R4O103 > ](#r4o103--)
+* [R4O103 > SMD (0402) 10k Ohm Resistor](#r4o103--smd-0402-10k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R4O103 > 
+# R4O103 > SMD (0402) 10k Ohm Resistor
 
 - ID: RESE-0402-X-O103-01
 - Hex ID: R4O103
-- Name: 
-- Description: 
+- Name: SMD (0402) 10k Ohm Resistor
+- Description: SMD (0402) 10k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O103-01](http://oom.lt/RESE-0402-X-O103-01)
 - Short Link: [http://oom.lt/R4O103](http://oom.lt/R4O103)
 
@@ -63,8 +63,8 @@ Prevalance: (115\10986) 1.0468%
 |[PROJ-ADAF-5395-STAN-01<br>Adafruit QT Py ESP32 Pico PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|[R1, R2, R3, R7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|
 |[PROJ-ADAF-5405-STAN-01<br>Adafruit QT Py ESP32 C3 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5405-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5405-STAN-01/)|[R1, R2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5405-STAN-01/)|
 |[PROJ-ADAF-5426-STAN-01<br>Adafruit QT Py ESP32 S3 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5426-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5426-STAN-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5426-STAN-01/)|
-|[PROJ-ARDU-DUE-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[R2, R13, R18, R99](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|
-|[PROJ-ARDU-MICRO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[R1, R2, R4, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
+|[PROJ-ARDU-DUE-STAN-01<br>Arduino DUE](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|[R2, R13, R18, R99](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-DUE-STAN-01/)|
+|[PROJ-ARDU-MICRO-STAN-01<br>Arduino Micro](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|[R1, R2, R4, R9](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MICRO-STAN-01/)|
 |[PROJ-SPAR-10116-STAN-01<br>Arduino Fio](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|
 |[PROJ-SPAR-10160-STAN-01<br>DeadOn RTC](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10160-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10160-STAN-01/)|[R1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10160-STAN-01/)|
 |[PROJ-SPAR-10182-STAN-01<br>Monster Moto Shield](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10182-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10182-STAN-01/)|[R5, R14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10182-STAN-01/)|
@@ -244,9 +244,9 @@ Prevalance: (115\10986) 1.0468%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13926-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13926-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13926-STAN-01', 'ID': 'R3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

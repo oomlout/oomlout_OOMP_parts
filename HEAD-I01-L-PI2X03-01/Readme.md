@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H2X03L > ](#h2x03l--)
+* [H2X03L > 2.54 mm 6 Pin (2x3) Blue Header](#h2x03l--254-mm-6-pin-2x3-blue-header)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H2X03L > 
+# H2X03L > 2.54 mm 6 Pin (2x3) Blue Header
 
 - ID: HEAD-I01-L-PI2X03-01
 - Hex ID: H2X03L
-- Name: 
-- Description: 
+- Name: 2.54 mm 6 Pin (2x3) Blue Header
+- Description: 2.54 mm 6 Pin (2x3) Blue Header
 - Long Link: [http://oom.lt/HEAD-I01-L-PI2X03-01](http://oom.lt/HEAD-I01-L-PI2X03-01)
 - Short Link: [http://oom.lt/H2X03L](http://oom.lt/H2X03L)
 

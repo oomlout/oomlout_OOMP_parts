@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [TP985 > ](#tp985--)
+* [TP985 > SMD (SOT-23) S8550 PNP Transistor](#tp985--smd-sot-23-s8550-pnp-transistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TP985 > 
+# TP985 > SMD (SOT-23) S8550 PNP Transistor
 
 - ID: TRNP-SO23-X-KS8550-01
 - Hex ID: TP985
-- Name: 
-- Description: 
+- Name: SMD (SOT-23) S8550 PNP Transistor
+- Description: SMD (SOT-23) S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KS8550-01](http://oom.lt/TRNP-SO23-X-KS8550-01)
 - Short Link: [http://oom.lt/TP985](http://oom.lt/TP985)
 

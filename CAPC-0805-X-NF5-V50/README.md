@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C8N5 > ](#c8n5--)
+* [C8N5 > SMD (0805) 5 nF Capacitor (Ceramic) 50v](#c8n5--smd-0805-5-nf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C8N5 > 
+# C8N5 > SMD (0805) 5 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-NF5-V50
 - Hex ID: C8N5
-- Name: 
-- Description: 
+- Name: SMD (0805) 5 nF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 5 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF5-V50](http://oom.lt/CAPC-0805-X-NF5-V50)
 - Short Link: [http://oom.lt/C8N5](http://oom.lt/C8N5)
 
@@ -64,6 +64,7 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0805B152K500NT'}
 - hexID: C8N5
 - oompID: CAPC-0805-X-NF5-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -73,4 +74,3 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

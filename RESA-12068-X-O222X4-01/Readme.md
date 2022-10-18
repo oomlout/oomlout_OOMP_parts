@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RA12222 > ](#ra12222--)
+* [RA12222 > SMD (1206-8) Resistor Array](#ra12222--smd-1206-8-resistor-array)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RA12222 > 
+# RA12222 > SMD (1206-8) Resistor Array
 
 - ID: RESA-12068-X-O222X4-01
 - Hex ID: RA12222
-- Name: 
-- Description: 
+- Name: SMD (1206-8) Resistor Array
+- Description: SMD (1206-8) Resistor Array
 - Long Link: [http://oom.lt/RESA-12068-X-O222X4-01](http://oom.lt/RESA-12068-X-O222X4-01)
 - Short Link: [http://oom.lt/RA12222](http://oom.lt/RA12222)
 

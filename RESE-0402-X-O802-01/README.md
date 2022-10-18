@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O802 > ](#r4o802--)
+* [R4O802 > SMD (0402) 8k Ohm Resistor](#r4o802--smd-0402-8k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O802 > 
+# R4O802 > SMD (0402) 8k Ohm Resistor
 
 - ID: RESE-0402-X-O802-01
 - Hex ID: R4O802
-- Name: 
-- Description: 
+- Name: SMD (0402) 8k Ohm Resistor
+- Description: SMD (0402) 8k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O802-01](http://oom.lt/RESE-0402-X-O802-01)
 - Short Link: [http://oom.lt/R4O802](http://oom.lt/R4O802)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF6801TCE'}
 - hexID: R4O802
 - oompID: RESE-0402-X-O802-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

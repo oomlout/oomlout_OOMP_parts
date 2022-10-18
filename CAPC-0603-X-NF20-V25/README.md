@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6N20 > ](#c6n20--)
+* [C6N20 > SMD (0603) 20 nF Capacitor (Ceramic) 25v](#c6n20--smd-0603-20-nf-capacitor-ceramic-25v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6N20 > 
+# C6N20 > SMD (0603) 20 nF Capacitor (Ceramic) 25v
 
 - ID: CAPC-0603-X-NF20-V25
 - Hex ID: C6N20
-- Name: 
-- Description: 
+- Name: SMD (0603) 20 nF Capacitor (Ceramic) 25v
+- Description: SMD (0603) 20 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF20-V25](http://oom.lt/CAPC-0603-X-NF20-V25)
 - Short Link: [http://oom.lt/C6N20](http://oom.lt/C6N20)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10B224KA8NNNC'}
 - hexID: C6N20
 - oompID: CAPC-0603-X-NF20-V25
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

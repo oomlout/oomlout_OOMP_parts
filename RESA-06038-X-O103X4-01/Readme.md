@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RA6103 > ](#ra6103--)
+* [RA6103 > SMD (0603-8) 10k Ohm (x4) Resistor Array](#ra6103--smd-0603-8-10k-ohm-x4-resistor-array)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RA6103 > 
+# RA6103 > SMD (0603-8) 10k Ohm (x4) Resistor Array
 
 - ID: RESA-06038-X-O103X4-01
 - Hex ID: RA6103
-- Name: 
-- Description: 
+- Name: SMD (0603-8) 10k Ohm (x4) Resistor Array
+- Description: SMD (0603-8) 10k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-06038-X-O103X4-01](http://oom.lt/RESA-06038-X-O103X4-01)
 - Short Link: [http://oom.lt/RA6103](http://oom.lt/RA6103)
 

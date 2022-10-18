@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS210 > ](#hs210--)
+* [HS210 > 2 mm 10 Pin Blue Header (Socket)](#hs210--2-mm-10-pin-blue-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS210 > 
+# HS210 > 2 mm 10 Pin Blue Header (Socket)
 
 - ID: HEAS-02-L-PI10-01
 - Hex ID: HS210
-- Name: 
-- Description: 
+- Name: 2 mm 10 Pin Blue Header (Socket)
+- Description: 2 mm 10 Pin Blue Header (Socket)
 - Long Link: [http://oom.lt/HEAS-02-L-PI10-01](http://oom.lt/HEAS-02-L-PI10-01)
 - Short Link: [http://oom.lt/HS210](http://oom.lt/HS210)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RA6222 > ](#ra6222--)
+* [RA6222 > SMD (0603-8) Resistor Array](#ra6222--smd-0603-8-resistor-array)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RA6222 > 
+# RA6222 > SMD (0603-8) Resistor Array
 
 - ID: RESA-06038-X-O222X4-01
 - Hex ID: RA6222
-- Name: 
-- Description: 
+- Name: SMD (0603-8) Resistor Array
+- Description: SMD (0603-8) Resistor Array
 - Long Link: [http://oom.lt/RESA-06038-X-O222X4-01](http://oom.lt/RESA-06038-X-O222X4-01)
 - Short Link: [http://oom.lt/RA6222](http://oom.lt/RA6222)
 

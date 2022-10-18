@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X10RS > ](#h2x10rs--)
+* [H2X10RS > 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)](#h2x10rs--254-mm-20-pin-2x10-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X10RS > 
+# H2X10RS > 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X10-RS
 - Hex ID: H2X10RS
-- Name: 
-- Description: 
+- Name: 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
+- Description: 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-RS](http://oom.lt/HEAD-I01-X-PI2X10-RS)
 - Short Link: [http://oom.lt/H2X10RS](http://oom.lt/H2X10RS)
 

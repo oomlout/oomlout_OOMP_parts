@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R12O751 > ](#r12o751--)
+* [R12O751 > SMD (1206) 750 Ohm Resistor](#r12o751--smd-1206-750-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R12O751 > 
+# R12O751 > SMD (1206) 750 Ohm Resistor
 
 - ID: RESE-1206-X-O751-01
 - Hex ID: R12O751
-- Name: 
-- Description: 
+- Name: SMD (1206) 750 Ohm Resistor
+- Description: SMD (1206) 750 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O751-01](http://oom.lt/RESE-1206-X-O751-01)
 - Short Link: [http://oom.lt/R12O751](http://oom.lt/R12O751)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F7500T5E'}
 - hexID: R12O751
 - oompID: RESE-1206-X-O751-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

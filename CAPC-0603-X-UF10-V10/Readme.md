@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6U1010 > ](#c6u1010--)
+* [C6U1010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v](#c6u1010--smd-0603-10-uf-capacitor-ceramic-10v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6U1010 > 
+# C6U1010 > SMD (0603) 10 uF Capacitor (Ceramic) 10v
 
 - ID: CAPC-0603-X-UF10-V10
 - Hex ID: C6U1010
-- Name: 
-- Description: 
+- Name: SMD (0603) 10 uF Capacitor (Ceramic) 10v
+- Description: SMD (0603) 10 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF10-V10](http://oom.lt/CAPC-0603-X-UF10-V10)
 - Short Link: [http://oom.lt/C6U1010](http://oom.lt/C6U1010)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A106KP8NNNC'}
 - hexID: C6U1010
 - oompID: CAPC-0603-X-UF10-V10
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

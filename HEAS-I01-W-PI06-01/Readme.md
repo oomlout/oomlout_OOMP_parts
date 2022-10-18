@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS6W > ](#hs6w--)
+* [HS6W > 2.54 mm 6 Pin White Header (Socket)](#hs6w--254-mm-6-pin-white-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS6W > 
+# HS6W > 2.54 mm 6 Pin White Header (Socket)
 
 - ID: HEAS-I01-W-PI06-01
 - Hex ID: HS6W
-- Name: 
-- Description: 
+- Name: 2.54 mm 6 Pin White Header (Socket)
+- Description: 2.54 mm 6 Pin White Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-W-PI06-01](http://oom.lt/HEAS-I01-W-PI06-01)
 - Short Link: [http://oom.lt/HS6W](http://oom.lt/HS6W)
 

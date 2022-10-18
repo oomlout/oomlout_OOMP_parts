@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O473 > ](#r6o473--)
+* [R6O473 > SMD (0603) 47k Ohm Resistor](#r6o473--smd-0603-47k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O473 > 
+# R6O473 > SMD (0603) 47k Ohm Resistor
 
 - ID: RESE-0603-X-O473-01
 - Hex ID: R6O473
-- Name: 
-- Description: 
+- Name: SMD (0603) 47k Ohm Resistor
+- Description: SMD (0603) 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O473-01](http://oom.lt/RESE-0603-X-O473-01)
 - Short Link: [http://oom.lt/R6O473](http://oom.lt/R6O473)
 
@@ -143,9 +143,9 @@ Prevalance: (41\10986) 0.3732%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14874-STAN-01', 'ID': 'R9'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14874-STAN-01', 'ID': 'R10'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14997-STAN-01', 'ID': 'R1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

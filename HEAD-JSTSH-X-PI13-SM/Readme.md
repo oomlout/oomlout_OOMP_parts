@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH13 > ](#hsh13--)
+* [HSH13 > JST XH (1 mm) 13 Pin Header (SMD)](#hsh13--jst-xh-1-mm-13-pin-header-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH13 > 
+# HSH13 > JST XH (1 mm) 13 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI13-SM
 - Hex ID: HSH13
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 13 Pin Header (SMD)
+- Description: JST XH (1 mm) 13 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI13-SM](http://oom.lt/HEAD-JSTSH-X-PI13-SM)
 - Short Link: [http://oom.lt/HSH13](http://oom.lt/HSH13)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH13
 - oompID: HEAD-JSTSH-X-PI13-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical

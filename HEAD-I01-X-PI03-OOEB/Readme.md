@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H03OOEB > ](#h03ooeb--)
+* [H03OOEB > 2.54 mm 3 Pin Header (OOEB)](#h03ooeb--254-mm-3-pin-header-ooeb)
 	* [Diagrams](#diagrams)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H03OOEB > 
+# H03OOEB > 2.54 mm 3 Pin Header (OOEB)
 
 - ID: HEAD-I01-X-PI03-OOEB
 - Hex ID: H03OOEB
-- Name: 
-- Description: 
+- Name: 2.54 mm 3 Pin Header (OOEB)
+- Description: 2.54 mm 3 Pin Header (OOEB)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI03-OOEB](http://oom.lt/HEAD-I01-X-PI03-OOEB)
 - Short Link: [http://oom.lt/H03OOEB](http://oom.lt/H03OOEB)
 

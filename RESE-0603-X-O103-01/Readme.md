@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O103 > ](#r6o103--)
+* [R6O103 > SMD (0603) 10k Ohm Resistor](#r6o103--smd-0603-10k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O103 > 
+# R6O103 > SMD (0603) 10k Ohm Resistor
 
 - ID: RESE-0603-X-O103-01
 - Hex ID: R6O103
-- Name: 
-- Description: 
+- Name: SMD (0603) 10k Ohm Resistor
+- Description: SMD (0603) 10k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O103-01](http://oom.lt/RESE-0603-X-O103-01)
 - Short Link: [http://oom.lt/R6O103](http://oom.lt/R6O103)
 
@@ -161,7 +161,7 @@ Prevalance: (710\10986) 6.4628%
 |[PROJ-ADAF-5393-STAN-01<br>Adafruit 1.47in 320x172 Round Rectangle TFT PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5393-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5393-STAN-01/)|[R1, R2, R3, R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5393-STAN-01/)|
 |[PROJ-ADAF-5396-STAN-01<br>Adafruit VL53L4CD PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5396-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5396-STAN-01/)|[R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5396-STAN-01/)|
 |[PROJ-ADAF-5425-STAN-01<br>Adafruit VL53L4CX PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|[R1, R2, R3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5425-STAN-01/)|
-|[PROJ-ARDU-LEO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
+|[PROJ-ARDU-LEO-STAN-01<br>Arduino Leonardo](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[R4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
 |[PROJ-SPAR-10025-STAN-01<br>EiBotBoard](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[6](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[R5, R6, R9, R10, R21, R22](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
 |[PROJ-SPAR-10101-STAN-01<br>Window Comparator](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|[R3, R5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10101-STAN-01/)|
 |[PROJ-SPAR-10311-STAN-01<br>PicoBoard](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10311-STAN-01/)|[7](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10311-STAN-01/)|[R3, R5, R6, R10, R11, R12, R13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10311-STAN-01/)|
@@ -1044,9 +1044,9 @@ Prevalance: (710\10986) 6.4628%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'R2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'R4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-15031-STAN-01', 'ID': 'R8'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

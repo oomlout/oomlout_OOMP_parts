@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [H2X2RS > ](#h2x2rs--)
+* [H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)](#h2x2rs--254-mm-4-pin-2x2-header-right-angle-smd)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X2RS > 
+# H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X02-RS
 - Hex ID: H2X2RS
-- Name: 
-- Description: 
+- Name: 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
+- Description: 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-RS](http://oom.lt/HEAD-I01-X-PI2X02-RS)
 - Short Link: [http://oom.lt/H2X2RS](http://oom.lt/H2X2RS)
 

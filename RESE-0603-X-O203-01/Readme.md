@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O203 > ](#r6o203--)
+* [R6O203 > SMD (0603) 20k Ohm Resistor](#r6o203--smd-0603-20k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O203 > 
+# R6O203 > SMD (0603) 20k Ohm Resistor
 
 - ID: RESE-0603-X-O203-01
 - Hex ID: R6O203
-- Name: 
-- Description: 
+- Name: SMD (0603) 20k Ohm Resistor
+- Description: SMD (0603) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O203-01](http://oom.lt/RESE-0603-X-O203-01)
 - Short Link: [http://oom.lt/R6O203](http://oom.lt/R6O203)
 
@@ -123,9 +123,9 @@ Prevalance: (34\10986) 0.3095%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13261-STAN-01', 'ID': 'R16'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13714-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13714-STAN-01', 'ID': 'R6'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

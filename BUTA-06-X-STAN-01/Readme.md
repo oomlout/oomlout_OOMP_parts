@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [B06 > ](#b06--)
+* [B06 > 6 mm Pushbutton (Tactile)](#b06--6-mm-pushbutton-tactile)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# B06 > 
+# B06 > 6 mm Pushbutton (Tactile)
 
 - ID: BUTA-06-X-STAN-01
 - Hex ID: B06
-- Name: 
-- Description: 
+- Name: 6 mm Pushbutton (Tactile)
+- Description: 6 mm Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-06-X-STAN-01](http://oom.lt/BUTA-06-X-STAN-01)
 - Short Link: [http://oom.lt/B06](http://oom.lt/B06)
 

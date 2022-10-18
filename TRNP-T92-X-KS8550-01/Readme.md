@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [TP985 > ](#tp985--)
+* [TP985 > TO-92 S8550 PNP Transistor](#tp985--to-92-s8550-pnp-transistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TP985 > 
+# TP985 > TO-92 S8550 PNP Transistor
 
 - ID: TRNP-T92-X-KS8550-01
 - Hex ID: TP985
-- Name: 
-- Description: 
+- Name: TO-92 S8550 PNP Transistor
+- Description: TO-92 S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KS8550-01](http://oom.lt/TRNP-T92-X-KS8550-01)
 - Short Link: [http://oom.lt/TP985](http://oom.lt/TP985)
 

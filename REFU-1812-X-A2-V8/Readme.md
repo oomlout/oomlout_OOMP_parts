@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [RF182 > ](#rf182--)
+* [RF182 > SMD (1812) 2 A Resetable Fuse 8v](#rf182--smd-1812-2-a-resetable-fuse-8v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# RF182 > 
+# RF182 > SMD (1812) 2 A Resetable Fuse 8v
 
 - ID: REFU-1812-X-A2-V8
 - Hex ID: RF182
-- Name: 
-- Description: 
+- Name: SMD (1812) 2 A Resetable Fuse 8v
+- Description: SMD (1812) 2 A Resetable Fuse 8v
 - Long Link: [http://oom.lt/REFU-1812-X-A2-V8](http://oom.lt/REFU-1812-X-A2-V8)
 - Short Link: [http://oom.lt/RF182](http://oom.lt/RF182)
 

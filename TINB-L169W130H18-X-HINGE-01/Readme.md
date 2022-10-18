@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [TB01 > ](#tb01--)
+* [TB01 > 169 mm x 130 mm x 18 mm Hinged Tin Box](#tb01--169-mm-x-130-mm-x-18-mm-hinged-tin-box)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# TB01 > 
+# TB01 > 169 mm x 130 mm x 18 mm Hinged Tin Box
 
 - ID: TINB-L169W130H18-X-HINGE-01
 - Hex ID: TB01
-- Name: 
-- Description: 
+- Name: 169 mm x 130 mm x 18 mm Hinged Tin Box
+- Description: 169 mm x 130 mm x 18 mm Hinged Tin Box
 - Long Link: [http://oom.lt/TINB-L169W130H18-X-HINGE-01](http://oom.lt/TINB-L169W130H18-X-HINGE-01)
 - Short Link: [http://oom.lt/TB01](http://oom.lt/TB01)
 

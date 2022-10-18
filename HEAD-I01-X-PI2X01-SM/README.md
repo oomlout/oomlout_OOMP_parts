@@ -5,16 +5,16 @@
 Contents
 ========
 
-* [H2X1SM > ](#h2x1sm--)
+* [H2X1SM > 2.54 mm Header (SMD)](#h2x1sm--254-mm-header-smd)
 	* [EDA](#eda)
 	* [Tags](#tags)
 
-# H2X1SM > 
+# H2X1SM > 2.54 mm Header (SMD)
 
 - ID: HEAD-I01-X-PI2X01-SM
 - Hex ID: H2X1SM
-- Name: 
-- Description: 
+- Name: 2.54 mm Header (SMD)
+- Description: 2.54 mm Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X01-SM](http://oom.lt/HEAD-I01-X-PI2X01-SM)
 - Short Link: [http://oom.lt/H2X1SM](http://oom.lt/H2X1SM)
 
@@ -42,7 +42,6 @@ Contents
 - oompIndex: SM
 - hexID: H2X1SM
 - oompID: HEAD-I01-X-PI2X01-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x01_P2.54mm_Vertical_SMD
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x01_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Row_Letter_First
@@ -50,3 +49,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x01_P2.54mm_Vertical_SMD

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P12 > ](#c4p12--)
+* [C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v](#c4p12--smd-0402-12-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P12 > 
+# C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF12-V50
 - Hex ID: C4P12
-- Name: 
-- Description: 
+- Name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF12-V50](http://oom.lt/CAPC-0402-X-PF12-V50)
 - Short Link: [http://oom.lt/C4P12](http://oom.lt/C4P12)
 
@@ -85,9 +85,9 @@ Prevalance: (6\10986) 0.0546%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11197-STAN-01', 'ID': 'C6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11197-STAN-01', 'ID': 'C7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11197-STAN-01', 'ID': 'C8'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

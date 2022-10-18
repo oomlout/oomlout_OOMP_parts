@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X10 > ](#h2x10--)
+* [H2X10 > 2.54 mm 20 Pin (2x10) Header](#h2x10--254-mm-20-pin-2x10-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X10 > 
+# H2X10 > 2.54 mm 20 Pin (2x10) Header
 
 - ID: HEAD-I01-X-PI2X10-01
 - Hex ID: H2X10
-- Name: 
-- Description: 
+- Name: 2.54 mm 20 Pin (2x10) Header
+- Description: 2.54 mm 20 Pin (2x10) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-01](http://oom.lt/HEAD-I01-X-PI2X10-01)
 - Short Link: [http://oom.lt/H2X10](http://oom.lt/H2X10)
 

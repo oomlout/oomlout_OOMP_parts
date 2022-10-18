@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O331 > ](#r6o331--)
+* [R6O331 > SMD (0603) 330 Ohm Resistor](#r6o331--smd-0603-330-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O331 > 
+# R6O331 > SMD (0603) 330 Ohm Resistor
 
 - ID: RESE-0603-X-O331-01
 - Hex ID: R6O331
-- Name: 
-- Description: 
+- Name: SMD (0603) 330 Ohm Resistor
+- Description: SMD (0603) 330 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O331-01](http://oom.lt/RESE-0603-X-O331-01)
 - Short Link: [http://oom.lt/R6O331](http://oom.lt/R6O331)
 
@@ -302,9 +302,9 @@ Prevalance: (163\10986) 1.4837%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14890-STAN-01', 'ID': 'R3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14890-STAN-01', 'ID': 'R5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14890-STAN-01', 'ID': 'R7'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

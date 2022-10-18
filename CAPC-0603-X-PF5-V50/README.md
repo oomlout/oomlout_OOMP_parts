@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6P5 > ](#c6p5--)
+* [C6P5 > SMD (0603) 5 pF Capacitor (Ceramic) 50v](#c6p5--smd-0603-5-pf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6P5 > 
+# C6P5 > SMD (0603) 5 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF5-V50
 - Hex ID: C6P5
-- Name: 
-- Description: 
+- Name: SMD (0603) 5 pF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 5 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF5-V50](http://oom.lt/CAPC-0603-X-PF5-V50)
 - Short Link: [http://oom.lt/C6P5](http://oom.lt/C6P5)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603CG6R0C500NT'}
 - hexID: C6P5
 - oompID: CAPC-0603-X-PF5-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

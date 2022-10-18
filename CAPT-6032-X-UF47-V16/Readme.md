@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS60U047 > ](#cts60u047--)
+* [CTS60U047 > SMD (6032) 47 uF Capacitor (Tantalum) 16v](#cts60u047--smd-6032-47-uf-capacitor-tantalum-16v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS60U047 > 
+# CTS60U047 > SMD (6032) 47 uF Capacitor (Tantalum) 16v
 
 - ID: CAPT-6032-X-UF47-V16
 - Hex ID: CTS60U047
-- Name: 
-- Description: 
+- Name: SMD (6032) 47 uF Capacitor (Tantalum) 16v
+- Description: SMD (6032) 47 uF Capacitor (Tantalum) 16v
 - Long Link: [http://oom.lt/CAPT-6032-X-UF47-V16](http://oom.lt/CAPT-6032-X-UF47-V16)
 - Short Link: [http://oom.lt/CTS60U047](http://oom.lt/CTS60U047)
 

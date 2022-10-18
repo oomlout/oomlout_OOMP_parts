@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X7SH > ](#h2x7sh--)
+* [H2X7SH > 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)](#h2x7sh--254-mm-14-pin-2x7-header-shrouded-idc)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X7SH > 
+# H2X7SH > 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)
 
 - ID: HEAD-I01-X-PI2X07-SHRO
 - Hex ID: H2X7SH
-- Name: 
-- Description: 
+- Name: 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)
+- Description: 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-SHRO](http://oom.lt/HEAD-I01-X-PI2X07-SHRO)
 - Short Link: [http://oom.lt/H2X7SH](http://oom.lt/H2X7SH)
 
@@ -60,7 +60,6 @@ Contents
 - oompIndex: SHRO
 - hexID: H2X7SH
 - oompID: HEAD-I01-X-PI2X07-SHRO
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x07_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_First
@@ -68,3 +67,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Vertical

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [MN23BSS138 > ](#mn23bss138--)
+* [MN23BSS138 > SMD (SOT-23) BSS138 N-Ch. MOSFET](#mn23bss138--smd-sot-23-bss138-n-ch-mosfet)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# MN23BSS138 > 
+# MN23BSS138 > SMD (SOT-23) BSS138 N-Ch. MOSFET
 
 - ID: MOSN-SO23-X-KBSS138-01
 - Hex ID: MN23BSS138
-- Name: 
-- Description: 
+- Name: SMD (SOT-23) BSS138 N-Ch. MOSFET
+- Description: SMD (SOT-23) BSS138 N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-KBSS138-01](http://oom.lt/MOSN-SO23-X-KBSS138-01)
 - Short Link: [http://oom.lt/MN23BSS138](http://oom.lt/MN23BSS138)
 

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [T35L2 > ](#t35l2--)
+* [T35L2 > 3.5 mm 2 Pin Blue Screw Terminal](#t35l2--35-mm-2-pin-blue-screw-terminal)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# T35L2 > 
+# T35L2 > 3.5 mm 2 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI02-01
 - Hex ID: T35L2
-- Name: 
-- Description: 
+- Name: 3.5 mm 2 Pin Blue Screw Terminal
+- Description: 3.5 mm 2 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI02-01](http://oom.lt/TERS-35D-L-PI02-01)
 - Short Link: [http://oom.lt/T35L2](http://oom.lt/T35L2)
 
@@ -251,5 +251,5 @@ Prevalance: (119\10986) 1.0832%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14129-STAN-01', 'ID': 'J10'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14449-STAN-01', 'ID': 'J4'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14809-STAN-01', 'ID': 'J1'}
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical

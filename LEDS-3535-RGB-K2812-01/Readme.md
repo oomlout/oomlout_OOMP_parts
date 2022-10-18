@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [L352812 > ](#l352812--)
+* [L352812 > SMD (3535) Smart Controller (WS2812B) RGB LED](#l352812--smd-3535-smart-controller-ws2812b-rgb-led)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# L352812 > 
+# L352812 > SMD (3535) Smart Controller (WS2812B) RGB LED
 
 - ID: LEDS-3535-RGB-K2812-01
 - Hex ID: L352812
-- Name: 
-- Description: 
+- Name: SMD (3535) Smart Controller (WS2812B) RGB LED
+- Description: SMD (3535) Smart Controller (WS2812B) RGB LED
 - Long Link: [http://oom.lt/LEDS-3535-RGB-K2812-01](http://oom.lt/LEDS-3535-RGB-K2812-01)
 - Short Link: [http://oom.lt/L352812](http://oom.lt/L352812)
 

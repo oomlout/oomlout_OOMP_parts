@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R4O100 > ](#r4o100--)
+* [R4O100 > SMD (0402) 10 Ohm Resistor](#r4o100--smd-0402-10-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R4O100 > 
+# R4O100 > SMD (0402) 10 Ohm Resistor
 
 - ID: RESE-0402-X-O100-01
 - Hex ID: R4O100
-- Name: 
-- Description: 
+- Name: SMD (0402) 10 Ohm Resistor
+- Description: SMD (0402) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O100-01](http://oom.lt/RESE-0402-X-O100-01)
 - Short Link: [http://oom.lt/R4O100](http://oom.lt/R4O100)
 
@@ -85,9 +85,9 @@ Prevalance: (4\10986) 0.0364%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10608-STAN-01', 'ID': 'R7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'R12'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11684-STAN-01', 'ID': 'R7'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12U2 > ](#c12u2--)
+* [C12U2 > SMD (1206) 2 uF Capacitor (Ceramic) 25v](#c12u2--smd-1206-2-uf-capacitor-ceramic-25v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12U2 > 
+# C12U2 > SMD (1206) 2 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-1206-X-UF2-V25
 - Hex ID: C12U2
-- Name: 
-- Description: 
+- Name: SMD (1206) 2 uF Capacitor (Ceramic) 25v
+- Description: SMD (1206) 2 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF2-V25](http://oom.lt/CAPC-1206-X-UF2-V25)
 - Short Link: [http://oom.lt/C12U2](http://oom.lt/C12U2)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A226KAHNNNE'}
 - hexID: C12U2
 - oompID: CAPC-1206-X-UF2-V25
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

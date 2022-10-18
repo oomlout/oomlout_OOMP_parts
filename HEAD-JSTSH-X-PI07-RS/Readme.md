@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR7 > ](#hshr7--)
+* [HSHR7 > JST XH (1 mm) 7 Pin Header Right Angle (SMD)](#hshr7--jst-xh-1-mm-7-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR7 > 
+# HSHR7 > JST XH (1 mm) 7 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI07-RS
 - Hex ID: HSHR7
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 7 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 7 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-RS](http://oom.lt/HEAD-JSTSH-X-PI07-RS)
 - Short Link: [http://oom.lt/HSHR7](http://oom.lt/HSHR7)
 

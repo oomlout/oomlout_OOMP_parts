@@ -138,10 +138,10 @@ Prevalance: (264\10986) 2.4031%
 |[PROJ-ADAF-5323-STAN-01<br>Adafruit Feather ESP32 S3 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5323-STAN-01/)|[3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5323-STAN-01/)|[C4, C5, C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5323-STAN-01/)|
 |[PROJ-ADAF-5395-STAN-01<br>Adafruit QT Py ESP32 Pico PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|[C19](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5395-STAN-01/)|
 |[PROJ-ADAF-5400-STAN-01<br>Adafruit ESP32 Feather V2 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5400-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5400-STAN-01/)|[C4, C5, C9, C10](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-5400-STAN-01/)|
-|[PROJ-ARDU-LEO-STAN-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[C5, C7, C11, C14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
-|[PROJ-ARDU-MEGA-2560-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[C10, C13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|
-|[PROJ-ARDU-UNO-REV3-01<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
-|[PROJ-ARDU-UNO-REV3-SM<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
+|[PROJ-ARDU-LEO-STAN-01<br>Arduino Leonardo](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|[C5, C7, C11, C14](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-LEO-STAN-01/)|
+|[PROJ-ARDU-MEGA-2560-01<br>Arduino 2560 Mega](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|[C10, C13](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-MEGA-2560-01/)|
+|[PROJ-ARDU-UNO-REV3-01<br>Arduino Rev3 Uno](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-01/)|
+|[PROJ-ARDU-UNO-REV3-SM<br>Arduino Rev3 Uno (SMD)](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[C3, C8](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
 |[PROJ-SPAR-10025-STAN-01<br>EiBotBoard](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|[C16, C20](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10025-STAN-01/)|
 |[PROJ-SPAR-10252-STAN-01<br>IMU Fusion Board](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10252-STAN-01/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10252-STAN-01/)|[C5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10252-STAN-01/)|
 |[PROJ-SPAR-10661-STAN-01<br>VoiceBox Shield](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10661-STAN-01/)|[4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10661-STAN-01/)|[C5, C6, C10, C11](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10661-STAN-01/)|
@@ -454,9 +454,9 @@ Prevalance: (264\10986) 2.4031%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13628-STAN-01', 'ID': 'C6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14478-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14478-STAN-01', 'ID': 'C6'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

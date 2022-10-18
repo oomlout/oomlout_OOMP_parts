@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [SV > ](#sv--)
+* [SV > Standard Servo](#sv--standard-servo)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# SV > 
+# SV > Standard Servo
 
 - ID: SERV-ST-X-STAN-01
 - Hex ID: SV
-- Name: 
-- Description: 
+- Name: Standard Servo
+- Description: Standard Servo
 - Long Link: [http://oom.lt/SERV-ST-X-STAN-01](http://oom.lt/SERV-ST-X-STAN-01)
 - Short Link: [http://oom.lt/SV](http://oom.lt/SV)
 

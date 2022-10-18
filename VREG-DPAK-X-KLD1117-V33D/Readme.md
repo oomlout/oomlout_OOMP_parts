@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [VR1117D33 > ](#vr1117d33--)
+* [VR1117D33 > DPAK LD1117 Voltage Regulator 3.3v](#vr1117d33--dpak-ld1117-voltage-regulator-33v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VR1117D33 > 
+# VR1117D33 > DPAK LD1117 Voltage Regulator 3.3v
 
 - ID: VREG-DPAK-X-KLD1117-V33D
 - Hex ID: VR1117D33
-- Name: 
-- Description: 
+- Name: DPAK LD1117 Voltage Regulator 3.3v
+- Description: DPAK LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V33D](http://oom.lt/VREG-DPAK-X-KLD1117-V33D)
 - Short Link: [http://oom.lt/VR1117D33](http://oom.lt/VR1117D33)
 

@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [HS210W > ](#hs210w--)
+* [HS210W > 2 mm 10 Pin White Header (Socket)](#hs210w--2-mm-10-pin-white-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HS210W > 
+# HS210W > 2 mm 10 Pin White Header (Socket)
 
 - ID: HEAS-02-W-PI10-01
 - Hex ID: HS210W
-- Name: 
-- Description: 
+- Name: 2 mm 10 Pin White Header (Socket)
+- Description: 2 mm 10 Pin White Header (Socket)
 - Long Link: [http://oom.lt/HEAS-02-W-PI10-01](http://oom.lt/HEAS-02-W-PI10-01)
 - Short Link: [http://oom.lt/HS210W](http://oom.lt/HS210W)
 

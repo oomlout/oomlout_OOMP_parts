@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH1 > ](#hxh1--)
+* [HXH1 > JST XH (2.5 mm) 1 Pin Header](#hxh1--jst-xh-25-mm-1-pin-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH1 > 
+# HXH1 > JST XH (2.5 mm) 1 Pin Header
 
 - ID: HEAD-JSTXH-X-PI01-01
 - Hex ID: HXH1
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 1 Pin Header
+- Description: JST XH (2.5 mm) 1 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI01-01](http://oom.lt/HEAD-JSTXH-X-PI01-01)
 - Short Link: [http://oom.lt/HXH1](http://oom.lt/HXH1)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH1
 - oompID: HEAD-JSTXH-X-PI01-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B1B-XH-A_1x01_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B1B-XH-A_1x01_P2.50mm_Vertical

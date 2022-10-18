@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [BT6060 > ](#bt6060--)
+* [BT6060 > SMD (6060) Pushbutton (Tactile)](#bt6060--smd-6060-pushbutton-tactile)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# BT6060 > 
+# BT6060 > SMD (6060) Pushbutton (Tactile)
 
 - ID: BUTA-6060-X-STAN-01
 - Hex ID: BT6060
-- Name: 
-- Description: 
+- Name: SMD (6060) Pushbutton (Tactile)
+- Description: SMD (6060) Pushbutton (Tactile)
 - Long Link: [http://oom.lt/BUTA-6060-X-STAN-01](http://oom.lt/BUTA-6060-X-STAN-01)
 - Short Link: [http://oom.lt/BT6060](http://oom.lt/BT6060)
 

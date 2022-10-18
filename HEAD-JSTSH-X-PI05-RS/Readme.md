@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR5 > ](#hshr5--)
+* [HSHR5 > JST XH (1 mm) 5 Pin Header Right Angle (SMD)](#hshr5--jst-xh-1-mm-5-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR5 > 
+# HSHR5 > JST XH (1 mm) 5 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI05-RS
 - Hex ID: HSHR5
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 5 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 5 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI05-RS](http://oom.lt/HEAD-JSTSH-X-PI05-RS)
 - Short Link: [http://oom.lt/HSHR5](http://oom.lt/HSHR5)
 

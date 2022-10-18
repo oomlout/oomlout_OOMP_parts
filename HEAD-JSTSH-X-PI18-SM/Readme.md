@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH18 > ](#hsh18--)
+* [HSH18 > JST XH (1 mm) 18 Pin Header (SMD)](#hsh18--jst-xh-1-mm-18-pin-header-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH18 > 
+# HSH18 > JST XH (1 mm) 18 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI18-SM
 - Hex ID: HSH18
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 18 Pin Header (SMD)
+- Description: JST XH (1 mm) 18 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI18-SM](http://oom.lt/HEAD-JSTSH-X-PI18-SM)
 - Short Link: [http://oom.lt/HSH18](http://oom.lt/HSH18)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH18
 - oompID: HEAD-JSTSH-X-PI18-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM18B-SRSS-TB_1x18-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM18B-SRSS-TB_1x18-1MP_P1.00mm_Vertical

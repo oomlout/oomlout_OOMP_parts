@@ -1,5 +1,5 @@
 import OOMP
-newPart = OOMP.getPartByID("HEAD-I01-X-PI2x02-01")
+newPart = OOMP.getPartByID("HEAD-I01-X-PI2X02-01")
 
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male')
 newPart.addTag('symbolKicad','SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x02_AB')

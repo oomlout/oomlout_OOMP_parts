@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C8N10 > ](#c8n10--)
+* [C8N10 > SMD (0805) 10 nF Capacitor (Ceramic) 50v](#c8n10--smd-0805-10-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C8N10 > 
+# C8N10 > SMD (0805) 10 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-NF10-V50
 - Hex ID: C8N10
-- Name: 
-- Description: 
+- Name: SMD (0805) 10 nF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF10-V50](http://oom.lt/CAPC-0805-X-NF10-V50)
 - Short Link: [http://oom.lt/C8N10](http://oom.lt/C8N10)
 
@@ -71,6 +71,7 @@ Contents
 - hexID: C8N10
 - oompID: CAPC-0805-X-NF10-V50
 - oompInstances: {'PROJECT': 'PROJ-ADAF-512-STAN-01', 'ID': 'C1'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -80,7 +81,6 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS04 > ](#hs04--)
+* [HS04 > 2.54 mm 4 Pin Header (Socket)](#hs04--254-mm-4-pin-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS04 > 
+# HS04 > 2.54 mm 4 Pin Header (Socket)
 
 - ID: HEAS-I01-X-PI04-01
 - Hex ID: HS04
-- Name: 
-- Description: 
+- Name: 2.54 mm 4 Pin Header (Socket)
+- Description: 2.54 mm 4 Pin Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-X-PI04-01](http://oom.lt/HEAS-I01-X-PI04-01)
 - Short Link: [http://oom.lt/HS04](http://oom.lt/HS04)
 

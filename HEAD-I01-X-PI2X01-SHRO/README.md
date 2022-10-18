@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X1SH > ](#h2x1sh--)
+* [H2X1SH > 2.54 mm Header Shrouded (IDC)](#h2x1sh--254-mm-header-shrouded-idc)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X1SH > 
+# H2X1SH > 2.54 mm Header Shrouded (IDC)
 
 - ID: HEAD-I01-X-PI2X01-SHRO
 - Hex ID: H2X1SH
-- Name: 
-- Description: 
+- Name: 2.54 mm Header Shrouded (IDC)
+- Description: 2.54 mm Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X01-SHRO](http://oom.lt/HEAD-I01-X-PI2X01-SHRO)
 - Short Link: [http://oom.lt/H2X1SH](http://oom.lt/H2X1SH)
 
@@ -60,7 +60,6 @@ Contents
 - oompIndex: SHRO
 - hexID: H2X1SH
 - oompID: HEAD-I01-X-PI2X01-SHRO
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x01_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x01_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Row_Letter_First
@@ -68,3 +67,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x01_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x01_P2.54mm_Vertical

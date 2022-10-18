@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C6U216 > ](#c6u216--)
+* [C6U216 > SMD (0603) 2 uF Capacitor (Ceramic) 16v](#c6u216--smd-0603-2-uf-capacitor-ceramic-16v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C6U216 > 
+# C6U216 > SMD (0603) 2 uF Capacitor (Ceramic) 16v
 
 - ID: CAPC-0603-X-UF2-V16
 - Hex ID: C6U216
-- Name: 
-- Description: 
+- Name: SMD (0603) 2 uF Capacitor (Ceramic) 16v
+- Description: SMD (0603) 2 uF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF2-V16](http://oom.lt/CAPC-0603-X-UF2-V16)
 - Short Link: [http://oom.lt/C6U216](http://oom.lt/C6U216)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A225KO8NNNC'}
 - hexID: C6U216
 - oompID: CAPC-0603-X-UF2-V16
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

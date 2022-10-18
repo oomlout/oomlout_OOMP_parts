@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C4N100 > ](#c4n100--)
+* [C4N100 > SMD (0402) 100 nF Capacitor (Ceramic) 50v](#c4n100--smd-0402-100-nf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C4N100 > 
+# C4N100 > SMD (0402) 100 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-NF100-V50
 - Hex ID: C4N100
-- Name: 
-- Description: 
+- Name: SMD (0402) 100 nF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 100 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V50](http://oom.lt/CAPC-0402-X-NF100-V50)
 - Short Link: [http://oom.lt/C4N100](http://oom.lt/C4N100)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KB54PNC'}
 - hexID: C4N100
 - oompID: CAPC-0402-X-NF100-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

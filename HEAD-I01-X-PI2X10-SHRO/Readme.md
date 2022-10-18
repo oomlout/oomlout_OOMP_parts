@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [H2X10SH > ](#h2x10sh--)
+* [H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)](#h2x10sh--254-mm-20-pin-2x10-header-shrouded-idc)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# H2X10SH > 
+# H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
 
 - ID: HEAD-I01-X-PI2X10-SHRO
 - Hex ID: H2X10SH
-- Name: 
-- Description: 
+- Name: 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
+- Description: 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-SHRO](http://oom.lt/HEAD-I01-X-PI2X10-SHRO)
 - Short Link: [http://oom.lt/H2X10SH](http://oom.lt/H2X10SH)
 
@@ -60,7 +60,6 @@ Contents
 - oompIndex: SHRO
 - hexID: H2X10SH
 - oompID: HEAD-I01-X-PI2X10-SHRO
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-DIN41612_02x10_AB
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First
@@ -68,3 +67,4 @@ Contents
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical

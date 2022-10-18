@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [R8O153 > ](#r8o153--)
+* [R8O153 > SMD (0805) 15k Ohm Resistor](#r8o153--smd-0805-15k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R8O153 > 
+# R8O153 > SMD (0805) 15k Ohm Resistor
 
 - ID: RESE-0805-X-O153-01
 - Hex ID: R8O153
-- Name: 
-- Description: 
+- Name: SMD (0805) 15k Ohm Resistor
+- Description: SMD (0805) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O153-01](http://oom.lt/RESE-0805-X-O153-01)
 - Short Link: [http://oom.lt/R8O153](http://oom.lt/R8O153)
 
@@ -70,6 +70,7 @@ Contents
 - hexID: R8O153
 - oompID: RESE-0805-X-O153-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-1716-STAN-01', 'ID': 'R11'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -80,4 +81,3 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

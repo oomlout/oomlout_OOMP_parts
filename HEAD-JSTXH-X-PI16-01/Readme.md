@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH16 > ](#hxh16--)
+* [HXH16 > JST XH (2.5 mm) 16 Pin Header](#hxh16--jst-xh-25-mm-16-pin-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH16 > 
+# HXH16 > JST XH (2.5 mm) 16 Pin Header
 
 - ID: HEAD-JSTXH-X-PI16-01
 - Hex ID: HXH16
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 16 Pin Header
+- Description: JST XH (2.5 mm) 16 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI16-01](http://oom.lt/HEAD-JSTXH-X-PI16-01)
 - Short Link: [http://oom.lt/HXH16](http://oom.lt/HXH16)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH16
 - oompID: HEAD-JSTXH-X-PI16-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-AM_1x16_P2.50mm_Vertical
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-A_1x16_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-AM_1x16_P2.50mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-A_1x16_P2.50mm_Vertical

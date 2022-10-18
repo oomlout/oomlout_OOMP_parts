@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CESU047 > ](#cesu047--)
+* [CESU047 > SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v](#cesu047--smd-63-mm-panasonic-d-47-uf-capacitor-electrolytic-25v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CESU047 > 
+# CESU047 > SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v
 
 - ID: CAPE-PAND-X-UF47-V25
 - Hex ID: CESU047
-- Name: 
-- Description: 
+- Name: SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v
+- Description: SMD (6.3 mm) (Panasonic D) 47 uF Capacitor (Electrolytic) 25v
 - Long Link: [http://oom.lt/CAPE-PAND-X-UF47-V25](http://oom.lt/CAPE-PAND-X-UF47-V25)
 - Short Link: [http://oom.lt/CESU047](http://oom.lt/CESU047)
 

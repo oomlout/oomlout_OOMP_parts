@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P47D > ](#c6p47d--)
+* [C6P47D > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v](#c6p47d--smd-0603-47-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P47D > 
+# C6P47D > SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF47D-V50
 - Hex ID: C6P47D
-- Name: 
-- Description: 
+- Name: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF47D-V50](http://oom.lt/CAPC-0603-X-PF47D-V50)
 - Short Link: [http://oom.lt/C6P47D](http://oom.lt/C6P47D)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0603CG4R7C500NT'}
 - hexID: C6P47D
 - oompID: CAPC-0603-X-PF47D-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

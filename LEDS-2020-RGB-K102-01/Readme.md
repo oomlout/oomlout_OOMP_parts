@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [L20102 > ](#l20102--)
+* [L20102 > SMD (2020) Smart Controller (APA102) RGB LED](#l20102--smd-2020-smart-controller-apa102-rgb-led)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# L20102 > 
+# L20102 > SMD (2020) Smart Controller (APA102) RGB LED
 
 - ID: LEDS-2020-RGB-K102-01
 - Hex ID: L20102
-- Name: 
-- Description: 
+- Name: SMD (2020) Smart Controller (APA102) RGB LED
+- Description: SMD (2020) Smart Controller (APA102) RGB LED
 - Long Link: [http://oom.lt/LEDS-2020-RGB-K102-01](http://oom.lt/LEDS-2020-RGB-K102-01)
 - Short Link: [http://oom.lt/L20102](http://oom.lt/L20102)
 

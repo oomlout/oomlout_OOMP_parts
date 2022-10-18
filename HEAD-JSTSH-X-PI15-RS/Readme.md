@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR15 > ](#hshr15--)
+* [HSHR15 > JST XH (1 mm) 15 Pin Header Right Angle (SMD)](#hshr15--jst-xh-1-mm-15-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR15 > 
+# HSHR15 > JST XH (1 mm) 15 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI15-RS
 - Hex ID: HSHR15
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 15 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 15 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI15-RS](http://oom.lt/HEAD-JSTSH-X-PI15-RS)
 - Short Link: [http://oom.lt/HSHR15](http://oom.lt/HSHR15)
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O913 > ](#r6o913--)
+* [R6O913 > SMD (0603) 91k Ohm Resistor](#r6o913--smd-0603-91k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O913 > 
+# R6O913 > SMD (0603) 91k Ohm Resistor
 
 - ID: RESE-0603-X-O913-01
 - Hex ID: R6O913
-- Name: 
-- Description: 
+- Name: SMD (0603) 91k Ohm Resistor
+- Description: SMD (0603) 91k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O913-01](http://oom.lt/RESE-0603-X-O913-01)
 - Short Link: [http://oom.lt/R6O913](http://oom.lt/R6O913)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF9102T5E'}
 - hexID: R6O913
 - oompID: RESE-0603-X-O913-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

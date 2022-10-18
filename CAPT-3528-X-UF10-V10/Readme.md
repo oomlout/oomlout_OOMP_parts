@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS2U010B > ](#cts2u010b--)
+* [CTS2U010B > SMD (3528) 10 uF Capacitor (Tantalum) 10v](#cts2u010b--smd-3528-10-uf-capacitor-tantalum-10v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS2U010B > 
+# CTS2U010B > SMD (3528) 10 uF Capacitor (Tantalum) 10v
 
 - ID: CAPT-3528-X-UF10-V10
 - Hex ID: CTS2U010B
-- Name: 
-- Description: 
+- Name: SMD (3528) 10 uF Capacitor (Tantalum) 10v
+- Description: SMD (3528) 10 uF Capacitor (Tantalum) 10v
 - Long Link: [http://oom.lt/CAPT-3528-X-UF10-V10](http://oom.lt/CAPT-3528-X-UF10-V10)
 - Short Link: [http://oom.lt/CTS2U010B](http://oom.lt/CTS2U010B)
 

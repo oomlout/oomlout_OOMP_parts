@@ -71,8 +71,8 @@ Contents
 - oompIndex: 01
 - oompVersion: 40
 - ooDesignator: J1
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x02
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x02_P3.50mm_Vertical
 
 
 

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H14 > ](#h14--)
+* [H14 > 2.54 mm 14 Pin Header](#h14--254-mm-14-pin-header)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H14 > 
+# H14 > 2.54 mm 14 Pin Header
 
 - ID: HEAD-I01-X-PI14-01
 - Hex ID: H14
-- Name: 
-- Description: 
+- Name: 2.54 mm 14 Pin Header
+- Description: 2.54 mm 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-01](http://oom.lt/HEAD-I01-X-PI14-01)
 - Short Link: [http://oom.lt/H14](http://oom.lt/H14)
 
@@ -75,7 +75,7 @@ Prevalance: (20\10986) 0.182%
 |[PROJ-ADAF-4363-STAN-01<br>Adafruit Airlift Bitsy Add On PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4363-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4363-STAN-01/)|[JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4363-STAN-01/)|
 |[PROJ-ADAF-4481-STAN-01<br>Adafruit ItsyBitsy nRF52840 Express PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4481-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4481-STAN-01/)|[JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4481-STAN-01/)|
 |[PROJ-ADAF-4888-STAN-01<br>Adafruit ItsyBitsy RP2040 PCB](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4888-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4888-STAN-01/)|[JP2, JP4](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ADAF-4888-STAN-01/)|
-|[PROJ-ARDU-UNO-REV3-SM<br>](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
+|[PROJ-ARDU-UNO-REV3-SM<br>Arduino Rev3 Uno (SMD)](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|[J1](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-ARDU-UNO-REV3-SM/)|
 |[PROJ-SPAR-10116-STAN-01<br>Arduino Fio](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|[JP1, JP5](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-10116-STAN-01/)|
 |[PROJ-SPAR-11520-STAN-01<br>Fio v3](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|[2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|[JP1, JP2](https://github.com/oomlout/oomlout_OOMP_projects/tree/main/PROJ-SPAR-11520-STAN-01/)|
 
@@ -136,6 +136,8 @@ Prevalance: (20\10986) 0.182%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-10116-STAN-01', 'ID': 'JP5'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'JP1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11520-STAN-01', 'ID': 'JP2'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X14
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X14_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X14_LOCK_LONGPADS
@@ -144,8 +146,6 @@ Prevalance: (20\10986) 0.182%
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X14-CB
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-headers-114
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
 
 
 

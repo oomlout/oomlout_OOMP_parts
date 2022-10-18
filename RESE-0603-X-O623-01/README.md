@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O623 > ](#r6o623--)
+* [R6O623 > SMD (0603) 62k Ohm Resistor](#r6o623--smd-0603-62k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O623 > 
+# R6O623 > SMD (0603) 62k Ohm Resistor
 
 - ID: RESE-0603-X-O623-01
 - Hex ID: R6O623
-- Name: 
-- Description: 
+- Name: SMD (0603) 62k Ohm Resistor
+- Description: SMD (0603) 62k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O623-01](http://oom.lt/RESE-0603-X-O623-01)
 - Short Link: [http://oom.lt/R6O623](http://oom.lt/R6O623)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6202T5E'}
 - hexID: R6O623
 - oompID: RESE-0603-X-O623-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C6P12 > ](#c6p12--)
+* [C6P12 > SMD (0603) 12 pF Capacitor (Ceramic) 50v](#c6p12--smd-0603-12-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C6P12 > 
+# C6P12 > SMD (0603) 12 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-PF12-V50
 - Hex ID: C6P12
-- Name: 
-- Description: 
+- Name: SMD (0603) 12 pF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF12-V50](http://oom.lt/CAPC-0603-X-PF12-V50)
 - Short Link: [http://oom.lt/C6P12](http://oom.lt/C6P12)
 
@@ -83,9 +83,9 @@ Prevalance: (4\10986) 0.0364%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-5100-STAN-01', 'ID': 'C20'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'C7'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13810-STAN-01', 'ID': 'C9'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

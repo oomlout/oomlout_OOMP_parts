@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R4O473 > ](#r4o473--)
+* [R4O473 > SMD (0402) 47k Ohm Resistor](#r4o473--smd-0402-47k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R4O473 > 
+# R4O473 > SMD (0402) 47k Ohm Resistor
 
 - ID: RESE-0402-X-O473-01
 - Hex ID: R4O473
-- Name: 
-- Description: 
+- Name: SMD (0402) 47k Ohm Resistor
+- Description: SMD (0402) 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O473-01](http://oom.lt/RESE-0402-X-O473-01)
 - Short Link: [http://oom.lt/R4O473](http://oom.lt/R4O473)
 
@@ -80,9 +80,9 @@ Prevalance: (2\10986) 0.0182%
 - oompID: RESE-0402-X-O473-01
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R11'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11129-STAN-01', 'ID': 'R12'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH19 > ](#hxh19--)
+* [HXH19 > JST XH (2.5 mm) 19 Pin Header](#hxh19--jst-xh-25-mm-19-pin-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH19 > 
+# HXH19 > JST XH (2.5 mm) 19 Pin Header
 
 - ID: HEAD-JSTXH-X-PI19-01
 - Hex ID: HXH19
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 19 Pin Header
+- Description: JST XH (2.5 mm) 19 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI19-01](http://oom.lt/HEAD-JSTXH-X-PI19-01)
 - Short Link: [http://oom.lt/HXH19](http://oom.lt/HXH19)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH19
 - oompID: HEAD-JSTXH-X-PI19-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B19B-XH-AM_1x19_P2.50mm_Vertical
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B19B-XH-A_1x19_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B19B-XH-AM_1x19_P2.50mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B19B-XH-A_1x19_P2.50mm_Vertical

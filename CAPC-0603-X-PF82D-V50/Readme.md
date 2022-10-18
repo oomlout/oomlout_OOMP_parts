@@ -79,9 +79,9 @@ Contents
 - oompSchem: template;CAPC-XXXX-X-XXXX-XX-schem
 - oompSimp: template;XXXX-0603-X-XXXX-XX-simp
 - ooDesignator: C1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

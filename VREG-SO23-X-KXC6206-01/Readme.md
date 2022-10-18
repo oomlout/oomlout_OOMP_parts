@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [VS236206 > ](#vs236206--)
+* [VS236206 > SMD (SOT-23) XC6206 Voltage Regulator](#vs236206--smd-sot-23-xc6206-voltage-regulator)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# VS236206 > 
+# VS236206 > SMD (SOT-23) XC6206 Voltage Regulator
 
 - ID: VREG-SO23-X-KXC6206-01
 - Hex ID: VS236206
-- Name: 
-- Description: 
+- Name: SMD (SOT-23) XC6206 Voltage Regulator
+- Description: SMD (SOT-23) XC6206 Voltage Regulator
 - Long Link: [http://oom.lt/VREG-SO23-X-KXC6206-01](http://oom.lt/VREG-SO23-X-KXC6206-01)
 - Short Link: [http://oom.lt/VS236206](http://oom.lt/VS236206)
 

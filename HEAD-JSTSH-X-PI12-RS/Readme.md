@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSHR12 > ](#hshr12--)
+* [HSHR12 > JST XH (1 mm) 12 Pin Header Right Angle (SMD)](#hshr12--jst-xh-1-mm-12-pin-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSHR12 > 
+# HSHR12 > JST XH (1 mm) 12 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI12-RS
 - Hex ID: HSHR12
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 12 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 12 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI12-RS](http://oom.lt/HEAD-JSTSH-X-PI12-RS)
 - Short Link: [http://oom.lt/HSHR12](http://oom.lt/HSHR12)
 

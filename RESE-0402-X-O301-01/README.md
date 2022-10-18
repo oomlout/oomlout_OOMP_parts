@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R4O301 > ](#r4o301--)
+* [R4O301 > SMD (0402) 300 Ohm Resistor](#r4o301--smd-0402-300-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R4O301 > 
+# R4O301 > SMD (0402) 300 Ohm Resistor
 
 - ID: RESE-0402-X-O301-01
 - Hex ID: R4O301
-- Name: 
-- Description: 
+- Name: SMD (0402) 300 Ohm Resistor
+- Description: SMD (0402) 300 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O301-01](http://oom.lt/RESE-0402-X-O301-01)
 - Short Link: [http://oom.lt/R4O301](http://oom.lt/R4O301)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF3000TCE'}
 - hexID: R4O301
 - oompID: RESE-0402-X-O301-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

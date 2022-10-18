@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CTS1U47DF > ](#cts1u47df--)
+* [CTS1U47DF > SMD (3216) 4.7 uF Capacitor (Tantalum) 6.3v](#cts1u47df--smd-3216-47-uf-capacitor-tantalum-63v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CTS1U47DF > 
+# CTS1U47DF > SMD (3216) 4.7 uF Capacitor (Tantalum) 6.3v
 
 - ID: CAPT-3216-X-UF47D-V63D
 - Hex ID: CTS1U47DF
-- Name: 
-- Description: 
+- Name: SMD (3216) 4.7 uF Capacitor (Tantalum) 6.3v
+- Description: SMD (3216) 4.7 uF Capacitor (Tantalum) 6.3v
 - Long Link: [http://oom.lt/CAPT-3216-X-UF47D-V63D](http://oom.lt/CAPT-3216-X-UF47D-V63D)
 - Short Link: [http://oom.lt/CTS1U47DF](http://oom.lt/CTS1U47DF)
 

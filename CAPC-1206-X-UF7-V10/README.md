@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C12U710 > ](#c12u710--)
+* [C12U710 > SMD (1206) 7 uF Capacitor (Ceramic) 10v](#c12u710--smd-1206-7-uf-capacitor-ceramic-10v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C12U710 > 
+# C12U710 > SMD (1206) 7 uF Capacitor (Ceramic) 10v
 
 - ID: CAPC-1206-X-UF7-V10
 - Hex ID: C12U710
-- Name: 
-- Description: 
+- Name: SMD (1206) 7 uF Capacitor (Ceramic) 10v
+- Description: SMD (1206) 7 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF7-V10](http://oom.lt/CAPC-1206-X-UF7-V10)
 - Short Link: [http://oom.lt/C12U710](http://oom.lt/C12U710)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A476MPHNNNE'}
 - hexID: C12U710
 - oompID: CAPC-1206-X-UF7-V10
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

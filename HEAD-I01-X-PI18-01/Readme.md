@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [H18 > ](#h18--)
+* [H18 > 2.54 mm 18 Pin Header](#h18--254-mm-18-pin-header)
 	* [Diagrams](#diagrams)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
@@ -14,12 +14,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# H18 > 
+# H18 > 2.54 mm 18 Pin Header
 
 - ID: HEAD-I01-X-PI18-01
 - Hex ID: H18
-- Name: 
-- Description: 
+- Name: 2.54 mm 18 Pin Header
+- Description: 2.54 mm 18 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI18-01](http://oom.lt/HEAD-I01-X-PI18-01)
 - Short Link: [http://oom.lt/H18](http://oom.lt/H18)
 
@@ -108,12 +108,12 @@ Prevalance: (2\10986) 0.0182%
 - oompID: HEAD-I01-X-PI18-01
 - oompInstances: {'PROJECT': 'PROJ-ADAF-782-STAN-01', 'ID': 'JP1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-13632-STAN-01', 'ID': 'JP4'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X18_NO_SILK
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X18
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18
 
 
 

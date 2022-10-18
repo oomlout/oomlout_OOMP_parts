@@ -5,19 +5,19 @@
 Contents
 ========
 
-* [R4O204 > ](#r4o204--)
+* [R4O204 > SMD (0402) 200k Ohm Resistor](#r4o204--smd-0402-200k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
-# R4O204 > 
+# R4O204 > SMD (0402) 200k Ohm Resistor
 
 - ID: RESE-0402-X-O204-01
 - Hex ID: R4O204
-- Name: 
-- Description: 
+- Name: SMD (0402) 200k Ohm Resistor
+- Description: SMD (0402) 200k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O204-01](http://oom.lt/RESE-0402-X-O204-01)
 - Short Link: [http://oom.lt/R4O204](http://oom.lt/R4O204)
 
@@ -63,9 +63,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF2003TCE'}
 - hexID: R4O204
 - oompID: RESE-0402-X-O204-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

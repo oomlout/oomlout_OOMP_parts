@@ -93,6 +93,8 @@ Contents
 - oompSimp: variable;pins;3
 - oompSimp: template;XXXX-I01-X-XX-01-simp
 - ooDesignator: J1
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X03
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X03_LOCK
 - footprintEagle: FOOTPRINT-eagle-SparkFun-Eagle-Libraries-Sparkfun-Connectors-1X03_LOCK_LONGPADS
@@ -101,5 +103,3 @@ Contents
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X03
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-1X03-CLEANBIG
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x03_P2.54mm_Vertical
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03

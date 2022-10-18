@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R6O471 > ](#r6o471--)
+* [R6O471 > SMD (0603) 470 Ohm Resistor](#r6o471--smd-0603-470-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R6O471 > 
+# R6O471 > SMD (0603) 470 Ohm Resistor
 
 - ID: RESE-0603-X-O471-01
 - Hex ID: R6O471
-- Name: 
-- Description: 
+- Name: SMD (0603) 470 Ohm Resistor
+- Description: SMD (0603) 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O471-01](http://oom.lt/RESE-0603-X-O471-01)
 - Short Link: [http://oom.lt/R6O471](http://oom.lt/R6O471)
 
@@ -119,9 +119,9 @@ Prevalance: (26\10986) 0.2367%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14430-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R6'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14554-STAN-01', 'ID': 'R7'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 

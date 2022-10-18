@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4P1 > ](#c4p1--)
+* [C4P1 > SMD (0402) 1 pF Capacitor (Ceramic) 50v](#c4p1--smd-0402-1-pf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4P1 > 
+# C4P1 > SMD (0402) 1 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF1-V50
 - Hex ID: C4P1
-- Name: 
-- Description: 
+- Name: SMD (0402) 1 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 1 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF1-V50](http://oom.lt/CAPC-0402-X-PF1-V50)
 - Short Link: [http://oom.lt/C4P1](http://oom.lt/C4P1)
 
@@ -68,9 +68,9 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG1R0C500NT'}
 - hexID: C4P1
 - oompID: CAPC-0402-X-PF1-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

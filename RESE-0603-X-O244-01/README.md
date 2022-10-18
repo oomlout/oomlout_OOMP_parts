@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [R6O244 > ](#r6o244--)
+* [R6O244 > SMD (0603) 240k Ohm Resistor](#r6o244--smd-0603-240k-ohm-resistor)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# R6O244 > 
+# R6O244 > SMD (0603) 240k Ohm Resistor
 
 - ID: RESE-0603-X-O244-01
 - Hex ID: R6O244
-- Name: 
-- Description: 
+- Name: SMD (0603) 240k Ohm Resistor
+- Description: SMD (0603) 240k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O244-01](http://oom.lt/RESE-0603-X-O244-01)
 - Short Link: [http://oom.lt/R6O244](http://oom.lt/R6O244)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF2403T5E'}
 - hexID: R6O244
 - oompID: RESE-0603-X-O244-01
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R

@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [C4P20 > ](#c4p20--)
+* [C4P20 > SMD (0402) 20 pF Capacitor (Ceramic) 50v](#c4p20--smd-0402-20-pf-capacitor-ceramic-50v)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# C4P20 > 
+# C4P20 > SMD (0402) 20 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF20-V50
 - Hex ID: C4P20
-- Name: 
-- Description: 
+- Name: SMD (0402) 20 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 20 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF20-V50](http://oom.lt/CAPC-0402-X-PF20-V50)
 - Short Link: [http://oom.lt/C4P20](http://oom.lt/C4P20)
 
@@ -62,6 +62,6 @@ Contents
 - manufacturerPartNumber: {'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG200J500NT'}
 - hexID: C4P20
 - oompID: CAPC-0402-X-PF20-V50
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C

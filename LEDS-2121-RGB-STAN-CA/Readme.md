@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [LRGB2121CA > ](#lrgb2121ca--)
+* [LRGB2121CA > SMD (2121) RGB LED Common Anode](#lrgb2121ca--smd-2121-rgb-led-common-anode)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# LRGB2121CA > 
+# LRGB2121CA > SMD (2121) RGB LED Common Anode
 
 - ID: LEDS-2121-RGB-STAN-CA
 - Hex ID: LRGB2121CA
-- Name: 
-- Description: 
+- Name: SMD (2121) RGB LED Common Anode
+- Description: SMD (2121) RGB LED Common Anode
 - Long Link: [http://oom.lt/LEDS-2121-RGB-STAN-CA](http://oom.lt/LEDS-2121-RGB-STAN-CA)
 - Short Link: [http://oom.lt/LRGB2121CA](http://oom.lt/LRGB2121CA)
 

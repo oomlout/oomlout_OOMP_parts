@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [HS8Y > ](#hs8y--)
+* [HS8Y > 2.54 mm 8 Pin Yellow Header (Socket)](#hs8y--254-mm-8-pin-yellow-header-socket)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# HS8Y > 
+# HS8Y > 2.54 mm 8 Pin Yellow Header (Socket)
 
 - ID: HEAS-I01-Y-PI08-01
 - Hex ID: HS8Y
-- Name: 
-- Description: 
+- Name: 2.54 mm 8 Pin Yellow Header (Socket)
+- Description: 2.54 mm 8 Pin Yellow Header (Socket)
 - Long Link: [http://oom.lt/HEAS-I01-Y-PI08-01](http://oom.lt/HEAS-I01-Y-PI08-01)
 - Short Link: [http://oom.lt/HS8Y](http://oom.lt/HS8Y)
 

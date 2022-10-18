@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [MVF10 > ](#mvf10--)
+* [MVF10 > 10 mm Flat Motor (Vibrating)](#mvf10--10-mm-flat-motor-vibrating)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# MVF10 > 
+# MVF10 > 10 mm Flat Motor (Vibrating)
 
 - ID: MOTV-10-X-FLAT-01
 - Hex ID: MVF10
-- Name: 
-- Description: 
+- Name: 10 mm Flat Motor (Vibrating)
+- Description: 10 mm Flat Motor (Vibrating)
 - Long Link: [http://oom.lt/MOTV-10-X-FLAT-01](http://oom.lt/MOTV-10-X-FLAT-01)
 - Short Link: [http://oom.lt/MVF10](http://oom.lt/MVF10)
 

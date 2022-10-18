@@ -147,6 +147,7 @@ Prevalance: (40\10986) 0.3641%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14411-STAN-01', 'ID': 'C2'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14411-STAN-01', 'ID': 'C3'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-14765-STAN-01', 'ID': 'C3'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -156,7 +157,6 @@ Prevalance: (40\10986) 0.3641%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

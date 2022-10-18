@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HRS2X11 > ](#hrs2x11--)
+* [HRS2X11 > 2.54 mm Header Right Angle (SMD)](#hrs2x11--254-mm-header-right-angle-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HRS2X11 > 
+# HRS2X11 > 2.54 mm Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-2X11PI-RS
 - Hex ID: HRS2X11
-- Name: 
-- Description: 
+- Name: 2.54 mm Header Right Angle (SMD)
+- Description: 2.54 mm Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-2X11PI-RS](http://oom.lt/HEAD-I01-X-2X11PI-RS)
 - Short Link: [http://oom.lt/HRS2X11](http://oom.lt/HRS2X11)
 

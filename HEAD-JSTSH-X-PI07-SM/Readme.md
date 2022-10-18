@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HSH7 > ](#hsh7--)
+* [HSH7 > JST XH (1 mm) 7 Pin Header (SMD)](#hsh7--jst-xh-1-mm-7-pin-header-smd)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HSH7 > 
+# HSH7 > JST XH (1 mm) 7 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI07-SM
 - Hex ID: HSH7
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 7 Pin Header (SMD)
+- Description: JST XH (1 mm) 7 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-SM](http://oom.lt/HEAD-JSTSH-X-PI07-SM)
 - Short Link: [http://oom.lt/HSH7](http://oom.lt/HSH7)
 
@@ -59,6 +59,6 @@ Contents
 - oompIndex: SM
 - hexID: HSH7
 - oompID: HEAD-JSTSH-X-PI07-SM
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical

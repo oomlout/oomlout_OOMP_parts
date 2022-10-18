@@ -5,18 +5,18 @@
 Contents
 ========
 
-* [HXH14 > ](#hxh14--)
+* [HXH14 > JST XH (2.5 mm) 14 Pin Header](#hxh14--jst-xh-25-mm-14-pin-header)
 	* [Labels](#labels)
 	* [EDA](#eda)
 	* [Images](#images)
 	* [Tags](#tags)
 
-# HXH14 > 
+# HXH14 > JST XH (2.5 mm) 14 Pin Header
 
 - ID: HEAD-JSTXH-X-PI14-01
 - Hex ID: HXH14
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 14 Pin Header
+- Description: JST XH (2.5 mm) 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI14-01](http://oom.lt/HEAD-JSTXH-X-PI14-01)
 - Short Link: [http://oom.lt/HXH14](http://oom.lt/HXH14)
 
@@ -59,7 +59,7 @@ Contents
 - oompIndex: 01
 - hexID: HXH14
 - oompID: HEAD-JSTXH-X-PI14-01
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-AM_1x14_P2.50mm_Vertical
-- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male
 - symbolKicad: SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-AM_1x14_P2.50mm_Vertical
+- footprintKicad: FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical

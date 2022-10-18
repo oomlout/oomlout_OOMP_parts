@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [CESU220 > ](#cesu220--)
+* [CESU220 > SMD (6.3 mm) (Panasonic D) 220 uF Capacitor (Electrolytic) 16v](#cesu220--smd-63-mm-panasonic-d-220-uf-capacitor-electrolytic-16v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# CESU220 > 
+# CESU220 > SMD (6.3 mm) (Panasonic D) 220 uF Capacitor (Electrolytic) 16v
 
 - ID: CAPE-PAND-X-UF220-V16
 - Hex ID: CESU220
-- Name: 
-- Description: 
+- Name: SMD (6.3 mm) (Panasonic D) 220 uF Capacitor (Electrolytic) 16v
+- Description: SMD (6.3 mm) (Panasonic D) 220 uF Capacitor (Electrolytic) 16v
 - Long Link: [http://oom.lt/CAPE-PAND-X-UF220-V16](http://oom.lt/CAPE-PAND-X-UF220-V16)
 - Short Link: [http://oom.lt/CESU220](http://oom.lt/CESU220)
 

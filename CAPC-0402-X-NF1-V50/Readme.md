@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [C4N1 > ](#c4n1--)
+* [C4N1 > SMD (0402) 1 nF Capacitor (Ceramic) 50v](#c4n1--smd-0402-1-nf-capacitor-ceramic-50v)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# C4N1 > 
+# C4N1 > SMD (0402) 1 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-NF1-V50
 - Hex ID: C4N1
-- Name: 
-- Description: 
+- Name: SMD (0402) 1 nF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 1 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF1-V50](http://oom.lt/CAPC-0402-X-NF1-V50)
 - Short Link: [http://oom.lt/C4N1](http://oom.lt/C4N1)
 
@@ -82,9 +82,9 @@ Prevalance: (4\10986) 0.0364%
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'C31'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'C32'}
 - oompInstances: {'PROJECT': 'PROJ-SPAR-11013-STAN-01', 'ID': 'C33'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-C
 
 
 

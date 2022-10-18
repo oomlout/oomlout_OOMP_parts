@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R8O202 > ](#r8o202--)
+* [R8O202 > SMD (0805) 2k Ohm Resistor](#r8o202--smd-0805-2k-ohm-resistor)
 	* [Datasheets](#datasheets)
 	* [Labels](#labels)
 	* [EDA](#eda)
@@ -13,12 +13,12 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# R8O202 > 
+# R8O202 > SMD (0805) 2k Ohm Resistor
 
 - ID: RESE-0805-X-O202-01
 - Hex ID: R8O202
-- Name: 
-- Description: 
+- Name: SMD (0805) 2k Ohm Resistor
+- Description: SMD (0805) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O202-01](http://oom.lt/RESE-0805-X-O202-01)
 - Short Link: [http://oom.lt/R8O202](http://oom.lt/R8O202)
 
@@ -104,6 +104,7 @@ Prevalance: (15\10986) 0.1365%
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R1'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-2746-STAN-01', 'ID': 'R10'}
 - oompInstances: {'PROJECT': 'PROJ-ADAF-390-STAN-01', 'ID': 'R11'}
+- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R
 - footprintEagle: FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW
@@ -114,7 +115,6 @@ Prevalance: (15\10986) 0.1365%
 - footprintEagle: FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric
 - footprintKicad: FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder
-- symbolKicad: SYMBOL-kicad-kicad-symbols-Device-R
 
 
 
